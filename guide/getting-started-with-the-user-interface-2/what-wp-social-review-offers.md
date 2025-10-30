@@ -23,6 +23,6 @@ We offer three platforms right now.
 
 #### **Articles**
 
-- [Social Reviews ](https://wpsocialninja.com/?post_type=docs&amp;p=151)
+- [Social Reviews](../social-reviews/social-media-reviews-wp-social-ninja)
 - [Social Feeds](../social-feeds/social-feeds-social-ninja)
-- [Social Chat](https://wpsocialninja.com/?post_type=docs&amp;p=405)
+- [Social Chat](../social-chat/social-chat-wp-social-ninja)

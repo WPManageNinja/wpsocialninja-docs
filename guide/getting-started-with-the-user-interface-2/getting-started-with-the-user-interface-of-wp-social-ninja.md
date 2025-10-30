@@ -17,9 +17,9 @@ _Getting started with the User Interface_
 
 We will go through the methods one by one.
 
-#### **Articles **
+#### **Articles**
 
-- [Platforms](https://wpsocialninja.com/?post_type=docs&amp;p=55)
-- [Reviews](https://wpsocialninja.com/?post_type=docs&amp;p=121)
-- [Templates](https://wpsocialninja.com/?post_type=docs&amp;p=109)
-- [Settings](https://wpsocialninja.com/?post_type=docs&amp;p=129&amp;preview=true)
+- [Platforms](./all-platforms-of-wp-social-ninja)
+- [Reviews](./all-reviews)
+- [Templates](./all-templates)
+- [Settings](./settings-of-wp-social-ninja)

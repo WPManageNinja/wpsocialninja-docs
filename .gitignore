@@ -1,0 +1,7 @@
+/.vitepress/cache
+.DS_Store
+*.pyc
+*.py
+*.txt
+*.log
+/node_modules

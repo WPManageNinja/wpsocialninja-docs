@@ -1,0 +1,219 @@
+---
+title: "Airbnb Reviews | Social Reviews | WP Social Ninja"
+description: ""
+---
+
+# Airbnb Reviews | Social Reviews | WP Social Ninja
+
+This guide provides step-by-step instructions for connecting your Airbnb reviews with WP Social Ninja. Because Airbnb does not offer an official public API for reviews, this process requires a manual workaround to find the necessary connection keys directly from your Airbnb listing page.
+
+## **Connect Your Airbnb for Reviews**
+
+This guide will show you how to connect your Airbnb reviews to WP Social Ninja.
+
+#### **Why is this Manual Process Needed?**
+
+Unlike other platforms, Airbnb does not offer a public API that allows plugins like WP Social Ninja to easily fetch reviews. The standard connection method may not work reliably.
+
+To solve this, we will use a manual workaround. This process involves finding a unique **API Key** and **Secret Key **from your Airbnb listing page. By adding these keys to your WordPress site, you give WP Social Ninja the credentials it needs to securely and successfully fetch your reviews.
+
+**Disclaimer**: This method uses Airbnb's internal development tools. Because it is not an official public solution, Airbnb may change these keys in the future, which could cause the connection to break. If this happens, you will need to repeat this process to get the new keys.
+
+### **Step 1: Find Your API Key and **Secret Key
+
+In this step, we will use your browser's developer tools to find the required keys from your Airbnb listing page.
+
+- **Open Your Airbnb Listing**
+
+<li>Using a desktop browser (like Chrome or Firefox), navigate to the Airbnb listing page (**Room** or **Experience**) that you want to get reviews from.
+
+</li>
+
+- **Open Developer Tools**
+
+<li>Right-click anywhere on the page and select **Inspect** from the menu. This will open the Developer Tools panel.
+
+- In the Developer Tools panel, click on the **Network** tab.
+
+</li>
+
+- &nbsp;The term you search for in the Network tab's **Filter** box depends on the type of listing and information you need. Use the appropriate term from the list below:
+
+- **For Room Reviews**: Search for StaysPdpReviewsQuery.
+
+- **For a Room's Business Info**: Search for StaysPdpSections.
+
+- **For Experience/Service Reviews**: Search for ReviewsModalContentQuery.
+
+After typing the correct term, refresh the page and click on the request that appears in the list to open its details.
+
+::: tip
+
+You must find the secret keys from two different network requests: `StaysPdpReviewsQuery` and `StaysPdpSections` . Both are mandatory for the connection to work correctly.
+
+:::
+
+### **For Room Reviews** (Required)
+
+- In the **Filter** box at the top of the Network tab, type StaysPdpReviewsQuery and press Enter.
+
+- Refresh your Airbnb listing page. You should see a file with the name StaysPdpReviewsQuery appear in the network requests list.
+
+- Click on the StaysPdpReviewsQuery file name to open its details.
+
+**Copy the Required Keys**
+
+You will need to find and copy three pieces of information from this file:
+
+- **The API Key:**
+
+<li>In the details panel, click on the **Headers** tab.
+
+- Scroll down until you find the x-airbnb-api-key.
+
+- Copy the long string of characters next to it. This is your API Key.
+
+</li>
+
+![airbnb api 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/Airbnb-api-1-scaled-5.webp)
+
+- **The Secret Key:**
+
+<li>Now, click on the **Payload** tab (it might also be called "Request").
+
+- Navigate through extensions → persistedQuery.
+
+- You will see a sha256Hash. Copy the long string of characters next to it. This is your Secret Key.
+
+</li>
+
+![airbnb api 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/Airbnb-api-2-scaled-5.webp)
+
+### Find the Keys for a Room's Business Info (Required)
+
+- In the **Filter** box at the top of the Network tab, type StaysPdpSections and press Enter.
+
+- Refresh your Airbnb listing page. You should see a file with the name StaysPdpSections appear in the network requests list.
+
+- Click on the StaysPdpSections file name to open its details.
+
+**Copy the Required Keys**
+
+You will need to find and copy three pieces of information from this file:
+
+- **The API Key:**
+
+<li>In the details panel, click on the **Headers** tab.
+
+- Scroll down until you find the x-airbnb-api-key.
+
+- Copy the long string of characters next to it. This is your API Key.
+
+</li>
+
+![api 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/api-1-scaled-5.webp)
+
+- **The Secret Key:**
+
+<li>Now, click on the **Payload** tab (it might also be called "Request").
+
+- Navigate through extensions → persistedQuery.
+
+- You will see a sha256Hash. Copy the long string of characters next to it. This is your Secret Key.
+
+</li>
+
+![api 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/api-2-scaled-5.webp)
+
+### **Step 2: Add the Keys to Your WordPress Site**
+
+To make these keys work, you need to add a small code snippet to your WordPress site. The safest and easiest way to do this is by using a **Code Snippets** plugin. We recommend [FluentSnippets](https://fluentsnippets.com/).&nbsp;
+
+- **Create a New Snippet**
+
+<li>Go to **FleuntSnippets → Add New** **Snippet**.
+
+- Give your snippet a title, like "Airbnb API Keys for WP Social Ninja".
+
+</li>
+
+- **Paste the Code**
+
+<li>Copy the code block below and paste it into the "Code" area of your new snippet.
+
+</li>
+
+- **Add Your Keys**
+
+<li>Replace API Key you copied in Step 1.
+
+- Replace with the Secret Key you copied in Step 1.
+
+</li>
+
+`add_filter('wpsocialreviews/airbnb_api_key', function(){
+    return 'd3......';
+});
+
+// for rooms 
+add_filter('wpsocialreviews/airbnb_rooms_api_secret_key', function(){
+    return 'cc.....';
+});
+
+// for rooms business info 
+add_filter('wpsocialreviews/airbnb_rooms_business_info_api_secret_key', function(){
+    return '9a....';
+}); 
+
+// for experiences or services 
+add_filter('wpsocialreviews/airbnb_experiences_api_secret_key', function(){
+    return 'bc.....';
+});`</pre>
+
+::: tip
+
+**Important: First Three Keys Are Required**
+
+To ensure a complete and successful connection for your Airbnb, you **must** provide first three of the following keys in your code snippet. The integration will not work correctly without them.
+
+- **The Main API Key:** This is the master key for the connection.
+
+- **The Room Reviews Key:** This key specifically fetches the customer reviews.
+
+- **The Room Business Info Key:** This key fetches essential listing details.
+
+:::
+
+Click the **Save Snippets and Activate** button at the top of the page.
+
+## **Airbnb Configuration**
+
+To add **Airbnb Reviews **on your site, it is obvious that you need somehow to connect with the Airbnb server to fetch the reviews from their repositories; however, it is not a difficult task for the non-techies as we have created the easiest way to aggregate reviews.
+
+To add Airbnb Reviews to your site, first, click on Airbnb.
+
+![airbnb platform 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-1-scaled-5.webp)
+
+Now paste your room, experience or business URL here.
+
+![airbnb platform 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-2-scaled-5.webp)
+
+You can find the URL in the address bar of your Airbnb room, experience, or business page, just like in the screenshot below.
+
+![airbnb platform 3](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-3-scaled-5.webp)
+
+Paste the URL into the field and hit **Save**. Once connected, you’ll see your Airbnb account linked with Social Ninja. Next, click **Create a Template** to start displaying your Airbnb reviews.
+
+![airbnb platform 4](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-4-scaled-5.webp)
+
+Your template is now ready! From here, you can customize it the way you like. For more details, check out this [documentation](./template-layouts-social-reviews-wp-social-ninja) on template customization.
+
+![airbnb platform 5](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-5-scaled-5.webp)
+
+You can fetch up to **100 reviews** for each business on your site. If you’re using the **free version of WP Social Ninja**, you can fetch a maximum of **5 Airbnb reviews**.
+
+However, downloading reviews sometimes might take some time. If you want, you can delete this account by clicking on the **Cross** icon.
+
+You can even include additional business accounts when clicking the **Add More Business **button. Just enter the business name the same way as before &amp; click the **Save **button.
+
+You can also check out - **[Social Reviews](./social-media-reviews-wp-social-ninja)**

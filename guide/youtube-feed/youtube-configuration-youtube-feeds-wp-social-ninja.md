@@ -35,9 +35,9 @@ _Credential Type ( oAuth 2.0)_
 
 Next, click on the **Sign In** and **Get Google Access Code** to get Access Code. This will take you to a new window.
 
-![Sign In &amp; Get Google Access Code ](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2.png)
+![Sign In & Get Google Access Code](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2.png)
 
-_Sign In &amp; Get Google Access Code_
+_Sign In & Get Google Access Code_
 
 Here, you need to select the Email associated with your YouTube account!
 
@@ -93,21 +93,21 @@ _Credential Type (API Key)_
 
 Click on the **API Key** to obtain the **YouTube API Key**.
 
-### **Step**2
+### **Step 2**
 
-First of all, go to [console.developers.google.com oauth](https://console.developers.google.com/apis/credentials?project=infra-fortress-289907&amp;folder=&amp;organizationId=). You need to create a **New Project** to acquire the API Key from the **Google APIs.**
+First of all, go to [console.developers.google.com oauth](https://console.developers.google.com/apis/credentials?project=infra-fortress-289907&folder=&organizationId=). You need to create a **New Project** to acquire the API Key from the **Google APIs.**
 
 ![youtube configuration select a project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-3.png)
 
 _Select a Project_
 
-Click on the** New Project** to select or create a new one.
+Click on the **New Project** to select or create a new one.
 
 ![Youtube configuration |  Select/Create](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-4.png)
 
 _Select/Create_
 
-You can** Search projects and folders** or create a **New Project**. In order to create a New Project, click on it.
+You can **Search projects and folders** or create a **New Project**. In order to create a New Project, click on it.
 
 ![New project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-5.png)
 
@@ -117,7 +117,7 @@ Put your **Project name** and click on the **Create** button. You will get a **N
 
 ### **Step 4**
 
-Now, click on the **Credentials** from **APIs &amp; Services** to get the** API Key.**
+Now, click on the **Credentials** from **APIs & Services** to get the **API Key.**
 
 ![Create Credentials](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-6.png)
 
@@ -135,7 +135,7 @@ Next, click on the API Key button.
 
 _**API Key created**_
 
-Congratulations! You have got your **YouTube API**Key.
+Congratulations! You have got your **YouTube API Key**.
 
 ### **Step 5**
 

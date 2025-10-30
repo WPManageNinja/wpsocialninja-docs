@@ -7,11 +7,11 @@ description: ""
 
 Do you want to use Oxygen Page Builder to Embed a WP Social Ninja template quickly? You might find this article useful.
 
-WP Social Ninja includes five native oxygen page builder widgets -&nbsp;
+WP Social Ninja includes five native oxygen page builder widgets:
 
 - Social Reviews
 - Instagram Feeds
-- Youtube Feeds&nbsp;
+- Youtube Feeds
 - Twitter Feeds
 - Facebook Feeds
 
@@ -27,7 +27,7 @@ By following the instructions described below, we'll demonstrate how to embed a 
 
 _Twitter Feeds_
 
-- Then select a** template** from the dropdown.
+- Then select a **template** from the dropdown.
 
 ![Select a template](/guide/public/images/page-builders/how-to-embed-wp-social-ninja-template-with-oxygen-page-builder/oo2-1.png)
 
@@ -44,4 +44,4 @@ _Customize Twitter Feed_
 
 Don't forget to click the **Save** button when you're done customizing.
 
-Also, check out -** [Beaver Page Builder](./beaver-page-builder)**, **[Elementor Page Builder](./how-to-embed-wp-social-ninja-template-with-elementor-page-builder)**.
+Also, check out - **[Beaver Page Builder](./beaver-page-builder)**, **[Elementor Page Builder](./how-to-embed-wp-social-ninja-template-with-elementor-page-builder)**.

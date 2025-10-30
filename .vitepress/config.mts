@@ -29,24 +29,36 @@ export default defineConfig({
                         "link": "/guide/getting-started/getting-started-with-wp-social-ninja"
                   },
                   {
-                        "text": "Prerequisites",
-                        "link": "/guide/getting-started/prerequisites-of-wp-social-ninja-installation"
+                        "text": "📋 Setup & Installation",
+                        "collapsed": false,
+                        "items": [
+                              {
+                                    "text": "Prerequisites",
+                                    "link": "/guide/getting-started/prerequisites-of-wp-social-ninja-installation"
+                              },
+                              {
+                                    "text": "Installation & License",
+                                    "link": "/guide/getting-started/how-to-install-upgrade-and-activate-license"
+                              }
+                        ]
                   },
                   {
-                        "text": "Installation & License",
-                        "link": "/guide/getting-started/how-to-install-upgrade-and-activate-license"
-                  },
-                  {
-                        "text": "Platform Overview",
-                        "link": "/guide/getting-started/all-platforms-of-wp-social-ninja"
-                  },
-                  {
-                        "text": "Features Overview",
-                        "link": "/guide/getting-started/what-wp-social-review-offers"
-                  },
-                  {
-                        "text": "User Interface Guide",
-                        "link": "/guide/getting-started/getting-started-with-the-user-interface-of-wp-social-ninja"
+                        "text": "📖 Overview & Interface",
+                        "collapsed": false,
+                        "items": [
+                              {
+                                    "text": "Platform Overview",
+                                    "link": "/guide/getting-started/all-platforms-of-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Features Overview",
+                                    "link": "/guide/getting-started/what-wp-social-review-offers"
+                              },
+                              {
+                                    "text": "User Interface Guide",
+                                    "link": "/guide/getting-started/getting-started-with-the-user-interface-of-wp-social-ninja"
+                              }
+                        ]
                   }
             ]
       },

@@ -55,60 +55,174 @@ export default defineConfig({
             "collapsed": true,
             "items": [
                   {
-                        "text": "Social Feeds Overview",
+                        "text": "Overview",
                         "link": "/guide/social-feeds/social-feeds-social-ninja"
                   },
                   {
-                        "text": "Facebook Feed Setup",
-                        "link": "/guide/social-feeds/facebook-feed-integration-with-wp-social-ninja"
+                        "text": "📘 Facebook Feeds",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Setup & Integration",
+                                    "link": "/guide/social-feeds/facebook-feed-integration-with-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Access Token",
+                                    "link": "/guide/social-feeds/facebook-feed-access-token"
+                              },
+                              {
+                                    "text": "Events Token",
+                                    "link": "/guide/social-feeds/facebook-events-access-token"
+                              },
+                              {
+                                    "text": "Feed Customization",
+                                    "link": "/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Layout & Styling",
+                                    "link": "/guide/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Date Range Settings",
+                                    "link": "/guide/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Single Album Feed",
+                                    "link": "/guide/social-feeds/facebook-single-album-feed"
+                              },
+                              {
+                                    "text": "Video Playlist Feed",
+                                    "link": "/guide/social-feeds/facebook-specific-video-playlist-feed"
+                              },
+                              {
+                                    "text": "Display Events",
+                                    "link": "/guide/social-feeds/how-to-display-facebook-events"
+                              },
+                              {
+                                    "text": "Reauthorize App",
+                                    "link": "/guide/social-feeds/how-to-reauthorize-the-wp-social-ninja-instagram-facebook-app"
+                              }
+                        ]
                   },
                   {
-                        "text": "Facebook Access Token",
-                        "link": "/guide/social-feeds/facebook-feed-access-token"
+                        "text": "📸 Instagram Feeds",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Access Token",
+                                    "link": "/guide/social-feeds/instagram-access-token-instagram-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Business Setup",
+                                    "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Setup Guide",
+                                    "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Feed Layout",
+                                    "link": "/guide/social-feeds/instagram-feed-layout-i-social-feeds-i-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Account Conversion",
+                                    "link": "/guide/social-feeds/how-to-convert-an-instagram-personal-account-to-a-business-account"
+                              },
+                              {
+                                    "text": "Professional Account",
+                                    "link": "/guide/social-feeds/convert-your-instagram-personal-account-into-professional-account"
+                              },
+                              {
+                                    "text": "Shoppable Feed",
+                                    "link": "/guide/social-feeds/instagram-shoppable-feed"
+                              },
+                              {
+                                    "text": "GDPR Compliance",
+                                    "link": "/guide/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Issue Reporting",
+                                    "link": "/guide/social-feeds/instagram-feed-issue-email-report-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Image Optimization",
+                                    "link": "/guide/social-feeds/optimize-images-for-instagram-social-feeds-wp-social-ninja"
+                              }
+                        ]
                   },
                   {
-                        "text": "Facebook Events Token",
-                        "link": "/guide/social-feeds/facebook-events-access-token"
+                        "text": "🐦 Twitter Feeds",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Create Twitter App",
+                                    "link": "/guide/social-feeds/create-your-twitter-app-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Feed Layout",
+                                    "link": "/guide/social-feeds/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Settings",
+                                    "link": "/guide/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja"
+                              }
+                        ]
                   },
                   {
-                        "text": "Facebook Feed Settings",
-                        "link": "/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja"
+                        "text": "🎥 YouTube Feeds",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Settings",
+                                    "link": "/guide/social-feeds/youtube-settings-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Feed Layout",
+                                    "link": "/guide/social-feeds/youtube-feed-layout-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Feed Types",
+                                    "link": "/guide/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2"
+                              },
+                              {
+                                    "text": "Feed Settings",
+                                    "link": "/guide/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja"
+                              }
+                        ]
                   },
                   {
-                        "text": "Instagram Configuration",
-                        "link": "/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "Instagram Access Token",
-                        "link": "/guide/social-feeds/instagram-access-token-instagram-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "Instagram Business Setup",
-                        "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "Twitter Configuration",
-                        "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "Twitter App Setup",
-                        "link": "/guide/social-feeds/create-your-twitter-app-wp-social-ninja"
-                  },
-                  {
-                        "text": "YouTube Configuration",
-                        "link": "/guide/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "YouTube Settings",
-                        "link": "/guide/social-feeds/youtube-settings-social-feeds-wp-social-ninja"
-                  },
-                  {
-                        "text": "TikTok Configuration",
-                        "link": "/guide/social-feeds/tiktok-feed-configuration"
-                  },
-                  {
-                        "text": "TikTok Settings",
-                        "link": "/guide/social-feeds/tiktok-feed-settings"
+                        "text": "🎵 TikTok Feeds",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/tiktok-feed-configuration"
+                              },
+                              {
+                                    "text": "Activation",
+                                    "link": "/guide/social-feeds/tiktok-feed-activation"
+                              },
+                              {
+                                    "text": "Settings",
+                                    "link": "/guide/social-feeds/tiktok-feed-settings"
+                              },
+                              {
+                                    "text": "Template",
+                                    "link": "/guide/social-feeds/tiktok-feed-template"
+                              }
+                        ]
                   }
             ]
       },
@@ -117,64 +231,118 @@ export default defineConfig({
             "collapsed": true,
             "items": [
                   {
-                        "text": "Social Reviews Overview",
+                        "text": "Overview",
                         "link": "/guide/social-reviews/social-media-reviews-wp-social-ninja"
                   },
                   {
-                        "text": "Google Reviews",
-                        "link": "/guide/social-reviews/google-configuration-social-reviews-wp-social-ninja"
+                        "text": "🌍 Review Platforms",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Google Reviews",
+                                    "link": "/guide/social-reviews/google-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Facebook Reviews",
+                                    "link": "/guide/social-reviews/facebook-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Facebook Access Token",
+                                    "link": "/guide/social-reviews/facebook-reviews-access-token"
+                              },
+                              {
+                                    "text": "Yelp Reviews",
+                                    "link": "/guide/social-reviews/yelp-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Trustpilot Reviews",
+                                    "link": "/guide/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Airbnb Reviews",
+                                    "link": "/guide/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Booking.com Reviews",
+                                    "link": "/guide/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "TripAdvisor Reviews",
+                                    "link": "/guide/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "AliExpress Reviews",
+                                    "link": "/guide/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja"
+                              }
+                        ]
                   },
                   {
-                        "text": "Facebook Reviews",
-                        "link": "/guide/social-reviews/facebook-configuration-social-reviews-wp-social-ninja"
+                        "text": "🛍️ E-commerce Integration",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "WooCommerce Reviews",
+                                    "link": "/guide/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Custom WooCommerce with Fluent Forms",
+                                    "link": "/guide/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms"
+                              },
+                              {
+                                    "text": "Fluent Forms Integration",
+                                    "link": "/guide/social-reviews/fluent-forms-review"
+                              }
+                        ]
                   },
                   {
-                        "text": "Yelp Reviews",
-                        "link": "/guide/social-reviews/yelp-configuration-social-reviews-wp-social-ninja"
+                        "text": "🤖 AI Integration",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "OpenAI Integration",
+                                    "link": "/guide/social-reviews/openai-integration-for-review"
+                              },
+                              {
+                                    "text": "OpenRouter Integration",
+                                    "link": "/guide/social-reviews/openrouter-integration-for-review"
+                              }
+                        ]
                   },
                   {
-                        "text": "Trustpilot Reviews",
-                        "link": "/guide/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja"
+                        "text": "⚙️ Template & Display",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Create Templates",
+                                    "link": "/guide/social-reviews/create-a-template-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Template Layouts",
+                                    "link": "/guide/social-reviews/template-layouts-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Layout Settings",
+                                    "link": "/guide/social-reviews/layout-settings-social-reviews-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Custom Reviews",
+                                    "link": "/guide/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja"
+                              }
+                        ]
                   },
                   {
-                        "text": "Airbnb Reviews",
-                        "link": "/guide/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja"
-                  },
-                  {
-                        "text": "Booking.com Reviews",
-                        "link": "/guide/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja"
-                  },
-                  {
-                        "text": "TripAdvisor Reviews",
-                        "link": "/guide/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja"
-                  },
-                  {
-                        "text": "AliExpress Reviews",
-                        "link": "/guide/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja"
-                  },
-                  {
-                        "text": "WooCommerce Reviews",
-                        "link": "/guide/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja"
-                  },
-                  {
-                        "text": "Custom Reviews",
-                        "link": "/guide/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja"
-                  },
-                  {
-                        "text": "OpenAI Integration",
-                        "link": "/guide/social-reviews/openai-integration-for-review"
-                  },
-                  {
-                        "text": "OpenRouter Integration",
-                        "link": "/guide/social-reviews/openrouter-integration-for-review"
-                  },
-                  {
-                        "text": "Schema Configuration",
-                        "link": "/guide/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja"
-                  },
-                  {
-                        "text": "QR Code Generation",
-                        "link": "/guide/social-reviews/generate-qr-code-for-reviews"
+                        "text": "🔧 Advanced Features",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "Schema Configuration",
+                                    "link": "/guide/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja"
+                              },
+                              {
+                                    "text": "QR Code Generation",
+                                    "link": "/guide/social-reviews/generate-qr-code-for-reviews"
+                              }
+                        ]
                   }
             ]
       },

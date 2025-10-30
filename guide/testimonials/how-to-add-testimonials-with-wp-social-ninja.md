@@ -5,7 +5,7 @@ description: ""
 
 # How to Add Testimonials with WP Social Ninja
 
-WP Social Ninja has a multitude of functionality, and **Testimonials** are one of them. To unlock it, you need to get the** premium version**.
+WP Social Ninja has a multitude of functionality, and **Testimonials** are one of them. To unlock it, you need to get the **premium version**.
 
 Let’s see how to add Testimonials.
 
@@ -23,7 +23,7 @@ _Testimonials_
 
 _Add Testimonial_
 
-- Insert all your information/data (Author Name, Author URL, Author Image, Author Position, Author Company Name, Author Website Logo, Author Website URL, Testimonial Title, Testimonial Text, Testimonial Rating, Testimonial Date, and Testimonial&nbsp; Category) and click on the **Save Testimonial** button.
+- Insert all your information/data (Author Name, Author URL, Author Image, Author Position, Author Company Name, Author Website Logo, Author Website URL, Testimonial Title, Testimonial Text, Testimonial Rating, Testimonial Date, and Testimonial Category) and click on the **Save Testimonial** button.
 
 - All of your Testimonials will appear on the page after you save them.
 
@@ -33,7 +33,7 @@ _Add Testimonial_
 
 _Display Testimonial_
 
-- Now you’ve saved your **Testimonials, ** click on the** Template** to display the **Testimonials** on your website.
+- Now you've saved your **Testimonials,** click on the **Template** to display the **Testimonials** on your website.
 
 - Click on **Add New Template**.
 

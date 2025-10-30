@@ -5,7 +5,9 @@ description: ""
 
 # What WP Social Ninja Offers
 
-## **Offers of WP Social NinjaWP Social Ninja** is the most well-structured plugin to collect all the reviews and recommendations from different platforms on your website to promote your business successfully.
+## Offers of WP Social Ninja
+
+**WP Social Ninja** is the most well-structured plugin to collect all the reviews and recommendations from different platforms on your website to promote your business successfully.
 
 It will save your time, engage with more customers, and is absolutely secure to use. Let’s jump in.
 

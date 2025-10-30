@@ -7,13 +7,13 @@ description: ""
 
 ## Templates of WP Social Ninja 
 
-As you have gone through the** Platforms**, now you can see in the given screenshot we have a** Templates** option.
+As you have gone through the **Platforms**, now you can see in the given screenshot we have a **Templates** option.
 
 ![Templates](/guide/public/images/getting-started-with-the-user-interface-2/all-templates/WP-Social-Ninja-Platforms-4-1.png)
 
 _Templates_
 
-You can view the Templates list on the **Social Reviews** and **Social Feeds** in this section. To show this on other pages, you can use the** Shortcodes**.
+You can view the Templates list on the **Social Reviews** and **Social Feeds** in this section. To show this on other pages, you can use the **Shortcodes**.
 
 ![Templates | Shortcode](/guide/public/images/getting-started-with-the-user-interface-2/all-templates/WP-Social-Ninja-Templates-4-1.png)
 
@@ -29,7 +29,7 @@ _Edit | Delete | Duplicate_
 
 As you can see, you have three options available: **Edit, Delete** or **Duplicate** (see the above screenshot)
 
-If you click on Edit, it will take you straight to the Template. Moreover, clicking on Duplicate will keep your original Template unchanged. You can copy this now &amp; change your Duplicate Template in any way!
+If you click on Edit, it will take you straight to the Template. Moreover, clicking on Duplicate will keep your original Template unchanged. You can copy this now & change your Duplicate Template in any way!
 
 ![Amazon Template](/guide/public/images/getting-started-with-the-user-interface-2/all-templates/Amazon_Template.png)
 
@@ -37,4 +37,4 @@ _Template_
 
 The best part is that the settings will not change and you can also resume your design at any point anytime.
 
-Also, check out these articles to know more about&nbsp;- **[Platforms](./all-platforms-of-wp-social-ninja)**, **[Reviews](./all-reviews)**
+Also, check out these articles to know more about - **[Platforms](./all-platforms-of-wp-social-ninja)**, **[Reviews](./all-reviews)**

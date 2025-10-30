@@ -9,7 +9,7 @@ Do you want to add a **Chat Widget** to a button on your website?
 
 WP Social Ninja brought you the custom button Chat Widget feature to trigger a button as a chat window anywhere on your website.
 
-Let’s see how to do that.&nbsp;
+Let's see how to do that.
 
 From your dashboard, go to **Pages** → **Add Pages**, or you can edit an existing page.
 

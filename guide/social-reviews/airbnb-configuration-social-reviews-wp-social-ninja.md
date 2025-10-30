@@ -24,20 +24,13 @@ To solve this, we will use a manual workaround. This process involves finding a 
 In this step, we will use your browser's developer tools to find the required keys from your Airbnb listing page.
 
 - **Open Your Airbnb Listing**
-
-<li>Using a desktop browser (like Chrome or Firefox), navigate to the Airbnb listing page (**Room** or **Experience**) that you want to get reviews from.
-
-</li>
+  - Using a desktop browser (like Chrome or Firefox), navigate to the Airbnb listing page (**Room** or **Experience**) that you want to get reviews from.
 
 - **Open Developer Tools**
+  - Right-click anywhere on the page and select **Inspect** from the menu. This will open the Developer Tools panel.
+  - In the Developer Tools panel, click on the **Network** tab.
 
-<li>Right-click anywhere on the page and select **Inspect** from the menu. This will open the Developer Tools panel.
-
-- In the Developer Tools panel, click on the **Network** tab.
-
-</li>
-
-- &nbsp;The term you search for in the Network tab's **Filter** box depends on the type of listing and information you need. Use the appropriate term from the list below:
+- The term you search for in the Network tab's **Filter** box depends on the type of listing and information you need. Use the appropriate term from the list below:
 
 - **For Room Reviews**: Search for StaysPdpReviewsQuery.
 

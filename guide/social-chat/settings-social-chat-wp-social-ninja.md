@@ -5,7 +5,7 @@ description: ""
 
 # How to change Settings of Social Chat
 
-## **Settings&nbsp;**
+## **Settings**
 
 WP Social Ninja offers detailed settings for users that have different positions and scheduling options to adjust. Let's see how this works
 
@@ -39,7 +39,7 @@ _Include Pages To Display Chat_
 
 ### **Exclude Pages To Display Chat**
 
-Similarly, you can hide your social chat options from certain pages if you want. From the drop-down menu, select a relevant page or multiple pages to exclude the** Social Chat Widget** option.
+Similarly, you can hide your social chat options from certain pages if you want. From the drop-down menu, select a relevant page or multiple pages to exclude the **Social Chat Widget** option.
 
 ![chat widget settings 5](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-5.webp)
 
@@ -55,7 +55,7 @@ _Display By Post Types_
 
 ### **Hide Chat on Desktop/Mobile**
 
-You can hide the Social Chat option either on Desktop or Mobile from here. Simply enable** Hide Chat on Desktop** option to hide the social chat icon from your desktop. The same rule goes for **Hide Chat on Mobile** option as well.
+You can hide the Social Chat option either on Desktop or Mobile from here. Simply enable **Hide Chat on Desktop** option to hide the social chat icon from your desktop. The same rule goes for **Hide Chat on Mobile** option as well.
 
 ![chat widget settings 8](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-8.webp)
 
@@ -63,17 +63,17 @@ _Hide Chat on Desktop/Mobile_
 
 ### Show Chat Popup
 
-After the display option, there are more customizing features like **Show Chat Popup**.&nbsp;
+After the display option, there are more customizing features like **Show Chat Popup**.
 
 ![chat widget settings 10](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-10.webp)
 
 _Show Chat Popup_
 
-In this section, if you turn on the button, the chat window will automatically pop up. However, to stop the pop-up option turn off the **Show Popup** button.&nbsp;
+In this section, if you turn on the button, the chat window will automatically pop up. However, to stop the pop-up option turn off the **Show Popup** button.
 
 #### **Chat Popup Delay**
 
-From here, you can delay the chat popup time. So, set the time from the **Chat Popup Delay** option, and your chat box will popup, once the preset time is over.&nbsp;
+From here, you can delay the chat popup time. So, set the time from the **Chat Popup Delay** option, and your chat box will popup, once the preset time is over.
 
 #### **Chat Open in Pop Window**
 
@@ -87,11 +87,11 @@ The last **setting** is **Show online/offline**. Here you can adjust two importa
 
 _Show Online/Offline_
 
-In** When to Display Online,** you can schedule the days you will be available. For this, you can tick the Check All option, or you can select specific days.
+In **When to Display Online**, you can schedule the days you will be available. For this, you can tick the Check All option, or you can select specific days.
 
 However, you can uncheck particular days if you are going to be unavailable.
 
-Next is to **Set the Time Schedule**.&nbsp;
+Next is to **Set the Time Schedule**.
 
 ![chat widget settings 12](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-12.webp)
 

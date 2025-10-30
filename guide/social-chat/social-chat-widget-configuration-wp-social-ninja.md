@@ -15,17 +15,17 @@ Have you thought about adding **Messenger Chat** or any other Social Chat platfo
 
 _Messenger Configuration_
 
-To begin, click the **Create New Widget** button to add a new chat widget. Then click the **Add Channel** button to connect to the chat widget &amp; select the Messenger icon.
+To begin, click the **Create New Widget** button to add a new chat widget. Then click the **Add Channel** button to connect to the chat widget & select the Messenger icon.
 
 ![Add Channel](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/add_channel-1024x445-1.png)
 
 _Add Channel_
 
-Next, you need a** Facebook ID/username or Link** to insert in the box. Let’s check how you can obtain that.
+Next, you need a **Facebook ID/username or Link** to insert in the box. Let's check how you can obtain that.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_channel.png)
 
-Login to your Facebook account. Suppose you need a User ID. The first thing you need to do is click on the profile &amp; Go straight to the URL.
+Login to your Facebook account. Suppose you need a User ID. The first thing you need to do is click on the profile & Go straight to the URL.
 
 ### **User ID**
 
@@ -33,7 +33,7 @@ Login to your Facebook account. Suppose you need a User ID. The first thing you 
 
 _Obtaining User ID_
 
-Here, you can see the URL, ** facebook.com/gutend3v**. In order to get the user’s id, copy after the slash and paste it on the **Messenger Configuration**. For instance, ** gutend3v**.
+Here, you can see the URL, **facebook.com/gutend3v**. In order to get the user's id, copy after the slash and paste it on the **Messenger Configuration**. For instance, **gutend3v**.
 
 ![User ID Configuration ](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_userid.png)
 
@@ -55,25 +55,25 @@ Similar to **User ID**, you can click on the URL and copy the ID after the last 
 
 ## **WhatsApp Configuration**
 
-Ever considered adding WhatsApp Chat to your WordPress site? This will increase your business and open a network to connect with customers easily.&nbsp; Let’s look at how you can attach **WhatsApp** to your Page.&nbsp;
+Ever considered adding WhatsApp Chat to your WordPress site? This will increase your business and open a network to connect with customers easily. Let's look at how you can attach **WhatsApp** to your Page.
 
-First, click on the **Add Channel** button &amp; tap the Whatsapp icon.
+First, click on the **Add Channel** button & tap the Whatsapp icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_channel.png)
 
-Here, you need to provide your country &amp; phone number, then Click **Save**. Now, the Whatsapp chat widget will be connected.
+Here, you need to provide your country & phone number, then Click **Save**. Now, the Whatsapp chat widget will be connected.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_connect.png)
 
-Click on the Whatsapp** icon** to take you to the Whatsapp chat page.
+Click on the Whatsapp **icon** to take you to the Whatsapp chat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_icon.png)
 
 ## **Telegram Configuration**
 
-How about you add your Telegram account to your website to communicate with the customers?&nbsp;You can now connect your Telegram account and get in touch with the world in a few clicks.  Let’s take a look at the screenshots below to know how you can attach Telegram to your website.
+How about you add your Telegram account to your website to communicate with the customers? You can now connect your Telegram account and get in touch with the world in a few clicks. Let's take a look at the screenshots below to know how you can attach Telegram to your website.
 
-Firstly,  click on the **Add Channel** button &amp; tap the Telegram icon. &nbsp;
+Firstly, click on the **Add Channel** button & tap the Telegram icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_channel.png)
 
@@ -81,7 +81,7 @@ Here, you need to provide your **User ID/link** and Click on the **Save** button
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_connect.png)
 
-Once you have successfully saved the Telegram User ID, click on the Whatsapp** icon** to take you to the Telegram Chat App.
+Once you have successfully saved the Telegram User ID, click on the Telegram **icon** to take you to the Telegram Chat App.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_icon.png)
 

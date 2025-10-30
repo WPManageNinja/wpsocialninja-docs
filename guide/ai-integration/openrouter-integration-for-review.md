@@ -23,9 +23,9 @@ In this guide, we’ll walk you through:
 
 Instead of editing or rewriting individual reviews, WP Social Ninja with OpenRouter does something smarter:
 
-It analyzes all the reviews fetched from a platform and generates** one well-crafted review summary** using AI.
+It analyzes all the reviews fetched from a platform and generates **one well-crafted review summary** using AI.
 
-This summary is then displayed in your selected** review templates** making it easier for visitors to quickly understand what customers are saying about your business.
+This summary is then displayed in your selected **review templates** making it easier for visitors to quickly understand what customers are saying about your business.
 
 ## **Get Your OpenRouter API Key**
 

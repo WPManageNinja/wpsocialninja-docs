@@ -7,7 +7,7 @@ description: ""
 
 TikTok Feed has some settings in the **Global settings** of your WP Social Ninja plugin. To keep your feed updated and cache clean you can use these settings.&nbsp;
 
-Go to the **Settings **of your WP Social Ninja and on the left side, you will get the **Feeds Platforms** option. Select the **TikTok settings**. Here you will get the settings for your TikTok feed.&nbsp;
+Go to the **Settings** of your WP Social Ninja and on the left side, you will get the **Feeds Platforms** option. Select the **TikTok settings**. Here you will get the settings for your TikTok feed.&nbsp;
 
 **Check New Feed Every:** Here you can choose how long the feeds are cached. If you select one hour then the plugin will clean the cache after that length of time and retrieve the new feeds.
 

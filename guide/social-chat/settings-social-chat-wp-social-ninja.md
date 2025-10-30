@@ -39,7 +39,7 @@ _Include Pages To Display Chat_
 
 ### **Exclude Pages To Display Chat**
 
-Similarly, you can hide your social chat options from certain pages if you want. From the drop-down menu, select a relevant page or multiple pages to exclude the** Social Chat Widget **option.
+Similarly, you can hide your social chat options from certain pages if you want. From the drop-down menu, select a relevant page or multiple pages to exclude the** Social Chat Widget** option.
 
 ![chat widget settings 5](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-5.webp)
 
@@ -51,7 +51,7 @@ Again, if you want to display Social Chat in specific posts then choose the post
 
 ![chat widget settings 6](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-6.webp)
 
-_** **Display By Post Types_
+_Display By Post Types_
 
 ### **Hide Chat on Desktop/Mobile**
 
@@ -73,15 +73,15 @@ In this section, if you turn on the button, the chat window will automatically p
 
 #### **Chat Popup Delay**
 
-From here, you can delay the chat popup time. So, set the time from the **Chat Popup Delay **option, and your chat box will popup, once the preset time is over.&nbsp;
+From here, you can delay the chat popup time. So, set the time from the **Chat Popup Delay** option, and your chat box will popup, once the preset time is over.&nbsp;
 
 #### **Chat Open in Pop Window**
 
-Though you might not always need this, if you need your chat to open in a new window, then enable the option **Chat Open in Pop Window **option.
+Though you might not always need this, if you need your chat to open in a new window, then enable the option **Chat Open in Pop Window** option.
 
 ### **Show Online/Offline**
 
-The last** setting **is **Show online/offline**. Here you can adjust two important settings** When to Display Online **and** Set the Time Schedule.&nbsp;**
+The last **setting** is **Show online/offline**. Here you can adjust two important settings; **When to Display Online** and **Set the Time Schedule**.
 
 ![chat widget settings 11](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-11-1.webp)
 

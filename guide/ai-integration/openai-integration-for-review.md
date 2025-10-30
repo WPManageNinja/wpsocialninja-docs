@@ -9,15 +9,13 @@ Got a growing stream of reviews from platforms like Google, Facebook, or Yelp? I
 
 That’s where **WP Social Ninja’s integration with OpenAI** comes in.
 
-With just a few steps, you can automatically generate a **concise, AI-written summary** of all your customer reviews. It highlights key sentiments and insights, helping potential customers quickly understand what others love about your business without missing the essence.
+With just a few steps, you can automatically generate a** concise, AI-written summary** of all your customer reviews. It highlights key sentiments and insights, helping potential customers quickly understand what others love about your business without missing the essence.
 
 In this guide, we’ll show you:
 
-- How to get your **OpenAI API key****
-**
+- How to get your **OpenAI API key**
 
-- How to connect OpenAI with **WP Social Ninja****
-**
+- How to connect OpenAI with **WP Social Ninja**
 
 - How to display **AI-generated summaries** right in your review templates
 
@@ -27,7 +25,7 @@ Instead of editing or rewriting individual reviews, WP Social Ninja with **OpenA
 
 It analyzes all the reviews fetched from a platform and generates a well-crafted review summary using AI.
 
-This summary is then displayed in your selected **review templates**, making it easier for visitors to quickly understand what your customers are saying.
+This summary is then displayed in your selected** review templates**, making it easier for visitors to quickly understand what your customers are saying.
 
 ## **Get Your OpenAI API Key**
 
@@ -73,7 +71,7 @@ With the setup complete, you can now choose where to display the AI summary.
 
 - Go to the **Review Template** where you'd like the summary to appear.
 
-- On the **right sidebar**, toggle on the **Display AI Summary** option.
+- On the** right sidebar**, toggle on the **Display AI Summary** option.
 
 Once enabled, you’ll unlock a few customization options to make your summary stand out:
 

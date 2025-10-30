@@ -3,13 +3,11 @@ title: "Twitter Feed Layout"
 description: ""
 ---
 
-# Twitter Feed Layout
-
-**WP Social Ninja** has customized **Social Feed** options. The **Twitter Feeds** have some formations that will help you change your **Twitter Feed Layout** and match it with your brand the way you want it.
+# Twitter Feed Layout **WP Social Ninja** has customized **Social Feed** options. The **Twitter Feeds** have some formations that will help you change your **Twitter Feed Layout** and match it with your brand the way you want it.
 
 ## **Twitter Feed Layout**
 
-Let’s jump into the steps** **to see how you can customize the site.
+Let’s jump into the stepsto see how you can customize the site.
 
 ### **Source**
 
@@ -27,7 +25,7 @@ Similarly, you may&nbsp;choose any** Feed Type** to display Tweets on your websi
 
 ### **Number of Tweets to Display**
 
-You can also change the** Number of Tweets to Display **on your website.
+You can also change the** Number of Tweets to Display** on your website.
 
 ![Number of Tweets to Display](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/fetch_tweets-1024x472.png)
 

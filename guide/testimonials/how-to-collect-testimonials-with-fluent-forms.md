@@ -13,7 +13,7 @@ Let's look at how **WP Social Ninja** may help your business by gathering Testim
 
 First, you need to enable the integration from the Fluent Forms dashboard.
 
-- First, go to **Integrations** from the **Fluent Forms Navba**r.
+- First, go to **Integrations** from the **Fluent Forms Navbar**.
 
 - Search for **WP Social Ninja** through the search bar or scroll down to find the **WP Social Ninja** module from the list.
 
@@ -51,7 +51,7 @@ _Creating a Form_
 
 ### Configure the WP Social Ninja Integration Feed
 
-Once your form is ready, go to the **Settings &amp; Integrations** section, navigate to the **Configuration Integrations** tab. Click the **Add New Integration** button, and select the **WP****Social Ninja Integration** feed from the dropdown list.
+Once your form is ready, go to the **Settings & Integrations** section, navigate to the **Configuration Integrations** tab. Click the **Add New Integration** button, and select the **WP Social Ninja Integration** feed from the dropdown list.
 
 ![add new integration 03](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/Add-New-Integration-03-scaled.webp)
 
@@ -81,7 +81,7 @@ After mapping the fields, click the **Save Feed** button. Your integration is no
 
 _WP Social Ninja Integration Feed_
 
-The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon. After that,  you can **copy** the Form’s **shortcode** and paste it into any **page/post**.
+The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon. After that,  you can** copy** the Form’s** shortcode** and paste it into any** page/post**.
 
 ![form integration successful ](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/Form-Integration-Successful-05-scaled.webp)
 

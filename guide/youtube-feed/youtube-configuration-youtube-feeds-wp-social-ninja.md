@@ -77,7 +77,7 @@ Click the **Save** button to complete the configuration process.
 
 _Successfully Connected_
 
-And you’ve successfully configured **YouTube** **OAuth2.0.**
+And you’ve successfully configured **YouTubeOAuth2.0.**
 
 ### **API Key**
 
@@ -93,7 +93,7 @@ _Credential Type (API Key)_
 
 Click on the **API Key** to obtain the **YouTube API Key**.
 
-### **Step **2
+### **Step**2
 
 First of all, go to [console.developers.google.com oauth](https://console.developers.google.com/apis/credentials?project=infra-fortress-289907&amp;folder=&amp;organizationId=). You need to create a **New Project** to acquire the API Key from the **Google APIs.**
 
@@ -113,11 +113,11 @@ You can** Search projects and folders** or create a **New Project**. In order to
 
 _New Project_
 
-Put your **Project name** and click on the **Create **button. You will get a **Notification** with New Project.
+Put your **Project name** and click on the **Create** button. You will get a **Notification** with New Project.
 
 ### **Step 4**
 
-Now, click on the **Credentials** from **APIs &amp; Services **to get the** API Key.**
+Now, click on the **Credentials** from **APIs &amp; Services** to get the** API Key.**
 
 ![Create Credentials](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-6.png)
 
@@ -135,11 +135,11 @@ Next, click on the API Key button.
 
 _**API Key created**_
 
-Congratulations! You have got your **YouTube API **Key.
+Congratulations! You have got your **YouTube API**Key.
 
 ### **Step 5**
 
-In order to configure the **YouTube** **Feed**, you need to **enable** the YouTube Data API v3 button; otherwise, the API Key will not work. Now click on the **Library** to enable the **YouTube Data API v3**.
+In order to configure the **YouTube Feed**, you need to **enable** the YouTube Data API v3 button; otherwise, the API Key will not work. Now click on the **Library** to enable the **YouTube Data API v3**.
 
 ![API credentials youtube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-7.png)
 

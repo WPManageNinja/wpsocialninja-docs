@@ -49,7 +49,7 @@ To use the **AWS-WAF-Token** cookie value you copied earlier, you'll need to add
 
 ::: tip
 
-We recommend using **[FluentSnippet](https://fluentsnippets.com/)** on your WordPress site for a seamless experience. However, you can use any other snippet plugin of your choice.
+We recommend using**[FluentSnippet](https://fluentsnippets.com/)** on your WordPress site for a seamless experience. However, you can use any other snippet plugin of your choice.
 
 :::
 

@@ -46,9 +46,9 @@ _
 
 ### **Template Types**
 
-**Select a Template** to redesign your Layout. There are **Ten** **Template Types** are available at the moment.
+Select a Template to redesign your Layout. There are **Ten Template Types** available at the moment.
 
-**Vega, Spica, Sirius, Rigel, Procyon, Pollux, Mimosa, Hadar,** **Deneb, **and** Polaris. **Like Layout Types, different **Templates** have the power to change the outlook of your Website.
+**Vega**, **Spica**, **Sirius**, **Rigel**, **Procyon**, **Pollux**, **Mimosa**, **Hadar**, **Deneb**, and **Polaris**. Like Layout Types, different **Templates** have the power to change the outlook of your Website.
 
 ![Template Types | Vega](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/template_types.png)
 
@@ -58,7 +58,7 @@ _Template Types_
 
 Once you are done with the **Layout Type**, you can also customize the **Number of Columns**. Here, you can choose from column options from the drop-down menu. Right now we have **1 Column** to **4 Columns**.
 
-In our demonstration,** 3 Columns** are selected to display the reviews.
+In our demonstration, **3 Columns** are selected to display the reviews.
 
 ![Number of Columns](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Columns.png)
 
@@ -207,7 +207,7 @@ Example: You can link to a dedicated “Review Us” page, a Google review link,
 ##### **Form Shortcode ID**
 
 Enter the Fluent Form’s ID that you created for collecting reviews.
-Example: If your form shortcode is `[fluentform id="7"]`, then you enter **7** here.
+Example: If your form shortcode is `[fluentform id="7"]`, then you enter**7** here.
 
 When users click **Write a Review**, this specific Fluent Form will open.
 
@@ -224,33 +224,33 @@ The **AI Summarizer** automatically generates a short summary of your customer r
 
 **Display AI Summary**: Toggle this ON to show an AI-generated summary at the top of your review section.
 
-**API Key Requirement**: To use this feature, you need to connect your own AI API key (for example, from OpenAI). Without an API key, the summarizer will not work. You can add your key by clicking the **“here”** link in the note.
+**API Key Requirement**: To use this feature, you need to connect your own AI API key (for example, from OpenAI). Without an API key, the summarizer will not work. You can add your key by clicking the**“here”** link in the note.
 
 ## **Schema Snippet**
 
-The **Schema Snippet** feature lets you add structured data (JSON-LD) to your reviews. This helps search engines (like Google) understand your reviews better and may display **rich snippets** (stars, ratings, and business info) in search results.
+The **Schema Snippet** feature lets you add structured data (JSON-LD) to your reviews. This helps search engines (like Google) understand your reviews better and may display** rich snippets** (stars, ratings, and business info) in search results.
 
 Here are the available options:
 
 **Enable Schema**: Turn this on to activate schema markup for your reviews. Once enabled, WP Social Ninja will generate schema code in the background based on your settings.
 
-**Business Logo**: Upload or select your **business logo**. This is included in the schema data to represent your brand in search results.
+**Business Logo**: Upload or select your** business logo**. This is included in the schema data to represent your brand in search results.
 
-**Business Name**: Enter your **business or organization name** exactly as it should appear in Google’s rich snippets. Example: *WP Social Ninja*.
+**Business Name**: Enter your** business or organization name** exactly as it should appear in Google’s rich snippets. Example: *WP Social Ninja*.
 
-**Business Type**: Choose the correct **business/organization type** that best matches your brand.
+**Business Type**: Choose the correct** business/organization type** that best matches your brand.
 **Note:** Use valid schema.org types (like *Organization, LocalBusiness, Store, Restaurant, SoftwareApplication*).
 For the full list of valid types, visit [schema.org](https://schema.org?utm_source=chatgpt.com).
 
 **Business Phone Number:** Add a contact number for your business. This can be displayed in the schema so users see a verified phone number in search results.
 
-**Include Business Address**: If enabled, the plugin will include your **business address** in the schema. This is especially useful for local businesses (restaurants, salons, shops).
+**Include Business Address**: If enabled, the plugin will include your** business address** in the schema. This is especially useful for local businesses (restaurants, salons, shops).
 
-**Fallback Average Rating**: If your reviews don’t have an average rating available, you can set a **default rating value** here.
-Example: If you set **4.5**, Google will use that as the average rating in search results when no rating data is available.
+**Fallback Average Rating**: If your reviews don’t have an average rating available, you can set a** default rating value** here.
+Example: If you set**4.5**, Google will use that as the average rating in search results when no rating data is available.
 
-**Fallback Total Rating **:Similar to the fallback average rating, this is the **total number of reviews** you want Google to recognize if your reviews don’t provide one.
-Example: If you set **10**, search engines will consider it as 10 reviews.
+**Fallback Total Rating**:Similar to the fallback average rating, this is the** total number of reviews** you want Google to recognize if your reviews don’t provide one.
+Example: If you set**10**, search engines will consider it as 10 reviews.
 
 **Testing Your Schema:** After configuring, you can test whether your schema is valid using Google’s [Rich Results Test](https://search.google.com/test/rich-results?utm_source=chatgpt.com).
 

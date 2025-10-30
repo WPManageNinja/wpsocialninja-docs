@@ -9,7 +9,7 @@ The Instagram feed has a user-friendly and diverse setting panel for the users. 
 
 ## **Filters**
 
-Click on the **Filter **button and a drop-down menu will appear.
+Click on the **Filter** button and a drop-down menu will appear.
 
 ![](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_filter.png)
 
@@ -23,14 +23,13 @@ Here, you will be able to select the **Number of Posts to Display** on your webs
 
 _Number of Posts to Display_
 
-To do that, click on the **Plus** or **Minus **sign.
+To do that, click on the **Plus** or **Minus** sign.
 
 ### **Posts Order**
 
 Next is **Posts Order**. In this section, you can adjust your post order from the following options; **Ascending**, **Descending**, **Most Popular**, **Least Popular**, and **Random**.
 
-::: tip
-**Remember: Most Popular, Least Popular, and Random posts order are for Pro features.**
+::: tip **Remember: Most Popular, Least Popular, and Random posts order are for Pro features.**
 :::
 
 ![Posts order Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/posts-order-instagram-settings.png)
@@ -65,7 +64,7 @@ _Hashtags_
 
 Here, you can see the hashtag post is not displayed.
 
-You can also hide your Instagram posts using the **Hide Specific Posts **option. You can find the ID of a Post by viewing the post on Instagram and copy/paste the ID number from the end of the URL.
+You can also hide your Instagram posts using the **Hide Specific Posts** option. You can find the ID of a Post by viewing the post on Instagram and copy/paste the ID number from the end of the URL.
 
 Don’t forget to show/hide posts you can use multiple search terms or hashtags in the editor panel.
 
@@ -79,7 +78,7 @@ Click on the drop-down menu to continue the editing. Here we can adjust five set
 
 ### **Open Post In**
 
-In this **Open Post** In section, you can customize where you want to open your post. We have three options at the moment; None, Open on Instagram,** **and **Open in Popup Box**.
+In this **Open Post** In section, you can customize where you want to open your post. We have three options at the moment; None, Open on Instagram,and **Open in Popup Box**.
 
 ![Instagram settings open post in](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-open-post-in.png)
 
@@ -95,7 +94,7 @@ If you select Open in Popup Box a drop-down menu will appear with a few unique o
 
 ### **Display Sidebar**
 
-If you turn on the Popup Box **Display Sidebar **your sidebar information will be displayed on your popup box.
+If you turn on the Popup Box **Display Sidebar** your sidebar information will be displayed on your popup box.
 
 ![Display sidebar Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-sidebar-instagram-settings.png)
 
@@ -163,9 +162,7 @@ _Display Call to Action Button_
 
 Enable or disable the button to show/hide the Display Call to Action Button on your website**.**
 
-### **Display Caption**
-
-**Display Caption** is another feature that helps to adjust the feed. Here, you will be able to control the display caption of your Instagram posts.
+### **Display CaptionDisplay Caption** is another feature that helps to adjust the feed. Here, you will be able to control the display caption of your Instagram posts.
 
 ![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-caption-instagram-settings-2.png)
 
@@ -173,15 +170,13 @@ _Display Caption_
 
 If you turn on the button you can see the post caption. However, turn it off if you don’t want to display the caption on your website.
 
-### **Trim Caption Words**
-
-**Trim Caption Words** allow you to control your caption size that will display along with the post.
+### **Trim Caption WordsTrim Caption Words** allow you to control your caption size that will display along with the post.
 
 ![Trim caption words Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/trim-caption-words-instagram-settings.png)
 
 _Trim Caption Words_
 
-Here, you can see that 15 words are displayed in your post. Click on the **plus** sign to increase the words. However, you can also decrease the word limits by clicking on the **minus** sign.
+Here, you can see that 15 words are displayed in your post. Click on the** plus** sign to increase the words. However, you can also decrease the word limits by clicking on the** minus** sign.
 
 ### **Display Likes Count**
 
@@ -367,13 +362,13 @@ After you are done don’t forget to click on the **Save Template** button to sa
 
 ## **Pagination**
 
-At this stage, you can adjust the **Pagination **from the settings.
+At this stage, you can adjust the **Pagination** from the settings.
 
 ![pagination](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_pagination_type-1024x508-1.png)
 
 _Pagination_
 
-**Pagination Style** has two options at the moment. You can pick any from **None **or **Load More**.
+**Pagination Style** has two options at the moment. You can pick any from **None** or **Load More**.
 
 ![Pagination Style](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_load_more-1.png)
 

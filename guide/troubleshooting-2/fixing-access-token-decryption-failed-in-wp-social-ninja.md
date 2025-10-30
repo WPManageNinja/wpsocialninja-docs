@@ -19,7 +19,7 @@ This error typically appears:
 
 ### **Why This Happens**
 
-WP Social Ninja saves your connected accounts’ **access tokens** securely in your WordPress database.
+WP Social Ninja saves your connected accounts’ ** access tokens** securely in your WordPress database.
 To keep them safe, the plugin encrypts these tokens using **WordPress authentication salts** (like LOGGED_IN_SALT).
 
 Here’s the problem:
@@ -32,7 +32,7 @@ Here’s the problem:
 
 ## **The Solution: Use Dedicated WP Social Ninja Keys**
 
-To avoid relying on salts that may change, you can add your **own custom encryption keys** specifically for WP Social Ninja.
+To avoid relying on salts that may change, you can add your** own custom encryption keys** specifically for WP Social Ninja.
 
 This ensures:
 
@@ -42,7 +42,7 @@ This ensures:
 
 ### **How to Fix the Error**
 
-#### **1. Open Your ****wp-config.php**
+#### **1. Open Your wp-config.php**
 
 - Access your site files via **FTP** or your hosting **File Manager**.
 
@@ -82,7 +82,7 @@ define( 'LOGGED_IN_SALT',   'xxxxx' );`</pre>
 
 #### **2. Add WP Social Ninja Keys**
 
-Right **below this section**, add two new lines with your own unique keys:
+Right** below this section**, add two new lines with your own unique keys:
 
 `define('WPSR_ENCRYPTION_KEY',  '***Paste_generated_key_here***');
 
@@ -108,7 +108,7 @@ This will store the tokens again using your new, stable encryption keys.
 
 - **Do not change these keys later.** If you update them, WP Social Ninja won’t be able to read existing tokens, and you’ll need to reconnect your accounts.
 
-- If you run multiple environments (staging, live, local), use the **same encryption keys** across all of them. Otherwise, tokens may fail when moving the database.
+- If you run multiple environments (staging, live, local), use the** same encryption keys** across all of them. Otherwise, tokens may fail when moving the database.
 
 - By defining your own WP Social Ninja keys, you isolate the plugin’s encryption from WordPress salts, avoiding conflicts with plugins.
 

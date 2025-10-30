@@ -11,7 +11,7 @@ This article will guide you through the overall details of what you need to know
 
 ## Instagram Business Account
 
-To keep your **Instagram Feed **working on your **WordPress site**, **WP Social Ninja **lets you switch from a **Personal Account** and connect to a **Business Account** with **Two Options**. These are:
+To keep your **Instagram Feed** working on your **WordPress site**, **WP Social Ninja** lets you switch from a **Personal Account** and connect to a **Business Account** with **Two Options**. These are:
 
 - **Business Basic Account**: Choosing this connection is ideal for a simple setup that shows posts from a single Instagram account.
 
@@ -25,15 +25,11 @@ Now, to avoid confusion in choosing the right connection type that suits your ne
 
 **By understanding the following key differences, select the perfect connection for your site:**
 
-#### A. Based on the Connection Method
+#### A. Based on the Connection Method **Business Basic** connects directly through Instagram using your username and password.
 
-**Business Basic** connects directly through Instagram using your username and password.
+On the other hand,** Business Advanced** uses Facebook to establish the connection, allowing more features (requires a Facebook page).&nbsp;
 
-On the other hand,** Business Advanced **uses Facebook to establish the connection, allowing more features (requires a Facebook page).&nbsp;
-
-#### B. Based on Displayed Content
-
-**Business Basic** displays only basic information like profile data, avatars, and posts. It does not support **Hashtags** or **Mention** feeds.
+#### B. Based on Displayed Content **Business Basic** displays only basic information like profile data, avatars, and posts. It does not support **Hashtags** or **Mention** feeds.
 
 However, the features like displaying **Hashtags**, make the **Business Advanced** perfect for users who want to show content beyond just their profile posts.
 
@@ -43,7 +39,7 @@ With **Business Basic**, you can connect only a **Single Instagram Account**, wh
 
 ## Convert Personal Profile to Business Account
 
-Once you decide which business account to switch to from your personal Instagram account, it's time to convert your **Personal** **Account** into a **Business Account,** as this is required to ensure proper functioning with our plugin.&nbsp;
+Once you decide which business account to switch to from your personal Instagram account, it's time to convert your **PersonalAccount** into a **Business Account,** as this is required to ensure proper functioning with our plugin.&nbsp;
 
 Plus, you can choose either a **Business** or **Creator** account based on your needs. Both options work with our plugin.
 

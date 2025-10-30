@@ -41,7 +41,7 @@ To import data into WP Social Ninja, click on the **Import** option from the lef
 
 Once you've selected the file, click on the **Import** button to upload it.&nbsp;
 
-One thing to keep in mind is that **Reviews **and** Testimonial** content will be imported in **CSV** format. **Feed and Reviews Template**, **Notification Popup Template**, and **Chat Widget** will be imported in **JSON** format.
+One thing to keep in mind is that **Reviews and Testimonial** content will be imported in **CSV** format. **Feed and Reviews Template**, **Notification Popup Template**, and **Chat Widget** will be imported in **JSON** format.
 
 For your convenience, a demo CSV file is provided, showing the format of the CSV you're uploading. This helps you understand the correct structure for your import.
 

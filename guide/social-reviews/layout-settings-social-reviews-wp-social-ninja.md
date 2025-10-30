@@ -3,9 +3,7 @@ title: "Layout Settings"
 description: ""
 ---
 
-# Layout Settings
-
-**WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
+# Layout Settings **WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
 
 Here, you may select a single Platform or multiple Platforms. However, the **Layout Settings** customize option will remain the same for all the Social Reviews Platforms.
 
@@ -44,7 +42,7 @@ _
 
 #### **Display Reviewer Name**
 
-Like Rating Style, you can customize your **Display Reviewer Name **as well. A reviewer’s privacy is always important. Here, you can turn off the button if you want to hide the **Reviewer Name**.
+Like Rating Style, you can customize your **Display Reviewer Name** as well. A reviewer’s privacy is always important. Here, you can turn off the button if you want to hide the **Reviewer Name**.
 
 #### **Display Reviewer Image**
 
@@ -60,11 +58,11 @@ The next filter is **Display Platform Icon**. In this setting, you can turn off 
 
 #### **Equal Height**
 
-The next one is **Equal Height**. You can adjust the height of the Reviews by clicking it on/off.  If you turn it on then all the reviews will be in Equal Height. Moreover, you can adjust the height according to the text. To do that click on the **Plus/Minus **button.
+The next one is **Equal Height**. You can adjust the height of the Reviews by clicking it on/off.  If you turn it on then all the reviews will be in Equal Height. Moreover, you can adjust the height according to the text. To do that click on the **Plus/Minus** button.
 
 #### **Display Review Title**
 
-By enabling this option, you can show the **Title **of the reviews. Click the Disable button if you don't wish to show the Review Title.
+By enabling this option, you can show the **Title** of the reviews. Click the Disable button if you don't wish to show the Review Title.
 
 #### **Display Review Text**
 
@@ -76,7 +74,7 @@ If you disable the **Display Reviewer Text** button then you won’t be able to 
 
 #### **Display Date**
 
-Using this Plugin you can also control your **Display Date**. Click to enable the button if you want the Date to be shown. You can see in the above screenshot the Date is displayed in the **(d-m-Y) **format. So, you can choose your preferred Date format from the various formats that are available.
+Using this Plugin you can also control your **Display Date**. Click to enable the button if you want the Date to be shown. You can see in the above screenshot the Date is displayed in the**(d-m-Y) ** format. So, you can choose your preferred Date format from the various formats that are available.
 
 ![Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/settings_frontend.png)
 
@@ -106,11 +104,11 @@ Here, in this Review Per Page, you can adjust the review number for every page f
 
 _Pagination Settings | Front End View_
 
-The Front End View of **Pagination Settings **is like this. Click on the **More Reviews** button to get more reviews.
+The Front End View of **Pagination Settings** is like this. Click on the **More Reviews** button to get more reviews.
 
 ## **Header Settings**
 
-Next, we have** Header Settings**. In this part, seven Layout options are available right now**; Display Title, Display Rating**, **Display Number of Reviews,** **Display Write a Review Button, Custom Title text, Custom Number of Reviews Text, **and** Custom Write a Review Text. **
+Next, we have **Header Settings**. In this part, seven Layout options are available right now; **Display Title**, **Display Rating**, **Display Number of Reviews**, **Display Write a Review Button**, **Custom Title text**, **Custom Number of Reviews Text**, and **Custom Write a Review Text**.
 
 ![wp social ninja edit](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/WP-Social-Ninja-Edit-scaled.webp)
 
@@ -122,7 +120,7 @@ Next is **Display Rating**. You can tick mark the box to display the rating howe
 
 If you select multiple platforms, for instance, **Airbnb** and **Booking.com** then the average display rating will appear on your site.
 
-Moreover, add the **Display Number of  Reviews **and **Display Write a Review Button** by ticking the boxes.
+Moreover, add the **Display Number of  Reviews** and **Display Write a Review Button** by ticking the boxes.
 
 Again, the **Custom Title Text** lets you write down your desired text in the box and that text will appear in the header.
 

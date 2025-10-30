@@ -3,9 +3,7 @@ title: "Instagram Feed Issue Email Report"
 description: ""
 ---
 
-# Instagram Feed Issue Email Report
-
-**Feed Issue Email Report** is a valuable feature that ensures you stay informed about critical issues in your **Instagram Feed** through email.&nbsp;
+# Instagram Feed Issue Email Report **Feed Issue Email Report** is a valuable feature that ensures you stay informed about critical issues in your **Instagram Feed** through email.&nbsp;
 
 Once **Feed Issue Email Reports** are enabled, our system will actively monitor your **Instagram Feed** for any critical issues. If such an issue is detected, you will receive an email on the specified day of the week you have been selected. The email will alert you about the nature of the problem and what action is need to take.
 
@@ -13,7 +11,7 @@ During the period when the issue remains unresolved, our system will temporarily
 
 ## **Enabling Feed Issue Email Reports**
 
-Access the **Settings** of your **WP Social Ninja **dashboard. Now go to **Advanced Settings **and you will find the "**Feed Issue Email Report**" feature toggle to enable it.
+Access the **Settings** of your **WP Social Ninja** dashboard. Now go to **Advanced Settings** and you will find the "**Feed Issue Email Report**" feature toggle to enable it.
 
 Sending Day: Specify the desired day of the week when you wish to receive the issue report via email.
 
@@ -31,7 +29,7 @@ To ensure that the email notifications reach your inbox successfully, it's impor
 
 ## **Dashboard Notifications**
 
-You will also receive a notification on your **WP Social Ninja **dashboard if any issues arise in your **Instagram Feed**. This provides you with an easy way to stay informed about the status of your feed at a glance.
+You will also receive a notification on your **WP Social Ninja** dashboard if any issues arise in your **Instagram Feed**. This provides you with an easy way to stay informed about the status of your feed at a glance.
 
 ![Dashboard Notifications](/guide/public/images/instagram-feed/instagram-feed-issue-email-report-social-feeds-wp-social-ninja/Error-message-dashboard-3.png)
 

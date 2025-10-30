@@ -7,11 +7,11 @@ description: ""
 
 If you are looking for ways to display your Facebook Events feed on your WordPress website, you are in the right place. In the next part, we'll discuss how to do this.
 
-If you want to show your Events, please follow this **[documentation](./facebook-events-access-token) **to generate an Event Access Token.
+If you want to show your Events, please follow this **[documentation](./facebook-events-access-token)** to generate an Event Access Token.
 
-Let’s go through the article to learn how to accomplish it.
+Let's go through the article to learn how to accomplish it.
 
-- Go to the** Platforms →** choose** Facebook Feeds &amp; Reviews**.
+- Go to the **Platforms** → choose **Facebook Feeds & Reviews**.
 
 ![Facebook Feeds &amp; Reviews](/guide/public/images/facebook-feed/how-to-display-facebook-events/image-16.png)
 
@@ -23,9 +23,9 @@ _Facebook Feeds &amp; Reviews_
 
 _Add New Template_
 
-**Note that, You must create a particular Page Events Access Token, for which we have outlined instructions **[**here**](./facebook-events-access-token).
+**Note that, You must create a particular Page Events Access Token, for which we have outlined instructions [here](./facebook-events-access-token).**
 
-- Now, Select your** Feed Type (Events)** from the dropdown.
+- Now, Select your **Feed Type (Events)** from the dropdown.
 
 - Choose which specific Page’s Events you want to display and for which you have created an Event Access Token.
 

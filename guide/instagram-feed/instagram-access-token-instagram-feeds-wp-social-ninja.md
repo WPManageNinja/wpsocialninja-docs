@@ -13,7 +13,7 @@ To add Instagram Feed to your website you need to retrieve the access token. To 
 
 ### **Step 1**
 
-Visit **develelopers.facebook.com** to create an App. Navigate to **developers.facebook.com**
+Visit **developers.facebook.com** to create an App. Navigate to **developers.facebook.com**
 
 ![Instagram access token | developers.facebook.com](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/instagram-access-token-developersfacebookcom.png)
 
@@ -69,7 +69,7 @@ _Select Platform_
 
 ### **Step 7**
 
-Once you click on the Website, you will have to provide your **website URL**. For demonstration, we will provide our website URL. You can put any.
+Once you click on the Website, you will have to provide your** website URL**. For demonstration, we will provide our website URL. You can put any.
 
 ![Website URL Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/website-url-instagram-access-token.png)
 
@@ -133,7 +133,7 @@ Next, you need to manage your Instagram Tester Invitations from your profile's *
 
 ![Apps and Websites for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/apps-and-websites-for-instagram-access-token.png)
 
-This will take you to your Instagram profile **Settings →** **Apps and Websites →** **Tester Invites Section**. Now click on the **Accept** button to continue.
+This will take you to your Instagram profile **Settings →Apps and Websites →Tester Invites Section**. Now click on the **Accept** button to continue.
 
 ![Apps &amp; Websites](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/apps-amp-websites.png)
 
@@ -141,7 +141,7 @@ _Apps &amp; Websites_
 
 ### **Step 11**
 
-To generate Instagram Access Token go back to **developers.facebook.com. **Now go to Dashboard and select **Products →** **Instagram Basic Display →** **Basic Display**.
+To generate Instagram Access Token go back to **developers.facebook.com**. Now go to Dashboard and select **Products** → **Instagram Basic Display** → **Basic Display**.
 
 ![basic display for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/basic-display-for-instagram-access-token.png)
 
@@ -157,7 +157,7 @@ _Generate Token_
 
 ![log in to get Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/log-in-to-get-instagram-access-token.png)
 
-Click **Continue **to go to the next step.
+Click **Continue** to go to the next step.
 
 ![](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/image-22.png)
 
@@ -165,7 +165,7 @@ Next, to Access Instagram Token click on the **Authorize** button.
 
 ![authorize Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/authorize-instagram-access-token.png)
 
-Now tick on the** I understand **box. If you want to copy the **Access** **Token**, click on the Copy button and hit **Done**.
+Now tick on the** I understand** box. If you want to copy the **AccessToken**, click on the Copy button and hit **Done**.
 
 ![Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/instagram-access-token.png)
 

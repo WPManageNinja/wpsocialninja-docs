@@ -5,7 +5,7 @@ description: ""
 
 # How to Install, Upgrade and Activate License
 
-WP Social Ninja is an all-in-one social media solution for your WordPress website. To install WP Social Ninja, go to your WordPress dashboard first. Or you can also download it from the **[WordPress](https://wordpress.org/plugins/wp-social-reviews/) **site and install it on your dashboard.
+WP Social Ninja is an all-in-one social media solution for your WordPress website. To install WP Social Ninja, go to your WordPress dashboard first. Or you can also download it from the**[WordPress](https://wordpress.org/plugins/wp-social-reviews/) ** site and install it on your dashboard.
 
 ### Requirements
 
@@ -25,7 +25,7 @@ _How to upgrade to pro_
 
 - Go to the **WordPress Admin Dashboard → Plugins → Add New**
 
-- Type **WP Social Ninja** on the search box, click on **Install Now **button, and then **Activate**
+- Type **WP Social Ninja** on the search box, click on **Install Now** button, and then **Activate**
 
 ![Installing and Activating WP Social Ninja](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/installing-and-activating-wp-social-ninja.png)
 
@@ -33,7 +33,7 @@ _Installing and Activating WP Social Ninja_
 
 ### Alternative method
 
-Download the **.zip** file and upload this on the **Add New** page using the Upload Plugin button; then click **Install **&amp; **Activate.**
+Download the**.zip** file and upload this on the **Add New** page using the Upload Plugin button; then click **Install**&amp; **Activate.**
 
 ![Alternative Method](https://wpsocialninja.com/wp-content/uploads/2022/09/Add-Plugins-‹-Tania-—-WordPress-3-1.png)
 
@@ -57,7 +57,7 @@ _Upload Plugin_
 
 - It’s very simple to update both the Free and Pro version. To do that, you can navigate to the plugin page of your dashboard to check if an update is available.&nbsp;
 
-- If any update is available, just click on the update button. Make sure that the pro version is activated with a valid license key. If you don’t have a license key or the license key is expired, you can purchase a new one or renew the existing one from [**here**](https://wpsocialninja.com/price/#pricing).
+- If any update is available, just click on the update button. Make sure that the pro version is activated with a valid license key. If you don’t have a license key or the license key is expired, you can purchase a new one or renew the existing one from [** here**](https://wpsocialninja.com/price/#pricing).
 
 ### How to Activate the License
 

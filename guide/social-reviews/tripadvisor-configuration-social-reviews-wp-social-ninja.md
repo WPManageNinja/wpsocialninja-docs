@@ -33,7 +33,7 @@ In the API Key restriction section, input your domain name and click the **Save*
 
 ![Tripadvisor API Configuration 3](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-3.webp)
 
-Once you’ve completed the form, your API key will be generated and you will see the domain name you have registered for this API. Just click the **Copy to Clipboard **button to copy the API key.
+Once you’ve completed the form, your API key will be generated and you will see the domain name you have registered for this API. Just click the **Copy to Clipboard** button to copy the API key.
 
 ![Tripadvisor API Configuration 4](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/image.png)
 

@@ -19,20 +19,20 @@ Let's look at how to choose and customize a template. We're using WP Social Ninj
 
 In this article, we’ll show you how to Embed a Facebook Feed with the Beaver page builder by following the below steps-
 
-- Your Facebook account must be authorized to the plugin, and you need an established template. Click on **Launch with Beaver **and start dragging your row layouts or modules.
-- Drag your **WP Social Ninja → Facebook Feeds **from the available modules.
+- Your Facebook account must be authorized to the plugin, and you need an established template. Click on **Launch with Beaver** and start dragging your row layouts or modules.
+- Drag your **WP Social Ninja → Facebook Feeds** from the available modules.
 
 ![WP Social Ninja Facebook Feeds](/guide/public/images/page-builders/beaver-page-builder/fb-beaver-1.png)
 
 _Facebook Feeds_
 
-- Then select a **template **from the dropdown option.
+- Then select a** template** from the dropdown option.
 
 ![Select a template in facebook feed](/guide/public/images/page-builders/beaver-page-builder/fb-beaver2-1.png)
 
 _Select a Template_
 
-- You can style your feeds as you wish by going to the **Style **option.
+- You can style your feeds as you wish by going to the **Style** option.
 - The screenshot below might help you understand how to customize widgets or an existing Facebook Feed.
 
 ![Customize Facebook Feed](/guide/public/images/page-builders/beaver-page-builder/fb-beaver3-1.png)

@@ -5,7 +5,7 @@ description: ""
 
 # Social Reviews
 
-Your business receives valuable **Social Reviews** on multiple social networking sites like **Google** **My Business**, **Facebook**, **Airbnb**, **Yelp**, etc. It’s no surprise you want to add them all to your WordPress site so that you can display all the reviews consecutively.
+Your business receives valuable **Social Reviews** on multiple social networking sites like **GoogleMy Business**, **Facebook**, **Airbnb**, **Yelp**, etc. It’s no surprise you want to add them all to your WordPress site so that you can display all the reviews consecutively.
 
 **WP Social Ninja** will let you add different Reviews on your site in just a&nbsp; few clicks. For instance, Social Platforms like Google My Business and Facebook. WP Social Ninja will help you to add all those sites with zero hassle.
 

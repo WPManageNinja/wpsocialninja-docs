@@ -7,9 +7,7 @@ description: ""
 
 WP Social Ninja Facebook feed settings have unique features to highlight your brand. Let’s see how to customize your Facebook feed easily.
 
-## Feed
-
-**WP Social Ninja** offers detailed **Feed **settings for users with multiple options to customize the feed section.
+## Feed **WP Social Ninja** offers detailed **Feed** settings for users with multiple options to customize the feed section.
 
 After clicking on the Feed, a drop-down menu will appear.
 
@@ -21,7 +19,7 @@ Let's see how each setting option works.
 
 ### Open Post in
 
-This section has three options; **None**, **Open on Facebook** and** Open in Popup Box.**
+This section has three options; **None**, **Open on Facebook**, and **Open in Popup Box**.
 
 ![Open Post In option for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/open-post-in-option-for-facebook-feed-customizatio.png)
 
@@ -31,7 +29,7 @@ Selecting the **Open on Facebook** option will redirect you to the Facebook page
 
 ### Popup
 
-If you select Open in Popup Box, you will find a totally different popup section to customize your popup box with different key features. It has a **Display Sidebar, Display Profile Photo, ****Display User Name, Display Caption, ****Display Date, Display Comments, **and **Display Call to Action **buttons that will help you customize your pop-up.
+If you select Open in Popup Box, you will find a totally different popup section to customize your popup box with different key features. It has a **Display Sidebar**, **Display Profile Photo**, **Display User Name**, **Display Caption**, **Display Date**, **Display Comments**, and **Display Call to Action** buttons that will help you customize your pop-up.
 
 ![Popup Setting bar for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/popup-setting-bar-for-facebook-feed-customization.png)
 
@@ -41,13 +39,13 @@ You can enable or disable each button, depending on your preference.
 
 ### Display Author Photo
 
-Next, you can control your **Display Author Photo **on your website. Decide whether you want to display the Author's photo from here and plan accordingly.
+Next, you can control your **Display Author Photo** on your website. Decide whether you want to display the Author's photo from here and plan accordingly.
 
 ![Display Author Photo for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/display-author-photo-for-facebook-feed-customizati.png)
 
 _Display Author Photo_
 
-For demonstration purposes, we have kept the button enabled. However, if you don’t want to display it on your website,** **turn off the button.
+For demonstration purposes, we have kept the button enabled. However, if you don’t want to display it on your website,turn off the button.
 
 ### Display Author Name
 
@@ -57,7 +55,7 @@ In **Display Author Name**, you can mention the author's name. If you don’t wa
 
 _Display Author Name_
 
-Here, the button is** **enabled, so the Author Name is displayed.
+Here, the button isenabled, so the Author Name is displayed.
 
 ### Display Date
 
@@ -71,13 +69,13 @@ You can turn off the button to hide the display date.
 
 ### Display Description
 
-With the **Display Description** option, you can decide whether to show your** **post description on your website. If you don't want to display the description, disable the button.
+With the **Display Description** option, you can decide whether to show yourpost description on your website. If you don't want to display the description, disable the button.
 
 ![Display Description for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/display-description-for-facebook-feed-customizatio.png)
 
 _Display Description_
 
-However, the **Display Description** button is enabled** **in this screenshot, and now you can see all the descriptions.
+However, the **Display Description** button is enabledin this screenshot, and now you can see all the descriptions.
 
 ### Display Likes Count
 
@@ -109,19 +107,15 @@ _Display Play Icon_
 
 Here we kept it on. You can turn off this option if you want.
 
-### Equal Height
-
-**Equal Height** is another convenient feature. So if you want to maintain an equal height for every post, just enable** **the button.
+### Equal Height **Equal Height** is another convenient feature. So if you want to maintain an equal height for every post, just enablethe button.
 
 ![Equal Height Option for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/equal-height-option-for-facebook-feed-customizatio.png)
 
 _Equal Height_
 
-However, if you don’t want to maintain an Equal Height** **for your post, just turn off the button.
+However, if you don’t want to maintain an Equal Heightfor your post, just turn off the button.
 
-## Header
-
-**Header **settings will appear after the Feed button.
+## Header **Header** settings will appear after the Feed button.
 
 ![Header Settings for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/header-settings-for-facebook-feed-customization.png)
 
@@ -147,11 +141,11 @@ Next, you have to select the page you want to display for your website from the 
 
 _Account to Display_
 
-Here, we have selected our **WP Social Ninja **Facebook page** **to understand better.
+Here, we have selected our **WP Social Ninja **Facebook pageto understand better.
 
 ### Display Cover Photo
 
-You can display your **Cover Photo **at this stage by turning on the button to show.
+You can display your **Cover Photo** at this stage by turning on the button to show.
 
 ![Display Cover Photo for Facebook Feed customization](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/display-cover-photo-for-facebook-feed-customizatio.png)
 
@@ -211,7 +205,7 @@ Now, let's see how the options works.
 
 ### Display Like Button
 
-By clicking the **Display Like Button**, you can turn on/off the** **Like button on your feed.
+By clicking the **Display Like Button**, you can turn on/off theLike button on your feed.
 
 ![Display like button for feed settings](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/Display-Like-Button.png)
 
@@ -227,11 +221,9 @@ Right now, we have three options for Like Button Position; **Header**, **Footer*
 
 _Like Button Position_
 
-We have selected both to display the **Like Button Position** on the header and** **footer sections.
+We have selected both to display the **Like Button Position** on the header andfooter sections.
 
-### Button Text
-
-**Button Text **option will allow you to pick the correct words for your customize button.
+### Button Text **Button Text** option will allow you to pick the correct words for your customize button.
 
 ![Button Text Customization for Facebook Feed](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/button-text-customization-for-facebook-feed.jpg)
 
@@ -241,7 +233,7 @@ So here, you can set your desired button text very easily.
 
 ### Share Button
 
-The **Share Button **is quite similar to Like Button. So here, you can design your Share Button in your own way.
+The **Share Button** is quite similar to Like Button. So here, you can design your Share Button in your own way.
 
 ![Share Button customization for Facebook Feed ](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/Share-Button-1.png)
 
@@ -257,7 +249,7 @@ Do you want to share your presence on the internet? Don’t worry; just turn on 
 
 _Display Share Button_
 
-As you can see in this screenshot, we have turned it** **on. Turn off the** Display Share Button** if you want to** **hide this option.
+As you can see in this screenshot, we have turned iton. Turn off the** Display Share Button** if you want tohide this option.
 
 ### Share Button Position
 
@@ -285,7 +277,7 @@ At this stage, you can adjust the **Pagination** from the settings.
 
 ### Pagination Type
 
-Right now, Pagination has two options; **None **and **Load More**. So you can select any.
+Right now, Pagination has two options; **None** and **Load More**. So you can select any.
 
 ![Pagination Customization for Facebook Feed](/guide/public/images/facebook-feed/how-to-customize-facebook-feed-with-wp-social-ninja/Pagination-type-1.png)
 

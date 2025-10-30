@@ -19,11 +19,11 @@ Both methods share the same basic setup: you’ll create a form, integrate it, d
 
 Here’s why Fluent Forms + WP Social Ninja is better than the default WooCommerce setup:
 
-- Add **custom fields** like review title, product photo, or ratings.
+- Add** custom fields** like review title, product photo, or ratings.
 
-- Collect reviews **beyond WooCommerce products**, e.g., for services, memberships, or courses.
+- Collect reviews** beyond WooCommerce products**, e.g., for services, memberships, or courses.
 
-- Customize how the **“Write a Review” button** looks and works.
+- Customize how the**“Write a Review” button** looks and works.
 
 - Display reviews beautifully inside **WP Social Ninja templates**.
 
@@ -158,7 +158,7 @@ If you’re not using WooCommerce, or if you want reviews on pages like “Case 
 
 Visitors will now see the reviews section along with a **Write a Review** button. When clicked, your Fluent Form opens, and their submission is stored and displayed in the template.
 
-Example: You run an **online coaching program**. On your “Student Testimonials” page, you add the shortcode for your custom review template. Students can click **Write a Review**, leave their feedback, and their testimonial appears directly on the page.
+Example: You run an** online coaching program**. On your “Student Testimonials” page, you add the shortcode for your custom review template. Students can click **Write a Review**, leave their feedback, and their testimonial appears directly on the page.
 
 ### **Final Thoughts**
 

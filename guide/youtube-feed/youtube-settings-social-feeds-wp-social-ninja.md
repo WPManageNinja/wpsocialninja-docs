@@ -3,13 +3,11 @@ title: "YouTube Settings"
 description: ""
 ---
 
-# YouTube Settings
-
-**WP Social Ninja** allows its users to have a complete advantage of the features. YouTube Feed has a detailed Settings section.
+# YouTube Settings **WP Social Ninja** allows its users to have a complete advantage of the features. YouTube Feed has a detailed Settings section.
 
 ## **Filters**
 
-This feature has various options to filter specific videos according to your requirements. Enter the** Number of Videos to Display** by clicking the +/- icon. You can choose in what order you want to display your posts using the **Posts Order **option. Currently, there are five options available; Ascending, Descending, Most Popular, Least Popular &amp; Random.
+This feature has various options to filter specific videos according to your requirements. Enter the** Number of Videos to Display** by clicking the +/- icon. You can choose in what order you want to display your posts using the **Posts Order** option. Currently, there are five options available; Ascending, Descending, Most Popular, Least Popular &amp; Random.
 
 Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the description. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way. The **Hide Specific Videos** option lets you  find the ID of a video by viewing the video on YouTube and copy/paste the ID number from the end of the URL
 ex: https://www.youtube.com/watch?v=azeHzcW5OgY [ in this URL ID is "azeHzcW5OgY" ]
@@ -34,7 +32,7 @@ Different Play Mode has additional features. Here we have selected **Inline Play
 
 _Gallery_
 
-For example, if you select **Gallery Play Mode, **the** Social Feed **will look like a Gallery. However, you can also select **PopUp** or **Redirect to YouTube**.
+For example, if you select **Gallery Play Mode, ** the** Social Feed** will look like a Gallery. However, you can also select **PopUp** or **Redirect to YouTube**.
 
 If you select **Popup,** your YouTube Feed Videos will automatically Popup when you click on it. Similarly, for **Redirect to YouTube,** once you click on the videos, you will be directly taken to YouTube.
 
@@ -56,7 +54,7 @@ Next is Display Duration. Here, you can take control of your **YouTube Videos Di
 
 _Display Duration_
 
-In this screenshot, you can see the **Display Duration **button is enabled. Disable the button if you want to hide the Display Duration.
+In this screenshot, you can see the **Display Duration** button is enabled. Disable the button if you want to hide the Display Duration.
 
 ### **Display Title**
 
@@ -96,7 +94,7 @@ In this section, you are allowed to personalize the **Display Views Counter** wi
 
 _Display Views Counter_
 
-To hide the** Views Counter,** you can disable the **Display Views Counter **button.
+To hide the** Views Counter,** you can disable the **Display Views Counter** button.
 
 ### **Display Likes Counter**
 
@@ -218,13 +216,13 @@ At this stage, you can choose to adjust the **Display Description** by clicking 
 
 _Display Description_
 
-Display Description is showing as the button is enabled. Turn off the button if you don’t want to display the **Description **on the Feed.
+Display Description is showing as the button is enabled. Turn off the button if you don’t want to display the **Description** on the Feed.
 
 Once you are done, click on the **Save Templates** button.
 
 ## **Subscribe Button**
 
-In this segment, you can display your Subscribe Button by enabling the **Display Subscribe **button. However, turn it off if you don’t want to display it. You can set the **Subscribe Button Position **as either **Header, Footer, or Both. **Add your desired text to your subscribe button using the **Button Text **option.
+In this segment, you can display your Subscribe Button by enabling the **Display Subscribe** button. However, turn it off if you don’t want to display it. You can set the **Subscribe Button Position** as either **Header, Footer, or Both. **Add your desired text to your subscribe button using the **Button Text** option.
 
 ![Subscribe Button](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube_subscribe-1024x514-1.png)
 
@@ -254,12 +252,12 @@ _Front End | Load More_
 
 Front End view of the **Pagination Settings Load More** option.
 
-From here, you can adjust your** Videos Per Page **number according to your preference. You can also choose the **Prev Next **option to display your videos or select **None** to hide the pagination.
+From here, you can adjust your** Videos Per Page** number according to your preference. You can also choose the **Prev Next** option to display your videos or select **None** to hide the pagination.
 
 ![Previous Next ](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/prev_next_pagination-1024x631.png)
 
 _Previous Next_
 
-Now click on the** Save Template **button to preserve all your settings.
+Now click on the** Save Template** button to preserve all your settings.
 
 Also, check out - **[YouTube Template Layout](./youtube-feed-layout-social-feeds-wp-social-ninja)**

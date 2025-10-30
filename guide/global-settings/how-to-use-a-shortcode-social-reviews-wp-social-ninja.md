@@ -21,7 +21,7 @@ _List of Shortcode_
 
 - Here, you can see all the **Shortcodes**.
 
-- You can **Click **to copy the shortcode** **or **Edit** your previous Templates. The best part is you don’t have to create a new **Shortcode** again.
+- You can **Click** to copy the shortcodeor **Edit** your previous Templates. The best part is you don’t have to create a new **Shortcode** again.
 
 ![Edit button](/guide/public/images/global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-3-1.png)
 

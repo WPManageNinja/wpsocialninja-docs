@@ -3,9 +3,7 @@ title: "Template Layout"
 description: ""
 ---
 
-# Template Layout
-
-**WP Social Ninja** is a diverse plugin. Along with Social Reviews and Feeds, this plugin offers a **Social Chat** option on your website.&nbsp;
+# Template Layout **WP Social Ninja** is a diverse plugin. Along with Social Reviews and Feeds, this plugin offers a **Social Chat** option on your website.&nbsp;
 
 Communication is the most crucial thing for any business. The good news is, that WP Social Ninja will let you use your Social Chat accounts to excel in business.&nbsp;
 
@@ -15,11 +13,11 @@ Here, you can change every **Template Layout** similarly to every Platform in So
 
 Template Layout is a various option you will enjoy with WP Social Ninja. With a wide range of available templates, you will be able to select a social chat interface that suits your website the most.
 
-Let’s check out how you can customize your **Social Chat Template Layout **by using your **Telegram** account.
+Let’s check out how you can customize your **Social Chat Template Layout** by using your **Telegram** account.
 
 ### Layout Type
 
-If you click on the Template option, you will see the **Layout Type **dropdown option. There are two types of Layout: **Chat Box &amp; Only Icons.**
+If you click on the Template option, you will see the **Layout Type** dropdown option. There are two types of Layout: **Chat Box &amp; Only Icons.**
 
 ![Layout Type](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_box_layout.png)
 
@@ -29,7 +27,7 @@ If you choose Only Icons, then you will notice a Floating icon appearing.
 
 ![](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/only_icons_layout.png)
 
-### **Template Types **
+### **Template Types**
 
 Here, from the right sidebar, click on the **Template** option.
 

@@ -13,13 +13,13 @@ How would it sound if you can add a chatting option on your WordPress site?
 
 _Chat widgets settings_
 
-To be more precise, on your WordPress Site, you can also add **Social Chat **apps like **Messenger**. This will make your communication a lot easier and help you connect with more people wasting zero time.
+To be more precise, on your WordPress Site, you can also add **Social Chat** apps like **Messenger**. This will make your communication a lot easier and help you connect with more people wasting zero time.
 
 ![Social Chats](/guide/public/images/social-chat/social-chat-wp-social-ninja/social_chats.png)
 
 _Social Chats_
 
-**WP Social Ninja** now has a unique **All-in-One Chat **feature where you can create multiple Chat Widgets simultaneously!
+**WP Social Ninja** now has a unique **All-in-One Chat** feature where you can create multiple Chat Widgets simultaneously!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C63r6mvs9OA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

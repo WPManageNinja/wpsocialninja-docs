@@ -3,7 +3,7 @@ title: "Connecting A Facebook Page Using Access Token | Social Feed"
 description: ""
 ---
 
-# Connecting A Facebook Page Using Access Token | Social Feed
+# Connecting A Facebook Page Using Access Token
 
 If you want to display your Facebook feed on your website with **WP Social Ninja**, it comes up with multiple options for the configuration process. This is to ease your work, and you can get your account processed more specifically.
 
@@ -43,7 +43,7 @@ _Facebook Feed Access token generator_
 
 _Get Page ID &amp; Access Token_
 
-- Lastly, paste the code in the **Access Token **box and finally complete the configuration done with clicking the button **Connect.**
+- Lastly, paste the code in the **Access Token** box and finally complete the configuration done with clicking the button **Connect.**
 
 ![Enter the Facebook Access token code &amp; Connect](/guide/public/images/facebook-feed/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
 

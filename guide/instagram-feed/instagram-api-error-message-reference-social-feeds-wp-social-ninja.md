@@ -5,7 +5,7 @@ description: ""
 
 # Instagram API Error Message Reference
 
-This possible **API Error **could happen when an API error arises on Instagram. We have tried to discuss the possible reasons and solutions here.
+This possible **API Error** could happen when an API error arises on Instagram. We have tried to discuss the possible reasons and solutions here.
 
 ## **API error 803: (#803) Some of the aliases you requested do not exist: xxxxxxxxxxxxxxx**
 
@@ -23,7 +23,7 @@ If you encounter this error with your access token, it might be due to a recent 
 
 To resolve the error, you can follow these steps:
 
-1. Remove your Instagram account from the **Dashboard &gt; Template **
+1. Remove your Instagram account from the **Dashboard &gt; Template**
 
 2. Reconnect your account to the plugin
 

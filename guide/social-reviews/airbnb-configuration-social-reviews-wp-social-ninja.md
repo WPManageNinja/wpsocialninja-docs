@@ -15,7 +15,7 @@ This guide will show you how to connect your Airbnb reviews to WP Social Ninja.
 
 Unlike other platforms, Airbnb does not offer a public API that allows plugins like WP Social Ninja to easily fetch reviews. The standard connection method may not work reliably.
 
-To solve this, we will use a manual workaround. This process involves finding a unique **API Key** and **Secret Key **from your Airbnb listing page. By adding these keys to your WordPress site, you give WP Social Ninja the credentials it needs to securely and successfully fetch your reviews.
+To solve this, we will use a manual workaround. This process involves finding a unique **API Key** and **Secret Key** from your Airbnb listing page. By adding these keys to your WordPress site, you give WP Social Ninja the credentials it needs to securely and successfully fetch your reviews.
 
 **Disclaimer**: This method uses Airbnb's internal development tools. Because it is not an official public solution, Airbnb may change these keys in the future, which could cause the connection to break. If this happens, you will need to repeat this process to get the new keys.
 
@@ -131,7 +131,7 @@ To make these keys work, you need to add a small code snippet to your WordPress 
 
 - **Create a New Snippet**
 
-<li>Go to **FleuntSnippets → Add New** **Snippet**.
+<li>Go to **FleuntSnippets → Add NewSnippet**.
 
 - Give your snippet a title, like "Airbnb API Keys for WP Social Ninja".
 
@@ -170,11 +170,9 @@ add_filter('wpsocialreviews/airbnb_experiences_api_secret_key', function(){
     return 'bc.....';
 });`</pre>
 
-::: tip
+::: tip **Important: First Three Keys Are Required**
 
-**Important: First Three Keys Are Required**
-
-To ensure a complete and successful connection for your Airbnb, you **must** provide first three of the following keys in your code snippet. The integration will not work correctly without them.
+To ensure a complete and successful connection for your Airbnb, you** must** provide first three of the following keys in your code snippet. The integration will not work correctly without them.
 
 - **The Main API Key:** This is the master key for the connection.
 
@@ -188,7 +186,7 @@ Click the **Save Snippets and Activate** button at the top of the page.
 
 ## **Airbnb Configuration**
 
-To add **Airbnb Reviews **on your site, it is obvious that you need somehow to connect with the Airbnb server to fetch the reviews from their repositories; however, it is not a difficult task for the non-techies as we have created the easiest way to aggregate reviews.
+To add **Airbnb Reviews** on your site, it is obvious that you need somehow to connect with the Airbnb server to fetch the reviews from their repositories; however, it is not a difficult task for the non-techies as we have created the easiest way to aggregate reviews.
 
 To add Airbnb Reviews to your site, first, click on Airbnb.
 
@@ -210,10 +208,10 @@ Your template is now ready! From here, you can customize it the way you like. Fo
 
 ![airbnb platform 5](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-platform-5-scaled.webp)
 
-You can fetch up to **100 reviews** for each business on your site. If you’re using the **free version of WP Social Ninja**, you can fetch a maximum of **5 Airbnb reviews**.
+You can fetch up to **100 reviews** for each business on your site. If you're using the **free version of WP Social Ninja**, you can fetch a maximum of **5 Airbnb reviews**.
 
 However, downloading reviews sometimes might take some time. If you want, you can delete this account by clicking on the **Cross** icon.
 
-You can even include additional business accounts when clicking the **Add More Business **button. Just enter the business name the same way as before &amp; click the **Save **button.
+You can even include additional business accounts when clicking the **Add More Business** button. Just enter the business name the same way as before &amp; click the **Save** button.
 
 You can also check out - **[Social Reviews](./social-media-reviews-wp-social-ninja)**

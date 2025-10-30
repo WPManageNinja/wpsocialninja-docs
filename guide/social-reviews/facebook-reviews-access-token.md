@@ -19,7 +19,7 @@ Let’s move to the steps;
 
 ## Manually Connect a Page
 
-- To get your Facebook reviews with the manual configuration of **WP Social Ninja, **first of all, step across the configuration part from the dashboard.
+- To get your Facebook reviews with the manual configuration of **WP Social Ninja, ** first of all, step across the configuration part from the dashboard.
 
 ![](/guide/public/images/social-reviews/facebook-reviews-access-token/image-1.png)
 
@@ -29,7 +29,7 @@ Let’s move to the steps;
 
 _Facebook reviews access token generator page_
 
-- Under the **Facebook Reviews, **click on the **Continue with Facebook **button. This will redirect you to the page where you get the **Page ID** and **Access Token**. Copy them.
+- Under the **Facebook Reviews, ** click on the **Continue with Facebook** button. This will redirect you to the page where you get the **Page ID** and **Access Token**. Copy them.
 
 ![Get the Page ID &amp; Access Token](/guide/public/images/social-reviews/facebook-reviews-access-token/get-the-page-id-amp-access-token.png)
 

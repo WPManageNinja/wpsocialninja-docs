@@ -5,7 +5,7 @@ description: ""
 
 # All-in-One Configuration
 
-Have you thought about adding **Messenger Chat** or any other Social Chat platform to your WordPress site? The **All-in-One Chat **feature will definitely speed up the connection with the customers in the fastest way possible.
+Have you thought about adding **Messenger Chat** or any other Social Chat platform to your WordPress site? The **All-in-One Chat** feature will definitely speed up the connection with the customers in the fastest way possible.
 
 **WP Social Ninja** has an amazing feature to connect multiple Social Chats so you can communicate with the world in a minute. This process is extremely safe and doesn’t hamper your privacy. Let’s look at how you can attach the following platforms to your Page.
 
@@ -15,7 +15,7 @@ Have you thought about adding **Messenger Chat** or any other Social Chat platfo
 
 _Messenger Configuration_
 
-To begin, click the **Create New Widget **button to add a new chat widget. Then click the **Add Channel **button to connect to the chat widget &amp; select the Messenger icon.
+To begin, click the **Create New Widget** button to add a new chat widget. Then click the **Add Channel** button to connect to the chat widget &amp; select the Messenger icon.
 
 ![Add Channel](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/add_channel-1024x445-1.png)
 
@@ -33,19 +33,19 @@ Login to your Facebook account. Suppose you need a User ID. The first thing you 
 
 _Obtaining User ID_
 
-Here, you can see the URL, **facebook.com/gutend3v**. In order to get the user’s id, copy after the slash and paste it on the **Messenger Configuration**. For instance, **gutend3v**.
+Here, you can see the URL, ** facebook.com/gutend3v**. In order to get the user’s id, copy after the slash and paste it on the **Messenger Configuration**. For instance, ** gutend3v**.
 
 ![User ID Configuration ](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_userid.png)
 
 _User ID Configuration_
 
-Now, click on the **Save** button, and you will get a Success notification. You can click on the **Edit** icon to edit the link or the **Delete **icon to delete it.
+Now, click on the **Save** button, and you will get a Success notification. You can click on the **Edit** icon to edit the link or the **Delete** icon to delete it.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_success.png)
 
 ### **Page ID**
 
-Similarly, you need a **Page ID **or **Group ID** to configure. However, some IDs may vary, but the process is just the same. Let’s dive in.
+Similarly, you need a **Page ID** or **Group ID** to configure. However, some IDs may vary, but the process is just the same. Let’s dive in.
 
 ![messenger configuration obtaining page id](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/obtaining_page_id.png)
 
@@ -57,7 +57,7 @@ Similar to **User ID**, you can click on the URL and copy the ID after the last 
 
 Ever considered adding WhatsApp Chat to your WordPress site? This will increase your business and open a network to connect with customers easily.&nbsp; Let’s look at how you can attach **WhatsApp** to your Page.&nbsp;
 
-First, click on the **Add Channel **button &amp; tap the Whatsapp icon.
+First, click on the **Add Channel** button &amp; tap the Whatsapp icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_channel.png)
 
@@ -65,7 +65,7 @@ Here, you need to provide your country &amp; phone number, then Click **Save**. 
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_connect.png)
 
-Click on the Whatsapp **icon **to take you to the Whatsapp chat page.
+Click on the Whatsapp** icon** to take you to the Whatsapp chat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_icon.png)
 
@@ -73,15 +73,15 @@ Click on the Whatsapp **icon **to take you to the Whatsapp chat page.
 
 How about you add your Telegram account to your website to communicate with the customers?&nbsp;You can now connect your Telegram account and get in touch with the world in a few clicks.  Let’s take a look at the screenshots below to know how you can attach Telegram to your website.
 
-Firstly,  click on the **Add Channel **button &amp; tap the Telegram icon. &nbsp;
+Firstly,  click on the **Add Channel** button &amp; tap the Telegram icon. &nbsp;
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_channel.png)
 
-Here, you need to provide your **User ID/link **and Click on the **Save **button.
+Here, you need to provide your **User ID/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_connect.png)
 
-Once you have successfully saved the Telegram User ID, click on the Whatsapp **icon **to take you to the Telegram Chat App.
+Once you have successfully saved the Telegram User ID, click on the Whatsapp** icon** to take you to the Telegram Chat App.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_icon.png)
 
@@ -89,71 +89,71 @@ Once you have successfully saved the Telegram User ID, click on the Whatsapp **i
 
 Lack of proper communication can cause a loss of potential customers to your business. How about you add your Instagram account to your website to communicate with the customers?&nbsp; Let’s take a look at how you can attach Instagram to your website.&nbsp;
 
-First, click on the **Add Channel **button &amp; tap the Instagram icon.
+First, click on the **Add Channel** button &amp; tap the Instagram icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/instagram_channel.png)
 
-Then you need to provide your Instagram **username/link **and Click on the **Save **button.
+Then you need to provide your Instagram** username/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/insta_connect.png)
 
-Now, the Instagram chat widget will be connected. Click on the Instagram **icon **to take you to the Instagram chat page.
+Now, the Instagram chat widget will be connected. Click on the Instagram** icon** to take you to the Instagram chat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/insta_icon.png)
 
 ## **Twitter Configuration**
 
-First, click the **Add Channel **button to connect to the chat widget &amp; select the Twitter icon.
+First, click the **Add Channel** button to connect to the chat widget &amp; select the Twitter icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/WP-Social-Ninja-.png)
 
-Here, you need to provide your **Twitter username/link **and Click on the **Save **button.
+Here, you need to provide your **Twitter username/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/twitter-connect.png)
 
-Now, click on the Twitter **icon **on the chat bubble to take you to the Twitter App page.
+Now, click on the Twitter** icon** on the chat bubble to take you to the Twitter App page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/twitter_icon.png)
 
 ## **Slack Configuration**
 
-First, click the **Add Channel **button to connect to the chat widget &amp; select the Slack icon.
+First, click the **Add Channel** button to connect to the chat widget &amp; select the Slack icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_channel.png)
 
-Here, you need to provide your **Slack username/link **and Click on the **Save **button.
+Here, you need to provide your **Slack username/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_connect.png)
 
-Now, click the Slack **icon **on the chat bubble to take you to the Slack App page.
+Now, click the Slack** icon** on the chat bubble to take you to the Slack App page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_icon.png)
 
 ## **Skype Configuration**
 
-First, click the **Add Channel **button to connect to the chat widget &amp; select the Skype icon.
+First, click the **Add Channel** button to connect to the chat widget &amp; select the Skype icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_channel.png)
 
-Here, you need to provide your **Skype username **and Click on the **Save **button.
+Here, you need to provide your **Skype username** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_connect.png)
 
-Now, click the Skype **icon **on the chat bubble to take you to the Skype App page.
+Now, click the Skype** icon** on the chat bubble to take you to the Skype App page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_icon.png)
 
 ## **Phone Configuration**
 
-First, click the **Add Channel **button to connect to the chat widget &amp; select the Phone icon.
+First, click the **Add Channel** button to connect to the chat widget &amp; select the Phone icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_channel-1.png)
 
-Here, you need to provide your **Phone number **and Click on the **Save **button.
+Here, you need to provide your **Phone number** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_connect.png)
 
-Now, click on the **Start Chat with, **the button on the chat bubble to take you to the Phone page.
+Now, click on the **Start Chat with, ** the button on the chat bubble to take you to the Phone page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_icon.png)
 
@@ -177,35 +177,35 @@ Finally, click the **Save** button to apply your changes.
 
 ## **Email Configuration**
 
-To configure Email, click the **Add Channel **button to connect to the chat widget &amp; select the **Email** icon.
+To configure Email, click the **Add Channel** button to connect to the chat widget &amp; select the **Email** icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_channel.png)
 
-Here, you need to provide your **Email Address **and Click on the **Save **button.
+Here, you need to provide your **Email Address** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_connect.png)
 
-Now, click on the **Email **icon on the chat bubble to take you to the Email page.
+Now, click on the **Email** icon on the chat bubble to take you to the Email page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_icon.png)
 
 ## **WeChat Configuration**
 
-To configure WeChat, click the **Add Channel **button to connect the chat widget &amp; select the WeChat icon.
+To configure WeChat, click the **Add Channel** button to connect the chat widget &amp; select the WeChat icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_channel.png)
 
-Here, you need to provide your **WeChat User ID **and Click on the **Save **button.
+Here, you need to provide your **WeChat User ID** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_connect.png)
 
-Now, click on the **WeChat **icon on the chat bubble to take you to the WeChat page.
+Now, click on the **WeChat** icon on the chat bubble to take you to the WeChat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_icon.png)
 
 ## **Added Instagram DM chat widget. (Pro)**
 
-To add the Instagram Direct Message widget, click on the **Add Channel **button.
+To add the Instagram Direct Message widget, click on the **Add Channel** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-1.png)
 
@@ -221,7 +221,7 @@ If you’d like to update the label for your Instagram DM channel, you can do th
 
 ## **Microsoft Teams**
 
-To add the **Microsoft Teams** widget, click on the **Add Channel **button.
+To add the **Microsoft Teams** widget, click on the **Add Channel** button.
 
 ![sms chat widget 1](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/SMS-Chat-Widget-1-1.webp)
 
@@ -239,63 +239,63 @@ Hope you get the idea about the URL format now enter your Microsoft team URL:
 
 ## **Line Configuration**
 
-First, click the **Add Channel **button to connect the chat widget &amp; select the Line icon.
+First, click the **Add Channel** button to connect the chat widget &amp; select the Line icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_channel.png)
 
-Here, you need to provide your **Line ID/link **and Click on the **Save **button.
+Here, you need to provide your **Line ID/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_connect.png)
 
-Then click on the **Line **icon on the chat bubble to take you to the Line chat page.
+Then click on the **Line** icon on the chat bubble to take you to the Line chat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_icon.png)
 
 ## **Snapchat Configuration**
 
-First, click the **Add Channel **button to connect to the chat widget &amp; select the Snapchat icon.
+First, click the **Add Channel** button to connect to the chat widget &amp; select the Snapchat icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_channel.png)
 
-Here, you need to provide your **Snapchat username **and Click on the **Save **button.
+Here, you need to provide your **Snapchat username** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_connect.png)
 
-Then click on the **Snapchat **icon on the chat bubble to take you to the Snapchat page.
+Then click on the **Snapchat** icon on the chat bubble to take you to the Snapchat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_icon.png)
 
 ## **Linkedin Configuration**
 
-To configure Linkedin, click the **Add Channel **button to connect the chat widget &amp; select the Linkedin icon.
+To configure Linkedin, click the **Add Channel** button to connect the chat widget &amp; select the Linkedin icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_channel.png)
 
-Here, you need to provide your **Linkedin username/link **and Click on the **Save **button.
+Here, you need to provide your **Linkedin username/link** and Click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_connect.png)
 
-Then click on the **Snapchat **icon on the chat bubble that will take you to the Linkedin page.
+Then click on the **Snapchat** icon on the chat bubble that will take you to the Linkedin page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_icon.png)
 
 ## **Viber Configuration**
 
-To configure Viber, click the **Add Channel **button to connect the chat widget &amp; select the Viber icon.
+To configure Viber, click the **Add Channel** button to connect the chat widget &amp; select the Viber icon.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_channel.png)
 
-Here, you need to provide your **Viber mobile number **and click on the **Save **button.
+Here, you need to provide your **Viber mobile number** and click on the **Save** button.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_connect.png)
 
-Then click on the **Viber **icon on the chat bubble that will take you to the Viber chat page.
+Then click on the **Viber** icon on the chat bubble that will take you to the Viber chat page.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_icon.png)
 
 ## Chat Widget Drag and Drop
 
-WP Social Ninja now lets you reorder chat widgets effortlessly using the **drag-and-drop** feature. This makes organizing your chat widgets more convenient.
+WP Social Ninja now lets you reorder chat widgets effortlessly using the** drag-and-drop** feature. This makes organizing your chat widgets more convenient.
 
 To use this feature, go to the **Chat Widget Template** from the **Template Settings** in WP Social Ninja. Select the **Channels** section, where you'll see all the chat channels you've connected.&nbsp;
 
@@ -313,7 +313,7 @@ You already got to know how to connect Fluent Forms with WP Social Ninja to coll
 
 The best part is collecting your visitors’ information without disturbing their scrolling.
 
-To do so, go to **Chat Widget **and click on **Add New Widget.**
+To do so, go to **Chat Widget** and click on **Add New Widget.**
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-4.png)
 
@@ -321,7 +321,7 @@ Once you are in, go to the **Channels** and click on **Add Channel. **A new box 
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-5.png)
 
-To connect Fluent Forms with the social chat widget, you need to paste the **form's Shortcode** in the box. So, paste the copied Shortcode in the **Paste your Fluent Form shortcode **box.
+To connect Fluent Forms with the social chat widget, you need to paste the** form's Shortcode** in the box. So, paste the copied Shortcode in the **Paste your Fluent Form shortcode** box.
 
 ![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-6.png)
 

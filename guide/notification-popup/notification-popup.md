@@ -5,19 +5,19 @@ description: ""
 
 # Notification Popup
 
-With the most exclusive **Notification** **Popup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
+With the most exclusive **NotificationPopup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
 
 ## Notification Popup
 
 Let’s see how we can configure a new Notification Popup in just a few minutes.
 
-- To design a template, you need to go to the **Notification Popup**s tab first.&nbsp;
+- To design a template, you need to go to the **Notification Popup** s tab first.&nbsp;
 
 ![Notification Popup Section](/guide/public/images/notification-popup/notification-popup/Notification_popup-1.png)
 
 _Notification Popup Section_
 
-- Then, **click** on **Add New Popup** button to start designing a new Notification Popup.
+- Then, ** click** on **Add New Popup** button to start designing a new Notification Popup.
 
 ![Add New Popup Button](/guide/public/images/notification-popup/notification-popup/add-new-popup-button.png)
 
@@ -45,7 +45,7 @@ Let’s look at the Notification Popup settings and how to adjust them on your w
 
 ### Custom Notification Title
 
-WP Social Ninja also lets you modify the **Custom Notification Title **to lock your website visitors then and there.
+WP Social Ninja also lets you modify the **Custom Notification Title** to lock your website visitors then and there.
 
 - To do it, go to the** Custom Notification Title**, set the number of rating scales, and show it on your notification popup.
 
@@ -57,7 +57,7 @@ _Custom Notification Title_
 
 ### Notification Position
 
-- Next, go to the **Notification** tab from the sidebar and set Notification Positions. You can adjust your Notification Position in two ways: Left** **to** Right.**
+- Next, go to the **Notification** tab from the sidebar and set Notification Positions. You can adjust your Notification Position in two ways: Left to **Right**.
 
 ![Notification Position](/guide/public/images/notification-popup/notification-popup/notification-position.png)
 
@@ -67,13 +67,13 @@ _Notification Position_
 
 ### Display Reviews in Popup Box
 
-- Next, if your customers want to see all the reviews when they click on the popup, enable the **Display Reviews in Popup Box **button. In case.
+- Next, if your customers want to see all the reviews when they click on the popup, enable the **Display Reviews in Popup Box** button. In case.
 
 ![Display Reviews Popup Box](/guide/public/images/notification-popup/notification-popup/display-reviews-popup-box.png)
 
 _Display Reviews Popup Box_
 
-- In case, if you don’t want to show reviews on click, then **disable** the option.
+- In case, if you don’t want to show reviews on click, then** disable** the option.
 
 ### Include Pages to Display Notification
 
@@ -147,7 +147,7 @@ _Display Read All Reviews_
 
 ### Initial Delay
 
-- From now on, we have the **Initial Delay **option. So WP Social Ninja has the power to control the timing of your initial notification delay for the popup.
+- From now on, we have the **Initial Delay** option. So WP Social Ninja has the power to control the timing of your initial notification delay for the popup.
 
 ![Initial Delay](/guide/public/images/notification-popup/notification-popup/initial-delay.png)
 
@@ -177,7 +177,7 @@ _Display For Option_
 
 - Once you’re done, click on the **Save** button to preserve all your settings.
 
-- Now you can set up your **Filters**,** Settings**, **Header**, **Pagination**,** Schema Snippet**, and **Priority **settings just like you will do with any other template style.
+- Now you can set up your **Filters**,** Settings**, **Header**, **Pagination**,** Schema Snippet**, and **Priority** settings just like you will do with any other template style.
 
 ![Other Features](/guide/public/images/notification-popup/notification-popup/other-features.png)
 

@@ -53,7 +53,7 @@ Once done, click the **Save Changes** button and you’ll now see your API key. 
 
 ## **Yelp Place ID&nbsp;**
 
-You can find your **Place ID** in the URL of your business account. To get your Yelp **Place ID**, visit [Yelp](https://www.yelp.com/) and search for your business. Then, copy your **business account name** directly from the **URL**, as shown in the screenshot below.
+You can find your **Place ID** in the URL of your business account. To get your Yelp **Place ID**, visit [Yelp](https://www.yelp.com/) and search for your business. Then, copy your** business account name** directly from the **URL**, as shown in the screenshot below.
 
 ![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-6-scaled.webp)
 
@@ -63,7 +63,7 @@ Paste the **API Key** and **Place ID** into the **Yelp Configuration** section i
 
 ![](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-7-scaled.webp)
 
-Your business account will now be connected to WP Social Ninja. To add more businesses, simply click the **Add More Business **button. You’ll also see a **Create a Template** button, which allows you to organize how the reviews will be displayed on your site.
+Your business account will now be connected to WP Social Ninja. To add more businesses, simply click the **Add More Business** button. You’ll also see a **Create a Template** button, which allows you to organize how the reviews will be displayed on your site.
 
 ![](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-8-scaled.webp)
 

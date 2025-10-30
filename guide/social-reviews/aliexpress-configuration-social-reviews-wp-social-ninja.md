@@ -21,7 +21,7 @@ _AliExpress Configuration_
 
 In this section, **AliExpress Places Configuration,** you have to **Create a Template**.&nbsp;
 
-First of all, insert your **AliExpress Product ID **and **Product Name**. Go to the [ALiExpress](https://www.aliexpress.com/) site and select the product you want to show review then copy the product ID from the URL section and also copy the product name. Provide the correct inputs and click on save, and you will be notified with a Successful green** **message.&nbsp;
+First of all, insert your **AliExpress Product ID** and **Product Name**. Go to the [ALiExpress](https://www.aliexpress.com/) site and select the product you want to show review then copy the product ID from the URL section and also copy the product name. Provide the correct inputs and click on save, and you will be notified with a Successful greenmessage.&nbsp;
 
 ![](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/Aliexpress-WP-Social.png)
 

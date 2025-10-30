@@ -5,7 +5,7 @@ description: ""
 
 # Facebook Feed Layout Settings
 
-**WP Social Ninja **always offers unique and customized **Social Feeds **options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout. **As a result, you can show your brand identity in your way.
+**WP Social Ninja** always offers unique and customized **Social Feeds** options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout.** As a result, you can show your brand identity in your way.
 
 ## Facebook Feed Layout
 
@@ -13,7 +13,7 @@ Let’s have a look at how to customize your Facebook feed Layout
 
 ### Source
 
-To change the layout**,** click on the **Source Button** and then on **Feed Type**. A drop-down menu will appear at the top of the right side of your dashboard.
+To change the layout, click on the **Source Button** and then on **Feed Type**. A drop-down menu will appear at the top of the right side of your dashboard.
 
 ### Feed Type
 
@@ -27,19 +27,19 @@ Similarly, you can choose any **Feed Type** from this section and show your soci
 
 ### Select Pages
 
-After selecting the Feed Type, you have to select the pages from the **Select Pages **option from where you want to collect your Facebook content.
+After selecting the Feed Type, you have to select the pages from the **Select Pages** option from where you want to collect your Facebook content.
 
 ![Select Pages for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Image-2.png)
 
 _Select Pages_
 
-Here, we have selected the **WP Social Ninja **Facebook page. You can choose multiple pages from here.
+Here, we have selected the **WP Social Ninja** Facebook page. You can choose multiple pages from here.
 
 ### Total Feed
 
 This input field will allow you to set how many posts to retrieve from Facebook. Here you have the option to show a maximum of 100 posts from the Facebook page.
 
-Once you select the page and set the number for** Total Feed**, Click on the **Fetch Feeds **button.
+Once you select the page and set the number for **Total Feed**, Click on the **Fetch Feeds** button.
 
 ![Fetch Feeds for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/fetch-feeds-for-facebook-feed-layout-styling.png)
 
@@ -55,7 +55,7 @@ The Facebook feed has several pretty Template features for you. Let’s check ou
 
 ### Layout Type
 
-The** **Template has **Layout Types **to change your Facebook feed style on the right side. You can find a few options if you click on the drop-down menu.
+TheTemplate has **Layout Types** to change your Facebook feed style on the right side. You can find a few options if you click on the drop-down menu.
 
 Currently, we have **Timeline**, **Grid**, **Masonry**, and **Carousel**. You can select a template for layout, number of columns, and column gap.
 
@@ -67,7 +67,7 @@ Select any **Layout Type** that suits your brand.
 
 ### Carousel Setting
 
-Suppose, If you select **Carousel **Layout Type, a new Setting** **will appear.
+Suppose, If you select **Carousel** Layout Type, a new Setting will appear.
 
 ![Carousel Settings for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Carousel-Settings.png)
 
@@ -83,7 +83,7 @@ This section can help you display your Facebook posts in **Autoplay** mode.
 
 _Autoplay Settings_
 
-Turn off the button** **if you don't want to use Autoplay.
+Turn off the buttonif you don't want to use Autoplay.
 
 ### Autoplay Speed
 
@@ -151,11 +151,11 @@ In this section, you can change the **Number of Columns**.
 
 _Number of Columns_
 
-Here you can set the website columns you want to display. Right now, we have seven ways to sort the Number of Columns; **1 Column **to** 6 Column**s. Select any that compliments your brand.
+Here you can set the website columns you want to display. Right now, we have seven ways to sort the Number of Columns; **1 Column** to **6 Columns**. Select any that compliments your brand.
 
 ### Columns Gap
 
-Next is **Columns Gap**; right now, we have five types of** **Columns Gaps available; **No Gap, Narrow, Small, Wide,** and** Wider**.
+Next is **Columns Gap**; right now, we have five types of Columns Gaps available; **No Gap**, **Narrow**, **Small**, **Wide**, and **Wider**.
 
 ![Column gap for layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Column-Gap.png)
 
@@ -205,7 +205,7 @@ Example: #SocialMedia. Moreover, with the **Hide posts containing these words or
 
 ### Hide Specific Feeds
 
-The **Hide Specific Feeds **option lets you hide a particular post by its Post ID.** **You can** **find the post's ID by clicking on the Facebook icon on the post and then copying &amp; pasting the** ID Number** from the end of the URL.
+The **Hide Specific Feeds** option lets you hide a particular post by its Post ID.You canfind the post's ID by clicking on the Facebook icon on the post and then copying &amp; pasting the** ID Number** from the end of the URL.
 
 Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
 
@@ -213,7 +213,7 @@ Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
 
 _Hide Specific Feeds_
 
-Make sure you select the ID Number correctly and copy and paste it into the **Hide Specific Feeds** field. The ID will look like **[ 247142819117912 ]. **After you have completed it, this will automatically update your feed.
+Make sure you select the ID Number correctly and copy and paste it into the **Hide Specific Feeds** field. The ID will look like**[ 247142819117912 ]. **After you have completed it, this will automatically update your feed.
 
 Once you’re done, don’t forget to click on the **Save** button, and you’ve successfully done styling your Facebook feed.
 

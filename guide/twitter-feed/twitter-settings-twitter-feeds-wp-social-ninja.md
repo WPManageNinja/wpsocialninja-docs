@@ -5,7 +5,7 @@ description: ""
 
 # Twitter Feed Settings
 
-WP Social Ninja has amazing **Twitter** **Feed** **Settings** for users that offers multiple filter options. Let’s see how this works-
+WP Social Ninja has amazing **TwitterFeedSettings** for users that offers multiple filter options. Let’s see how this works-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1Rlr2MheKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -13,7 +13,7 @@ _Twitter feed settings with WP Social Ninja_
 
 ## **Filters**
 
-This feature has various options to filter specific tweets according to your requirements. Enter the** Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order **option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular &amp; Random. Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way.&nbsp;The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
+This feature has various options to filter specific tweets according to your requirements. Enter the** Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order** option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular &amp; Random. Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way.&nbsp;The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
 
 ![Twitter Filters](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/twitter-filters.png)
 
@@ -131,7 +131,7 @@ Turn off the button in order to hide the display image.
 
 ### **Display Videos On Tweet**
 
-Like Display Images On Tweet, **Display Videos On Tweet **will adjust the videos. Just enable/disable the button.
+Like Display Images On Tweet, **Display Videos On Tweet** will adjust the videos. Just enable/disable the button.
 
 ![Display Videos On Tweet](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/image-16.png)
 
@@ -147,9 +147,7 @@ You can also control the GIFs. Just turn on/off the **Display GIFs On Tweet** bu
 
 _Display GIFs On Tweet_
 
-### **Display Photos &amp; Videos in Popup**
-
-**Display Photos &amp; Videos in Popup** is another Twitter setting for users. If you turn on the button and click on the images and videos in the Front end, all the images and videos will be displayed in a lightbox.
+### **Display Photos &amp; Videos in PopupDisplay Photos &amp; Videos in Popup** is another Twitter setting for users. If you turn on the button and click on the images and videos in the Front end, all the images and videos will be displayed in a lightbox.
 
 ![Display Photos &amp; Videos in Popup](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/image-19.png)
 
@@ -205,7 +203,7 @@ _Front End | Display Twitter Player card_
 
 Now when you preview the Front End, this is how the video will pop up.
 
-## **Header Settings **
+## **Header Settings**
 
 If you select the **Feed Type User Timeline,** then an additional **Header Settings** will appear automatically after the **Settings** button. Let's find out how to change the Header Settings in the Twitter feed settings-
 
@@ -239,7 +237,7 @@ _Display Avatar Image_
 
 However, you can turn off the button in order to hide the Display Avatar image.
 
-### **Display Name **
+### **Display Name**
 
 After Display Avatar Image, you can adjust the **Display Name**. In this part, turn off the display image button if you want to hide the name.
 
@@ -281,7 +279,7 @@ In this screenshot, the Display Description button is enabled, and it is showing
 
 ### **Display Tweets**
 
-The next filter is **Display Tweets; **enable/disable the button in order to show/hide the Tweets.
+The next filter is **Display Tweets; ** enable/disable the button in order to show/hide the Tweets.
 
 ![Display Tweets](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/image-37.png)
 
@@ -289,7 +287,7 @@ _Display Tweets_
 
 In this screenshot, the Display Tweets button is enabled, and you can see all the Tweets.
 
-### **Display Following **
+### **Display Following**
 
 Control your **Display Following** by just enabling/disabling the button.
 
@@ -301,7 +299,7 @@ Turn on the button if you want to show the Display Following number on your webs
 
 ### **Display Followers**
 
-Similar to Display Following, now adjust your **Display Followers **button by adjusting the button.
+Similar to Display Following, now adjust your **Display Followers** button by adjusting the button.
 
 ![Display Followers](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/image-62.png)
 
@@ -311,7 +309,7 @@ As the button is turned on, so followers' numbers are displayed. However, turn o
 
 ## **Follow Button**
 
-The last setting is the **Display Follow Button**. Keep the option enabled if you want to show the Follow button in your Twitter account. Turn off the button in order to hide the Follow option on your website. Set the Follow Button Position according to your needs; there are three options to choose from; Header, Footer &amp; Both. You can add text on your follow button using the **Button Text **option.
+The last setting is the **Display Follow Button**. Keep the option enabled if you want to show the Follow button in your Twitter account. Turn off the button in order to hide the Follow option on your website. Set the Follow Button Position according to your needs; there are three options to choose from; Header, Footer &amp; Both. You can add text on your follow button using the **Button Text** option.
 
 ![Follow Button](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/twitter_display_follow-1024x570-1.png)
 

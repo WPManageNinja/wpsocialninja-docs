@@ -5,7 +5,7 @@ description: ""
 
 # Google Business Profile Reviews
 
-Do you wish to display all your scattered reviews in one place on your website? **WP Social Ninja **will exactly do that, all you need is to grab the plugin.
+Do you wish to display all your scattered reviews in one place on your website? **WP Social Ninja** will exactly do that, all you need is to grab the plugin.
 
 ## **Google Business Profile Configuration**
 
@@ -21,7 +21,7 @@ We have created the simplest way to get the reviews just with a few clicks.
 
 _Social Reviews | Google_
 
-In order to obtain Google Reviews successfully, select **Google **from All Platforms.
+In order to obtain Google Reviews successfully, select **Google** from All Platforms.
 
 Now, let’s see how you can add reviews to your website. Firstly, you need to obtain **Google Access Code**.
 
@@ -31,7 +31,7 @@ _Google Configuration_
 
 Click on the **Sign In And Get Google Access Code** to get the Access Code. Clicking this button will open a new window. Here, you must select the Email associated with your Google Business Profile account.
 
-### **Step 1 **
+### **Step 1**
 
 Continue with your business account.
 

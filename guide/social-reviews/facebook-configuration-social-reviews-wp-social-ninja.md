@@ -39,7 +39,7 @@ You have linked with WP Social Ninja! Click OK to complete the Authorization.
 
 ![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb_success-1.png)
 
-You can also include multiple Business Accounts by simply clicking the **Add More Business **button. Just enter the business URL following the previous steps &amp; click on the **Save **button. You can click the Cross icon on the left side to delete a business account if needed.   Don’t forget to click on the** Save** button to fetch reviews on your website.
+You can also include multiple Business Accounts by simply clicking the **Add More Business** button. Just enter the business URL following the previous steps &amp; click on the **Save** button. You can click the Cross icon on the left side to delete a business account if needed.   Don’t forget to click on the** Save** button to fetch reviews on your website.
 
 To connect your Facebook page through a Facebook reviews access token, check the [documentation](./facebook-reviews-access-token).
 

@@ -75,7 +75,7 @@ After that, your Business Advanced Account will be added.&nbsp;
 
 To manually connect your **Business Account**, select the **Manually Connect Account** option from the dropdown menu. You’ll then need to enter your **Access Token** and **User ID**.&nbsp;
 
-To obtain these credentials, click on the **[Access Token Generator](https://wpsocialninja.com/access-token-generator/?id=instagram-feed)**.
+To obtain these credentials, click on the**[Access Token Generator](https://wpsocialninja.com/access-token-generator/?id=instagram-feed)**.
 
 ![configure instagram 7](/guide/public/images/instagram-feed/instagram-configuration-social-feeds-wp-social-ninja/Configure-Instagram-7-scaled.webp)
 
@@ -105,7 +105,7 @@ If you have successfully connected your Instagram Business Account (especially u
 
 To fix this, please remove the old app and then re-integrate WP Social Ninja by following these steps:
 
-- Go to your Facebook **[Business Integrations](https://www.facebook.com/settings?tab=business_tools)** settings.
+- Go to your Facebook**[Business Integrations](https://www.facebook.com/settings?tab=business_tools)** settings.
 
 - Find and **Remove** the old "WP Social Ninja" app.
 

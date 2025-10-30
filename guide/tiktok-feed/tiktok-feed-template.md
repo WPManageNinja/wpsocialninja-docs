@@ -13,13 +13,13 @@ Go to your **Platforms** from WP Social Ninja plugins then Click on the **Settin
 
 ![TikTok Feed Settings ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-.png)
 
-You can also Edit, Delete and Duplicate your template from the **Templates **of the WP Social Ninja and you can also add a new template from here by clicking on the **Add New Template** button.
+You can also Edit, Delete and Duplicate your template from the **Templates** of the WP Social Ninja and you can also add a new template from here by clicking on the **Add New Template** button.
 
 ![Templates ](/guide/public/images/tiktok-feed/tiktok-feed-template/WP-Social-Ninja-Templates-1.png)
 
 ## Customizing TikTok Feed Template
 
-You will be redirected to the **TikTok Template** editing page now. Here you will see the two options which are **General **and **Style **to customize your template.
+You will be redirected to the **TikTok Template** editing page now. Here you will see the two options which are **General** and **Style** to customize your template.
 
 ![Wp Social Ninja Template Customization ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-1.png)
 
@@ -29,39 +29,39 @@ In General option for customizing your template. You will get some options here 
 
 ### Source&nbsp;
 
-**Feed Type: **In Source, you will get the Feed Type and Account Selection option. Feed Type is for which type of account you want to connect with your TikTok Feed, like a Business account or User Account. Now you can only connect the User account with the WP Social Ninja.
+**Feed Type:** In Source, you will get the Feed Type and Account Selection option. Feed Type is for which type of account you want to connect with your TikTok Feed, like a Business account or User Account. Now you can only connect the User account with the WP Social Ninja.
 
-**Select Account:** Account Selection is for selecting the TikTok accounts that will define from which accounts of yours the feeds will be loaded.&nbsp;
+**Select Account:** Account Selection is for selecting the TikTok accounts that will define from which accounts of yours the feeds will be loaded.
 
-**Total Feed: **From the Total Feed you can select how many Feeds you want to show.
+**Total Feed:** From the Total Feed you can select how many Feeds you want to show.
 
 ### Template
 
 **Layout Types:** You can select the Layout Type here Grid, Carousel, and Masonry. Carousel and Masonry are the Pro features.
 
-**Template:** You will get two Template designs here.&nbsp;
+**Template:** You will get two Template designs here.
 
 **Number of Columns:** You can set how many columns you want for your feed.
 
-**Column Gap: **You can also select the Column Gap from the drop-down menu.
+**Column Gap:** You can also select the Column Gap from the drop-down menu.
 
 ### Filters
 
-**Number of Feeds to Display:** This option is for how many feeds you want to show in your account you can select that.&nbsp;
+**Number of Feeds to Display:** This option is for how many feeds you want to show in your account you can select that.
 
-**Post order: **You can select post orders based on their like, comments, or random.&nbsp;
+**Post order:** You can select post orders based on their like, comments, or random.
 
 These are the Pro features of Filters:
 
-**Show Post Contain this Word or hashtag: **Here you can give the specific words or hashtags to show the specific posts you want.&nbsp;
+**Show Post Contain this Word or hashtag:** Here you can give the specific words or hashtags to show the specific posts you want.
 
-**Hide a post containing this word or hashtag:** In the same way, you can also hide the post by giving the specific words or hashtags in this field.&nbsp;
+**Hide a post containing this word or hashtag:** In the same way, you can also hide the post by giving the specific words or hashtags in this field.
 
 **Hide specific post:** In this field, you just need to give the post ID to hide any specific post you want. To get the ID copy the post URL in the last section of your post url you will get the post ID.
 
 ### Feed&nbsp;
 
-From the feed, the first drop-down will give the option to open your **Feed** in **TioTok **or in the** Pop-up box** **(Pro)**. Also, you will get many options for the specific things you want to show your feed. The Author's photo and name are free features, other features are only available in Pro. Like the Date, Description, Like count, View count, Comments count, etc. You can also Trim your description into words with the **Trim Description** Pro feature here.
+From the feed, the first drop-down will give the option to open your **Feed** in **TikTok** or in the **Pop-up box(Pro)**. Also, you will get many options for the specific things you want to show your feed. The Author's photo and name are free features, other features are only available in Pro. Like the Date, Description, Like count, View count, Comments count, etc. You can also Trim your description into words with the **Trim Description** Pro feature here.
 
 ### Header
 

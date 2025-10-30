@@ -37,9 +37,9 @@ Next, you need to import the CSV file into WP Social Ninja.
 
 **Note:** Please be aware of the following when migrating:
 
-- **Same Site Migration:** If you are importing reviews on the **same site** you exported from, no changes are needed in the CSV file.
+- **Same Site Migration:** If you are importing reviews on the** same site** you exported from, no changes are needed in the CSV file.
 
-- **Different Site Migration:** If you are moving reviews to a **different site**, you have to manually edit the CSV file before importing. Ensure the product IDs in the file match the corresponding WooCommerce product IDs on your new site. If the IDs do not match, the reviews will not be linked to the correct products.
+- **Different Site Migration:** If you are moving reviews to a** different site**, you have to manually edit the CSV file before importing. Ensure the product IDs in the file match the corresponding WooCommerce product IDs on your new site. If the IDs do not match, the reviews will not be linked to the correct products.
 
 #### **Step 3: Verify Your Reviews**
 

@@ -11,7 +11,7 @@ WP Social Ninja brought you the custom button Chat Widget feature to trigger a b
 
 Let’s see how to do that.&nbsp;
 
-From your dashboard, go to **Pages →** **Add Pages**, or you can edit an existing page.
+From your dashboard, go to **Pages** → **Add Pages**, or you can edit an existing page.
 
 ![WP Social Ninja dashboard](/guide/public/images/social-chat/how-to-add-custom-button-chat-widget-on-your-website/wp-social-ninja-dashboard.png)
 
@@ -23,7 +23,7 @@ Next, create a Page, add a Button from the editor panel.
 
 _Custom Button_
 
-From the right side of your settings bar put the CSS Class “**wpsn_chat_opener” **and** **click on the** Save **button.
+From the right side of your settings bar put the CSS Class "**wpsn_chat_opener**" and click on the **Save** button.
 
 ![Custom button chat widget set up](/guide/public/images/social-chat/how-to-add-custom-button-chat-widget-on-your-website/custom-button-chat-widget-set-up.png)
 
@@ -37,6 +37,6 @@ Now go to the Front End, click on the Button, and it will work as a Chat Widget.
 
 _Say Hello!_
 
-Happy chatting with the** WP Social Ninja** custom button Chat Widget!
+Happy chatting with the **WP Social Ninja** custom button Chat Widget!
 
 Also, check out - **[Style of Social Chat](./style-social-chat-wp-social-ninja)**

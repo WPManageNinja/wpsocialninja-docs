@@ -11,7 +11,7 @@ To use all of WP Social Ninja's Instagram features, your Business profile must b
 
 ### **Convert your Instagram Personal account to a Business account**
 
-- Log in to[ ](https://www.facebook.com/)**[Facebook](https://www.facebook.com/) **and choose Pages from the menu on the left.
+- Log in to[ ](https://www.facebook.com/)**[Facebook](https://www.facebook.com/) ** and choose Pages from the menu on the left.
 
 - Choose the Page to which you want to link to your Instagram account.
 
@@ -25,7 +25,7 @@ To use all of WP Social Ninja's Instagram features, your Business profile must b
 
 _Page Settings | Instagram Account_
 
-- A popup will occur once you choose the **Connect** **account**, then click **Continue**.
+- A popup will occur once you choose the **Connectaccount**, then click **Continue**.
 
 ![Choose Instagram acount message settings](/guide/public/images/instagram-feed/how-to-convert-an-instagram-personal-account-to-a-business-account/a2-1.png)
 
@@ -37,7 +37,7 @@ _Choose Instagram message settings_
 
 - Choose the option of doing business.
 
-- If you don't already have a **Business** account, click **Get Started **or **Switch Now** to create one.
+- If you don't already have a **Business** account, click **Get Started** or **Switch Now** to create one.
 
 And that's how to convert Instagram to business account. Simple!
 

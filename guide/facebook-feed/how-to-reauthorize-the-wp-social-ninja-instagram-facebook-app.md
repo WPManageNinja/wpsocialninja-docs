@@ -3,7 +3,7 @@ title: "WP Social Ninja's Instagram/Facebook Reauthorize App | Social Feeds | WP
 description: ""
 ---
 
-# WP Social Ninja's Instagram/Facebook Reauthorize App | Social Feeds | WP Social Ninja
+# WP Social Ninja's Instagram/Facebook Reauthorize App
 
 If you need to reauthorize the plugin app or wish to remove the app, read this article below -
 
@@ -13,7 +13,7 @@ Login to your Facebook account that manages your Facebook and Instagram Business
 
 ### Step 2
 
-Go to your** Facebook Profile** and **click** on the following options -* ***Facebook Personal Profile** → **Settings** →** Security and login → Business integrations*.***
+Go to your **Facebook Profile** and click on the following options - **Facebook Personal Profile** → **Settings** → **Security and login** → **Business integrations**.
 
 ### Step 3
 
@@ -25,7 +25,7 @@ _Click on the Remove button_
 
 ### Step 4
 
-Return to the WPSN plugin’s dashboard **and **click the **Continue with Facebook Button**.
+Return to the WPSN plugin's dashboard and click the **Continue with Facebook Button**.
 
 This will then prompt you to reauthorize the WP Social Ninja App.
 

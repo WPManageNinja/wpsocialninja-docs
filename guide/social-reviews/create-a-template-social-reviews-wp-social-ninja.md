@@ -7,11 +7,11 @@ description: ""
 
 In case you are a beginner-level user of **WP Social Ninja**, we have created the simplest ways to operate this Plugin for you.
 
-**WP Social Ninja **allows you to Create a Template for the platforms available.
+**WP Social Ninja** allows you to Create a Template for the platforms available.
 
 However, all the Platforms have a similar way to Create a Template. So, all you need to do is to follow the steps, since all the Platforms have similar ways to Create a Template.
 
-Here, we will guide you on how to create an **Airbnb **template. Let’s get into it.
+Here, we will guide you on how to create an **Airbnb** template. Let’s get into it.
 
 ![Create a Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_url_added-1.png)
 

@@ -23,7 +23,7 @@ In the YouTube Settings, toggle the **Optimize Images** option to enable it. Onc
 
 **Reset:** If you wish to reset the existing database of optimized YouTube thumbnail image files, click the **Reset** button located next to this option.
 
-Click on the **Save Settings **button to save your all changes.&nbsp;
+Click on the **Save Settings** button to save your all changes.&nbsp;
 
 ![](/guide/public/images/youtube-feed/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings--scaled.webp)
 

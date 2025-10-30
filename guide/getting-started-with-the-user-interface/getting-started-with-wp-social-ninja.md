@@ -9,9 +9,9 @@ description: ""
 
 Stressing over your scattered reviews? Looking for a solution to assemble all your Brand’s reviews in one platform?
 
-Then we have the right tool for you!&nbsp;**WP Social Reviews**&nbsp;will guide you through adding all your&nbsp;**Social Reviews&nbsp;**from multiple sites like&nbsp;**Google My Business, Facebook, Airbnb,&nbsp;Yelp**, and so on.
+Then we have the right tool for you!&nbsp;**WP Social Reviews**&nbsp;will guide you through adding all your&nbsp;**Social Reviews&nbsp;** from multiple sites like&nbsp;**Google My Business, Facebook, Airbnb,&nbsp;Yelp**, and so on.
 
-Moreover, if you have your business website, you can also fetch&nbsp;**Social Feeds&nbsp;**like **Instagram Feeds, Tweets, Youtube**, etc. This will highlight your social activities and add more value to your website.
+Moreover, if you have your business website, you can also fetch&nbsp;**Social Feeds&nbsp;** like **Instagram Feeds, Tweets, Youtube**, etc. This will highlight your social activities and add more value to your website.
 
 This is the most powerful and time-saving tool for your website to excel in your business. It can simplify your communication process by adding **Messenger**, **WhatsApp**, and **Telegram** just by installing **WP Social Ninja**.
 

@@ -5,7 +5,7 @@ description: ""
 
 # TikTok Feed Configuration
 
-To grow your business Social Media Platforms play a vital role. If you wish to connect your **TikTok Feed **to your Business Website then WP Social Ninja allows connecting your **TikTok Feed** to your Website. Follow this guideline to add your TikTok Feed to your website.&nbsp;
+To grow your business Social Media Platforms play a vital role. If you wish to connect your **TikTok Feed** to your Business Website then WP Social Ninja allows connecting your **TikTok Feed** to your Website. Follow this guideline to add your TikTok Feed to your website.&nbsp;
 
 ## Enable TikTok Platfrom
 

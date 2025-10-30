@@ -21,7 +21,7 @@ To learn how to connect your Facebook Page, follow the step-by-step instructions
 
 From the template settings, go to the **General** section of the Facebook Template, then click on the **Source** option.
 
-**Feed Type: **Select **Specific Video Playlist **from the dropdown menu.
+**Feed Type: **Select **Specific Video Playlist** from the dropdown menu.
 
 **Album ID/URL: **Enter the Playlist URL or just the Playlist ID here that you have copied earlier.
 

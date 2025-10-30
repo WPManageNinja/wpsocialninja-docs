@@ -17,7 +17,7 @@ A pop-up for Facebook Configuration will now appear. From the dropdown, select *
 
 ![wpsn 2](/guide/public/images/facebook-feed/facebook-events-access-token/WPSN-2-scaled.webp)
 
-Now, we’ll walk you through how to connect your **Facebook Page Events** with **WP Social Ninja**. To get started, you’ll first need to **create a Facebook App** to collect the required credentials.
+Now, we'll walk you through how to connect your **Facebook Page Events** with **WP Social Ninja**. To get started, you'll first need to **create a Facebook App** to collect the required credentials.
 
 ## **Facebook App&nbsp;**
 
@@ -115,13 +115,13 @@ Follow these steps to generate your token.
 
 - This is your **Event Access Token**, paste it to the required field of the WP Social Ninja dashboard. And to get the **Page ID**, you need to go to the [**link**](https://wpsocialninja.com/access-token-generator/?id=facebook-feed).
 
-- Now, go to the** Facebook Feed → click on the Continue with Facebook** button &amp; then a popup will appear.
+- Now, go to the **Facebook Feed** → click on the **Continue with Facebook** button &amp; then a popup will appear.
 
 - Select Continue as – (your Facebook ID)
 
 ## **Configure Facebook Page Event with WPsocialninja&nbsp;**
 
-Go back to your WP Social Ninja and open the **Facebook Event Access Configuration** settings. Paste the **Page ID** and** Long Lived Access Token** you copied earlier into the respective fields and click on the **Connect** button.
+Go back to your WP Social Ninja and open the **Facebook Event Access Configuration** settings. Paste the **Page ID and Long Lived Access Token** you copied earlier into the respective fields and click on the **Connect** button.
 
 Next, click on the **Add New Template** button to set up and customize the template as per your preferences.
 

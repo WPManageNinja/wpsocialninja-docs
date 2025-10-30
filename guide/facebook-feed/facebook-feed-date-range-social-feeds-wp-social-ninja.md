@@ -9,7 +9,7 @@ With the **Show Posts Within a Date Range** feature, you have the ability to fil
 
 ## **Enabling Facebook Feed Date Range**
 
-To enable the **Show Posts Within a Date Range**, go to the Facebook Feed Template **Edit **option. Navigate to the "**General**" tab. Under "**Filters**," scroll down and select "**Show Posts Within a Date Range**."
+To enable the **Show Posts Within a Date Range**, go to the Facebook Feed Template **Edit** option. Navigate to the "**General**" tab. Under "**Filters**," scroll down and select "**Show Posts Within a Date Range**."
 
 ![Show Posts Within Date Range](/guide/public/images/facebook-feed/facebook-feed-date-range-social-feeds-wp-social-ninja/Show-Posts-Date-Range.png)
 

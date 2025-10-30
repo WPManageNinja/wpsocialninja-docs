@@ -35,7 +35,7 @@ You will find the template section here, and you can also customize your review 
 
 In the **General** section, you will find some template designs, layout types, filters, and many options for your template.&nbsp;Here you will get a template "Polaris" available for WooCommerce Product Reviews.
 
-In the **[Style](../design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
+In the**[Style](../design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
 
 ![polaris template for woocommerce](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/Polaris-template-for-woocommerce-scaled.webp)
 
@@ -45,9 +45,7 @@ _WooCommerce Template_
 
 These settings allow you to control how reviews are collected and displayed across all your WooCommerce products. They apply to every product by default, but you can override them on individual product pages.
 
-::: tip
-
-**Note**: These review settings will only apply to products that are connected with a WooCommerce Review Template in WP Social Ninja. If a product is not included in a template, these settings won’t take effect.
+::: tip **Note**: These review settings will only apply to products that are connected with a WooCommerce Review Template in WP Social Ninja. If a product is not included in a template, these settings won’t take effect.
 
 :::
 
@@ -59,7 +57,7 @@ These settings allow you to control how reviews are collected and displayed acro
 
 **Hide the Review Total**: Enable this option to hide the summary text that shows the total number of reviews (e.g., "Based on 15 Reviews").
 
-**Hide Review** **Headline**: Enable this to hide the main heading (e.g., "Reviews") from the top of the reviews section on your product pages.
+**Hide ReviewHeadline**: Enable this to hide the main heading (e.g., "Reviews") from the top of the reviews section on your product pages.
 
 **Display Location**: This dropdown lets you choose where the review template will appear.
 
@@ -67,7 +65,7 @@ These settings allow you to control how reviews are collected and displayed acro
 
 - **Display Outside Tabs**: Places reviews outside of the tabbed content area.
 
-**Reviews Form** **Style**: Select which form visitors will use to submit reviews.
+**Reviews FormStyle**: Select which form visitors will use to submit reviews.
 
 - **Inherit from WP Social Ninja**: Uses the custom form you have styled globally.
 
@@ -101,7 +99,7 @@ These settings on the WooCommerce product page let you control how reviews are d
 
 You can also set a pop-up notification of WooCommerce product reviews on your site. The pop-up review notification will show up on your font end site like this.&nbsp;
 
-Go to your Notification pop-settings from WP Social Ninja Dashboard and select **Notification Popups **then select the **WooCommerce** platform from the **General** tab platform option.
+Go to your Notification pop-settings from WP Social Ninja Dashboard and select **Notification Popups** then select the **WooCommerce** platform from the **General** tab platform option.
 
 ![](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/WP-Social-Ninja-Edit-Review-Template.png)
 

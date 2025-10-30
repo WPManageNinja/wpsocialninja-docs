@@ -25,7 +25,7 @@ Before you begin, ensure you have already connected your business platforms in W
 
 - **Create a New QR Code**
 
-<li>Click the **+ Add New QR code** button to open the configuration popup.
+<li>Click the**+ Add New QR code** button to open the configuration popup.
 
 - In the popup, enter a **Name** for your QR code so you can identify it later.
 
@@ -53,9 +53,9 @@ Before you begin, ensure you have already connected your business platforms in W
 
 - To edit or delete a QR code, use the icons at the end of its row:
 
-<li>Click the **pencil icon** to edit the code's details.
+<li>Click the** pencil icon** to edit the code's details.
 
-- Click the **delete icon** to permanently remove the code.
+- Click the** delete icon** to permanently remove the code.
 
 </li>
 

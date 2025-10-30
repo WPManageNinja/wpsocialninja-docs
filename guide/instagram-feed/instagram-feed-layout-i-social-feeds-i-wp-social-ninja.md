@@ -19,8 +19,7 @@ Click on the **Source** button to change the Instagram Layout Type. And a Feed T
 
 In this section, we have three types of Feeds; **Account**, **Hashtag**, and **Tagged**.
 
-::: tip
-**However, Hashtag and Tagged account types are for Instagram Business Account.**
+::: tip **However, Hashtag and Tagged account types are for Instagram Business Account.**
 :::
 
 Here, for demonstration purposes, we will go with **Account Feed Type**.
@@ -29,7 +28,7 @@ Here, for demonstration purposes, we will go with **Account Feed Type**.
 
 _Account Feed Type_
 
-After you select the Account feed type, you need to select a **User Account**. Once you select the User Account **WPManageNinja, **click on the** Fetch Feeds **button**.**
+After you select the Account feed type, you need to select a **User Account**. Once you select the User Account **WPManageNinja, ** click on the** Fetch Feeds** button**.**
 
 ![select a user account Instagram feed type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/select-a-user-account-instagram-feed-type.png)
 
@@ -37,13 +36,12 @@ _Select a User Account_
 
 All the Instagram feeds will appear automatically on your website.
 
-::: tip
-**Remember, users can fetch from multiple accounts.**
+::: tip **Remember, users can fetch from multiple accounts.**
 :::
 
 ## **Template**
 
-You can see the **Template **option on the right side of the settings panel. Click on the **Template **button, and a drop-down menu will appear.
+You can see the **Template** option on the right side of the settings panel. Click on the **Template** button, and a drop-down menu will appear.
 
 ![Instagram feed layout template type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-template-type.png)
 
@@ -51,8 +49,7 @@ _Layout Type_
 
 At the moment we have three Layout Types available; Grid, Carousel, and **Masonry**.
 
-::: tip
-**However, to get Carousel and Masonry you need to upgrade to the Premium version.**
+::: tip **However, to get Carousel and Masonry you need to upgrade to the Premium version.**
 :::
 
 ![Instagram feed layout type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-type.png)
@@ -67,7 +64,7 @@ Remember, if you select **Carousel Layout Type,** a new setting will come up.
 
 ![Instagram feed layout Carousel settings](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-carousel-settings.png)
 
-At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides to show**, **Slides to scroll, **and **Navigation**.
+At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides to show**, **Slides to scroll, ** and **Navigation**.
 
 ### **AutoPlay**
 
@@ -97,11 +94,11 @@ Here you can adjust the number of slides that will be displayed on your website.
 
 _Slides to show_
 
-We have selected 3 **Slides to show,** so 3 slides are displayed. You can increase or decrease the Slides to display.
+We have selected 3 **Slides to show**, so 3 slides are displayed. You can increase or decrease the Slides to display.
 
 ### **Slides to scroll**
 
-After Slides to show, you can edit your** Slides to Scroll **button.
+After Slides to show, you can edit your **Slides to Scroll** button.
 
 ![Slides to scroll](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/slides-to-scroll.png)
 

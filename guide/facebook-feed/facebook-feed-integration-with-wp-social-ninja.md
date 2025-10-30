@@ -29,7 +29,7 @@ After selecting the pages, click the **Connect Pages** button.
 
 ![Wp Social Ninja Facebook Page Select](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-4-scaled.webp)
 
-In the next pop-up, you'll see your Facebook Page has been added. To remove it, simply click the **Remove** icon button next to your Page Name. To connect another account, click the **Add** **More Account** button.
+In the next pop-up, you'll see your Facebook Page has been added. To remove it, simply click the **Remove** icon button next to your Page Name. To connect another account, click the **AddMore Account** button.
 
 To display your Facebook events on your website you can choose some awesome templates from WP Social Ninja, to do so click the **Add New Template** button and choose a template.
 
@@ -61,15 +61,13 @@ If you have successfully connected your Facebook account but your Pages or accou
 
 To fix this, please remove the old app and then re-integrate WP Social Ninja by following these steps:
 
-- Go to your Facebook **[Business Integrations](https://www.facebook.com/settings?tab=business_tools)** settings.
+- Go to your Facebook**[Business Integrations](https://www.facebook.com/settings?tab=business_tools)** settings.
 
 - Find and **Remove** the old "WP Social Ninja" app.
 
 - Return to this page and follow the "Enable Facebook Feed" steps again to re-authorize the connection.
 
-::: tip
-
-**Important (Meta/Facebook Policy):** Please note that when you delete a registered app, the connected WP Social Ninja access token will be **disconnected from all sites** where it is used. This is a Meta (Facebook) policy, not an issue from our end. You will need to re-authorize the connection on every site where you use this Facebook account.
+::: tip **Important (Meta/Facebook Policy):** Please note that when you delete a registered app, the connected WP Social Ninja access token will be** disconnected from all sites** where it is used. This is a Meta (Facebook) policy, not an issue from our end. You will need to re-authorize the connection on every site where you use this Facebook account.
 
 :::
 

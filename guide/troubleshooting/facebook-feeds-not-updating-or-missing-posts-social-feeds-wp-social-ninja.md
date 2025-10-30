@@ -37,7 +37,7 @@ Go to WPSocialNinja and then select **Templates** from the navbar. Now, find the
 
 ![image](/guide/public/images/troubleshooting/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/image-1.png)
 
-Filters: Under the **General** section, you’ll find the **Filter** option for your posts. Check the filter settings for Post Types under the **Display Posts With **dropdown menu.&nbsp;
+Filters: Under the **General** section, you’ll find the **Filter** option for your posts. Check the filter settings for Post Types under the **Display Posts With** dropdown menu.&nbsp;
 
 Below this, you’ll also see some additional settings, make sure to check if you’ve applied any filters that exclude posts with specific words or phrases.
 

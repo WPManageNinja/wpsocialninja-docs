@@ -5,19 +5,19 @@ description: ""
 
 # Notification Popup
 
-With the most exclusive **NotificationPopup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
+With the most exclusive **Notification Popup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
 
 ## Notification Popup
 
 Let’s see how we can configure a new Notification Popup in just a few minutes.
 
-- To design a template, you need to go to the **Notification Popup** s tab first.&nbsp;
+- To design a template, you need to go to the **Notification Popups** tab first.
 
 ![Notification Popup Section](/guide/public/images/notification-popup/notification-popup/Notification_popup-1.png)
 
 _Notification Popup Section_
 
-- Then, ** click** on **Add New Popup** button to start designing a new Notification Popup.
+- Then, **click** on **Add New Popup** button to start designing a new Notification Popup.
 
 ![Add New Popup Button](/guide/public/images/notification-popup/notification-popup/add-new-popup-button.png)
 
@@ -47,7 +47,7 @@ Let’s look at the Notification Popup settings and how to adjust them on your w
 
 WP Social Ninja also lets you modify the **Custom Notification Title** to lock your website visitors then and there.
 
-- To do it, go to the** Custom Notification Title**, set the number of rating scales, and show it on your notification popup.
+- To do it, go to the **Custom Notification Title**, set the number of rating scales, and show it on your notification popup.
 
 ![Custom Notification Title](/guide/public/images/notification-popup/notification-popup/custom-notification-title.png)
 
@@ -73,7 +73,7 @@ _Notification Position_
 
 _Display Reviews Popup Box_
 
-- In case, if you don’t want to show reviews on click, then** disable** the option.
+- In case, if you don't want to show reviews on click, then **disable** the option.
 
 ### Include Pages to Display Notification
 
@@ -157,7 +157,7 @@ _Initial Delay_
 
 ### Delay Between
 
-- Do you want to maintain a time gap between two notifications? You can enable this feature from the** Delay Between** option.
+- Do you want to maintain a time gap between two notifications? You can enable this feature from the **Delay Between** option.
 
 ![Delay Between Option](/guide/public/images/notification-popup/notification-popup/delay-between-option.png)
 
@@ -177,7 +177,7 @@ _Display For Option_
 
 - Once you’re done, click on the **Save** button to preserve all your settings.
 
-- Now you can set up your **Filters**,** Settings**, **Header**, **Pagination**,** Schema Snippet**, and **Priority** settings just like you will do with any other template style.
+- Now you can set up your **Filters**, **Settings**, **Header**, **Pagination**, **Schema Snippet**, and **Priority** settings just like you will do with any other template style.
 
 ![Other Features](/guide/public/images/notification-popup/notification-popup/other-features.png)
 

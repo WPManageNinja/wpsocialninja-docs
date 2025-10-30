@@ -7,13 +7,13 @@ description: ""
 
 Anyone could easily and effectively Embed a WP Social Ninja template using Beaver Page Builder.
 
-WP Social Ninja includes five native beaver page builder widgets-&nbsp;
+WP Social Ninja includes five native beaver page builder widgets:
 
 - Facebook Feeds
 - Instagram Feeds
 - Social Reviews
 - Twitter Feeds
-- Youtube Feeds&nbsp;
+- Youtube Feeds
 
 Let's look at how to choose and customize a template. We're using WP Social Ninja Facebook Feed for demonstration purposes.
 
@@ -26,7 +26,7 @@ In this article, we’ll show you how to Embed a Facebook Feed with the Beaver p
 
 _Facebook Feeds_
 
-- Then select a** template** from the dropdown option.
+- Then select a **template** from the dropdown option.
 
 ![Select a template in facebook feed](/guide/public/images/page-builders/beaver-page-builder/fb-beaver2-1.png)
 
@@ -43,4 +43,4 @@ _Customize Facebook Feed_
 
 After you've finished customizing, don't forget to click the **Done** button.
 
-Also, check out -** [Oxygen Page Builder](./how-to-embed-wp-social-ninja-template-with-oxygen-page-builder)** and [**Elementor Page Builder**](./how-to-embed-wp-social-ninja-template-with-elementor-page-builder).
+Also, check out - **[Oxygen Page Builder](./how-to-embed-wp-social-ninja-template-with-oxygen-page-builder)** and **[Elementor Page Builder](./how-to-embed-wp-social-ninja-template-with-elementor-page-builder)**.

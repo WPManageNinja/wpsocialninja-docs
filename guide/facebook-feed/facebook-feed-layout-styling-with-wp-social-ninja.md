@@ -5,7 +5,7 @@ description: ""
 
 # Facebook Feed Layout Settings
 
-**WP Social Ninja** always offers unique and customized **Social Feeds** options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout.** As a result, you can show your brand identity in your way.
+**WP Social Ninja** always offers unique and customized **Social Feeds** options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout**. As a result, you can show your brand identity in your way.
 
 ## Facebook Feed Layout
 
@@ -45,7 +45,7 @@ Once you select the page and set the number for **Total Feed**, Click on the **F
 
 _Total Feed_
 
-Now Facebook feed is ready to display on your website&nbsp;
+Now Facebook feed is ready to display on your website
 
 Note that you can fetch multiple pages simultaneously on your website.
 
@@ -83,7 +83,7 @@ This section can help you display your Facebook posts in **Autoplay** mode.
 
 _Autoplay Settings_
 
-Turn off the buttonif you don't want to use Autoplay.
+Turn off the button if you don't want to use Autoplay.
 
 ### Autoplay Speed
 
@@ -185,7 +185,7 @@ You can fetch up to 100 posts.
 
 ### Post Order
 
-You can choose what order you want to display your posts using the **Posts Order** option. Currently, there are five options available; **Ascending**, **Descending**, **Most Popular**,** Least Popular**, and** Random.**
+You can choose what order you want to display your posts using the **Posts Order** option. Currently, there are five options available; **Ascending**, **Descending**, **Most Popular**, **Least Popular**, and **Random**.
 
 ![Post Order for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/post-order-for-facebook-feed-layout-settings.png)
 
@@ -195,7 +195,7 @@ Choose any of them that you think will look good on your website.
 
 ### Show/Hide Post
 
-Next is **Show posts containing these words or hashtags**; you can use this setting to show posts containing specific words or hashtags in the caption by separating multiple words or hashtags using commas.&nbsp;
+Next is **Show posts containing these words or hashtags**; you can use this setting to show posts containing specific words or hashtags in the caption by separating multiple words or hashtags using commas.
 
 ![Show or hide post for layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Show-Hide-posts-2.png)
 
@@ -205,7 +205,7 @@ Example: #SocialMedia. Moreover, with the **Hide posts containing these words or
 
 ### Hide Specific Feeds
 
-The **Hide Specific Feeds** option lets you hide a particular post by its Post ID.You canfind the post's ID by clicking on the Facebook icon on the post and then copying &amp; pasting the** ID Number** from the end of the URL.
+The **Hide Specific Feeds** option lets you hide a particular post by its Post ID. You can find the post's ID by clicking on the Facebook icon on the post and then copying & pasting the **ID Number** from the end of the URL.
 
 Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
 
@@ -213,7 +213,7 @@ Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
 
 _Hide Specific Feeds_
 
-Make sure you select the ID Number correctly and copy and paste it into the **Hide Specific Feeds** field. The ID will look like**[ 247142819117912 ]. **After you have completed it, this will automatically update your feed.
+Make sure you select the ID Number correctly and copy and paste it into the **Hide Specific Feeds** field. The ID will look like **[247142819117912]**. After you have completed it, this will automatically update your feed.
 
 Once you’re done, don’t forget to click on the **Save** button, and you’ve successfully done styling your Facebook feed.
 

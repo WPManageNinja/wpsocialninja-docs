@@ -11,9 +11,9 @@ Changing the styles of Feeds and Reviews is a fascinating task. WP Social Ninja 
 
 Let's look at how you can style your feed template in a matter of seconds by reading this article.
 
-- From the right sidebar, beside the General option, you will get a new feature: Style**(Pro)**.
+- From the right sidebar, beside the General option, you will get a new feature: Style **(Pro)**.
 
-- Click on the **Enable Style** button, and a drop-down menu will appear.&nbsp;
+- Click on the **Enable Style** button, and a drop-down menu will appear.
 
 - In this part, there are five style sections; **Header**, **Name**, **Meta**, **Content**, and **Action**.
 

@@ -5,11 +5,11 @@ description: ""
 
 # TikTok Feed Template
 
-WP Social Ninja offers templates for your TikTok feed and you can customize many things in your template. This guide will give you the details about creating your template.&nbsp;
+WP Social Ninja offers templates for your TikTok feed and you can customize many things in your template. This guide will give you the details about creating your template.
 
-## Adding Template for TikTok Feed&nbsp;&nbsp;
+## Adding Template for TikTok Feed
 
-Go to your **Platforms** from WP Social Ninja plugins then Click on the **Settings** of TikTok Feed module. A popup will come up and it will show your connected TikTok account. Now here you will see an **Add New Template** button click on the button to add default templates that WP Social Ninja offers you also you can customize the Template as you want.&nbsp;
+Go to your **Platforms** from WP Social Ninja plugins then Click on the **Settings** of TikTok Feed module. A popup will come up and it will show your connected TikTok account. Now here you will see an **Add New Template** button click on the button to add default templates that WP Social Ninja offers you also you can customize the Template as you want.
 
 ![TikTok Feed Settings ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-.png)
 
@@ -23,11 +23,11 @@ You will be redirected to the **TikTok Template** editing page now. Here you wil
 
 ![Wp Social Ninja Template Customization ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-1.png)
 
-## General Customizing Options&nbsp;
+## General Customizing Options
 
 In General option for customizing your template. You will get some options here we will discuss the options below.
 
-### Source&nbsp;
+### Source
 
 **Feed Type:** In Source, you will get the Feed Type and Account Selection option. Feed Type is for which type of account you want to connect with your TikTok Feed, like a Business account or User Account. Now you can only connect the User account with the WP Social Ninja.
 
@@ -59,27 +59,27 @@ These are the Pro features of Filters:
 
 **Hide specific post:** In this field, you just need to give the post ID to hide any specific post you want. To get the ID copy the post URL in the last section of your post url you will get the post ID.
 
-### Feed&nbsp;
+### Feed
 
 From the feed, the first drop-down will give the option to open your **Feed** in **TikTok** or in the **Pop-up box(Pro)**. Also, you will get many options for the specific things you want to show your feed. The Author's photo and name are free features, other features are only available in Pro. Like the Date, Description, Like count, View count, Comments count, etc. You can also Trim your description into words with the **Trim Description** Pro feature here.
 
 ### Header
 
-Here you can modify the header section of your Feed and you will get many options for how you want to customize it.&nbsp;
+Here you can modify the header section of your Feed and you will get many options for how you want to customize it.
 
 ### Follow button
 
 From this option, you can set the position of your follow button and edit the button text. Also, you can hide your follow button if you want. Follow button options are Pro feature.
 
-### Pop Up&nbsp;
+### Pop Up
 
 When your feed pop-ups what you want to show on your pop-up you can modify those things from here. (The pop-up option is Pro feature and it will only arrive when you select Open in the pop-up box from the Feed option.)
 
-### Pagination&nbsp;
+### Pagination
 
 Pagination is for how much content will load on your page customizing that option.
 
-## Style&nbsp;
+## Style
 
 Enable Style option will give you the option to opportunity to change or modify the color, typography, text size, background color, margin of your feed, and a lot of things. Style is Pro feature of WP Social Ninja.
 

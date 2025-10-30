@@ -81,7 +81,7 @@ After mapping the fields, click the **Save Feed** button. Your integration is no
 
 _WP Social Ninja Integration Feed_
 
-The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon. After that,  you can** copy** the Form’s** shortcode** and paste it into any** page/post**.
+The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon. After that, you can **copy** the Form's **shortcode** and paste it into any **page/post**.
 
 ![form integration successful ](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/Form-Integration-Successful-05-scaled.webp)
 
@@ -93,7 +93,7 @@ First, go to your WP Social Ninja dashboard. From the top menu bar, click on the
 
 ### Enter the Testimonial Details
 
-After clicking the button, a pop-up form will appear. Here, you can fill in all the details for the testimonial. Once you have entered all the information, click the **Save Testimonial** button at the bottom of the form to add it to your collection. After saving, your new testimonial will appear in the "**AllTestimonials**" list.
+After clicking the button, a pop-up form will appear. Here, you can fill in all the details for the testimonial. Once you have entered all the information, click the **Save Testimonial** button at the bottom of the form to add it to your collection. After saving, your new testimonial will appear in the "**All Testimonials**" list.
 
 ![add testimonial ](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/add-testimonial-07.webp)
 

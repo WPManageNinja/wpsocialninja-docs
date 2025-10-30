@@ -39,15 +39,15 @@ _Facebook Feed Access token generator_
 
 - This will take you to the page where you can get the access code. Copy the code.
 
-![Get Page ID &amp; Access Token](/guide/public/images/facebook-feed/facebook-feed-access-token/get-page-id-amp-access-token.png)
+![Get Page ID & Access Token](/guide/public/images/facebook-feed/facebook-feed-access-token/get-page-id-amp-access-token.png)
 
-_Get Page ID &amp; Access Token_
+_Get Page ID & Access Token_
 
-- Lastly, paste the code in the **Access Token** box and finally complete the configuration done with clicking the button **Connect.**
+- Lastly, paste the code in the **Access Token** box and finally complete the configuration done with clicking the button **Connect**.
 
-![Enter the Facebook Access token code &amp; Connect](/guide/public/images/facebook-feed/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
+![Enter the Facebook Access token code & Connect](/guide/public/images/facebook-feed/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
 
-_Enter the Facebook Access token code &amp; Connect_
+_Enter the Facebook Access token code & Connect_
 
 ![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/facebook-feed/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--fac.png)
 

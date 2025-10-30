@@ -41,7 +41,7 @@ The "**Relative**" option allows you to display posts from a specified number of
 
 1. Select the "**Relative**" option.
 
-2. In the "From" section, input the number of days you want to go back from the current date e.g., "10 days" to show posts from the last ten days in the "To" section, enter "Now" to ensure you see posts up until the current date. More example:&nbsp;
+2. In the "From" section, input the number of days you want to go back from the current date e.g., "10 days" to show posts from the last ten days in the "To" section, enter "Now" to ensure you see posts up until the current date. More example:
 
 - Show posts from the last 1 week: from: "-1 week" to: "now"
 

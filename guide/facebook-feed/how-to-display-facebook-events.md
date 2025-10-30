@@ -13,9 +13,9 @@ Let's go through the article to learn how to accomplish it.
 
 - Go to the **Platforms** → choose **Facebook Feeds & Reviews**.
 
-![Facebook Feeds &amp; Reviews](/guide/public/images/facebook-feed/how-to-display-facebook-events/image-16.png)
+![Facebook Feeds & Reviews](/guide/public/images/facebook-feed/how-to-display-facebook-events/image-16.png)
 
-_Facebook Feeds &amp; Reviews_
+_Facebook Feeds & Reviews_
 
 - A popup will appear where you need to click on the **Add New Template.**
 
@@ -37,4 +37,4 @@ _Displaying Facebook Events_
 
 - After fetching, all of the Events of that specific page will be shown.
 
-- You can also change your [Facebook Feed Settings](./how-to-customize-facebook-feed-with-wp-social-ninja) &amp; [Facebook Layout Settings](./facebook-feed-layout-styling-with-wp-social-ninja).
+- You can also change your [Facebook Feed Settings](./how-to-customize-facebook-feed-with-wp-social-ninja) & [Facebook Layout Settings](./facebook-feed-layout-styling-with-wp-social-ninja).

@@ -29,13 +29,13 @@ WP Social Ninja also allows you to enable email notifications for feed-related i
 
 **Sending Day:** You can specify the day of the week you want to receive email reports by selecting your preferred day from the **Sending Day** dropdown menu.
 
-After making all the desired changes, click the **Save Settings** button to apply them.&nbsp;
+After making all the desired changes, click the **Save Settings** button to apply them.
 
 ![](/guide/public/images/global-settings/advanced-settings-social-feeds-wp-social-ninja/Social-Review-1-scaled.webp)
 
 ### Image Resolution
 
-You can customize the **Image Resolution** for your review images to enhance your website's loading speed. To do this, navigate to your **Review Template** and select the **Image Resolution** option from **General** in the right sidebar.&nbsp;
+You can customize the **Image Resolution** for your review images to enhance your website's loading speed. To do this, navigate to your **Review Template** and select the **Image Resolution** option from **General** in the right sidebar.
 
 You’ll see a dropdown menu, allowing you to choose your preferred image resolution based on your requirements and preferences.
 

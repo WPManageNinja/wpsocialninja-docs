@@ -1,9 +1,9 @@
 ---
-title: "Instagram Feed Issue Email Report | Social Feeds | WP Social Ninja"
+title: "Instagram Feed Issue Email Report"
 description: ""
 ---
 
-# Instagram Feed Issue Email Report | Social Feeds | WP Social Ninja
+# Instagram Feed Issue Email Report
 
 **Feed Issue Email Report** is a valuable feature that ensures you stay informed about critical issues in your **Instagram Feed** through email.&nbsp;
 

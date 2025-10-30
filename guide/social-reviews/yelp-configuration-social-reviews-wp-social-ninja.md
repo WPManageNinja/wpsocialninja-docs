@@ -1,9 +1,9 @@
 ---
-title: "Yelp Reviews | Social Reviews | WP Social Ninja"
+title: "Yelp Reviews"
 description: ""
 ---
 
-# Yelp Reviews | Social Reviews | WP Social Ninja
+# Yelp Reviews
 
 The **WP Social Ninja** plugin allows you to integrate Yelp reviews into your WordPress site. By doing so, you can easily display authentic reviews from Yelp to build trust, social proof, and boost your site’s credibility without manually importing them.
 

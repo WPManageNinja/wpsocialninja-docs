@@ -1,13 +1,13 @@
 ---
-title: "YouTube Feed Type | Social Feeds | WP Social Ninja"
+title: "YouTube Feed Type"
 description: ""
 ---
 
-# YouTube Feed Type | Social Feeds | WP Social Ninja
+# YouTube Feed Type
 
 **WP Social Ninja** is specially designed for non-techies so that they don’t face any difficulties. To adjust the **YouTube Feed Type, **there are some simple settings.
 
-https://www.youtube.com/watch?v=t50xmvjjVSk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t50xmvjjVSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _YouTube feed type_
 

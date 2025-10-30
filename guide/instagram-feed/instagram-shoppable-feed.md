@@ -1,9 +1,9 @@
 ---
-title: "Instagram Shoppable Feed | Social Feeds | WP Social Ninja"
+title: "Instagram Shoppable Feed"
 description: ""
 ---
 
-# Instagram Shoppable Feed | Social Feeds | WP Social Ninja
+# Instagram Shoppable Feed
 
 WP Social Ninja brings an **Instagram Shoppable Feed (Pro) **feature that will help you to generate more sales on your website.
 

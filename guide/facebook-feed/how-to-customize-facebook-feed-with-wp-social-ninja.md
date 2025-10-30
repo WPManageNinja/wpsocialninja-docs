@@ -1,9 +1,9 @@
 ---
-title: "Facebook Feed Settings | Social Feeds | WP Social Ninja"
+title: "Facebook Feed Settings"
 description: ""
 ---
 
-# Facebook Feed Settings | Social Feeds | WP Social Ninja
+# Facebook Feed Settings
 
 WP Social Ninja Facebook feed settings have unique features to highlight your brand. Let’s see how to customize your Facebook feed easily.
 

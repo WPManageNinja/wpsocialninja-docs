@@ -1,9 +1,9 @@
 ---
-title: "Connecting a Facebook Page Using Access Token | Social Reviews | WP Social Ninja"
+title: "Connecting a Facebook Page Using Access Token"
 description: ""
 ---
 
-# Connecting a Facebook Page Using Access Token | Social Reviews | WP Social Ninja
+# Connecting a Facebook Page Using Access Token
 
 Having Facebook reviews on your website helps you boost your social media strategy benefits in many ways. Leveraging your social reviews gives your website a look professional, gets you more traffic, and collects leads.
 

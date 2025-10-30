@@ -1,13 +1,13 @@
 ---
-title: "Twitter Feed Settings I Social Feeds I WP Social Ninja"
+title: "Twitter Feed Settings"
 description: ""
 ---
 
-# Twitter Feed Settings I Social Feeds I WP Social Ninja
+# Twitter Feed Settings
 
 WP Social Ninja has amazing **Twitter** **Feed** **Settings** for users that offers multiple filter options. Let’s see how this works-
 
-https://www.youtube.com/watch?v=R1Rlr2MheKM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1Rlr2MheKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Twitter feed settings with WP Social Ninja_
 

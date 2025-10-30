@@ -1,9 +1,9 @@
 ---
-title: "Facebook Feed Date Range | Social Feeds | WP Social Ninja"
+title: "Facebook Feed Date Range"
 description: ""
 ---
 
-# Facebook Feed Date Range | Social Feeds | WP Social Ninja
+# Facebook Feed Date Range
 
 With the **Show Posts Within a Date Range** feature, you have the ability to filter your **Facebook Feed** within a specified time period, making it easier to manage and display content based on your preferences.
 

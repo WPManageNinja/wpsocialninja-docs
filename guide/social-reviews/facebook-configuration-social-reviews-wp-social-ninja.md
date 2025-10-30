@@ -1,13 +1,13 @@
 ---
-title: "Facebook Reviews | Social Reviews | WP Social Ninja"
+title: "Facebook Reviews"
 description: ""
 ---
 
-# Facebook Reviews | Social Reviews | WP Social Ninja
+# Facebook Reviews
 
 To connect Facebook Reviews on your website, you need to know how to authorize the Facebook Configuration. WP Social Ninja has an amazing feature to fetch Facebook Reviews without creating any Facebook app.
 
-https://www.youtube.com/watch?v=88yM4eACxLU&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=10&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88yM4eACxLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _How to add Facebook reviews on your WordPress website_
 

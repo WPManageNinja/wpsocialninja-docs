@@ -19,7 +19,7 @@ To use WP Social Ninja, you’ll need the following:
 
 You can install WP Social Ninja free version like any other WordPress plugin. Follow the steps given below -
 
-https://www.youtube.com/watch?v=5gx14_umTZ4&amp;t=1s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5gx14_umTZ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _How to upgrade to pro_
 

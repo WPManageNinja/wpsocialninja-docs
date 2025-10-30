@@ -1,9 +1,9 @@
 ---
-title: "Layout Settings | Social Reviews | WP Social Ninja"
+title: "Layout Settings"
 description: ""
 ---
 
-# Layout Settings | Social Reviews | WP Social Ninja
+# Layout Settings
 
 **WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
 

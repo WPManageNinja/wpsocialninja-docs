@@ -1,9 +1,9 @@
 ---
-title: "How to change Settings of Social Chat | WP Social Ninja"
+title: "How to change Settings of Social Chat"
 description: ""
 ---
 
-# How to change Settings of Social Chat | WP Social Ninja
+# How to change Settings of Social Chat
 
 ## **Settings&nbsp;**
 

@@ -1,9 +1,9 @@
 ---
-title: "Tripadvisor Reviews | Social Reviews | WP Social Ninja"
+title: "Tripadvisor Reviews"
 description: ""
 ---
 
-# Tripadvisor Reviews | Social Reviews | WP Social Ninja
+# Tripadvisor Reviews
 
 WP Social Ninja integrates with TripAdvisor, allowing you to collect and display reviews from the platform to enhance your business's credibility.&nbsp;
 

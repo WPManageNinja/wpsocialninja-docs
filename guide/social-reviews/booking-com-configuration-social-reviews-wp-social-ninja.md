@@ -1,9 +1,9 @@
 ---
-title: "Booking.com Reviews | Social Reviews | WP Social Ninja"
+title: "Booking.com Reviews"
 description: ""
 ---
 
-# Booking.com Reviews | Social Reviews | WP Social Ninja
+# Booking.com Reviews
 
 WP Social Ninja enables you to showcase reviews directly from your Booking.com business profile, adding credibility to your business and enhancing trust among potential customers. With this feature, you can create customized templates to make your reviews look more appealing and aligned with your website's style.
 

@@ -1,9 +1,9 @@
 ---
-title: "Notification Popup | Social Reviews | WP Social Ninja"
+title: "Notification Popup"
 description: ""
 ---
 
-# Notification Popup | Social Reviews | WP Social Ninja
+# Notification Popup
 
 With the most exclusive **Notification** **Popup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
 

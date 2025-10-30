@@ -1,9 +1,9 @@
 ---
-title: "Social Feeds | WP Social Ninja"
+title: "Social Feeds"
 description: ""
 ---
 
-# Social Feeds | WP Social Ninja
+# Social Feeds
 
 **WP Social Ninja** has multiple **Social Feeds**, especially the most extensive and useful Feeds to offer.
 

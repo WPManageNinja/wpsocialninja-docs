@@ -1,9 +1,9 @@
 ---
-title: "TikTok Feed Settings | Social Feeds | WP Social Ninja  "
+title: "TikTok Feed Settings"
 description: ""
 ---
 
-# TikTok Feed Settings | Social Feeds | WP Social Ninja  
+# TikTok Feed Settings
 
 TikTok Feed has some settings in the **Global settings** of your WP Social Ninja plugin. To keep your feed updated and cache clean you can use these settings.&nbsp;
 

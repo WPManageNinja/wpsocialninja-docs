@@ -7,7 +7,7 @@ description: ""
 
 WP Social Ninja is a super feature-rich plugin. The Custom Review feature in WP Social Ninja lets you manually add important reviews to your website. This way, you can showcase every piece of positive feedback without missing any.
 
-https://www.youtube.com/watch?v=K94shMHULe0&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=7&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K94shMHULe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _How to add custom reviews with WP Social Ninja_
 

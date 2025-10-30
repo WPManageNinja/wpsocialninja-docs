@@ -1,9 +1,9 @@
 ---
-title: "Template Layout | Social Chat | WP Social Ninja"
+title: "Template Layout"
 description: ""
 ---
 
-# Template Layout | Social Chat | WP Social Ninja
+# Template Layout
 
 **WP Social Ninja** is a diverse plugin. Along with Social Reviews and Feeds, this plugin offers a **Social Chat** option on your website.&nbsp;
 

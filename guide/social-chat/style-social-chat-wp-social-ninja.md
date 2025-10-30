@@ -1,9 +1,9 @@
 ---
-title: "Style | Social Chat | WP Social Ninja"
+title: "Style"
 description: ""
 ---
 
-# Style | Social Chat | WP Social Ninja
+# Style
 
 ## **Style&nbsp;**
 

@@ -1,9 +1,9 @@
 ---
-title: "Manager | WP Social Ninja"
+title: "Manager"
 description: ""
 ---
 
-# Manager | WP Social Ninja
+# Manager
 
 This documentation explains how to easily add and manage managers in the WP Social Ninja Plugin. By following these simple steps, you can add managers and grant specific permissions to managers to help maintain your plugin effectively.
 

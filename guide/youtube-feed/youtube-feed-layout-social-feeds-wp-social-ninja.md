@@ -1,9 +1,9 @@
 ---
-title: "YouTube Template Layout | Social Feeds | WP Social Ninja"
+title: "YouTube Template Layout"
 description: ""
 ---
 
-# YouTube Template Layout | Social Feeds | WP Social Ninja
+# YouTube Template Layout
 
 Who doesn’t love to play with templates and designs? WP Social Ninja allows users to have some fun with it while they adjust their Social Feeds.
 

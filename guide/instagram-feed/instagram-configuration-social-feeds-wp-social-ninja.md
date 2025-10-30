@@ -1,15 +1,15 @@
 ---
-title: "Instagram Configuration | Social Feeds | WP Social Ninja"
+title: "Instagram Configuration"
 description: ""
 ---
 
-# Instagram Configuration | Social Feeds | WP Social Ninja
+# Instagram Configuration
 
 Show your Instagram Business Account feeds on your website with WP Social Ninja. Keep your audience engaged and grow your business by showcasing social media updates. Connecting your Instagram Business Account is quick and easy, requiring just a few clicks.
 
 In this guide, we'll walk you through the steps to connect both your Instagram Business Basic and Advanced accounts with WP Social Ninja.
 
-https://www.youtube.com/watch?v=ROe5n-dK8-A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ROe5n-dK8-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _WP Social Ninja: Instagram feed_
 

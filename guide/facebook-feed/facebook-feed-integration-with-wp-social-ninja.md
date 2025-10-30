@@ -1,9 +1,9 @@
 ---
-title: "Facebook Feed Configuration | Social Feeds | WP Social Ninja"
+title: "Facebook Feed Configuration"
 description: ""
 ---
 
-# Facebook Feed Configuration | Social Feeds | WP Social Ninja
+# Facebook Feed Configuration
 
 WP Social Ninja easily connects with your Facebook account, letting you display your Facebook Page activity on your website. This article will guide you on how to connect your Facebook Page events to your site.
 

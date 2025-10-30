@@ -1,9 +1,9 @@
 ---
-title: "YouTube Configuration | Social Feeds | WP Social Ninja"
+title: "YouTube Configuration"
 description: ""
 ---
 
-# YouTube Configuration | Social Feeds | WP Social Ninja
+# YouTube Configuration
 
 WP Social Ninja has three separate platforms; Social Reviews, Social Feeds, and Social Chat. This delightful plugin has all the updated social platforms with useful features.&nbsp;
 
@@ -13,7 +13,7 @@ Undoubtedly YouTube is the most prominent social site for the user today. It has
 
 To add **YouTube** to your website, you need to connect with the YouTube server to fetch the feeds from their repositories. **WP Social Ninja** has a simple way to connect with the YouTube feed on your website.
 
-https://www.youtube.com/watch?v=WeYsuWrTnKI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WeYsuWrTnKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _WP Social Ninja: YouTube feed_
 

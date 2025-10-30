@@ -1,9 +1,9 @@
 ---
-title: "Trustpilot Reviews | Social Reviews | WP Social Ninja"
+title: "Trustpilot Reviews"
 description: ""
 ---
 
-# Trustpilot Reviews | Social Reviews | WP Social Ninja
+# Trustpilot Reviews
 
 Nowadays business is not just about products and services. Business reviews are equally important like products/services. Hence there is **WP Social Ninja **- the multipurpose plugin to gather all your business reviews from multiple sites and embed them on your website.&nbsp;
 

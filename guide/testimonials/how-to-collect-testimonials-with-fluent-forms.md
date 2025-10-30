@@ -1,9 +1,9 @@
 ---
-title: "How to Collect Testimonials with Fluent Forms | WP Social Ninja"
+title: "How to Collect Testimonials with Fluent Forms"
 description: ""
 ---
 
-# How to Collect Testimonials with Fluent Forms | WP Social Ninja
+# How to Collect Testimonials with Fluent Forms
 
 Using Fluent Forms, **WP Social Ninja** has introduced an incredible feature for collecting Testimonials. You must need to know how to integrate Fluent Forms with WP Social Ninja to collect testimonials using Fluent Forms on your website.
 

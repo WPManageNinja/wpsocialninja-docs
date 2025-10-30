@@ -1,9 +1,9 @@
 ---
-title: "Twitter Feed Layout I Social Feeds I WP Social Ninja"
+title: "Twitter Feed Layout"
 description: ""
 ---
 
-# Twitter Feed Layout I Social Feeds I WP Social Ninja
+# Twitter Feed Layout
 
 **WP Social Ninja** has customized **Social Feed** options. The **Twitter Feeds** have some formations that will help you change your **Twitter Feed Layout** and match it with your brand the way you want it.
 

@@ -1,9 +1,9 @@
 ---
-title: "Airbnb Reviews | Social Reviews | WP Social Ninja"
+title: "Airbnb Reviews"
 description: ""
 ---
 
-# Airbnb Reviews | Social Reviews | WP Social Ninja
+# Airbnb Reviews
 
 This guide provides step-by-step instructions for connecting your Airbnb reviews with WP Social Ninja. Because Airbnb does not offer an official public API for reviews, this process requires a manual workaround to find the necessary connection keys directly from your Airbnb listing page.
 

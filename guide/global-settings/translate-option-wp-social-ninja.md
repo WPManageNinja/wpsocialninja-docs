@@ -1,9 +1,9 @@
 ---
-title: "Translate Option | WP Social Ninja"
+title: "Translate Option"
 description: ""
 ---
 
-# Translate Option | WP Social Ninja
+# Translate Option
 
 Translating your product or service features into a foreign language can develop a positive and multilingual understanding for users, boosting consumer confidence in your brand and growing revenue.
 

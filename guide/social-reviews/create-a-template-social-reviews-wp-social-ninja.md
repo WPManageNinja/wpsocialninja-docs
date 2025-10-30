@@ -1,9 +1,9 @@
 ---
-title: "Create A Template | Social Reviews | WP Social Ninja"
+title: "Create A Template"
 description: ""
 ---
 
-# Create A Template | Social Reviews | WP Social Ninja
+# Create A Template
 
 In case you are a beginner-level user of **WP Social Ninja**, we have created the simplest ways to operate this Plugin for you.
 

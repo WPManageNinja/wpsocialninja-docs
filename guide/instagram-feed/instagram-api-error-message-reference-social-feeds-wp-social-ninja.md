@@ -1,9 +1,9 @@
 ---
-title: "Instagram API Error Message Reference | Social Feeds | WP Social Ninja"
+title: "Instagram API Error Message Reference"
 description: ""
 ---
 
-# Instagram API Error Message Reference | Social Feeds | WP Social Ninja
+# Instagram API Error Message Reference
 
 This possible **API Error **could happen when an API error arises on Instagram. We have tried to discuss the possible reasons and solutions here.
 

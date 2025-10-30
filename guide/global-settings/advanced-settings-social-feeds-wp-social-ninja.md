@@ -1,9 +1,9 @@
 ---
-title: "Advanced Settings | Social Feeds | WP Social Ninja"
+title: "Advanced Settings"
 description: ""
 ---
 
-# Advanced Settings | Social Feeds | WP Social Ninja
+# Advanced Settings
 
 ### Optimize Review Images
 

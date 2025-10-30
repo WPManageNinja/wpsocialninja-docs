@@ -1,9 +1,9 @@
 ---
-title: "Migrate from Judge.me "
+title: "Migrate from Judge.me"
 description: ""
 ---
 
-# Migrate from Judge.me 
+# Migrate from Judge.me
 
 This guide provides a step by step process for transferring your WooCommerce product reviews from Judge.me directly into WP Social Ninja. For othersSeamlessly import customer reviews from Google Business Profile, Facebook, and Yelp using their official APIs.
 

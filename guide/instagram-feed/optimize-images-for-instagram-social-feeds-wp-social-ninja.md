@@ -1,9 +1,9 @@
 ---
-title: "Optimize Images for Instagram | Social Feeds | WP Social Ninja"
+title: "Optimize Images for Instagram"
 description: ""
 ---
 
-# Optimize Images for Instagram | Social Feeds | WP Social Ninja
+# Optimize Images for Instagram
 
 **Optimize Images **is designed to enhance your Instagram image quality and improve the loading speed of your website by saving locally.&nbsp;
 

@@ -1,9 +1,9 @@
 ---
-title: "Instagram Feed GDPR Compliance | Social Feeds | WP Social Ninja"
+title: "Instagram Feed GDPR Compliance"
 description: ""
 ---
 
-# Instagram Feed GDPR Compliance | Social Feeds | WP Social Ninja
+# Instagram Feed GDPR Compliance
 
 WP Social Ninja Instagram Feed allows you to fetch data from your Instagram account and display it on your website. To ensure compliance with the [General Data Protection Regulation (GDPR)](https://wpsocialninja.com/wp-social-ninja-gdpr-compliance/), we have implemented specific settings and features to safeguard your data and provide transparency regarding its transfer and storage.
 

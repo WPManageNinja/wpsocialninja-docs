@@ -1,9 +1,9 @@
 ---
-title: "Instagram Set up | Social Feeds | WP Social Ninja"
+title: "Instagram Set up"
 description: ""
 ---
 
-# Instagram Set up | Social Feeds | WP Social Ninja
+# Instagram Set up
 
 The Instagram feed has a user-friendly and diverse setting panel for the users. Let’s explore -
 

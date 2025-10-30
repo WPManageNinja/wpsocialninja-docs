@@ -1,25 +1,36 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "WPSocialNinja Docs"
-  text: "User documentation for WPSocialNinja"
-  tagline: My great project tagline
+  name: "WP Social Ninja"
+  text: "Documentation"
+  tagline: Complete guide for the ultimate WordPress social media integration plugin
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /guide/getting-started-with-the-user-interface/getting-started-with-wp-social-ninja
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on WordPress.org
+      link: https://wordpress.org/plugins/wp-social-ninja-pro/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📱
+    title: Social Feeds
+    details: Display beautiful social media feeds from Facebook, Instagram, Twitter, YouTube, and TikTok on your WordPress site
+  - icon: ⭐
+    title: Social Reviews
+    details: Showcase reviews from Google, Facebook, Yelp, Trustpilot, Airbnb and more to build trust with your visitors
+  - icon: 💬
+    title: Social Chat
+    details: Add Facebook Messenger, WhatsApp and other chat widgets to connect with your customers instantly
+  - icon: 🎨
+    title: Beautiful Templates
+    details: Choose from multiple pre-designed templates and customize them to match your brand
+  - icon: 🔧
+    title: Easy Configuration
+    details: Simple setup process with step-by-step guides for each platform integration
+  - icon: 🚀
+    title: Performance Optimized
+    details: Fast loading, GDPR compliant, and optimized for the best user experience
 ---
 

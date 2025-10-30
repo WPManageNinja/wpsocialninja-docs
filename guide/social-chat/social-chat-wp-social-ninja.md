@@ -1,15 +1,15 @@
 ---
-title: "Social Chat | WP Social Ninja"
+title: "Social Chat"
 description: ""
 ---
 
-# Social Chat | WP Social Ninja
+# Social Chat
 
 How would it sound if you can add a chatting option on your WordPress site?
 
 **WP Social Ninja** has the feature to add **Social Chat** on your WordPress site just like **Social Reviews** and **Social Feeds**.
 
-https://www.youtube.com/watch?v=COwi_p09HTY&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=17&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COwi_p09HTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Chat widgets settings_
 
@@ -21,7 +21,7 @@ _Social Chats_
 
 **WP Social Ninja** now has a unique **All-in-One Chat **feature where you can create multiple Chat Widgets simultaneously!
 
-https://www.youtube.com/watch?v=C63r6mvs9OA&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=16&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C63r6mvs9OA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Chat widgets styling process_
 

@@ -1,9 +1,9 @@
 ---
-title: "Facebook Feed Layout Settings | Social Feeds | WP Social Ninja"
+title: "Facebook Feed Layout Settings"
 description: ""
 ---
 
-# Facebook Feed Layout Settings | Social Feeds | WP Social Ninja
+# Facebook Feed Layout Settings
 
 **WP Social Ninja **always offers unique and customized **Social Feeds **options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout. **As a result, you can show your brand identity in your way.
 

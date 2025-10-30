@@ -1,9 +1,9 @@
 ---
-title: "Shoppable by Hashtags | Social Feeds | WP Social Ninja"
+title: "Shoppable by Hashtags"
 description: ""
 ---
 
-# Shoppable by Hashtags | Social Feeds | WP Social Ninja
+# Shoppable by Hashtags
 
 **WP Social Ninja**&nbsp;can find every Instagram photo (using a hashtag, for instance,&nbsp;**#amazing**) with the **Shoppable by Hashtags** &amp; automatically link to the dedicated product page.
 

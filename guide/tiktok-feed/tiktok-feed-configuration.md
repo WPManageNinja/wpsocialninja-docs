@@ -1,9 +1,9 @@
 ---
-title: "TikTok Feed Configuration | Social Feeds | WP Social Ninja "
+title: "TikTok Feed Configuration"
 description: ""
 ---
 
-# TikTok Feed Configuration | Social Feeds | WP Social Ninja 
+# TikTok Feed Configuration
 
 To grow your business Social Media Platforms play a vital role. If you wish to connect your **TikTok Feed **to your Business Website then WP Social Ninja allows connecting your **TikTok Feed** to your Website. Follow this guideline to add your TikTok Feed to your website.&nbsp;
 

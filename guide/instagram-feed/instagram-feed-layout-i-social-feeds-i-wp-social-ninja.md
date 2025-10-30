@@ -1,9 +1,9 @@
 ---
-title: "Instagram Feed Layout I Social Feeds I WP Social Ninja"
+title: "Instagram Feed Layout"
 description: ""
 ---
 
-# Instagram Feed Layout I Social Feeds I WP Social Ninja
+# Instagram Feed Layout
 
 WP Social Ninja Instagram Feed has several feed types and unique features to highlight your brand. Moreover, these features give you specific filters to decorate your website according to your brand.
 

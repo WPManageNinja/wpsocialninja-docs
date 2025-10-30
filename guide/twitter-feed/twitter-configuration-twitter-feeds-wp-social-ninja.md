@@ -1,9 +1,9 @@
 ---
-title: "Twitter Configuration | Social Feeds | WP Social Ninja"
+title: "Twitter Configuration"
 description: ""
 ---
 
-# Twitter Configuration | Social Feeds | WP Social Ninja
+# Twitter Configuration
 
 Just like **Social Reviews and Social Chats**, **Social Feeds** can also be added to your WordPress Site. Our amazing plugin** WP Social Ninja** will display **Twitter Feeds** on your website, and the process is done in just a few steps. It has the power to reach out to a bigger platform and engage with more customers.
 
@@ -13,7 +13,7 @@ You already know about **Twitter Feeds** and how they can accelerate your WordPr
 
 **Twitter Configuration** is an effortless process and definitely saves your time. We’re going to walk you through the process and have added screenshots to help you further.
 
-https://www.youtube.com/watch?v=SLpefN7tIz8&amp;t=1s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLpefN7tIz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Twitter feed: Manual configuration_
 

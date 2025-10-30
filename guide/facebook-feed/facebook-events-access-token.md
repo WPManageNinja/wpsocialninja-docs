@@ -1,9 +1,9 @@
 ---
-title: "Facebook Events Access Token | Social Feeds | WP Social Ninja"
+title: "Facebook Events Access Token"
 description: ""
 ---
 
-# Facebook Events Access Token | Social Feeds | WP Social Ninja
+# Facebook Events Access Token
 
 With WP Social Ninja, adding your Facebook Page events to your WordPress site is quick and simple. In this guide, we’ll walk you through how to connect your Facebook Page with WP Social Ninja and display your events directly on your website.&nbsp;
 

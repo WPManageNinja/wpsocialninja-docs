@@ -1,9 +1,9 @@
 ---
-title: "Fixing “Access Token Decryption Failed” in | WP Social Ninja"
+title: "Fixing “Access Token Decryption Failed” in"
 description: ""
 ---
 
-# Fixing “Access Token Decryption Failed” in | WP Social Ninja
+# Fixing “Access Token Decryption Failed” in
 
 Sometimes, when connecting Instagram, Facebook, or other platforms, WP Social Ninja may show an error like:
 

@@ -1,9 +1,9 @@
 ---
-title: "Social Reviews | WP Social Ninja"
+title: "Social Reviews"
 description: ""
 ---
 
-# Social Reviews | WP Social Ninja
+# Social Reviews
 
 Your business receives valuable **Social Reviews** on multiple social networking sites like **Google** **My Business**, **Facebook**, **Airbnb**, **Yelp**, etc. It’s no surprise you want to add them all to your WordPress site so that you can display all the reviews consecutively.
 

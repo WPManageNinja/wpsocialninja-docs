@@ -1,9 +1,9 @@
 ---
-title: "All-in-One Configuration | Social Chat | WP Social Ninja"
+title: "All-in-One Configuration"
 description: ""
 ---
 
-# All-in-One Configuration | Social Chat | WP Social Ninja
+# All-in-One Configuration
 
 Have you thought about adding **Messenger Chat** or any other Social Chat platform to your WordPress site? The **All-in-One Chat **feature will definitely speed up the connection with the customers in the fastest way possible.
 

@@ -13,7 +13,7 @@ Displaying reviews from Fluent Forms is a premium feature and requires **WP Soci
 
 :::
 
-https://www.youtube.com/watch?v=u8hd6Wkui4E&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=8&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8hd6Wkui4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Integration with Fluent Forms_
 

@@ -1,9 +1,9 @@
 ---
-title: "WooCommerce Reviews | Social Reviews | WP Social Ninja"
+title: "WooCommerce Reviews"
 description: ""
 ---
 
-# WooCommerce Reviews | Social Reviews | WP Social Ninja
+# WooCommerce Reviews
 
 WP Social Ninja simplifies the process of displaying WooCommerce product reviews on your website. You have to follow some easy steps to do this.
 

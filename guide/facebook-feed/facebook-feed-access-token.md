@@ -1,9 +1,9 @@
 ---
-title: "Connecting A Facebook Page Using Access Token | Social Feed | WP Social Ninja"
+title: "Connecting A Facebook Page Using Access Token | Social Feed"
 description: ""
 ---
 
-# Connecting A Facebook Page Using Access Token | Social Feed | WP Social Ninja
+# Connecting A Facebook Page Using Access Token | Social Feed
 
 If you want to display your Facebook feed on your website with **WP Social Ninja**, it comes up with multiple options for the configuration process. This is to ease your work, and you can get your account processed more specifically.
 

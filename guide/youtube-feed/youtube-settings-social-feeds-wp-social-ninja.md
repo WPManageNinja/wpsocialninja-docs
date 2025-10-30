@@ -1,9 +1,9 @@
 ---
-title: "YouTube Settings | Social Feeds | WP Social Ninja"
+title: "YouTube Settings"
 description: ""
 ---
 
-# YouTube Settings | Social Feeds | WP Social Ninja
+# YouTube Settings
 
 **WP Social Ninja** allows its users to have a complete advantage of the features. YouTube Feed has a detailed Settings section.
 

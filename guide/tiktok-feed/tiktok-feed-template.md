@@ -1,9 +1,9 @@
 ---
-title: "TikTok Feed Template | Social Feeds | WP Social Ninja"
+title: "TikTok Feed Template"
 description: ""
 ---
 
-# TikTok Feed Template | Social Feeds | WP Social Ninja
+# TikTok Feed Template
 
 WP Social Ninja offers templates for your TikTok feed and you can customize many things in your template. This guide will give you the details about creating your template.&nbsp;
 

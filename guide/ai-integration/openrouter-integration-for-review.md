@@ -1,9 +1,9 @@
 ---
-title: "OpenRouter Integration for Review  "
+title: "OpenRouter Integration for Review"
 description: ""
 ---
 
-# OpenRouter Integration for Review  
+# OpenRouter Integration for Review
 
 Imagine you have hundreds of customer reviews pouring in from Google, Facebook, or Yelp. Each one tells part of the story but what if you could generate a single, beautifully written summary that captures the essence of all those reviews?
 

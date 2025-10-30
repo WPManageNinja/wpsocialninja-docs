@@ -1,9 +1,9 @@
 ---
-title: "Instagram Access Token | Social Feeds | WP Social Ninja"
+title: "Instagram Access Token"
 description: ""
 ---
 
-# Instagram Access Token | Social Feeds | WP Social Ninja
+# Instagram Access Token
 
 WP Social Ninja is always focused on making the best of popular social platforms to provide your business the exposure it deserves. And that’s why we have come up with an Instagram feed for your website. With 1 billion currently active users, Instagram has shown immense growth.
 

@@ -1,9 +1,9 @@
 ---
-title: "Twitter App | Social Feeds | WP Social Ninja"
+title: "Twitter App"
 description: ""
 ---
 
-# Twitter App | Social Feeds | WP Social Ninja
+# Twitter App
 
 To collect the **Consumer Key** (**API Key**), **Consumer Secret** (**API Secret Key**), **Access Token**, and **Access Token Secret** you need to create a **Twitter App**.** **&nbsp;Let’s follow the steps given below -
 

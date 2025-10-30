@@ -1,13 +1,13 @@
 ---
-title: "AliExpress Reviews | Social Reviews | WP Social Ninja"
+title: "AliExpress Reviews"
 description: ""
 ---
 
-# AliExpress Reviews | Social Reviews | WP Social Ninja
+# AliExpress Reviews
 
 Isn’t it great that a plugin can aggregate all the **Social Reviews** in one platform without any stress? Yes, **WP Social Ninja** can fetch reviews from different sites and embed them on your site. For example, the most popular site AliExpress has ample reviews to excel in your business.
 
-https://www.youtube.com/watch?v=uWeALyqO42I&amp;list=PLXpD0vT4thWHkIONHEJrFJ6LTvOJVE1ve&amp;index=6&amp;ab_channel=WPManageNinja
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWeALyqO42I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _AliExpress reviews the configuration process on your WordPress websites_
 

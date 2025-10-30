@@ -1,9 +1,9 @@
 ---
-title: "YouTube Feed Settings | Social Feeds | WP Social Ninja"
+title: "YouTube Feed Settings"
 description: ""
 ---
 
-# YouTube Feed Settings | Social Feeds | WP Social Ninja
+# YouTube Feed Settings
 
 WP Social Ninja now allows you to optimize **YouTube Thumbnail Images**, ensuring your site loads faster and performs better.
 

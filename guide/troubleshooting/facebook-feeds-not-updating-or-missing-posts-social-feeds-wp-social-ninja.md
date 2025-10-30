@@ -1,9 +1,9 @@
 ---
-title: "Facebook Feeds Not Updating or Missing Posts | Social Feeds | WP Social Ninja"
+title: "Facebook Feeds Not Updating or Missing Posts"
 description: ""
 ---
 
-# Facebook Feeds Not Updating or Missing Posts | Social Feeds | WP Social Ninja
+# Facebook Feeds Not Updating or Missing Posts
 
 If your Facebook feed in WPSocialNinja isn’t updating or some posts are missing, it could be due to one of the following reasons. Below, we’ll explain the causes and provide potential solutions to help you resolve the issue.
 

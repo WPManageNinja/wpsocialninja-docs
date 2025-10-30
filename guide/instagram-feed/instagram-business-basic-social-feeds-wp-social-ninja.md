@@ -1,9 +1,9 @@
 ---
-title: "Instagram Business Basic | Social Feeds | WP Social Ninja"
+title: "Instagram Business Basic"
 description: ""
 ---
 
-# Instagram Business Basic | Social Feeds | WP Social Ninja
+# Instagram Business Basic
 
 As of December 4th, 2024, Instagram no longer supports the [Basic Display API](https://developers.facebook.com/blog/post/2024/09/04/update-on-instagram-basic-display-api/) for Personal Accounts. To continue displaying Instagram Feeds on your WordPress Site, you need to add either your Instagram Business Basic or Business Advanced account.
 

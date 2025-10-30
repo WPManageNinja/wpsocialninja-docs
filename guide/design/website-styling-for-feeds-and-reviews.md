@@ -1,9 +1,9 @@
 ---
-title: "Style | Feeds & Reviews | WP Social Ninja"
+title: "Style | Feeds & Reviews"
 description: ""
 ---
 
-# Style | Feeds & Reviews | WP Social Ninja
+# Style | Feeds & Reviews
 
 Changing the styles of Feeds and Reviews is a fascinating task. WP Social Ninja provides comprehensive website styling with multiple functionalities. You no longer need to use a Custom CSS code or page builder to decorate your feeds or reviews; you can instead do so directly from the WP Social Ninja dashboard.
 

@@ -1,9 +1,9 @@
 ---
-title: "Template Layouts | Social Reviews | WP Social Ninja"
+title: "Template Layouts"
 description: ""
 ---
 
-# Template Layouts | Social Reviews | WP Social Ninja
+# Template Layouts
 
 Changing **Template Layouts** are fun to do. You have the authority to change your Layouts the way you want.
 

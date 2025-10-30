@@ -1,9 +1,9 @@
 ---
-title: "How to use a Shortcode | Social Reviews | WP Social Ninja"
+title: "How to use a Shortcode"
 description: ""
 ---
 
-# How to use a Shortcode | Social Reviews | WP Social Ninja
+# How to use a Shortcode
 
 You need to use **Shortcodes** in order to display your reviews on your website.
 

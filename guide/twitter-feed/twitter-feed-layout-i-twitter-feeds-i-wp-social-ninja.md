@@ -3,15 +3,17 @@ title: "Twitter Feed Layout"
 description: ""
 ---
 
-# Twitter Feed Layout **WP Social Ninja** has customized **Social Feed** options. The **Twitter Feeds** have some formations that will help you change your **Twitter Feed Layout** and match it with your brand the way you want it.
+# Twitter Feed Layout
+
+**WP Social Ninja** has customized **Social Feed** options. The **Twitter Feeds** have some formations that will help you change your **Twitter Feed Layout** and match it with your brand the way you want it.
 
 ## **Twitter Feed Layout**
 
-Let’s jump into the stepsto see how you can customize the site.
+Let's jump into the steps to see how you can customize the site.
 
 ### **Source**
 
-To change the** Layout,**&nbsp;click on the&nbsp;**Source**&nbsp;button and a **Feed Type** drop-down menu will appear.
+To change the **Layout,** click on the **Source** button and a **Feed Type** drop-down menu will appear.
 
 #### **Feed Type**
 
@@ -21,17 +23,17 @@ Currently, we have four Feed Types; User Timeline, Home Timeline, Hashtag, and M
 
 _Feed Type_
 
-Similarly, you may&nbsp;choose any** Feed Type** to display Tweets on your website.
+Similarly, you may choose any **Feed Type** to display Tweets on your website.
 
 ### **Number of Tweets to Display**
 
-You can also change the** Number of Tweets to Display** on your website.
+You can also change the **Number of Tweets to Display** on your website.
 
 ![Number of Tweets to Display](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/fetch_tweets-1024x472.png)
 
 _Number of Tweets to Display_
 
-With this option, you will be able to select the&nbsp;number of Tweets that you would like to display on your website. Moreover, you can add unlimited Tweets. Click on Fetch Tweets after you have selected your number of Tweets.
+With this option, you will be able to select the number of Tweets that you would like to display on your website. Moreover, you can add unlimited Tweets. Click on Fetch Tweets after you have selected your number of Tweets.
 
 ### **Template**
 

@@ -5,7 +5,7 @@ description: ""
 
 # Twitter Feed Settings
 
-WP Social Ninja has amazing **TwitterFeedSettings** for users that offers multiple filter options. Let’s see how this works-
+WP Social Ninja has amazing **Twitter Feed Settings** for users that offers multiple filter options. Let's see how this works-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1Rlr2MheKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -13,13 +13,13 @@ _Twitter feed settings with WP Social Ninja_
 
 ## **Filters**
 
-This feature has various options to filter specific tweets according to your requirements. Enter the** Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order** option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular &amp; Random. Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way.&nbsp;The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
+This feature has various options to filter specific tweets according to your requirements. Enter the **Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order** option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular & Random. Next is **Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the **Hide posts containing these words or hashtags**, you can hide posts in the same way. The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
 
 ![Twitter Filters](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/twitter-filters.png)
 
 _Twitter Filters_
 
-## **Feed Settings**&nbsp;
+## **Feed Settings**
 
 After clicking on **Settings,** a drop-down menu will appear.
 
@@ -27,7 +27,7 @@ After clicking on **Settings,** a drop-down menu will appear.
 
 _Twitter Settings_
 
-WP Social Ninja offers a detailed setting for the users that has multiple options and filters to adjust.&nbsp;
+WP Social Ninja offers a detailed setting for the users that has multiple options and filters to adjust.
 
 ### **Display Avatar Image**
 
@@ -37,7 +37,7 @@ You can turn on/off the Display Avatar Image in this section.
 
 _Display Avatar Image_
 
-If you turn off the button, the Avatar image will not be displayed. For the purpose of demonstration,&nbsp;we have turned it on.
+If you turn off the button, the Avatar image will not be displayed. For the purpose of demonstration, we have turned it on.
 
 ### **Display Author Name**
 

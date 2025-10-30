@@ -5,11 +5,11 @@ description: ""
 
 # Twitter App
 
-To collect the **Consumer Key** (**API Key**), **Consumer Secret** (**API Secret Key**), **Access Token**, and **Access Token Secret** you need to create a **Twitter App**.&nbsp;Let’s follow the steps given below -
+To collect the **Consumer Key** (**API Key**), **Consumer Secret** (**API Secret Key**), **Access Token**, and **Access Token Secret** you need to create a **Twitter App**. Let's follow the steps given below -
 
 ## Step 1
 
-Visit[** https://developer.twitter.com/en/apps**](https://developer.twitter.com/en/apps) and click on the **Create an App** button.
+Visit [**https://developer.twitter.com/en/apps**](https://developer.twitter.com/en/apps) and click on the **Create an App** button.
 
 ![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/Twitter-Developers.png)
 
@@ -21,7 +21,7 @@ A pop-up will arrive, now click on the **Apply** button.
 
 _Apply_
 
-## Step 2&nbsp;
+## Step 2
 
 To get access to the **Twitter API** you should subscribe to **Basic** or **Pro**. Also, you can go with the free account.
 

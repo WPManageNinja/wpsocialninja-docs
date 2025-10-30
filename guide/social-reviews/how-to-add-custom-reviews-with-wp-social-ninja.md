@@ -31,7 +31,7 @@ After clicking the **Add Custom Review** button, a pop-up form will appear where
 
 - **Reviewer Image:** Upload an image of the reviewer, such as a profile picture or company logo.
 
-- **Review Title:** Create a short, impactful headline for the review (e.g., "Amazing Product &amp; Support!").
+- **Review Title:** Create a short, impactful headline for the review (e.g., "Amazing Product & Support!").
 
 - **Reviewer Text:** Enter the full text of the testimonial here. You can use the Visual or Code editor for formatting.
 
@@ -69,4 +69,4 @@ In the template editor, go to the **Source** section on the right-hand side. Cli
 
 _Custom Review Template_
 
-And that's it! Your custom review template is now ready to be embedded on your website using its shortcode. You may also be interested in learning[ ** how to add Fluent Forms Review**](https://www.google.com/search?q=https://wpsocialninja.com/docs/fluent-forms-reviews/).
+And that's it! Your custom review template is now ready to be embedded on your website using its shortcode. You may also be interested in learning [**how to add Fluent Forms Review**](https://www.google.com/search?q=https://wpsocialninja.com/docs/fluent-forms-reviews/).

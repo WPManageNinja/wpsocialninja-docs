@@ -23,7 +23,7 @@ After obtaining your **Business URL,** you can create your template. In order to
 
 _Available Platforms_
 
-After you click on the Create a Template button, you are taken to the awesome editor panel.&nbsp;
+After you click on the Create a Template button, you are taken to the awesome editor panel.
 
 From the drop-down menu, you can see all the Platforms. Select **Airbnb,** or you may select multiple Platforms.
 

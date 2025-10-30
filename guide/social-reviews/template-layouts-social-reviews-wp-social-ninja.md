@@ -9,14 +9,13 @@ Changing **Template Layouts** are fun to do. You have the authority to change yo
 
 ## **Template Layouts**
 
-Let’s check how you can change your **Social Reviews Template Layouts** in just&nbsp;a few clicks.
+Let's check how you can change your **Social Reviews Template Layouts** in just a few clicks.
 
 ### **Source**
 
 ![Select a Platform/Select all Platforms](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Platforms.png)
 
-_Select a Platform/Select all Platforms
-_
+_Select a Platform/Select all Platforms_
 
 To change your **Template Layout,** click the Source button, and a drop-down menu will appear. You can Select a Platform, or you can select all the Platforms.
 
@@ -32,17 +31,15 @@ In this section, we will guide you on how you can easily adjust your **Template 
 
 ![All Platforms | Front End View](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Frontend-View.png)
 
-_All Platforms | Front End View
-_
+_All Platforms | Front End View_
 
 ### **Template**
 
-You can change your **Layout Type** from the drop-down option. Three **Types of Layouts** are available right now. **Grid, Slider, <strong>Masonry**</strong> and **Badge** - these Layouts have specific designs to structure contents.
+You can change your **Layout Type** from the drop-down option. Three **Types of Layouts** are available right now. **Grid, Slider, Masonry** and **Badge** - these Layouts have specific designs to structure contents.
 
 ![Layout Type | Grid](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Layout-Type.png)
 
-_Layout Type | Grid
-_
+_Layout Type | Grid_
 
 ### **Template Types**
 
@@ -62,8 +59,7 @@ In our demonstration, **3 Columns** are selected to display the reviews.
 
 ![Number of Columns](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Columns.png)
 
-_Number of Columns
-_
+_Number of Columns_
 
 ### **Filters**
 
@@ -75,7 +71,7 @@ For each platform, you can select up to 100 reviews from the scroll bar.
 
 _Number of Reviews_
 
-### **Filters by Minimum Rating&nbsp;**
+### **Filters by Minimum Rating**
 
 Did you know that you can filter your **Review Ratings**? If you want to add only a specific number of stars, you also have that option.
 
@@ -83,10 +79,9 @@ You will have six options to choose from **No Minimum Rating** to **Five Star** 
 
 ![Filters by Minimum Rating](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Minimum-Ratings.png)
 
-_Filters by Minimum Rating
-_
+_Filters by Minimum Rating_
 
-### **Filter by **Order
+### **Filter by Order**
 
 Here, you have two options! You can choose the reviews to be displayed in Ascending, Descending, or Random order.
 
@@ -224,32 +219,32 @@ The **AI Summarizer** automatically generates a short summary of your customer r
 
 **Display AI Summary**: Toggle this ON to show an AI-generated summary at the top of your review section.
 
-**API Key Requirement**: To use this feature, you need to connect your own AI API key (for example, from OpenAI). Without an API key, the summarizer will not work. You can add your key by clicking the**“here”** link in the note.
+**API Key Requirement**: To use this feature, you need to connect your own AI API key (for example, from OpenAI). Without an API key, the summarizer will not work. You can add your key by clicking the **"here"** link in the note.
 
 ## **Schema Snippet**
 
-The **Schema Snippet** feature lets you add structured data (JSON-LD) to your reviews. This helps search engines (like Google) understand your reviews better and may display** rich snippets** (stars, ratings, and business info) in search results.
+The **Schema Snippet** feature lets you add structured data (JSON-LD) to your reviews. This helps search engines (like Google) understand your reviews better and may display **rich snippets** (stars, ratings, and business info) in search results.
 
 Here are the available options:
 
 **Enable Schema**: Turn this on to activate schema markup for your reviews. Once enabled, WP Social Ninja will generate schema code in the background based on your settings.
 
-**Business Logo**: Upload or select your** business logo**. This is included in the schema data to represent your brand in search results.
+**Business Logo**: Upload or select your **business logo**. This is included in the schema data to represent your brand in search results.
 
-**Business Name**: Enter your** business or organization name** exactly as it should appear in Google’s rich snippets. Example: *WP Social Ninja*.
+**Business Name**: Enter your **business or organization name** exactly as it should appear in Google's rich snippets. Example: *WP Social Ninja*.
 
-**Business Type**: Choose the correct** business/organization type** that best matches your brand.
+**Business Type**: Choose the correct **business/organization type** that best matches your brand.
 **Note:** Use valid schema.org types (like *Organization, LocalBusiness, Store, Restaurant, SoftwareApplication*).
 For the full list of valid types, visit [schema.org](https://schema.org?utm_source=chatgpt.com).
 
 **Business Phone Number:** Add a contact number for your business. This can be displayed in the schema so users see a verified phone number in search results.
 
-**Include Business Address**: If enabled, the plugin will include your** business address** in the schema. This is especially useful for local businesses (restaurants, salons, shops).
+**Include Business Address**: If enabled, the plugin will include your **business address** in the schema. This is especially useful for local businesses (restaurants, salons, shops).
 
-**Fallback Average Rating**: If your reviews don’t have an average rating available, you can set a** default rating value** here.
+**Fallback Average Rating**: If your reviews don't have an average rating available, you can set a **default rating value** here.
 Example: If you set**4.5**, Google will use that as the average rating in search results when no rating data is available.
 
-**Fallback Total Rating**:Similar to the fallback average rating, this is the** total number of reviews** you want Google to recognize if your reviews don’t provide one.
+**Fallback Total Rating**: Similar to the fallback average rating, this is the **total number of reviews** you want Google to recognize if your reviews don't provide one.
 Example: If you set**10**, search engines will consider it as 10 reviews.
 
 **Testing Your Schema:** After configuring, you can test whether your schema is valid using Google’s [Rich Results Test](https://search.google.com/test/rich-results?utm_source=chatgpt.com).

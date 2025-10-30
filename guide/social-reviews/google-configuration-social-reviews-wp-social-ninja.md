@@ -43,7 +43,7 @@ Choose your e-mail account to continue with WP Social Ninja.
 
 ### **Step 2**
 
-Click on the **Allow**&nbsp;to grant access permission.
+Click on the **Allow** to grant access permission.
 
 ![Allow to Continue](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/grant_access_google.png)
 
@@ -75,6 +75,6 @@ You can also click on **Connect New Account** to get your reviews from multiple 
 
 _Google Business Reviews_
 
-You have successfully managed to get your **Google Business Profile Reviews**. Now click to **Create a Template** to display reviews on your website.&nbsp;
+You have successfully managed to get your **Google Business Profile Reviews**. Now click to **Create a Template** to display reviews on your website.
 
 You can also check out - **[Facebook Reviews](./facebook-configuration-social-reviews-wp-social-ninja)**

@@ -5,21 +5,21 @@ description: ""
 
 # Trustpilot Reviews
 
-Nowadays business is not just about products and services. Business reviews are equally important like products/services. Hence there is **WP Social Ninja**- the multipurpose plugin to gather all your business reviews from multiple sites and embed them on your website.&nbsp;
+Nowadays business is not just about products and services. Business reviews are equally important like products/services. Hence there is **WP Social Ninja**- the multipurpose plugin to gather all your business reviews from multiple sites and embed them on your website.
 
-To fetch all the **Trustpilot Reviews* *** directly on your website***, *WP Social Ninja** will connect all the reviews with just a few clicks.
+To fetch all the **Trustpilot Reviews** directly on your website, **WP Social Ninja** will connect all the reviews with just a few clicks.
 
 Let’s follow the steps in order to aggregate **Trustpilot Reviews** to boost up your business on your website.
 
-## **Trustpilot&nbsp; Configuration**
+## **Trustpilot Configuration**
 
-To add **Trustpilot Reviews** to your site, you first need to connect with the Trustpilot server to fetch the reviews from their repositories. First, you need to obtain the Trustpilot Business Reviews **URL** to show the reviews on your WordPress site.&nbsp;
+To add **Trustpilot Reviews** to your site, you first need to connect with the Trustpilot server to fetch the reviews from their repositories. First, you need to obtain the Trustpilot Business Reviews **URL** to show the reviews on your WordPress site.
 
 ![Trustpilot Business URL](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-URL-1-scaled.webp)
 
 _Trustpilot Business URL_
 
-Now go to your WP Social Ninja and select **Platform** from the Navbar. You will see the **Trustpilot** here. Click on the **Settings** Icon button to *Configure* Trustpilot here. Here you need to give the URL of your Trustpilot Business to show the Reviews of Trustpilot.&nbsp;
+Now go to your WP Social Ninja and select **Platform** from the Navbar. You will see the **Trustpilot** here. Click on the **Settings** Icon button to *Configure* Trustpilot here. Here you need to give the URL of your Trustpilot Business to show the Reviews of Trustpilot.
 
 ![Trustpilot Configuration](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-url-field--scaled.webp)
 

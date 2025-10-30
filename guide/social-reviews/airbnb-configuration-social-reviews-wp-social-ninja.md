@@ -59,26 +59,16 @@ You must find the secret keys from two different network requests: `StaysPdpRevi
 You will need to find and copy three pieces of information from this file:
 
 - **The API Key:**
-
-<li>In the details panel, click on the **Headers** tab.
-
-- Scroll down until you find the x-airbnb-api-key.
-
-- Copy the long string of characters next to it. This is your API Key.
-
-</li>
+  - In the details panel, click on the **Headers** tab.
+  - Scroll down until you find the x-airbnb-api-key.
+  - Copy the long string of characters next to it. This is your API Key.
 
 ![airbnb api 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/Airbnb-api-1-scaled.webp)
 
 - **The Secret Key:**
-
-<li>Now, click on the **Payload** tab (it might also be called "Request").
-
-- Navigate through extensions → persistedQuery.
-
-- You will see a sha256Hash. Copy the long string of characters next to it. This is your Secret Key.
-
-</li>
+  - Now, click on the **Payload** tab (it might also be called "Request").
+  - Navigate through extensions → persistedQuery.
+  - You will see a sha256Hash. Copy the long string of characters next to it. This is your Secret Key.
 
 ![airbnb api 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/Airbnb-api-2-scaled.webp)
 
@@ -120,7 +110,7 @@ You will need to find and copy three pieces of information from this file:
 
 ### **Step 2: Add the Keys to Your WordPress Site**
 
-To make these keys work, you need to add a small code snippet to your WordPress site. The safest and easiest way to do this is by using a **Code Snippets** plugin. We recommend [FluentSnippets](https://fluentsnippets.com/).&nbsp;
+To make these keys work, you need to add a small code snippet to your WordPress site. The safest and easiest way to do this is by using a **Code Snippets** plugin. We recommend [FluentSnippets](https://fluentsnippets.com/).
 
 - **Create a New Snippet**
 
@@ -205,6 +195,6 @@ You can fetch up to **100 reviews** for each business on your site. If you're us
 
 However, downloading reviews sometimes might take some time. If you want, you can delete this account by clicking on the **Cross** icon.
 
-You can even include additional business accounts when clicking the **Add More Business** button. Just enter the business name the same way as before &amp; click the **Save** button.
+You can even include additional business accounts when clicking the **Add More Business** button. Just enter the business name the same way as before & click the **Save** button.
 
 You can also check out - **[Social Reviews](./social-media-reviews-wp-social-ninja)**

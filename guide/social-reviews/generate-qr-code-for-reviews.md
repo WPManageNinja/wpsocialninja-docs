@@ -15,51 +15,33 @@ Before you begin, ensure you have already connected your business platforms in W
 
 - **Navigate to the QR Code Menu**
 
-<li>From your WordPress dashboard, go to **WPSocialNinja** > **Settings**.
-
-- Click on the **Get Reviews via QR Code** submenu item. This will take you to the QR code dashboard.
-
-</li>
+  - From your WordPress dashboard, go to **WPSocialNinja** > **Settings**.
+  - Click on the **Get Reviews via QR Code** submenu item. This will take you to the QR code dashboard.
 
 ![get reviews via qr code 1](/guide/public/images/social-reviews/generate-qr-code-for-reviews/Get-Reviews-Via-QR-Code-1-scaled.webp)
 
 - **Create a New QR Code**
 
-<li>Click the**+ Add New QR code** button to open the configuration popup.
-
-- In the popup, enter a **Name** for your QR code so you can identify it later.
-
-- Under **Business URL**, select the specific platform URL you want the QR code to link to.
-
-- Click the **Generate** button.
-
-</li>
+  - Click the **+ Add New QR code** button to open the configuration popup.
+  - In the popup, enter a **Name** for your QR code so you can identify it later.
+  - Under **Business URL**, select the specific platform URL you want the QR code to link to.
+  - Click the **Generate** button.
 
 ![get reviews via qr code 2](/guide/public/images/social-reviews/generate-qr-code-for-reviews/Get-Reviews-Via-QR-Code-2-scaled.webp)
 
 - **Download Your QR Code**
 
-<li>After generation, the QR code will be displayed.
-
-- Click the **PNG** or **SVG** button to download the QR code image file to your computer.
-
-</li>
+  - After generation, the QR code will be displayed.
+  - Click the **PNG** or **SVG** button to download the QR code image file to your computer.
 
 ![get reviews via qr code 3](/guide/public/images/social-reviews/generate-qr-code-for-reviews/Get-Reviews-Via-QR-Code-3-scaled.webp)
 
 - **Manage Your QR Codes**
 
-<li>After creation, your QR code will be added to the list on the main dashboard where you can see details for each code, including its **Name**, **QR Code** image, and the **Total Scans** count.
-
-- To edit or delete a QR code, use the icons at the end of its row:
-
-<li>Click the** pencil icon** to edit the code's details.
-
-- Click the** delete icon** to permanently remove the code.
-
-</li>
-
-</li>
+  - After creation, your QR code will be added to the list on the main dashboard where you can see details for each code, including its **Name**, **QR Code** image, and the **Total Scans** count.
+  - To edit or delete a QR code, use the icons at the end of its row:
+    - Click the **pencil icon** to edit the code's details.
+    - Click the **delete icon** to permanently remove the code.
 
 ![get reviews via qr code 4](/guide/public/images/social-reviews/generate-qr-code-for-reviews/Get-Reviews-Via-QR-Code-4-scaled.webp)
 

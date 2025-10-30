@@ -3,7 +3,9 @@ title: "Layout Settings"
 description: ""
 ---
 
-# Layout Settings **WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
+# Layout Settings
+
+**WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
 
 Here, you may select a single Platform or multiple Platforms. However, the **Layout Settings** customize option will remain the same for all the Social Reviews Platforms.
 
@@ -17,8 +19,7 @@ Here, on the **Display Rating** button, you can control the rating on your websi
 
 ![Display Rating](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/display_rating-1024x590-1.png)
 
-_Display Rating
-_
+_Display Rating_
 
 If you want to display the ratings then you can just turn it on. Similarly, just click to turn it off for hiding it.
 
@@ -28,8 +29,7 @@ Next, you can change your **Rating Style**.
 
 ![Rating Style](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/rating_style-1024x521-1.png)
 
-_Rating Style
-_
+_Rating Style_
 
 Three Layout options are available right now. **Default, Number Style Rating**, and **Icon with Number Style Rating**. Pick any from the drop-down menu and add more variations on your website.
 
@@ -37,8 +37,7 @@ Three Layout options are available right now. **Default, Number Style Rating**, 
 
 ![Other Settings](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/other-settings-1024x532-1.png)
 
-_Other Settings
-_
+_Other Settings_
 
 #### **Display Reviewer Name**
 
@@ -66,7 +65,7 @@ By enabling this option, you can show the **Title** of the reviews. Click the Di
 
 #### **Display Review Text**
 
-After you adjust your **Equal Height,** you can adjust your** Reviewer Text**.
+After you adjust your **Equal Height,** you can adjust your **Reviewer Text**.
 
 #### **Content-Length**
 
@@ -74,7 +73,7 @@ If you disable the **Display Reviewer Text** button then you won’t be able to 
 
 #### **Display Date**
 
-Using this Plugin you can also control your **Display Date**. Click to enable the button if you want the Date to be shown. You can see in the above screenshot the Date is displayed in the**(d-m-Y) ** format. So, you can choose your preferred Date format from the various formats that are available.
+Using this Plugin you can also control your **Display Date**. Click to enable the button if you want the Date to be shown. You can see in the above screenshot the Date is displayed in the **(d-m-Y)** format. So, you can choose your preferred Date format from the various formats that are available.
 
 ![Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/settings_frontend.png)
 
@@ -130,9 +129,9 @@ If you want to change the text of "Write a Review" then you can do that by writi
 
 To add a URL to your custom review button, first enable the “**Add Write a Review URL**” toggle. Once enabled, you’ll see a dropdown with two options: **Custom URL** and **Fluent Forms Shortcode**.
 
-Choose** “Fluent Forms Shortcode”** if you want to collect reviews using a form. Simply paste the Fluent Forms shortcode into the designated field.
+Choose **"Fluent Forms Shortcode"** if you want to collect reviews using a form. Simply paste the Fluent Forms shortcode into the designated field.
 
-Choose** “Custom URL”** if you want the button to redirect users to a specific link. Then, enter your custom URL in the provided field.
+Choose **"Custom URL"** if you want the button to redirect users to a specific link. Then, enter your custom URL in the provided field.
 
 ![Header Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/write_review.png)
 

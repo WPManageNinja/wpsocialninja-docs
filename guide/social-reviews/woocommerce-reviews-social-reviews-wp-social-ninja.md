@@ -33,9 +33,9 @@ _WooCommerce Product Selection for Review_
 
 You will find the template section here, and you can also customize your review template. On the right section of your template, two tabs are available: **General** and **Style**.
 
-In the **General** section, you will find some template designs, layout types, filters, and many options for your template.&nbsp;Here you will get a template "Polaris" available for WooCommerce Product Reviews.
+In the **General** section, you will find some template designs, layout types, filters, and many options for your template. Here you will get a template "Polaris" available for WooCommerce Product Reviews.
 
-In the**[Style](../design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
+In the **[Style](../design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
 
 ![polaris template for woocommerce](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/Polaris-template-for-woocommerce-scaled.webp)
 
@@ -97,7 +97,7 @@ These settings on the WooCommerce product page let you control how reviews are d
 
 ## Reviews Notification Popup
 
-You can also set a pop-up notification of WooCommerce product reviews on your site. The pop-up review notification will show up on your font end site like this.&nbsp;
+You can also set a pop-up notification of WooCommerce product reviews on your site. The pop-up review notification will show up on your font end site like this.
 
 Go to your Notification pop-settings from WP Social Ninja Dashboard and select **Notification Popups** then select the **WooCommerce** platform from the **General** tab platform option.
 

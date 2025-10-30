@@ -5,7 +5,7 @@ description: ""
 
 # Tripadvisor Reviews
 
-WP Social Ninja integrates with TripAdvisor, allowing you to collect and display reviews from the platform to enhance your business's credibility.&nbsp;
+WP Social Ninja integrates with TripAdvisor, allowing you to collect and display reviews from the platform to enhance your business's credibility.
 
 It offers two methods for gathering TripAdvisor reviews: using a **Business URL** or through an **API key**. We recommend using the API method, as it allows for a more comprehensive and reliable data transfer. With the API, you can control the frequency and volume of data requests, ensuring a seamless and customizable review collection process.
 
@@ -37,7 +37,7 @@ Once you’ve completed the form, your API key will be generated and you will se
 
 ![Tripadvisor API Configuration 4](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/image.png)
 
-## **Get the Place ID**&nbsp;
+## **Get the Place ID**
 
 To set up TripAdvisor with WP Social Ninja, you'll need the **Place ID** from your TripAdvisor business profile. You can find it in the URL of your Business profile.
 
@@ -63,4 +63,4 @@ WP Social Ninja will initially show the 5 most recent reviews from TripAdvisor, 
 
 If you have any further questions about this guide, please don't hesitate to [contact us](https://wpmanageninja.com/support-tickets/).
 
-Also, check out -**[ Facebook Reviews](./facebook-configuration-social-reviews-wp-social-ninja)**
+Also, check out - **[Facebook Reviews](./facebook-configuration-social-reviews-wp-social-ninja)**

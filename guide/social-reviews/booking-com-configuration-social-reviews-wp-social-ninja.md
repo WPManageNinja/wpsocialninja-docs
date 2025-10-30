@@ -21,13 +21,13 @@ Navigate to your **WP Social Ninja** dashboard and select **Platform** from the 
 
 ![booking review 1](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-1-scaled.webp)
 
-## **Steps to Configure Booking.com Reviews&nbsp;**
+## **Steps to Configure Booking.com Reviews**
 
 Before fetching reviews from Booking.com using your Business Profile URL, you need to complete three additional steps:
 
 - **Copy the Cookie AWS-WAF-Token Cookie Value from the Booking.com Site**
 
-- **Add the AWS-WAF-Token  Cookie Value to a Snippet**
+- **Add the AWS-WAF-Token Cookie Value to a Snippet**
 
 Below is a step-by-step guide to complete these settings:
 
@@ -49,7 +49,7 @@ To use the **AWS-WAF-Token** cookie value you copied earlier, you'll need to add
 
 ::: tip
 
-We recommend using**[FluentSnippet](https://fluentsnippets.com/)** on your WordPress site for a seamless experience. However, you can use any other snippet plugin of your choice.
+We recommend using **[FluentSnippet](https://fluentsnippets.com/)** on your WordPress site for a seamless experience. However, you can use any other snippet plugin of your choice.
 
 :::
 
@@ -63,13 +63,11 @@ Follow these steps to add the code snippet:
 
 add_filter('wpsocialreviews/booking_header_request_cookie_set', function($headers) {
 
-    $headers&#91;'cookie'] = 'aws-waf-token=Cookie value goes here';
-
-    return $headers;
+    $headers['cookie'] = 'aws-waf-token=Cookie value goes here';    return $headers;
 
 });`
 
-- Replace <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-kb-palette-1-color">Cookie value goes here </mark>with the **AWS-WAF-Token** value you copied earlier.
+- Replace **Cookie value goes here** with the **AWS-WAF-Token** value you copied earlier.
 
 - Save the snippet to apply the changes.
 
@@ -77,7 +75,7 @@ add_filter('wpsocialreviews/booking_header_request_cookie_set', function($header
 
 ## **Business URL from Booking**
 
-Navigate to your business profile on Booking.com and copy the **Business URL** directly from the address bar of your browser.&nbsp;
+Navigate to your business profile on Booking.com and copy the **Business URL** directly from the address bar of your browser.
 
 ![booking review 6](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-6-scaled.webp)
 

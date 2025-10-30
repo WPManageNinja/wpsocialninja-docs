@@ -31,7 +31,7 @@ These limits are controlled by Yelp, not WP Social Ninja. [Check Yelp Plan and P
 
 :::
 
-This section will guide you through the easiest way to obtain your Yelp&nbsp; API Key. To create a Yelp API key for pulling reviews, follow these detailed steps:
+This section will guide you through the easiest way to obtain your Yelp API Key. To create a Yelp API key for pulling reviews, follow these detailed steps:
 
 - Visit the[ Yelp Fusion API page](https://docs.developer.yelp.com/docs/fusion-intro), log in, or sign up for an account.
 
@@ -45,15 +45,15 @@ This section will guide you through the easiest way to obtain your Yelp&nbsp; AP
 
 ### **Get Free Reviews** API
 
-To get three free reviews from Yelp, first log in to your [Yelp account ](https://www.yelp.com/developers)and follow this [link](https://www.yelp.com/developers/v3/manage_app). You’ll be taken to the **My App** page where you'll need to fill in a few details about your app.&nbsp;
+To get three free reviews from Yelp, first log in to your [Yelp account](https://www.yelp.com/developers) and follow this [link](https://www.yelp.com/developers/v3/manage_app). You'll be taken to the **My App** page where you'll need to fill in a few details about your app.
 
 Once done, click the **Save Changes** button and you’ll now see your API key. Copy the API key.
 
 ![yelp developers api](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/Yelp-Developers-API-scaled.webp)
 
-## **Yelp Place ID&nbsp;**
+## **Yelp Place ID**
 
-You can find your **Place ID** in the URL of your business account. To get your Yelp **Place ID**, visit [Yelp](https://www.yelp.com/) and search for your business. Then, copy your** business account name** directly from the **URL**, as shown in the screenshot below.
+You can find your **Place ID** in the URL of your business account. To get your Yelp **Place ID**, visit [Yelp](https://www.yelp.com/) and search for your business. Then, copy your **business account name** directly from the **URL**, as shown in the screenshot below.
 
 ![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-6-scaled.webp)
 
@@ -73,4 +73,4 @@ In the Template section, you'll find all the customization options for the Yelp 
 
 If you have any further questions please don’t hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).
 
-Also, check out -**[ Tripadvisor Reviews](./tripadvisor-configuration-social-reviews-wp-social-ninja)**
+Also, check out - **[Tripadvisor Reviews](./tripadvisor-configuration-social-reviews-wp-social-ninja)**

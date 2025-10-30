@@ -33,15 +33,15 @@ To activate this feature, you need an API key from OpenRouter. Here’s how to g
 
 Click on the Profile icon and select **Keys**. You’ll be taken to the API Key page. From there, click the **Create API Key** button to start generating your key.
 
-![openrouter ai](/guide/public/images/ai-integration/openrouter-integration-for-review/OpenRouter-AI-scaled.webp)
+![openrouter ai](/guide/public/images/advanced-features/openrouter-integration-for-review/OpenRouter-AI-scaled.webp)
 
 A popup will appear, enter a name for your key and click the **Create** button.
 
-![openrouter ai 1](/guide/public/images/ai-integration/openrouter-integration-for-review/OpenRouter-AI-1-scaled.webp)
+![openrouter ai 1](/guide/public/images/advanced-features/openrouter-integration-for-review/OpenRouter-AI-1-scaled.webp)
 
 Your API key will now be displayed — go ahead and copy it for later use.
 
-![openrouter ai 2](/guide/public/images/ai-integration/openrouter-integration-for-review/OpenRouter-AI-2-scaled.webp)
+![openrouter ai 2](/guide/public/images/advanced-features/openrouter-integration-for-review/OpenRouter-AI-2-scaled.webp)
 
 ## **Connect OpenRouter to WP Social Ninja**
 
@@ -61,7 +61,7 @@ Here’s how to configure it:
 
 Finally, click the **Save Settings** button to apply the changes.
 
-![advance settings wpsn 3](/guide/public/images/ai-integration/openrouter-integration-for-review/Advance-Settings-WPSN-3-scaled.webp)
+![advance settings wpsn 3](/guide/public/images/advanced-features/openrouter-integration-for-review/Advance-Settings-WPSN-3-scaled.webp)
 
 ## **Enable AI-Generated Review in Template**
 
@@ -79,6 +79,6 @@ After enabling, you’ll have several customization options to enhance your revi
 
 - **Regenerate AI Summary:** Refresh the summary content based on the latest reviews.
 
-![preview 4](/guide/public/images/ai-integration/openrouter-integration-for-review/Preview-4-scaled.webp)
+![preview 4](/guide/public/images/advanced-features/openrouter-integration-for-review/Preview-4-scaled.webp)
 
 If you have any further questions about this guideline, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help!

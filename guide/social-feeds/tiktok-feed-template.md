@@ -11,17 +11,17 @@ WP Social Ninja offers templates for your TikTok feed and you can customize many
 
 Go to your **Platforms** from WP Social Ninja plugins then Click on the **Settings** of TikTok Feed module. A popup will come up and it will show your connected TikTok account. Now here you will see an **Add New Template** button click on the button to add default templates that WP Social Ninja offers you also you can customize the Template as you want.
 
-![TikTok Feed Settings ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-.png)
+![TikTok Feed Settings ](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-.png)
 
 You can also Edit, Delete and Duplicate your template from the **Templates** of the WP Social Ninja and you can also add a new template from here by clicking on the **Add New Template** button.
 
-![Templates ](/guide/public/images/tiktok-feed/tiktok-feed-template/WP-Social-Ninja-Templates-1.png)
+![Templates ](/guide/public/images/social-feeds/tiktok-feed-template/WP-Social-Ninja-Templates-1.png)
 
 ## Customizing TikTok Feed Template
 
 You will be redirected to the **TikTok Template** editing page now. Here you will see the two options which are **General** and **Style** to customize your template.
 
-![Wp Social Ninja Template Customization ](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-1.png)
+![Wp Social Ninja Template Customization ](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-1.png)
 
 ## General Customizing Options
 
@@ -83,6 +83,6 @@ Pagination is for how much content will load on your page customizing that optio
 
 Enable Style option will give you the option to opportunity to change or modify the color, typography, text size, background color, margin of your feed, and a lot of things. Style is Pro feature of WP Social Ninja.
 
-![Template Style](/guide/public/images/tiktok-feed/tiktok-feed-template/TikTok-Feed-Template-2.png)
+![Template Style](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-2.png)
 
 This is how you can customize your TikTok feed Template with the WP Social Ninja.

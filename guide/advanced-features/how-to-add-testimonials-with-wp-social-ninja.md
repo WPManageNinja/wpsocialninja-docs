@@ -13,13 +13,13 @@ Let’s see how to add Testimonials.
 
 - After that, you will get a section where you can add Testimonials by clicking on the button.
 
-![WP Social Ninja Testimonials](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so1.png)
+![WP Social Ninja Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so1.png)
 
 _Testimonials_
 
 - Now a popup will appear with all the input fields.
 
-![WP Social Ninja Add Testimonials](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so2.png)
+![WP Social Ninja Add Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so2.png)
 
 _Add Testimonial_
 
@@ -29,7 +29,7 @@ _Add Testimonial_
 
 - By clicking on the **Add Testimonial** button, you can add more Testimonials.
 
-![Display Testimonials](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/SO3.png)
+![Display Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/SO3.png)
 
 _Display Testimonial_
 
@@ -39,25 +39,25 @@ _Display Testimonial_
 
 - A drop-down menu will appear. Now select **Add Testimonial Template.**
 
-![Add Testimonial Template](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so4.png)
+![Add Testimonial Template](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so4.png)
 
 _Add Testimonial Template_
 
 - This will take you to the WP Social Ninja template editor settings panel.
 
-![Testimonial Template](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so5.png)
+![Testimonial Template](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so5.png)
 
 _Testimonial Template_
 
 - In this section, you can adjust your Template, Filters, Settings, and Pagination using **WP Social Ninja** to design your website.
 
-![Testimonials | Editor Settings Panel ](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so6.png)
+![Testimonials | Editor Settings Panel ](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so6.png)
 
 _Editor Settings Panel_
 
 - Let’s see how these Testimonials will show on the website
 
-![Displaying Testimonials on website](/guide/public/images/testimonials/how-to-add-testimonials-with-wp-social-ninja/so8.png)
+![Displaying Testimonials on website](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so8.png)
 
 _Displaying Testimonials_
 

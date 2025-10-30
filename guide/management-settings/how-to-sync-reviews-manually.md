@@ -7,7 +7,7 @@ description: ""
 
 WP Social Ninja offers a Manual Syncing option that allows you to update the **Social Reviews** whenever you like. The **Manual Syncing** button is disabled by default, so the reviews will sync successfully if you click on it.
 
-![Manual Auto Syncing with WP Social Ninja](/guide/public/images/global-settings/how-to-sync-reviews-manually/tg_image_395627068.jpeg)
+![Manual Auto Syncing with WP Social Ninja](/guide/public/images/management-settings/how-to-sync-reviews-manually/tg_image_395627068.jpeg)
 
 _Manual Auto Syncing_
 

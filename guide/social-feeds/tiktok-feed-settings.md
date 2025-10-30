@@ -15,4 +15,4 @@ Go to the **Settings** of your WP Social Ninja and on the left side, you will ge
 
 **Optimize Image**: This feature allows you to optimize TikTok images for your Social Ninja Feed, ensuring faster load times on your website. You can reset the image optimization at any time by clicking the **Reset** button.
 
-![TikTok Feed Settings ](/guide/public/images/tiktok-feed/tiktok-feed-settings/WP-Social-Ninja-TikTok-Settings-scaled.webp)
+![TikTok Feed Settings ](/guide/public/images/social-feeds/tiktok-feed-settings/WP-Social-Ninja-TikTok-Settings-scaled.webp)

@@ -17,7 +17,7 @@ To keep your **Instagram Feed** working on your **WordPress site**, **WP Social 
 
 - **Business Advanced Account**: Choosing this connection is ideal if you want additional features like hashtags and mention feeds or if you manage multiple Instagram accounts.
 
-![](/guide/public/images/instagram-feed/instagram-business-basic-social-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-INSta-scaled.webp)
+![](/guide/public/images/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-INSta-scaled.webp)
 
 ### Key Differences of Business Basic and Advanced
 

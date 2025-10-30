@@ -21,7 +21,7 @@ Provide Email Address: Enter the email address where you want to receive the iss
 
 After setting up the email day and providing your email address, don't forget to click on the "**Save Settings**" button to ensure your preferences are saved.
 
-![](/guide/public/images/instagram-feed/instagram-feed-issue-email-report-social-feeds-wp-social-ninja/Feed-Issue-Email-Report-1.png)
+![](/guide/public/images/social-feeds/instagram-feed-issue-email-report-social-feeds-wp-social-ninja/Feed-Issue-Email-Report-1.png)
 
 _Feed Issue Email Report_
 
@@ -33,7 +33,7 @@ To ensure that the email notifications reach your inbox successfully, it's impor
 
 You will also receive a notification on your **WP Social Ninja** dashboard if any issues arise in your **Instagram Feed**. This provides you with an easy way to stay informed about the status of your feed at a glance.
 
-![Dashboard Notifications](/guide/public/images/instagram-feed/instagram-feed-issue-email-report-social-feeds-wp-social-ninja/Error-message-dashboard-3.png)
+![Dashboard Notifications](/guide/public/images/social-feeds/instagram-feed-issue-email-report-social-feeds-wp-social-ninja/Error-message-dashboard-3.png)
 
 _Dashboard Notifications_
 

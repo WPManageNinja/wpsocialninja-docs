@@ -19,7 +19,7 @@ To change the layout, click on the **Source Button** and then on **Feed Type**. 
 
 Currently, we have three Feed Types; **Timeline Feed**, **Videos**, and **Photos**. By changing the **Feed Type,** for example, if you select Videos, all the videos from your feed will appear on your site automatically.
 
-![Feed Type Settings for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/feed-type-settings-for-facebook-feed-layout-stylin.png)
+![Feed Type Settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/feed-type-settings-for-facebook-feed-layout-stylin.png)
 
 _Feed Type_
 
@@ -29,7 +29,7 @@ Similarly, you can choose any **Feed Type** from this section and show your soci
 
 After selecting the Feed Type, you have to select the pages from the **Select Pages** option from where you want to collect your Facebook content.
 
-![Select Pages for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Image-2.png)
+![Select Pages for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Image-2.png)
 
 _Select Pages_
 
@@ -41,7 +41,7 @@ This input field will allow you to set how many posts to retrieve from Facebook.
 
 Once you select the page and set the number for **Total Feed**, Click on the **Fetch Feeds** button.
 
-![Fetch Feeds for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/fetch-feeds-for-facebook-feed-layout-styling.png)
+![Fetch Feeds for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fetch-feeds-for-facebook-feed-layout-styling.png)
 
 _Total Feed_
 
@@ -59,7 +59,7 @@ TheTemplate has **Layout Types** to change your Facebook feed style on the right
 
 Currently, we have **Timeline**, **Grid**, **Masonry**, and **Carousel**. You can select a template for layout, number of columns, and column gap.
 
-![](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/pasted-image-0-1.png)
+![](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/pasted-image-0-1.png)
 
 _Layout Type_
 
@@ -69,7 +69,7 @@ Select any **Layout Type** that suits your brand.
 
 Suppose, If you select **Carousel** Layout Type, a new Setting will appear.
 
-![Carousel Settings for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Carousel-Settings.png)
+![Carousel Settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Carousel-Settings.png)
 
 _Carousel Settings_
 
@@ -79,7 +79,7 @@ Right Now, we have five options for Carousel Settings; **Autoplay**, **Autoplay 
 
 This section can help you display your Facebook posts in **Autoplay** mode.
 
-![Autoplay settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-settings.png)
+![Autoplay settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-settings.png)
 
 _Autoplay Settings_
 
@@ -89,7 +89,7 @@ Turn off the button if you don't want to use Autoplay.
 
 Next, you will find **Autoplay Speed**; you can set your autoplay speed limit. To increase the speed limit, simply up the speed limit by clicking the plus sign.
 
-![Autoplay speed settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-speed-settings.png)
+![Autoplay speed settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-speed-settings.png)
 
 _Autoplay Speed Settings_
 
@@ -99,7 +99,7 @@ Again to decrease the speed limit, turn down the speed limit by clicking the min
 
 Here you can adjust the number of slides that will be displayed on your website.
 
-![Slides to show for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-show-for-facebook-feed-layout-settings.png)
+![Slides to show for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-show-for-facebook-feed-layout-settings.png)
 
 _Slides to Show_
 
@@ -109,7 +109,7 @@ Now we have 3 Slides to Show. So, according to your wish, you can increase or de
 
 After Slides to Show, you can set your number of slides to scroll from the **Slides to Scroll** button.
 
-![Slides to scroll for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-scroll-for-facebook-feed-layout-settings.png)
+![Slides to scroll for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-scroll-for-facebook-feed-layout-settings.png)
 
 _Slides to Scroll_
 
@@ -119,7 +119,7 @@ You can adjust the number from the **Slides to Scroll** option from the settings
 
 Our navigation section has four options; **Arrows and Dots**, **Arrows**, **Dots**, and **None**.
 
-![Navigation Type for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/navigation-type-for-facebook-feed-layout-settings.png)
+![Navigation Type for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/navigation-type-for-facebook-feed-layout-settings.png)
 
 _Navigation Type_
 
@@ -127,7 +127,7 @@ In this Screenshot, we have selected Dots. But you can select any.
 
 Now let’s look at how it looks at the front end.
 
-![Facebook Feed Layout Style-Carousel](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/facebook-feed-layout-style-carousel.png)
+![Facebook Feed Layout Style-Carousel](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/facebook-feed-layout-style-carousel.png)
 
 _Carousel Layout_
 
@@ -137,7 +137,7 @@ Similarly, you can look stylish with the other 3 Layout Types.
 
 Next, you have **Template Type;** select a style from the Settings Panel.
 
-![Template type for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Select-a-Template.png)
+![Template type for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Select-a-Template.png)
 
 _Template Type_
 
@@ -147,7 +147,7 @@ Currently, we have only one **Template Type**.
 
 In this section, you can change the **Number of Columns**.
 
-![Number of columns for Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Number-of-Columns-2.png)
+![Number of columns for Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Number-of-Columns-2.png)
 
 _Number of Columns_
 
@@ -157,7 +157,7 @@ Here you can set the website columns you want to display. Right now, we have sev
 
 Next is **Columns Gap**; right now, we have five types of Columns Gaps available; **No Gap**, **Narrow**, **Small**, **Wide**, and **Wider**.
 
-![Column gap for layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Column-Gap.png)
+![Column gap for layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Column-Gap.png)
 
 _Columns Gap_
 
@@ -167,7 +167,7 @@ We have selected the Narrow option; you can select any.
 
 Once you click on the **Filters,** a drop-down menu will appear.
 
-![Filters settings for Facebook Feed Layout Styling](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Filter.png)
+![Filters settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Filter.png)
 
 _Filters Setting_
 
@@ -177,7 +177,7 @@ Let’s check out how it works.
 
 This feature has various options to filter your Timeline, videos, and photos according to your requirements. You can adjust the **Number of Feeds to Display** by clicking the +/- icon.
 
-![Number of feeds to display for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/number-of-feeds-to-display-for-facebook-feed-layou.png)
+![Number of feeds to display for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/number-of-feeds-to-display-for-facebook-feed-layou.png)
 
 _Number of Feeds to Display_
 
@@ -187,7 +187,7 @@ You can fetch up to 100 posts.
 
 You can choose what order you want to display your posts using the **Posts Order** option. Currently, there are five options available; **Ascending**, **Descending**, **Most Popular**, **Least Popular**, and **Random**.
 
-![Post Order for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/post-order-for-facebook-feed-layout-settings.png)
+![Post Order for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/post-order-for-facebook-feed-layout-settings.png)
 
 _Post Order_
 
@@ -197,7 +197,7 @@ Choose any of them that you think will look good on your website.
 
 Next is **Show posts containing these words or hashtags**; you can use this setting to show posts containing specific words or hashtags in the caption by separating multiple words or hashtags using commas.
 
-![Show or hide post for layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/Show-Hide-posts-2.png)
+![Show or hide post for layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Show-Hide-posts-2.png)
 
 _Show/Hide Post_
 
@@ -209,7 +209,7 @@ The **Hide Specific Feeds** option lets you hide a particular post by its Post I
 
 Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
 
-![Hide specific feeds for Facebook Feed Layout settings](/guide/public/images/facebook-feed/facebook-feed-layout-styling-with-wp-social-ninja/photo6282551996380721595.jpg)
+![Hide specific feeds for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/photo6282551996380721595.jpg)
 
 _Hide Specific Feeds_
 

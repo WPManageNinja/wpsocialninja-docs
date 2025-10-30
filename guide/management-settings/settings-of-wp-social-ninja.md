@@ -13,13 +13,13 @@ It has an **Auto Syncing** option that will allow the Social Reviews to update a
 
 To learn more let’s follow the article.
 
-![Auto Syncing](/guide/public/images/getting-started-with-the-user-interface-2/settings-of-wp-social-ninja/Auto_Syncing.png)
+![Auto Syncing](/guide/public/images/getting-started/settings-of-wp-social-ninja/Auto_Syncing.png)
 
 _Auto Syncing_
 
 Here, in the **Settings** panel, the **Auto Syncing** button is disabled by default. If you turn it on then you will get more options.
 
-![Reviews update scheduling](/guide/public/images/getting-started-with-the-user-interface-2/settings-of-wp-social-ninja/Review_update_scheduling.png)
+![Reviews update scheduling](/guide/public/images/getting-started/settings-of-wp-social-ninja/Review_update_scheduling.png)
 
 _Reviews update scheduling_
 
@@ -31,7 +31,7 @@ Here, we have used **Airbnb Settings.** However, the rest of the platforms have 
 
 The next setting is **Clear Twitter Cards**. In this section, if you face any errors in Twitter Configuration, you will be able to Clear Twitter Cards. Twitter Settings also has an Auto Sync Type option. There are two ways to set the plugin to check for news feed data; First is **In the Background,** selecting this option means the plugin will check for new feed data in the background so that the feed data is updated behind the scenes.
 
-![Clear Twitter Cards](/guide/public/images/getting-started-with-the-user-interface-2/settings-of-wp-social-ninja/Clear_Twitter_cards.png)
+![Clear Twitter Cards](/guide/public/images/getting-started/settings-of-wp-social-ninja/Clear_Twitter_cards.png)
 
 _Clear Twitter Cards_
 
@@ -41,7 +41,7 @@ Once you are done, click on the **Save Settings** button.
 
 If you are experiencing an issue with the plugin not updating your Twitter feed automatically, then clicking on this button will clear all twitter cached feeds data and retrieve new feeds again.
 
-![Clear Cache](/guide/public/images/getting-started-with-the-user-interface-2/settings-of-wp-social-ninja/Clear_catch.png)
+![Clear Cache](/guide/public/images/getting-started/settings-of-wp-social-ninja/Clear_catch.png)
 
 _Clear Cache_
 

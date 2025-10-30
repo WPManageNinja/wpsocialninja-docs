@@ -12,7 +12,7 @@ This feature has various options to filter specific videos according to your req
 Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the description. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way. The **Hide Specific Videos** option lets you  find the ID of a video by viewing the video on YouTube and copy/paste the ID number from the end of the URL
 ex: https://www.youtube.com/watch?v=azeHzcW5OgY [ in this URL ID is "azeHzcW5OgY" ]
 
-![](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube_filter-2-1024x454-1.png)
+![](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube_filter-2-1024x454-1.png)
 
 ## **Video**
 
@@ -22,13 +22,13 @@ Want to know several fantastic YouTube Video features for your Social Feeds? Let
 
 WP Social Ninja has a stunning YouTube Feed. It has a **Play Mode** feature that contains four types; **Inline**, **Gallery**, **Popup**, and **Redirect to YouTube**.
 
-![youtube settings play modes](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/Screenshot_1-1024x425.png)
+![youtube settings play modes](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/Screenshot_1-1024x425.png)
 
 _Play Mode_
 
 Different Play Mode has additional features. Here we have selected **Inline Play Mode**.
 
-![](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/image-1.png)
+![](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/image-1.png)
 
 _Gallery_
 
@@ -40,7 +40,7 @@ If you select **Popup,** your YouTube Feed Videos will automatically Popup when 
 
 In this video segment, you can control your **Display Play Icon** by clicking on the button.
 
-![Display Play Icon](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-play-icon.png)
+![Display Play Icon](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-play-icon.png)
 
 _Display Play Icon_
 
@@ -50,7 +50,7 @@ If you want to Display the Play Icon, keep the button on. However, turn it off i
 
 Next is Display Duration. Here, you can take control of your **YouTube Videos Display Duration**.
 
-![youtube settings display duration](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-duration.png)
+![youtube settings display duration](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-duration.png)
 
 _Display Duration_
 
@@ -60,7 +60,7 @@ In this screenshot, you can see the **Display Duration** button is enabled. Disa
 
 Did you know you can customize your **Display Title?** Yes, WP Social Ninja lets you play with every segment of your Social Feed.
 
-![](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/image-4.png)
+![](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/image-4.png)
 
 _Display Title_
 
@@ -70,7 +70,7 @@ In order to customize your **Video Title**, enable or disable the button. If you
 
 Once you are done with Display Title, you can adjust your Title words too! Yes, **Trim Title Words** have options to control the word limits on your Feed.
 
-![youtube settings Trim Title Words ](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-trim-title-words.png)
+![youtube settings Trim Title Words ](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-trim-title-words.png)
 
 _Trim Title Words_
 
@@ -80,7 +80,7 @@ Here, you can increase or decrease the Title Words by clicking on the plus/minus
 
 Next is the **Display Date**. If you want to hide your Display Date, turn off the button to do that.
 
-![display date](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-date.png)
+![display date](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-date.png)
 
 _Display Date_
 
@@ -90,7 +90,7 @@ Here, we have turned on the display of the date on the Social feed.
 
 In this section, you are allowed to personalize the **Display Views Counter** with just a click.
 
-![](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/pasted-image-0-2-1024x513.png)
+![](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/pasted-image-0-2-1024x513.png)
 
 _Display Views Counter_
 
@@ -100,7 +100,7 @@ To hide the** Views Counter,** you can disable the **Display Views Counter** but
 
 In the next section, you can control the **Display Likes Counter** on your YouTube Feed. To do that, turn on/off the button.
 
-![youtube settings display likes counter](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-likes-counter.png)
+![youtube settings display likes counter](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-likes-counter.png)
 
 _Display Likes Counter_
 
@@ -110,7 +110,7 @@ In this screenshot, you can see the **Likes** as the button is on. Turn it off t
 
 Well, in the **Display Comments Counter,** you can control your Social Feed comments section.
 
-![display comments counter](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-comments-counter.png)
+![display comments counter](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-comments-counter.png)
 
 _Display Comments Counter_
 
@@ -120,7 +120,7 @@ If you want to show the **Comments Counter** on your YouTube Feed, enable the **
 
 Along with all the useful features, WP Social Ninja allows you to take full control of your **Video Descriptions** on your YouTube Feed.
 
-![Display Description](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display_desc-1024x453-1.png)
+![Display Description](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display_desc-1024x453-1.png)
 
 _Display Description_
 
@@ -130,7 +130,7 @@ However, turn the button off if you want to hide your **Display Description**.
 
 This option lets you control the visibility of your Channel Name, turn this option if you want to display your Channel Name.
 
-![Display Channel Name](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/channel_name-1024x453-1.png)
+![Display Channel Name](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/channel_name-1024x453-1.png)
 
 _Display Channel Name_
 
@@ -142,7 +142,7 @@ Once you click on the **Header,** a drop-down menu will appear. Let’s check ou
 
 By clicking on the **Display Header,** you can turn on/off the Header on your Feed.
 
-![youtube settings display header](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-header.png)
+![youtube settings display header](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-header.png)
 
 _Display Header_
 
@@ -152,7 +152,7 @@ As you can see in this screenshot, we have turned it on. If you want to hide the
 
 Next is the **Display Banner**.&nbsp;
 
-![display banner youtube settings](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-banner-youtube-settings.png)
+![display banner youtube settings](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-banner-youtube-settings.png)
 
 _Display Banner_
 
@@ -162,7 +162,7 @@ Here, you can show your** Banner** if you turn on the button. However, turn it o
 
 Like Display Banner, you can customize your **Display Logo** too.
 
-![youtube settings display logo](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-logo.png)
+![youtube settings display logo](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube-settings-display-logo.png)
 
 _Display Logo_
 
@@ -172,7 +172,7 @@ Here you can see the Logo. However, you can also disable the button to hide the 
 
 Done adjusting the Display Logo? Next, we have the **Display Name**.
 
-![display name](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-name.png)
+![display name](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-name.png)
 
 _Display Name_
 
@@ -182,7 +182,7 @@ User privacy is the priority. So, if required, you can hide the **Display Name**
 
 Numbers are always crucial. What if you have full control of your Social Feed numbers? Yes, you can control your **Display Subscriber Counter**.
 
-![display subscribe counter youtube settings](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-subscribe-counter-youtube-settings.png)
+![display subscribe counter youtube settings](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-subscribe-counter-youtube-settings.png)
 
 _Display Subscriber Counter_
 
@@ -192,7 +192,7 @@ Disable the Display Subscriber Counter button if you want to hide your **Subscri
 
 Did you know you can also control your Feeds **Display Videos Counter**? Well, WP Social Ninja has handy features for the users.
 
-![display videos counter](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-videos-counter.png)
+![display videos counter](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-videos-counter.png)
 
 _Display Videos Counter_
 
@@ -202,7 +202,7 @@ In this screenshot, you can see the video number. However, you can turn off the 
 
 The next filter is the **Display Views Counter**. In this setting, you can turn off the button if you don’t want to display the views counter on your website.
 
-![display views counter youtube counter](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-views-counter-youtube-counter.png)
+![display views counter youtube counter](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-views-counter-youtube-counter.png)
 
 _Display Views Counter_
 
@@ -212,7 +212,7 @@ Here, you can see the total Views as the Display Views Counter button is enabled
 
 At this stage, you can choose to adjust the **Display Description** by clicking on the button.
 
-![display description youtube settings](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/display-description-youtube-settings.png)
+![display description youtube settings](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/display-description-youtube-settings.png)
 
 _Display Description_
 
@@ -224,7 +224,7 @@ Once you are done, click on the **Save Templates** button.
 
 In this segment, you can display your Subscribe Button by enabling the **Display Subscribe** button. However, turn it off if you don’t want to display it. You can set the **Subscribe Button Position** as either **Header, Footer, or Both. **Add your desired text to your subscribe button using the **Button Text** option.
 
-![Subscribe Button](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/youtube_subscribe-1024x514-1.png)
+![Subscribe Button](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/youtube_subscribe-1024x514-1.png)
 
 _Subscribe Button_
 
@@ -232,7 +232,7 @@ _Subscribe Button_
 
 In this section, you can adjust the **Pagination** from the **YouTube Settings**.
 
-![Subscribe Button](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/pagination_type-1-1024x525-1.png)
+![Subscribe Button](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/pagination_type-1-1024x525-1.png)
 
 _Pagination Settings_
 
@@ -242,11 +242,11 @@ Pagination has a Pagination Type as well.
 
 Click on the **Load More option**. Once you select it Videos per page option will automatically appear on your Feed.
 
-![Pagination Type](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/pagination_load_more-1024x498.png)
+![Pagination Type](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/pagination_load_more-1024x498.png)
 
 _Pagination Type_
 
-![Front End | Load More](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/videos_pagination-1024x611.png)
+![Front End | Load More](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/videos_pagination-1024x611.png)
 
 _Front End | Load More_
 
@@ -254,7 +254,7 @@ Front End view of the **Pagination Settings Load More** option.
 
 From here, you can adjust your** Videos Per Page** number according to your preference. You can also choose the **Prev Next** option to display your videos or select **None** to hide the pagination.
 
-![Previous Next ](/guide/public/images/youtube-feed/youtube-settings-social-feeds-wp-social-ninja/prev_next_pagination-1024x631.png)
+![Previous Next ](/guide/public/images/social-feeds/youtube-settings-social-feeds-wp-social-ninja/prev_next_pagination-1024x631.png)
 
 _Previous Next_
 

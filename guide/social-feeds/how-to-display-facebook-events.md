@@ -13,13 +13,13 @@ Let's go through the article to learn how to accomplish it.
 
 - Go to the **Platforms** → choose **Facebook Feeds & Reviews**.
 
-![Facebook Feeds & Reviews](/guide/public/images/facebook-feed/how-to-display-facebook-events/image-16.png)
+![Facebook Feeds & Reviews](/guide/public/images/social-feeds/how-to-display-facebook-events/image-16.png)
 
 _Facebook Feeds & Reviews_
 
 - A popup will appear where you need to click on the **Add New Template.**
 
-![Add New Template](/guide/public/images/facebook-feed/how-to-display-facebook-events/q1.jpeg)
+![Add New Template](/guide/public/images/social-feeds/how-to-display-facebook-events/q1.jpeg)
 
 _Add New Template_
 
@@ -31,7 +31,7 @@ _Add New Template_
 
 - After that, click on the **Fetch Feeds**.
 
-![Displaying Facebook Event](/guide/public/images/facebook-feed/how-to-display-facebook-events/Displaying-Facebook-Event-1024x689.webp)
+![Displaying Facebook Event](/guide/public/images/social-feeds/how-to-display-facebook-events/Displaying-Facebook-Event-1024x689.webp)
 
 _Displaying Facebook Events_
 

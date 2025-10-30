@@ -13,27 +13,27 @@ First, go to WP Social Ninja and select the **Platform** from the navbar. Locate
 
 Click on the **Settings** icon next to the **Facebook** in your **Platform** section.
 
-![Wp Social Ninja Facebook Module](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-1-scaled.webp)
+![Wp Social Ninja Facebook Module](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-1-scaled.webp)
 
 A pop-up will appear to configure your Facebook account. Click **Continue with Facebook**. Log in to your Facebook account and give permission to WP Social Ninja to connect with your Facebook account.
 
-![WP Social Ninja Facebook Configuration](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-2-scaled.webp)
+![WP Social Ninja Facebook Configuration](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-2-scaled.webp)
 
 Click on the Continue button here to give access to your WP Social Ninja.
 
-![Wp Social Ninja Facebook Permission Access](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-3.webp)
+![Wp Social Ninja Facebook Permission Access](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-3.webp)
 
 You will be redirected to the WP Social Ninja Platform Page, where a pop-up will prompt you to select one or more Facebook Pages to display events on your website.
 
 After selecting the pages, click the **Connect Pages** button.
 
-![Wp Social Ninja Facebook Page Select](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-4-scaled.webp)
+![Wp Social Ninja Facebook Page Select](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-4-scaled.webp)
 
 In the next pop-up, you'll see your Facebook Page has been added. To remove it, simply click the **Remove** icon button next to your Page Name. To connect another account, click the **AddMore Account** button.
 
 To display your Facebook events on your website you can choose some awesome templates from WP Social Ninja, to do so click the **Add New Template** button and choose a template.
 
-![Wp Social Ninja Facebook ](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-5-scaled.webp)
+![Wp Social Ninja Facebook ](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-5-scaled.webp)
 
 ## Facebook **Feed Settings**
 
@@ -47,7 +47,7 @@ Here’s a breakdown of the available Facebook Feed settings:
 
 **Optimize Image:** This feature allows you to optimize Facebook images for your Social Ninja Feed, ensuring faster load times on your website. You can Reset your image optimization anytime by clicking on the Reset button.
 
-![](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-Settings-scaled.webp)
+![](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-Settings-scaled.webp)
 
 ::: tip
 

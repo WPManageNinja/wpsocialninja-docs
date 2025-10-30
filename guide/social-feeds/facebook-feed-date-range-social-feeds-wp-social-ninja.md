@@ -11,7 +11,7 @@ With the **Show Posts Within a Date Range** feature, you have the ability to fil
 
 To enable the **Show Posts Within a Date Range**, go to the Facebook Feed Template **Edit** option. Navigate to the "**General**" tab. Under "**Filters**," scroll down and select "**Show Posts Within a Date Range**."
 
-![Show Posts Within Date Range](/guide/public/images/facebook-feed/facebook-feed-date-range-social-feeds-wp-social-ninja/Show-Posts-Date-Range.png)
+![Show Posts Within Date Range](/guide/public/images/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja/Show-Posts-Date-Range.png)
 
 _Show Posts Within Date Range_
 
@@ -31,7 +31,7 @@ With the "**Specific**" option, you can set a precise start and end date for you
 
 4. The feed will display all the posts that fall within the given date range
 
-![Specific Date Range](/guide/public/images/facebook-feed/facebook-feed-date-range-social-feeds-wp-social-ninja/Date-Range-Specific.png)
+![Specific Date Range](/guide/public/images/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja/Date-Range-Specific.png)
 
 _Specific Date Range_
 
@@ -53,7 +53,7 @@ The "**Relative**" option allows you to display posts from a specified number of
 
 3. The system will display posts within the relative date range you specified.
 
-![Relative Date Range](/guide/public/images/facebook-feed/facebook-feed-date-range-social-feeds-wp-social-ninja/Date-Range-Relative.png)
+![Relative Date Range](/guide/public/images/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja/Date-Range-Relative.png)
 
 _Relative Date Range_
 

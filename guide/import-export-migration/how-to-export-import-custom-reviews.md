@@ -33,7 +33,7 @@ It's important to mention that when exporting the Feed and Reviews option, only 
 
 This happens because the other site doesn't have the necessary authorization to display reviews from the platform. Not all platforms require this authorization, but platforms like Facebook, Instagram, TripAdvisor, and Yelp do require authorization.
 
-![wpsocialninja export import 1](/guide/public/images/export-import/how-to-export-import-custom-reviews/WPSocialNinja-Export-Import-1-scaled.webp)
+![wpsocialninja export import 1](/guide/public/images/import-export-migration/how-to-export-import-custom-reviews/WPSocialNinja-Export-Import-1-scaled.webp)
 
 ## **Import**
 
@@ -45,6 +45,6 @@ One thing to keep in mind is that **Reviews and Testimonial** content will be im
 
 For your convenience, a demo CSV file is provided, showing the format of the CSV you're uploading. This helps you understand the correct structure for your import.
 
-![wpsocialninja export import 2](/guide/public/images/export-import/how-to-export-import-custom-reviews/WPSocialNinja-Export-Import-2-scaled.webp)
+![wpsocialninja export import 2](/guide/public/images/import-export-migration/how-to-export-import-custom-reviews/WPSocialNinja-Export-Import-2-scaled.webp)
 
 This is how you can Import or Export Social Feed Templates in WP Social Ninja. If you have any further questions, suggestions, or queries, feel free to reach out to [us](https://wpmanageninja.com/support-tickets/). We're happy to assist!

@@ -19,7 +19,7 @@ _Twitter feed: Manual configuration_
 
 You have to configure your Twitter with WP Social Ninja Manually.
 
-![](/guide/public/images/twitter-feed/twitter-configuration-twitter-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-1-1.png)
+![](/guide/public/images/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-1-1.png)
 
 _Twitter Configuration_
 
@@ -31,13 +31,13 @@ You can connect with the API Version 1 or API Version 2. We recommend **API Vers
 
 To get the credentials from the Twitter App you can follow this [documentation](./create-your-twitter-app-wp-social-ninja).
 
-![](/guide/public/images/twitter-feed/twitter-configuration-twitter-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-6.png)
+![](/guide/public/images/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja/WP-Social-Ninja-Platforms-6.png)
 
 _Manually Twitter Configuration_
 
 You will see a Success notification along with the **Access** credentials. Now, click the **Add New Template** button to create a new template for your website. Easy!
 
-![](/guide/public/images/twitter-feed/twitter-configuration-twitter-feeds-wp-social-ninja/image-5.png)
+![](/guide/public/images/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja/image-5.png)
 
 _Add New Template_
 

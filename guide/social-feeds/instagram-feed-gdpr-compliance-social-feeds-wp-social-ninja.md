@@ -11,7 +11,7 @@ WP Social Ninja Instagram Feed allows you to fetch data from your Instagram acco
 
 To enable the **GDPR** settings, go to **WP Social Ninja** dashboard then click on "**Settings**". Select "**Advance Settings**" and you will find out the **GDPR** settings.
 
-![GDPR Settings for Instagram feed | WP Social Ninja](/guide/public/images/instagram-feed/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Instagram-GDPR-Complience.png)
+![GDPR Settings for Instagram feed | WP Social Ninja](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Instagram-GDPR-Complience.png)
 
 _Instagram GDPR Compliance_
 
@@ -19,7 +19,7 @@ Additionally, please activate **Optimize Images** for GDPR compliance. GDPR comp
 
 To activate go to **Settings &gt; Feeds Platform &gt; Instagram Settings** here you will find out the optimize images enable option like the below screenshot.
 
-![Instagram settings optimize Images](/guide/public/images/instagram-feed/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Optimize-Images-Instagram-1.png)
+![Instagram settings optimize Images](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Optimize-Images-Instagram-1.png)
 
 _Optimize Images_
 

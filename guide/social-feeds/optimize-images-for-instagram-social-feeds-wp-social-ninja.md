@@ -11,7 +11,7 @@ description: ""
 
 You can enable the Optimize Images option from Settings &gt; Feeds Platform &gt; Instagram Settings here you will find out the Optimize Images enable option like the below screenshot.
 
-![Enabling Optimize Images for Instagram feeds](/guide/public/images/instagram-feed/optimize-images-for-instagram-social-feeds-wp-social-ninja/Optimize-Images-Instagram.png)
+![Enabling Optimize Images for Instagram feeds](/guide/public/images/social-feeds/optimize-images-for-instagram-social-feeds-wp-social-ninja/Optimize-Images-Instagram.png)
 
 _Optimize Images_
 

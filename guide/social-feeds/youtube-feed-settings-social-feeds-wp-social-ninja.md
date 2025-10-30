@@ -25,12 +25,12 @@ In the YouTube Settings, toggle the **Optimize Images** option to enable it. Onc
 
 Click on the **Save Settings** button to save your all changes.&nbsp;
 
-![](/guide/public/images/youtube-feed/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings--scaled.webp)
+![](/guide/public/images/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings--scaled.webp)
 
 You can also customize the image size and resolution for your YouTube feed. To do this, go to the **Template** section of your YouTube feed.&nbsp;
 
 Open your **YouTube Feed Template**, select **General** and scroll down to find the **Image Resolution** option. From here you can choose the resolution that best suits your needs.
 
-![](/guide/public/images/youtube-feed/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings-1-scaled.webp)
+![](/guide/public/images/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings-1-scaled.webp)
 
 If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&amp;utm_medium=home&amp;utm_campaign=site#/).

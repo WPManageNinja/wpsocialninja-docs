@@ -15,7 +15,7 @@ First, you need to export your existing reviews from your Judge.me [account](htt
 
 - Click the **Export Reviews** button. This will download a CSV file containing all your review data.
 
-![judgeme export](/guide/public/images/export-import/migrate-from-judge-me/judgeme-export-scaled.webp)
+![judgeme export](/guide/public/images/import-export-migration/migrate-from-judge-me/judgeme-export-scaled.webp)
 
 For detailed steps on exporting Judge.me, please refer to this [documentation](https://judge.me/help/en/articles/8236266-exporting-reviews).
 
@@ -33,7 +33,7 @@ Next, you need to import the CSV file into WP Social Ninja.
 
 - Click the **Import** button to begin the migration process.
 
-![judgeme import](/guide/public/images/export-import/migrate-from-judge-me/Judgeme-import-1024x452.webp)
+![judgeme import](/guide/public/images/import-export-migration/migrate-from-judge-me/Judgeme-import-1024x452.webp)
 
 **Note:** Please be aware of the following when migrating:
 

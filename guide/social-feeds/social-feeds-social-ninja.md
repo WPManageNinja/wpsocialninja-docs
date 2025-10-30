@@ -9,7 +9,7 @@ description: ""
 
 Just like **Social Reviews**, **Social Feeds** can also fetch feeds from your social networking site within a few seconds. For instance, **Social Feeds** like **Instagram Feeds, YouTube Feeds, Facebook Feeds, Twitter Feeds, and TikTok Feeds** will automatically enhance your business if you add them to your WordPress site.
 
-![wpsn social feeds](/guide/public/images/social-feeds/social-feeds-social-ninja/wpsn-social-feeds--scaled.webp)
+<!-- ![Social Feeds Platforms](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/Social_feeds.png) -->
 
 _Social Feeds_
 

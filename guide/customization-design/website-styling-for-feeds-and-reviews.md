@@ -17,7 +17,7 @@ Let's look at how you can style your feed template in a matter of seconds by rea
 
 - In this part, there are five style sections; **Header**, **Name**, **Meta**, **Content**, and **Action**.
 
-![Enable website styling Option](/guide/public/images/design/website-styling-for-feeds-and-reviews/enable-website-styling-option.png)
+![Enable website styling Option](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/enable-website-styling-option.png)
 
 _Enabling Style Feature_
 
@@ -25,7 +25,7 @@ _Enabling Style Feature_
 
 - WP Social Ninja has unlimited color options in the palette, and you can pick any color according to your desire. You can also change the typography by clicking on this option.
 
-![Style the Feed Template with a complete editor settings panel](/guide/public/images/design/website-styling-for-feeds-and-reviews/image.png)
+![Style the Feed Template with a complete editor settings panel](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/image.png)
 
 _Styling the Feed Template_
 
@@ -39,13 +39,13 @@ Let's now take a look at how this article can help you quickly style your review
 
 - Many style options are available in this section, including **Header, Reviewer Name, Review Date, Title, Content, Read More/Less, Platform Name, Badge, Notification, Pagination**, and **ReviewBox**.
 
-![Enable website styling feature for social reviews](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-4-1.png)
+![Enable website styling feature for social reviews](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-4-1.png)
 
 _Enabling Style Feature_
 
 - The Reviewer Name, Review Date, Content, Read More / less &amp; Review Box's color and typography have all been changed in this scenario. WP Social Ninja has many options for enhancing your templates to be more appealing and relevant to your website.
 
-![Styling the Review Template](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-7-1.png)
+![Styling the Review Template](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-7-1.png)
 
 _Styling the Review Template_
 
@@ -61,15 +61,15 @@ WP Social Ninja has upgraded the website styling functionality and adapted the l
 
 - Simply click on the Device icon, and each of the devices will allow you to adjust your template style.
 
-![Website styling desktop view](/guide/public/images/design/website-styling-for-feeds-and-reviews/website-styling-desktop-view.png)
+![Website styling desktop view](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/website-styling-desktop-view.png)
 
 _Desktop View_
 
-![Website styling tablet View](/guide/public/images/design/website-styling-for-feeds-and-reviews/website-styling-tablet-view.png)
+![Website styling tablet View](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/website-styling-tablet-view.png)
 
 _Tablet View_
 
-![Mobile View](/guide/public/images/design/website-styling-for-feeds-and-reviews/mobile-view.png)
+![Mobile View](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/mobile-view.png)
 
 _Mobile View_
 

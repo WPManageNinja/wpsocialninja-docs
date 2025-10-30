@@ -13,13 +13,13 @@ Let’s see how we can configure a new Notification Popup in just a few minutes.
 
 - To design a template, you need to go to the **Notification Popups** tab first.
 
-![Notification Popup Section](/guide/public/images/notification-popup/notification-popup/Notification_popup-1.png)
+![Notification Popup Section](/guide/public/images/advanced-features/notification-popup/Notification_popup-1.png)
 
 _Notification Popup Section_
 
 - Then, **click** on **Add New Popup** button to start designing a new Notification Popup.
 
-![Add New Popup Button](/guide/public/images/notification-popup/notification-popup/add-new-popup-button.png)
+![Add New Popup Button](/guide/public/images/advanced-features/notification-popup/add-new-popup-button.png)
 
 _Add New Popup_
 
@@ -27,7 +27,7 @@ _Add New Popup_
 
 Select a Source from which you want to display your social reviews.
 
-![Select the Platforms](/guide/public/images/notification-popup/notification-popup/select-the-platforms.png)
+![Select the Platforms](/guide/public/images/advanced-features/notification-popup/select-the-platforms.png)
 
 _Select the Platforms_
 
@@ -35,7 +35,7 @@ _Select the Platforms_
 
 Choose from 9 different template variants like **Vega, Spica, Sirius, Rigel, Procyon, Pollux, Mimosa, Hadar, and Deneb.**
 
-![Template Select Option](/guide/public/images/notification-popup/notification-popup/template-select-option.png)
+![Template Select Option](/guide/public/images/advanced-features/notification-popup/template-select-option.png)
 
 _Template Select Option_
 
@@ -49,7 +49,7 @@ WP Social Ninja also lets you modify the **Custom Notification Title** to lock y
 
 - To do it, go to the **Custom Notification Title**, set the number of rating scales, and show it on your notification popup.
 
-![Custom Notification Title](/guide/public/images/notification-popup/notification-popup/custom-notification-title.png)
+![Custom Notification Title](/guide/public/images/advanced-features/notification-popup/custom-notification-title.png)
 
 _Custom Notification Title_
 
@@ -59,7 +59,7 @@ _Custom Notification Title_
 
 - Next, go to the **Notification** tab from the sidebar and set Notification Positions. You can adjust your Notification Position in two ways: Left to **Right**.
 
-![Notification Position](/guide/public/images/notification-popup/notification-popup/notification-position.png)
+![Notification Position](/guide/public/images/advanced-features/notification-popup/notification-position.png)
 
 _Notification Position_
 
@@ -69,7 +69,7 @@ _Notification Position_
 
 - Next, if your customers want to see all the reviews when they click on the popup, enable the **Display Reviews in Popup Box** button. In case.
 
-![Display Reviews Popup Box](/guide/public/images/notification-popup/notification-popup/display-reviews-popup-box.png)
+![Display Reviews Popup Box](/guide/public/images/advanced-features/notification-popup/display-reviews-popup-box.png)
 
 _Display Reviews Popup Box_
 
@@ -79,7 +79,7 @@ _Display Reviews Popup Box_
 
 - If you want to display reviews on specific pages, select the pages from the Include Pages to Display Notification dropdown.
 
-![Include Pages to Display Notification](/guide/public/images/notification-popup/notification-popup/include-pages-to-display-notification.png)
+![Include Pages to Display Notification](/guide/public/images/advanced-features/notification-popup/include-pages-to-display-notification.png)
 
 _Include Pages to Display Notification_
 
@@ -89,7 +89,7 @@ _Include Pages to Display Notification_
 
 - If you don’t want to show reviews on a specific page, you can hide the specific pages.
 
-![Exclude Pages to Hide Notification](/guide/public/images/notification-popup/notification-popup/exclude-pages-to-hide-notification.png)
+![Exclude Pages to Hide Notification](/guide/public/images/advanced-features/notification-popup/exclude-pages-to-hide-notification.png)
 
 _Exclude Pages to Hide Notification_
 
@@ -99,7 +99,7 @@ _Exclude Pages to Hide Notification_
 
 - Again, if you want to show reviews by different post types, then choose from the dropdown of the **Display by Post Type** option.
 
-![Display by Post Type](/guide/public/images/notification-popup/notification-popup/display-by-post-type.png)
+![Display by Post Type](/guide/public/images/advanced-features/notification-popup/display-by-post-type.png)
 
 _Display by Post Type_
 
@@ -109,7 +109,7 @@ _Display by Post Type_
 
 - If you don’t want to show reviews either on desktop or mobile devices or both, then just enable the options **Hide Notifications on Desktop** or **Hide Notifications on Mobile**.
 
-![Hide Notification Option](/guide/public/images/notification-popup/notification-popup/hide-notification-option.png)
+![Hide Notification Option](/guide/public/images/advanced-features/notification-popup/hide-notification-option.png)
 
 _Hide Notification Option_
 
@@ -119,7 +119,7 @@ _Hide Notification Option_
 
 - WP Social Ninja also has the privilege to stop your users from removing the popups on your webpage. You can enable the Display Close Button and give access to remove the popup.
 
-![Display Close Button](/guide/public/images/notification-popup/notification-popup/display-close-button.png)
+![Display Close Button](/guide/public/images/advanced-features/notification-popup/display-close-button.png)
 
 _Display Close Button_
 
@@ -129,7 +129,7 @@ _Display Close Button_
 
 - Next, you can control the dates on the popup box.
 
-![Display Date](/guide/public/images/notification-popup/notification-popup/display-date.png)
+![Display Date](/guide/public/images/advanced-features/notification-popup/display-date.png)
 
 _Display Date_
 
@@ -139,7 +139,7 @@ _Display Date_
 
 - We have one much-needed feature Display Read All reviews Button. It lets the users read all the reviews from your website. So when your notification popup on your display, you can click on a specific notification then the selected reviews will come up on your display.
 
-![Display Read All Reviews Button](/guide/public/images/notification-popup/notification-popup/display-read-all-reviews-button.png)
+![Display Read All Reviews Button](/guide/public/images/advanced-features/notification-popup/display-read-all-reviews-button.png)
 
 _Display Read All Reviews_
 
@@ -149,7 +149,7 @@ _Display Read All Reviews_
 
 - From now on, we have the **Initial Delay** option. So WP Social Ninja has the power to control the timing of your initial notification delay for the popup.
 
-![Initial Delay](/guide/public/images/notification-popup/notification-popup/initial-delay.png)
+![Initial Delay](/guide/public/images/advanced-features/notification-popup/initial-delay.png)
 
 _Initial Delay_
 
@@ -159,7 +159,7 @@ _Initial Delay_
 
 - Do you want to maintain a time gap between two notifications? You can enable this feature from the **Delay Between** option.
 
-![Delay Between Option](/guide/public/images/notification-popup/notification-popup/delay-between-option.png)
+![Delay Between Option](/guide/public/images/advanced-features/notification-popup/delay-between-option.png)
 
 _Delay Between_
 
@@ -169,7 +169,7 @@ _Delay Between_
 
 - Lastly, you can also set the time for how long the notification will display on your screen.
 
-![Display For Option](/guide/public/images/notification-popup/notification-popup/display-for-option.png)
+![Display For Option](/guide/public/images/advanced-features/notification-popup/display-for-option.png)
 
 _Display For Option_
 
@@ -179,7 +179,7 @@ _Display For Option_
 
 - Now you can set up your **Filters**, **Settings**, **Header**, **Pagination**, **Schema Snippet**, and **Priority** settings just like you will do with any other template style.
 
-![Other Features](/guide/public/images/notification-popup/notification-popup/other-features.png)
+![Other Features](/guide/public/images/advanced-features/notification-popup/other-features.png)
 
 _Other Features_
 

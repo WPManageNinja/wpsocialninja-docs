@@ -31,17 +31,17 @@ This summary is then displayed in your selected **review templates**, making it 
 
 To activate this feature, you’ll need an API key from OpenAI. Here's how to get it:
 
-Go to[ OpenAI](https://platform.openai.com/api-keys) and sign in to your account (or create one if you’re new). From the left sidebar, click on **API Keys**, then select **Create new secret key** to generate a new key.
+Go to[ OpenAI](https://platform.openai.com/api-keys) and sign in to your account (or create one if you're new). From the left sidebar, click on **API Keys**, then select **Create new secret key** to generate a new key.
 
-![openai 1](/guide/public/images/ai-integration/openai-integration-for-review/OpenAI-1-scaled.webp)
+![openai 1](/guide/public/images/advanced-features/openai-integration-for-review/OpenAI-1-scaled.webp)
 
 A popup will appear prompting you to enter a name for your API key. Simply type in a name that helps you identify it later.
 
-![openai 2](/guide/public/images/ai-integration/openai-integration-for-review/OpenAI-2-scaled.webp)
+![openai 2](/guide/public/images/advanced-features/openai-integration-for-review/OpenAI-2-scaled.webp)
 
-Your new API key will be displayed—copy and save it securely. You’ll need it shortly.
+Your new API key will be displayed—copy and save it securely. You'll need it shortly.
 
-![openai 3](/guide/public/images/ai-integration/openai-integration-for-review/OpenAI-3-scaled.webp)
+![openai 3](/guide/public/images/advanced-features/openai-integration-for-review/OpenAI-3-scaled.webp)
 
 ## **Connect OpenAI to WP Social Ninja**
 
@@ -63,7 +63,7 @@ Now configure the settings:
 
 Click **Save Settings** to apply your changes.
 
-![openai 4](/guide/public/images/ai-integration/openai-integration-for-review/OpenAI-4-scaled.webp)
+![openai 4](/guide/public/images/advanced-features/openai-integration-for-review/OpenAI-4-scaled.webp)
 
 ## **Enable AI-Generated Summary in Your Review Template**
 
@@ -85,6 +85,6 @@ Once enabled, you’ll unlock a few customization options to make your summary s
 
 - **Regenerate AI Summary:** Refresh the summary based on newly collected reviews.
 
-![preview 4](/guide/public/images/ai-integration/openai-integration-for-review/Preview-4-1-1024x552.webp)
+![preview 4](/guide/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)
 
 If you have any further questions about this guideline or need assistance setting things up, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help.

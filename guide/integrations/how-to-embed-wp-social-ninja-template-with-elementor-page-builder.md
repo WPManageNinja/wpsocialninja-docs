@@ -22,20 +22,20 @@ In this article, we'll explain the process of Embedding an Instagram feed using 
 - The plugin has to be connected to your Instagram account, and you require an established template. Click on **Edit with Elementor** and start dragging your widgets.
 - Drag your **WP Social Ninja → Social Ninja Instagram** widget from Elementor.
 
-![Social Ninja Instagram | Elementor Page Builder](/guide/public/images/page-builders/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta1-1.png)
+![Social Ninja Instagram | Elementor Page Builder](/guide/public/images/integrations/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta1-1.png)
 
 _Social Ninja Instagram_
 
 - Then choose a **template** from the dropdown.
 
-![Select a template](/guide/public/images/page-builders/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta2-1.png)
+![Select a template](/guide/public/images/integrations/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta2-1.png)
 
 _Select a Template_
 
 - You may customize your Instagram Feed or any other feed by utilizing the Style or Advanced options.
 - The final screenshot gives the user a better concept of how to style widgets or an existing Instagram Feed.
 
-![Customizing Instagram Feed](/guide/public/images/page-builders/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta4-1.png)
+![Customizing Instagram Feed](/guide/public/images/integrations/how-to-embed-wp-social-ninja-template-with-elementor-page-builder/eleinsta4-1.png)
 
 _Customize Instagram Feed_
 

@@ -9,13 +9,13 @@ This documentation explains how to easily add and manage managers in the WP Soci
 
 To add a manager for your WP Social Ninja Plugin maintenance go to your **Settings &gt; General Settings &gt; Managers** and click the **Add New Manager** button.
 
-![](/guide/public/images/global-settings/manager-wp-social-ninja/WP-Social-Ninja-Managers.png)
+![](/guide/public/images/management-settings/manager-wp-social-ninja/WP-Social-Ninja-Managers.png)
 
 _Managers_
 
 In the "**Add New Manager**" interface, provide the email address of the WordPress and your site users you wish to add. Choose the specific permissions you want to grant to the manager from the available options. After selecting permissions, click the "Confirm" button to finalize the process.
 
-![](/guide/public/images/global-settings/manager-wp-social-ninja/WP-Social-Ninja-Managers-1.png)
+![](/guide/public/images/management-settings/manager-wp-social-ninja/WP-Social-Ninja-Managers-1.png)
 
 _Manager Permissions_
 

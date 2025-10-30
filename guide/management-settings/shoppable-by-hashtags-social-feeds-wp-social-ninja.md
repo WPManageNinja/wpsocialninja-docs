@@ -15,7 +15,7 @@ Let's follow the simple article to learn how to use hashtags for your Instagram 
 
 - Click on the **Add your first shoppable hashtag** button to add your hashtags.
 
-![Shoppable by Hashtags](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/image.png)
+![Shoppable by Hashtags](/guide/public/images/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/image.png)
 
 _Shoppable by Hashtags_
 
@@ -29,7 +29,7 @@ You can use Separate multiple hashtags using commas. For example: #hashtag1,#has
 
 - Your relevant products/pages/posts/landing pages will show up in the dropdown in the **Link To** area based on your **chosen source**, and you can select your preferred option from there.
 
-![Add Shoppable Hashtag](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/add-shoppable-hashtag.png)
+![Add Shoppable Hashtag](/guide/public/images/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/add-shoppable-hashtag.png)
 
 _Add Shoppable Hashtag_
 
@@ -43,19 +43,19 @@ To know more about **Instagram Shoppable Feed**, go **[here](../instagram-feed/i
 
 - Let's see the below screenshot to learn how it works -
 
-![Instagram Feed](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/instagram-feed.png)
+![Instagram Feed](/guide/public/images/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/instagram-feed.png)
 
 _Instagram Feed_
 
 - You will be taken to the page you previously selected when you click the **Buy Now** button.
 
-![Redirected Page](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/redirected-page.png)
+![Redirected Page](/guide/public/images/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/redirected-page.png)
 
 _Redirected Page_
 
 Because the **Hashtags** feature is applied **globally** in all WP Social Ninja Instagram templates, anyone who wants to remove these hashtags from a specific Instagram template can do so by turning off the **Include Shoppable by Hashtags** option.
 
-![Turn off Include Shoppable by Hashtags option](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/turn-off-include-shoppable-by-hashtags-option.png)
+![Turn off Include Shoppable by Hashtags option](/guide/public/images/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/turn-off-include-shoppable-by-hashtags-option.png)
 
 _Turn off Include Shoppable by Hashtags option_
 

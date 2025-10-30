@@ -21,13 +21,13 @@ To use all of WP Social Ninja's Instagram features, your Business profile must b
 
 - Select **Connect account.**
 
-![Page Settings | Instagram account](/guide/public/images/instagram-feed/how-to-convert-an-instagram-personal-account-to-a-business-account/a1-1-1.png)
+![Page Settings | Instagram account](/guide/public/images/social-feeds/how-to-convert-an-instagram-personal-account-to-a-business-account/a1-1-1.png)
 
 _Page Settings | Instagram Account_
 
 - A popup will occur once you choose the **Connect account**, then click **Continue**.
 
-![Choose Instagram acount message settings](/guide/public/images/instagram-feed/how-to-convert-an-instagram-personal-account-to-a-business-account/a2-1.png)
+![Choose Instagram acount message settings](/guide/public/images/social-feeds/how-to-convert-an-instagram-personal-account-to-a-business-account/a2-1.png)
 
 _Choose Instagram message settings_
 

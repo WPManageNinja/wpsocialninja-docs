@@ -25,7 +25,7 @@ In the configuration part, if you want to work on only your Facebook feed, selec
 
 - For beginning the Manual process, select the **Manually Connect a Page.**
 
-![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/facebook-feed/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--cho.png)
+![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/social-feeds/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--cho.png)
 
 _Choose the Credential Type_
 
@@ -33,23 +33,23 @@ _Choose the Credential Type_
 
 - For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed.
 
-![Facebook Feed Access token generator](/guide/public/images/facebook-feed/facebook-feed-access-token/facebook-feed-access-token-generator.png)
+![Facebook Feed Access token generator](/guide/public/images/social-feeds/facebook-feed-access-token/facebook-feed-access-token-generator.png)
 
 _Facebook Feed Access token generator_
 
 - This will take you to the page where you can get the access code. Copy the code.
 
-![Get Page ID & Access Token](/guide/public/images/facebook-feed/facebook-feed-access-token/get-page-id-amp-access-token.png)
+![Get Page ID & Access Token](/guide/public/images/social-feeds/facebook-feed-access-token/get-page-id-amp-access-token.png)
 
 _Get Page ID & Access Token_
 
 - Lastly, paste the code in the **Access Token** box and finally complete the configuration done with clicking the button **Connect**.
 
-![Enter the Facebook Access token code & Connect](/guide/public/images/facebook-feed/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
+![Enter the Facebook Access token code & Connect](/guide/public/images/social-feeds/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
 
 _Enter the Facebook Access token code & Connect_
 
-![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/facebook-feed/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--fac.png)
+![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/social-feeds/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--fac.png)
 
 _Facebook page successfully connected_
 

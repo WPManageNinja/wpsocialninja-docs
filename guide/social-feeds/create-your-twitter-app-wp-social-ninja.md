@@ -11,13 +11,13 @@ To collect the **Consumer Key** (**API Key**), **Consumer Secret** (**API Secret
 
 Visit [**https://developer.twitter.com/en/apps**](https://developer.twitter.com/en/apps) and click on the **Create an App** button.
 
-![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/Twitter-Developers.png)
+![](/guide/public/images/social-feeds/create-your-twitter-app-wp-social-ninja/Twitter-Developers.png)
 
 _Create an app_
 
 A pop-up will arrive, now click on the **Apply** button.
 
-![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/Twitter-Developers-1.png)
+![](/guide/public/images/social-feeds/create-your-twitter-app-wp-social-ninja/Twitter-Developers-1.png)
 
 _Apply_
 
@@ -25,13 +25,13 @@ _Apply_
 
 To get access to the **Twitter API** you should subscribe to **Basic** or **Pro**. Also, you can go with the free account.
 
-![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/photo_2023-09-22-15.36.42.jpeg)
+![](/guide/public/images/social-feeds/create-your-twitter-app-wp-social-ninja/photo_2023-09-22-15.36.42.jpeg)
 
 _Twitter Account_
 
 If you want to open a free account on Twitter for API you need to describe your use cases of Twitter's data and API here.
 
-![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/photo_2023-09-22-15.36.48.jpeg)
+![](/guide/public/images/social-feeds/create-your-twitter-app-wp-social-ninja/photo_2023-09-22-15.36.48.jpeg)
 
 _Twitter Account_
 
@@ -39,7 +39,7 @@ _Twitter Account_
 
 Now you will see your Twitter account developer portal dashboard. A default project will be available on your account select that project and go to the **Keys** and **Tokens**. Here you will find out all the credentials.
 
-![](/guide/public/images/twitter-feed/create-your-twitter-app-wp-social-ninja/Twitter-Developers-2.png)
+![](/guide/public/images/social-feeds/create-your-twitter-app-wp-social-ninja/Twitter-Developers-2.png)
 
 _Twitter Developer Portal_
 

@@ -19,7 +19,7 @@ Go to your **Facebook Profile** and click on the following options - **Facebook 
 
 Now, click on the **Remove** button.
 
-![Click on the Remove button](/guide/public/images/facebook-feed/how-to-reauthorize-the-wp-social-ninja-instagram-facebook-app/remove-button.png)
+![Click on the Remove button](/guide/public/images/social-feeds/how-to-reauthorize-the-wp-social-ninja-instagram-facebook-app/remove-button.png)
 
 _Click on the Remove button_
 

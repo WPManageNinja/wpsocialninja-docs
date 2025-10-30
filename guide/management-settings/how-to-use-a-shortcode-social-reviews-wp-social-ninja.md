@@ -15,7 +15,7 @@ Let’s look at how we can use shortcodes to display reviews on the website.
 
 - To use your Shortcode, first, go to **Templates**.
 
-![List of shortcode](/guide/public/images/global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-2-1-1.png)
+![List of shortcode](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-2-1-1.png)
 
 _List of Shortcode_
 
@@ -23,7 +23,7 @@ _List of Shortcode_
 
 - You can **Click** to copy the shortcode or **Edit** your previous Templates. The best part is you don't have to create a new **Shortcode** again.
 
-![Edit button](/guide/public/images/global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-3-1.png)
+![Edit button](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-3-1.png)
 
 _Edit button_
 
@@ -31,7 +31,7 @@ _Edit button_
 
 - You can keep your **Shortcode** anywhere, like any page, page builder, post, or maybe on the sidebar.
 
-![how to use a shortcode | where to put shortcodes](/guide/public/images/global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/Shortcodes.png)
+![how to use a shortcode | where to put shortcodes](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/Shortcodes.png)
 
 _Place Shortcode_
 

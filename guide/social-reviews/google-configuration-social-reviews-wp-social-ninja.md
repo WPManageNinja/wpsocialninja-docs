@@ -17,7 +17,7 @@ _Google reviews_
 
 We have created the simplest way to get the reviews just with a few clicks.
 
-![Social Reviews | Google](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Google_Business_Profile-5.png)
+![Social Reviews | Google](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Google_Business_Profile.png)
 
 _Social Reviews | Google_
 
@@ -25,7 +25,7 @@ In order to obtain Google Reviews successfully, select **Google **from All Platf
 
 Now, let’s see how you can add reviews to your website. Firstly, you need to obtain **Google Access Code**.
 
-![Google Configuration](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/my_business_config-5.png)
+![Google Configuration](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/my_business_config.png)
 
 _Google Configuration_
 
@@ -35,7 +35,7 @@ Click on the **Sign In And Get Google Access Code** to get the Access Code. Clic
 
 Continue with your business account.
 
-![Choose an account](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Sign-in-Google-5.png)
+![Choose an account](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Sign-in-Google.png)
 
 _Choose an account_
 
@@ -45,7 +45,7 @@ Choose your e-mail account to continue with WP Social Ninja.
 
 Click on the **Allow**&nbsp;to grant access permission.
 
-![Allow to Continue](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/grant_access_google-5.png)
+![Allow to Continue](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/grant_access_google.png)
 
 _Allow to Continue_
 
@@ -53,13 +53,13 @@ _Allow to Continue_
 
 Now copy the Access Code from here.
 
-![Copy Access Code](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Copy-access-token-1-5.jpeg)
+![Copy Access Code](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Copy-access-token-1.jpeg)
 
 _Copy Access Code_
 
 ### **Step 4**
 
-![Verify Code ](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Access-Token-Given-5.png)
+![Verify Code ](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Access-Token-Given.png)
 
 _Verify Code_
 
@@ -69,9 +69,9 @@ Then paste the copied **Access Code** into the Google Configuration page to Conf
 
 You can also click on **Connect New Account** to get your reviews from multiple Business Accounts.
 
-![](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Business_profile_configuration-5.png)
+![](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Business_profile_configuration.png)
 
-![](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Screenshot_1-5.png)
+![](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/Screenshot_1.png)
 
 _Google Business Reviews_
 

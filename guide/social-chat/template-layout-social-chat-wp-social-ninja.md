@@ -21,25 +21,25 @@ Let’s check out how you can customize your **Social Chat Template Layout **by 
 
 If you click on the Template option, you will see the **Layout Type **dropdown option. There are two types of Layout: **Chat Box &amp; Only Icons.**
 
-![Layout Type](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_box_layout-4.png)
+![Layout Type](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_box_layout.png)
 
 _Layout Type_
 
 If you choose Only Icons, then you will notice a Floating icon appearing.
 
-![](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/only_icons_layout-4.png)
+![](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/only_icons_layout.png)
 
 ### **Template Types **
 
 Here, from the right sidebar, click on the **Template** option.
 
-![Template Type | Telegram](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/general-template-4.png)
+![Template Type | Telegram](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/general-template.png)
 
 _Template Type | Telegram_
 
 A drop-down option will appear.
 
-![Select a Template](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/sprt_template-4.png)
+![Select a Template](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/sprt_template.png)
 
 _Select a Template_
 
@@ -51,7 +51,7 @@ Four types of Templates are available at the moment. **General, Support, Feedbac
 
 After Template,&nbsp; next comes **Chat Header**. From the dropdown option, you can see three changeable items; two of them are input fields, and another is an image upload option.
 
-![Chat Header](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_header-3.png)
+![Chat Header](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_header.png)
 
 _Chat Header_
 
@@ -67,7 +67,7 @@ So you can change your profile picture or add a new one that suits your brand.&n
 
 The next Layout is the **Welcome Message**.
 
-![Chat Body](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/welcme_msg-3.png)
+![Chat Body](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/welcme_msg.png)
 
 _Chat Body_
 
@@ -85,7 +85,7 @@ Use this guide to customize the appearance and behavior of each individual chann
 
 **Prefilled Input Placeholder Text**: Customize the placeholder text that is visible in the chat input field before a user starts typing. For example, change "Type a message" to "Ask us anything...".
 
-![wp social ninja edit chat widget 08 21 2025 03 01 pm](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/WP-Social-Ninja-Edit-Chat-Widget-08-21-2025_03_01_PM-3.webp)
+![wp social ninja edit chat widget 08 21 2025 03 01 pm](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/WP-Social-Ninja-Edit-Chat-Widget-08-21-2025_03_01_PM.webp)
 
 _Channel Buttons_
 
@@ -93,7 +93,7 @@ _Channel Buttons_
 
 Here, if you click the **Chat Bubble Button,**&nbsp; a dropdown list will appear.
 
-![Start Chat Button](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_bubble-1024x596-1-4.png)
+![Start Chat Button](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/chat_bubble-1024x596-1.png)
 
 _Chat Bubble Button_
 
@@ -101,7 +101,7 @@ You can write a Bubble Text from this menu, for instance, **Need Help?**
 
 Next is** Bubble Icon**. From the drop-down menu, you can change the Bubble Icon. We have six Bubble Icons available at the moment.&nbsp;
 
-![Bubble Icon Types](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/template_icon-1024x387-1-3.png)
+![Bubble Icon Types](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/template_icon-1024x387-1.png)
 
 _Bubble Icon Types_
 

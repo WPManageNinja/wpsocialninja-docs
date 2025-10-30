@@ -11,7 +11,7 @@ description: ""
 
 It will save your time, engage with more customers, and is absolutely secure to use. Let’s jump in.
 
-![Offers of WP Social Ninja](/guide/public/images/getting-started-with-the-user-interface-2/what-wp-social-review-offers/WP-Social-Ninja-Platforms-2-1-5.png)
+![Offers of WP Social Ninja](/guide/public/images/getting-started-with-the-user-interface-2/what-wp-social-review-offers/WP-Social-Ninja-Platforms-2-1.png)
 
 _Offers of WP Social Ninja_
 

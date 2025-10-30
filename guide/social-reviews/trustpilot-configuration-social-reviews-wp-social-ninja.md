@@ -15,13 +15,13 @@ Let’s follow the steps in order to aggregate **Trustpilot Reviews** to boost u
 
 To add **Trustpilot Reviews **to your site, you first need to connect with the Trustpilot server to fetch the reviews from their repositories. First, you need to obtain the Trustpilot Business Reviews **URL** to show the reviews on your WordPress site.&nbsp;
 
-![Trustpilot Business URL](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-URL-1-scaled-5.webp)
+![Trustpilot Business URL](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-URL-1-scaled.webp)
 
 _Trustpilot Business URL_
 
 Now go to your WP Social Ninja and select **Platform** from the Navbar. You will see the **Trustpilot** here. Click on the **Settings** Icon button to *Configure* Trustpilot here. Here you need to give the URL of your Trustpilot Business to show the Reviews of Trustpilot.&nbsp;
 
-![Trustpilot Configuration](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-url-field--scaled-5.webp)
+![Trustpilot Configuration](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-url-field--scaled.webp)
 
 _Trustpilot Configuration_
 
@@ -29,13 +29,13 @@ After that, you will see your Trustpilot business page has been added to show yo
 
 You can also customize and make templates to show your reviews. Select the **Create a Template** button to show the Template for your Trustpilot.
 
-![Trustpilot Business Account ](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-profile-conection-scaled-5.webp)
+![Trustpilot Business Account ](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trustpilot-profile-conection-scaled.webp)
 
 _Trustpilot Business Account_
 
 In the Template of your Trustpilot, you will get the **General** and **Style** options to customize your review template. After customizing your template click on the **Save Template** button to save your template.
 
-![Trustpilot Business Template](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trust-pilot-Template--scaled-5.webp)
+![Trustpilot Business Template](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/Trust-pilot-Template--scaled.webp)
 
 _Trustpilot Business Template_
 

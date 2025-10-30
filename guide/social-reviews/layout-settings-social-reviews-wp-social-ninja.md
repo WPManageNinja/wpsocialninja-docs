@@ -17,7 +17,7 @@ Let’s go through the steps of changing the Settings.
 
 Here, on the **Display Rating** button, you can control the rating on your website.
 
-![Display Rating](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/display_rating-1024x590-1-5.png)
+![Display Rating](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/display_rating-1024x590-1.png)
 
 _Display Rating
 _
@@ -28,7 +28,7 @@ If you want to display the ratings then you can just turn it on. Similarly, just
 
 Next, you can change your **Rating Style**.
 
-![Rating Style](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/rating_style-1024x521-1-5.png)
+![Rating Style](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/rating_style-1024x521-1.png)
 
 _Rating Style
 _
@@ -37,7 +37,7 @@ Three Layout options are available right now. **Default, Number Style Rating**, 
 
 ### **Other Settings**
 
-![Other Settings](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/other-settings-1024x532-1-4.png)
+![Other Settings](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/other-settings-1024x532-1.png)
 
 _Other Settings
 _
@@ -52,7 +52,7 @@ Once you are done with the **Display Reviewer Name**, you can also turn on/off t
 
 **Reviewer Name Format:** You can customize how the reviewer's name appears by selecting a format from the dropdown menu. Choose the style that best fits your design.
 
-![display name format](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Display-Name-Format-scaled-4.webp)
+![display name format](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Display-Name-Format-scaled.webp)
 
 #### **Display Platform Icon**
 
@@ -78,7 +78,7 @@ If you disable the **Display Reviewer Text** button then you won’t be able to 
 
 Using this Plugin you can also control your **Display Date**. Click to enable the button if you want the Date to be shown. You can see in the above screenshot the Date is displayed in the **(d-m-Y) **format. So, you can choose your preferred Date format from the various formats that are available.
 
-![Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/settings_frontend-4.png)
+![Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/settings_frontend.png)
 
 _Settings | Front End View_
 
@@ -88,7 +88,7 @@ In the Front End View, it can see that there is a **Display Date** visible. All 
 
 At this stage, you can choose to change the **Pagination** by clicking on the drop-down menu.
 
-![Pagination Settings](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Pagination-1-5.png)
+![Pagination Settings](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Pagination-1.png)
 
 _Pagination Settings_
 
@@ -96,13 +96,13 @@ _Pagination Settings_
 
 If you select the **Load More** option, you get to set the number of **Reviews Per Page** and change the Button Text. Simply, write down your desired text in the **Load More Button Text** box and then adjust your **Reviews Per Page number**.
 
-![Reviews Per Page](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Load-More-4.png)
+![Reviews Per Page](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Load-More.png)
 
 _Reviews Per Page_
 
 Here, in this Review Per Page, you can adjust the review number for every page from the scroll bar.
 
-![Pagination Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Pagination_settings-5.png)
+![Pagination Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/Pagination_settings.png)
 
 _Pagination Settings | Front End View_
 
@@ -112,7 +112,7 @@ The Front End View of **Pagination Settings **is like this. Click on the **More 
 
 Next, we have** Header Settings**. In this part, seven Layout options are available right now**; Display Title, Display Rating**, **Display Number of Reviews,** **Display Write a Review Button, Custom Title text, Custom Number of Reviews Text, **and** Custom Write a Review Text. **
 
-![wp social ninja edit](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/WP-Social-Ninja-Edit-scaled-4.webp)
+![wp social ninja edit](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/WP-Social-Ninja-Edit-scaled.webp)
 
 _Header Settings_
 
@@ -136,7 +136,7 @@ Choose** “Fluent Forms Shortcode”** if you want to collect reviews using a f
 
 Choose** “Custom URL”** if you want the button to redirect users to a specific link. Then, enter your custom URL in the provided field.
 
-![Header Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/write_review-4.png)
+![Header Settings | Front End View](/guide/public/images/social-reviews/layout-settings-social-reviews-wp-social-ninja/write_review.png)
 
 _Header Settings | Front End View_
 

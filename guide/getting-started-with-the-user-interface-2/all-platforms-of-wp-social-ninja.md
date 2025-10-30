@@ -9,7 +9,7 @@ description: ""
 
 **WP Social Ninja** All Platforms have some amazing options which include **Social Reviews**, **Social Feeds**, and **Social Chat.**
 
-![Platforms](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/WP_Social_Ninja-2-5.jpeg)
+![Platforms](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/WP_Social_Ninja-2.jpeg)
 
 _Platforms_
 
@@ -17,7 +17,7 @@ _Platforms_
 
 In WP Social Ninja, Social Feeds have multiple options. Now you can add feeds from your social networking sites.
 
-![Social Feeds](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/Social_feeds-5.png)
+![Social Feeds](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/Social_feeds.png)
 
 _Social Feeds_
 
@@ -29,7 +29,7 @@ WP Social Ninja fetches different Reviews on your site with just one click. Most
 
 Well, you have reached a solution!
 
-![Social Reviews](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/Screenshot-by-Lightshot-1-5.png)
+![Social Reviews](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/Screenshot-by-Lightshot-1.png)
 
 _Social Reviews_
 
@@ -39,7 +39,7 @@ For instance, consider Social Platforms like** Google My Business **and **Facebo
 
 You already know about Social Reviews and Social Feeds. Now there is one more Platform left to know about: **Social Chat**.
 
-![Social Chat](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/WP-Social-Ninja-6-5.png)
+![Social Chat](/guide/public/images/getting-started-with-the-user-interface-2/all-platforms-of-wp-social-ninja/WP-Social-Ninja-6.png)
 
 _Social Chat_
 

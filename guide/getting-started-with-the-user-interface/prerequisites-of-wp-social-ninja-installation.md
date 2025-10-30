@@ -11,6 +11,6 @@ description: ""
 
 **PHP Version**: 7.1 or higher
 
-![](/guide/public/images/getting-started-with-the-user-interface/prerequisites-of-wp-social-ninja-installation/WP-Social-Ninja-Platforms-1-1-5.png)
+![](/guide/public/images/getting-started-with-the-user-interface/prerequisites-of-wp-social-ninja-installation/WP-Social-Ninja-Platforms-1-1.png)
 
 _WP Social Ninja_

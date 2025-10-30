@@ -9,13 +9,13 @@ description: ""
 
 A multipurpose plugin like** WP Social Ninja** has a wide range of features and one of them is the** Reviews** option. In this section, users can experience a lot of features.
 
-![Reviews](/guide/public/images/getting-started-with-the-user-interface-2/all-reviews/WP-Social-Ninja-Reviews-5.png)
+![Reviews](/guide/public/images/getting-started-with-the-user-interface-2/all-reviews/WP-Social-Ninja-Reviews.png)
 
 _Reviews_
 
 With the **Add Custom Review **button, a user can manually add and customize any review.
 
-![Add Custom Review](/guide/public/images/getting-started-with-the-user-interface-2/all-reviews/WP-Social-Ninja-Reviews-1-1-5.png)
+![Add Custom Review](/guide/public/images/getting-started-with-the-user-interface-2/all-reviews/WP-Social-Ninja-Reviews-1-1.png)
 
 _Add Custom Review_
 

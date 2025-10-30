@@ -15,7 +15,7 @@ Moreover, if you have your business website, you can also fetch&nbsp;**Social Fe
 
 This is the most powerful and time-saving tool for your website to excel in your business. It can simplify your communication process by adding **Messenger**, **WhatsApp**, and **Telegram** just by installing **WP Social Ninja**.
 
-![](/guide/public/images/getting-started-with-the-user-interface/getting-started-with-wp-social-ninja/WP-Social-Ninja-Platforms-1-5.png)
+![](/guide/public/images/getting-started-with-the-user-interface/getting-started-with-wp-social-ninja/WP-Social-Ninja-Platforms-1.png)
 
 _WP Social Ninja_
 

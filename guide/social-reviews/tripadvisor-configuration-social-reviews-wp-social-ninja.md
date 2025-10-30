@@ -15,7 +15,7 @@ In this article, we will guide you through the steps to obtain the TripAdvisor A
 
 To obtain your TripAdvisor credentials, log in to your TripAdvisor [developer account](https://www.tripadvisor.com/developers). From the navigation bar, select **My API** and then click the **Create API Key** button.
 
-![Tripadvisor API Configuration 1](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-1-scaled-5.webp)
+![Tripadvisor API Configuration 1](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-1-scaled.webp)
 
 ::: tip
 
@@ -25,17 +25,17 @@ TripAdvisor offers a free API key that allows up to 5,000 requests for local det
 
 To generate your API key, you will need to provide TripAdvisor with some information about your business.
 
-![Tripadvisor API Configuration 2](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-2-5.webp)
+![Tripadvisor API Configuration 2](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-2.webp)
 
 Verifying your website is necessary for creating the API. Enter your website address and register it under your business to ensure a smooth API transfer.
 
 In the API Key restriction section, input your domain name and click the **Save** button.
 
-![Tripadvisor API Configuration 3](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-3-5.webp)
+![Tripadvisor API Configuration 3](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-3.webp)
 
 Once you’ve completed the form, your API key will be generated and you will see the domain name you have registered for this API. Just click the **Copy to Clipboard **button to copy the API key.
 
-![Tripadvisor API Configuration 4](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/image-5.png)
+![Tripadvisor API Configuration 4](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/image.png)
 
 ## **Get the Place ID**&nbsp;
 
@@ -43,17 +43,17 @@ To set up TripAdvisor with WP Social Ninja, you'll need the **Place ID** from yo
 
 Look for an ID in the URL that starts with the letter 'd'—this is your Place ID. In this case, the actual Place ID is '752551,' excluding the 'd' prefix. Copy the code from the URL.
 
-![Tripadvisor API Configuration 5](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-ID-scaled-5.webp)
+![Tripadvisor API Configuration 5](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-ID-scaled.webp)
 
 ## **Configuring Tripadvisor with WP Social Ninja**
 
 After receiving your TripAdvisor credentials, navigate to your WP Social Ninja dashboard and select **Platform** from the navigation bar. Search for TripAdvisor and click on the **Settings** icon button.
 
-![Tripadvisor API Configuration 6](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-6-scaled-5.webp)
+![Tripadvisor API Configuration 6](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-6-scaled.webp)
 
 A TripAdvisor configuration popup will appear. Select Credential Type: **API Key**, then paste your **API Key** and **ID** into the appropriate fields. Finally, click the **Save** button.
 
-![Tripadvisor API Configuration 7](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-7-1-scaled-5.webp)
+![Tripadvisor API Configuration 7](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-7-1-scaled.webp)
 
 ::: tip
 

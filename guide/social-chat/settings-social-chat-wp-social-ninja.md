@@ -11,13 +11,13 @@ WP Social Ninja offers detailed settings for users that have different positions
 
 Here, a dropdown menu with multiple options will appear if you click on Settings. Let’s find out more about them.
 
-![chat widget settings 1](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-1-4.webp)
+![chat widget settings 1](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-1.webp)
 
 ### **Chat Bubble Position**
 
 You can adjust your **Chat Bubble Position** in four different ways, from **Bottom Right** to **Bottom Left** and **Top Left** to **Top Right**.
 
-![chat widget settings 2](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-2-3.webp)
+![chat widget settings 2](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-2.webp)
 
 _Chat Bubble Position_
 
@@ -27,13 +27,13 @@ The chat widget automatically inherits the site’s language settings. This mean
 
 For websites that need to support more than one language, a multilingual plugin (such as WPML, Polylang, or TranslatePress) must be installed and configured. These plugins allow you to define multiple site languages and ensure the chat widget adapts accordingly, providing a seamless experience for users in their preferred language.
 
-![chat widget settings 3](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-3-4.webp)
+![chat widget settings 3](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-3.webp)
 
 ### **Include Pages To Display Chat**
 
 With this option, you will be able to select the pages you would like to show your social chat option. Choose a single page or as many pages you want from the drop-down of **Include Pages to Display Chat.**
 
-![chat widget settings 4](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-4-3.webp)
+![chat widget settings 4](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-4.webp)
 
 _Include Pages To Display Chat_
 
@@ -41,7 +41,7 @@ _Include Pages To Display Chat_
 
 Similarly, you can hide your social chat options from certain pages if you want. From the drop-down menu, select a relevant page or multiple pages to exclude the** Social Chat Widget **option.
 
-![chat widget settings 5](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-5-3.webp)
+![chat widget settings 5](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-5.webp)
 
 _Exclude Pages To Display Chat_
 
@@ -49,7 +49,7 @@ _Exclude Pages To Display Chat_
 
 Again, if you want to display Social Chat in specific posts then choose the posts from the drop-down menu of **Display By Post Types**.
 
-![chat widget settings 6](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-6-4.webp)
+![chat widget settings 6](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-6.webp)
 
 _** **Display By Post Types_
 
@@ -57,7 +57,7 @@ _** **Display By Post Types_
 
 You can hide the Social Chat option either on Desktop or Mobile from here. Simply enable** Hide Chat on Desktop** option to hide the social chat icon from your desktop. The same rule goes for **Hide Chat on Mobile** option as well.
 
-![chat widget settings 8](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-8-3.webp)
+![chat widget settings 8](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-8.webp)
 
 _Hide Chat on Desktop/Mobile_
 
@@ -65,7 +65,7 @@ _Hide Chat on Desktop/Mobile_
 
 After the display option, there are more customizing features like **Show Chat Popup**.&nbsp;
 
-![chat widget settings 10](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-10-4.webp)
+![chat widget settings 10](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-10.webp)
 
 _Show Chat Popup_
 
@@ -83,7 +83,7 @@ Though you might not always need this, if you need your chat to open in a new wi
 
 The last** setting **is **Show online/offline**. Here you can adjust two important settings** When to Display Online **and** Set the Time Schedule.&nbsp;**
 
-![chat widget settings 11](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-11-1-3.webp)
+![chat widget settings 11](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-11-1.webp)
 
 _Show Online/Offline_
 
@@ -93,7 +93,7 @@ However, you can uncheck particular days if you are going to be unavailable.
 
 Next is to **Set the Time Schedule**.&nbsp;
 
-![chat widget settings 12](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-12-3.webp)
+![chat widget settings 12](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/chat-widget-settings-12.webp)
 
 _Set The Time Schedule_
 
@@ -103,7 +103,7 @@ Here you can also set the time when your team will not be available
 
 Moreover, you have an amazing caption-text option. So you can type your own text on the **Caption Text When Offline** box.
 
-![](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/FrQneui9z5kpt6xBQuHL49ThlkwMPzVP1Bx5qxGwuLOinmRaEeYnhijHl1OUivSx163ygtDwVv0Ck_jhLyH-BzM6G25Nk25QKjyUx_YwOqyTpJ7pbdMazPLStFOzhJLbMJx6B6M.png)
+![](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/google-image-1.png)
 
 _Caption Text When Offline_
 

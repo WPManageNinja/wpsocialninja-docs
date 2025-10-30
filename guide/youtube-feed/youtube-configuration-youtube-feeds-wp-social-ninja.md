@@ -19,7 +19,7 @@ _WP Social Ninja: YouTube feed_
 
 To do that, you have to follow a few simple steps. Let’s see-
 
-![Social Feeds | YouTube](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/Social_feeds-1-3.png)
+![Social Feeds | YouTube](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/Social_feeds-1.png)
 
 _Social Feeds | YouTube_
 
@@ -29,13 +29,13 @@ YouTube configuration has three** Credentials Types; OAuth 2.0, **[**API Key**](
 
 Select the credential type to start the configuration.
 
-![Credential Type ( oAuth 2.0)](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_credential_type-4.png)
+![Credential Type ( oAuth 2.0)](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_credential_type.png)
 
 _Credential Type ( oAuth 2.0)_
 
 Next, click on the **Sign In **And** Get Google Access Code** to get Access Code. This will take you to a new window.
 
-![Sign In &amp; Get Google Access Code ](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2-2.png)
+![Sign In &amp; Get Google Access Code ](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2.png)
 
 _Sign In &amp; Get Google Access Code_
 
@@ -45,7 +45,7 @@ Here, you need to select the Email associated with your YouTube account!
 
 Continue with your YouTube account.
 
-![](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/choose_id_youtube-2.png)
+![](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/choose_id_youtube.png)
 
 Choose your YouTube email account to continue with WP Social Ninja.
 
@@ -53,7 +53,7 @@ Choose your YouTube email account to continue with WP Social Ninja.
 
 Click on the** Continue** button to grant access permission.
 
-![Continue Button](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/allow_youtube_id-1-3.png)
+![Continue Button](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/allow_youtube_id-1.png)
 
 _Continue Button_
 
@@ -61,19 +61,19 @@ _Continue Button_
 
 Now copy the **Access Code** and paste it into the YouTube Configuration page to configure YouTube Feed.
 
-![Copy the Access Code](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_access_code-1-3.png)
+![Copy the Access Code](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_access_code-1.png)
 
 _Copy the Access Code_
 
 ### **Step 4**
 
-![](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_api_save-1-3.png)
+![](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_api_save-1.png)
 
 _Save button_
 
 Click the **Save** button to complete the configuration process.
 
-![Successfully Connected](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/YouTube_configuration-1.png)
+![Successfully Connected](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/YouTube_configuration.png)
 
 _Successfully Connected_
 
@@ -87,7 +87,7 @@ Click on** YouTube** to start the configuration process.
 
 For a more detailed configuration process, you can follow the steps below:
 
-![Credential Type (API Key)](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-1-1.png)
+![Credential Type (API Key)](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-1.png)
 
 _Credential Type (API Key)_
 
@@ -97,19 +97,19 @@ Click on the **API Key** to obtain the **YouTube API Key**.
 
 First of all, go to [console.developers.google.com oauth](https://console.developers.google.com/apis/credentials?project=infra-fortress-289907&amp;folder=&amp;organizationId=). You need to create a **New Project** to acquire the API Key from the **Google APIs.**
 
-![youtube configuration select a project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-3-1.png)
+![youtube configuration select a project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-3.png)
 
 _Select a Project_
 
 Click on the** New Project** to select or create a new one.
 
-![Youtube configuration |  Select/Create](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-4-1.png)
+![Youtube configuration |  Select/Create](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-4.png)
 
 _Select/Create_
 
 You can** Search projects and folders** or create a **New Project**. In order to create a New Project, click on it.
 
-![New project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-5-1.png)
+![New project](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-5.png)
 
 _New Project_
 
@@ -119,19 +119,19 @@ Put your **Project name** and click on the **Create **button. You will get a **N
 
 Now, click on the **Credentials** from **APIs &amp; Services **to get the** API Key.**
 
-![Create Credentials](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-6-1.png)
+![Create Credentials](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-6.png)
 
 _Create Credentials_
 
 Once you are done with the project, click the **Create Credentials** button to create API Key.
 
-![API Key](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/SzpEYQiFI7u2P4xa9ZTS8qsjXJ0x2ec4XNzzGqczirr-y3WfQqN_5leTF8JekK5t1hdkwtvPsYFGvMVC8zOOrLQMEbbgNLHoLfmCvUDY1H4VbNNa03sI_zQ-7I6CVLuxi5wOX2i5.png)
+![API Key](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-1.png)
 
 _API Key_
 
 Next, click on the API Key button.
 
-![API Key YouTube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/ey6Ypq2C78UOxRZh-aC7hgQodiy_InhXmvNULpoiGorjA8Wz_a5-2q3fZw-yeRHDddWwNKNHGzW74n0T1Y9tTYifkk-pft9wcQmFQ_8FXjwszIFYv6GrNAWBvhP0Ko6hWSaUn_be.png)
+![API Key YouTube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-2.png)
 
 _**API Key created**_
 
@@ -141,13 +141,13 @@ Congratulations! You have got your **YouTube API **Key.
 
 In order to configure the **YouTube** **Feed**, you need to **enable** the YouTube Data API v3 button; otherwise, the API Key will not work. Now click on the **Library** to enable the **YouTube Data API v3**.
 
-![API credentials youtube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-7-1.png)
+![API credentials youtube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/image-7.png)
 
 _API credentials_
 
 From the **API Library** scroll down and select the **YouTube Data API v3**.
 
-![YouTube Data API v3](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/Fj_YygeKsGTq78gvnHqTZOlVd8dew7PWafU8bss1P0kVBGZglaeusbCnHwZkkx_2iyU99WAcXcZae7IMlKLcPwFWjkYK3Zbmy_phrER7NdhAGwjD8EVl7g6SaYc58Sr4Aa9uwNu9.png)
+![YouTube Data API v3](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-3.png)
 
 _**YouTube Data API v3**_
 
@@ -157,7 +157,7 @@ Now **Enable** the button.
 
 In this step, copy and paste it to insert the **API Key** to configure **YouTube Feeds**.
 
-![YouTube Configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtubeconfiguration-2020-09-29-16-03-46-1.png)
+![YouTube Configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtubeconfiguration-2020-09-29-16-03-46.png)
 
 _YouTube Configuration_
 

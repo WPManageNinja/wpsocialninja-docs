@@ -35,13 +35,13 @@ Now let’s go to the WP Social Ninja dashboard to adjust the Schema Snippet.
 
 Now let’s go to the WP Social Ninja dashboard to learn how to adjust the Schema Snippet. First of all, enable the Schema Snippet button to adjust the settings.
 
-![Enable Schema Snippet](/guide/public/images/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja/bUZBcilWBKh1ir-bISy6zpaFo2ae7wkl2whgvKi0x8oPaBLns0TM16SGtYAnJF1n4ZSot2110rKmkUyDaA5L_kElDRLB45HccMX9Wy3wwrFi19LFnriNhD7lpjiy8CRPVNEQJZga.png)
+![Enable Schema Snippet](/guide/public/images/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja/google-image-1.png)
 
 _Enable Schema Snippet_
 
 Now a settings panel will appear on your screen.
 
-![Schema Snippet Settings](/guide/public/images/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja/image-4-1.png)
+![Schema Snippet Settings](/guide/public/images/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja/image-4-2.png)
 
 _Schema Snippet Settings_
 

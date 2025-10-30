@@ -19,7 +19,7 @@ To change the** Layout,**&nbsp;click on the&nbsp;**Source**&nbsp;button and a **
 
 Currently, we have four Feed Types; User Timeline, Home Timeline, Hashtag, and Mentions. By changing the **Feed Type**, for example, if you select Home Timeline, then your Home Timeline Tweets will appear automatically on your website.
 
-![Feed Type](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/twitter_home_timeline-1024x533-1-3.png)
+![Feed Type](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/twitter_home_timeline-1024x533-1.png)
 
 _Feed Type_
 
@@ -29,7 +29,7 @@ Similarly, you may&nbsp;choose any** Feed Type** to display Tweets on your websi
 
 You can also change the** Number of Tweets to Display **on your website.
 
-![Number of Tweets to Display](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/fetch_tweets-1024x472-4.png)
+![Number of Tweets to Display](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/fetch_tweets-1024x472.png)
 
 _Number of Tweets to Display_
 
@@ -39,7 +39,7 @@ With this option, you will be able to select the&nbsp;number of Tweets that you 
 
 On the right side, Templates have **Layout Type** options to change your **Twitter Feeds**. If you click the drop-down menu, you can see a few options. At the moment, we have Standard, Masonry, and Carousel.
 
-![Layout Type](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/twitter_layout_type-1024x529-1-4.png)
+![Layout Type](/guide/public/images/twitter-feed/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja/twitter_layout_type-1024x529-1.png)
 
 _Layout Type_
 

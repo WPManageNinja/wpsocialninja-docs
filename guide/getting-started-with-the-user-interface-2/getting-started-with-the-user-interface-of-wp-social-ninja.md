@@ -9,7 +9,7 @@ description: ""
 
 **WP Social Ninja** has an easy method for **User Interface**.
 
-![Getting started with the user interface](/guide/public/images/getting-started-with-the-user-interface-2/getting-started-with-the-user-interface-of-wp-social-ninja/WP-Social-Ninja-Platforms-3-1-5.png)
+![Getting started with the user interface](/guide/public/images/getting-started-with-the-user-interface-2/getting-started-with-the-user-interface-of-wp-social-ninja/WP-Social-Ninja-Platforms-3-1.png)
 
 _Getting started with the User Interface_
 

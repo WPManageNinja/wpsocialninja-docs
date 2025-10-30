@@ -13,14 +13,14 @@ Let’s check how you can change your **Social Reviews Template Layouts** in jus
 
 ### **Source**
 
-![Select a Platform/Select all Platforms](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Platforms-5.png)
+![Select a Platform/Select all Platforms](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Platforms.png)
 
 _Select a Platform/Select all Platforms
 _
 
 To change your **Template Layout,** click the Source button, and a drop-down menu will appear. You can Select a Platform, or you can select all the Platforms.
 
-![Platform Selected](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Platform-Selected-5.png)
+![Platform Selected](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Platform-Selected.png)
 
 _Platform Selected_
 
@@ -30,7 +30,7 @@ You can see multiple Platforms are selected, and all the Reviews/Recommendations
 
 In this section, we will guide you on how you can easily adjust your **Template Layouts** using **WP Social Ninja** to design your Website.
 
-![All Platforms | Front End View](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Frontend-View-4.png)
+![All Platforms | Front End View](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Frontend-View.png)
 
 _All Platforms | Front End View
 _
@@ -39,7 +39,7 @@ _
 
 You can change your **Layout Type** from the drop-down option. Three **Types of Layouts** are available right now. **Grid, Slider, <strong>Masonry**</strong> and **Badge** - these Layouts have specific designs to structure contents.
 
-![Layout Type | Grid](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Layout-Type-4.png)
+![Layout Type | Grid](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Layout-Type.png)
 
 _Layout Type | Grid
 _
@@ -50,7 +50,7 @@ _
 
 **Vega, Spica, Sirius, Rigel, Procyon, Pollux, Mimosa, Hadar,** **Deneb, **and** Polaris. **Like Layout Types, different **Templates** have the power to change the outlook of your Website.
 
-![Template Types | Vega](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/template_types-4.png)
+![Template Types | Vega](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/template_types.png)
 
 _Template Types_
 
@@ -60,7 +60,7 @@ Once you are done with the **Layout Type**, you can also customize the **Number 
 
 In our demonstration,** 3 Columns** are selected to display the reviews.
 
-![Number of Columns](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Columns-4.png)
+![Number of Columns](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Columns.png)
 
 _Number of Columns
 _
@@ -71,7 +71,7 @@ Next, the **Number of Reviews** will appear. You can change the numbers accordin
 
 For each platform, you can select up to 100 reviews from the scroll bar.
 
-![Number of Reviews](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Reviews-5.png)
+![Number of Reviews](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Number-of-Reviews.png)
 
 _Number of Reviews_
 
@@ -81,7 +81,7 @@ Did you know that you can filter your **Review Ratings**? If you want to add onl
 
 You will have six options to choose from **No Minimum Rating** to **Five Star** to display your Reviews. Here, we have selected **No Minimum Rating**.
 
-![Filters by Minimum Rating](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Minimum-Ratings-4.png)
+![Filters by Minimum Rating](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Minimum-Ratings.png)
 
 _Filters by Minimum Rating
 _
@@ -90,7 +90,7 @@ _
 
 Here, you have two options! You can choose the reviews to be displayed in Ascending, Descending, or Random order.
 
-![Display by Order](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Order-5.png)
+![Display by Order](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Order.png)
 
 _Display by Order_
 
@@ -100,7 +100,7 @@ If you click **Include/Exclude,** a drop-down menu will appear, and you can pick
 
 However, you can also **Exclude** specific reviews by following the same way you have Included.
 
-![review template filter](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Review-template-filter-scaled-4.webp)
+![review template filter](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Review-template-filter-scaled.webp)
 
 _Include Reviews_
 
@@ -144,7 +144,7 @@ This panel lets you control the details shown in your review templates. Use thes
 
 - **Enable External Links**: Toggle this ON to make “Read more” or other links in the review clickable.
 
-![template settings](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/template-settings--scaled-4.webp)
+![template settings](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/template-settings--scaled.webp)
 
 ## Display Header 
 
@@ -214,7 +214,7 @@ When users click **Write a Review**, this specific Fluent Form will open.
 In short:
 The **Header section** lets you control how your review block introduces itself to visitors — the logo, average rating, number of reviews, and the review submission button can all be customized to match your brand.
 
-![review template heading](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Review-Template-Heading--scaled-5.webp)
+![review template heading](/guide/public/images/social-reviews/template-layouts-social-reviews-wp-social-ninja/Review-Template-Heading--scaled.webp)
 
 _Template Display Header_
 

@@ -15,7 +15,7 @@ _Chat widgets settings_
 
 To be more precise, on your WordPress Site, you can also add **Social Chat **apps like **Messenger**. This will make your communication a lot easier and help you connect with more people wasting zero time.
 
-![Social Chats](/guide/public/images/social-chat/social-chat-wp-social-ninja/social_chats-5.png)
+![Social Chats](/guide/public/images/social-chat/social-chat-wp-social-ninja/social_chats.png)
 
 _Social Chats_
 

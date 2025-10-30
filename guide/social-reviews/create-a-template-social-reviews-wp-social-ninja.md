@@ -13,13 +13,13 @@ However, all the Platforms have a similar way to Create a Template. So, all you 
 
 Here, we will guide you on how to create an **Airbnb **template. Let’s get into it.
 
-![Create a Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_url_added-1-5.png)
+![Create a Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_url_added-1.png)
 
 _Create a Template_
 
 After obtaining your **Business URL,** you can create your template. In order to do that, click on the blue **Create a Template** box.
 
-![Available Platforms](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_platform-1024x705-1-5.png)
+![Available Platforms](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_platform-1024x705-1.png)
 
 _Available Platforms_
 
@@ -27,13 +27,13 @@ After you click on the Create a Template button, you are taken to the awesome ed
 
 From the drop-down menu, you can see all the Platforms. Select **Airbnb,** or you may select multiple Platforms.
 
-![Airbnb | Platforms](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/select-airbnb-5.png)
+![Airbnb | Platforms](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/select-airbnb.png)
 
 _Airbnb | Platforms_
 
 All the Airbnb Reviews appear automatically as you have selected Airbnb. You may select more than one Platform or all the Platforms to fetch the reviews on your site.
 
-![Save Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_template_success-5.png)
+![Save Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/airbnb_template_success.png)
 
 _Save Template_
 

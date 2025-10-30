@@ -5,7 +5,7 @@ description: ""
 
 # Convert Your Instagram Personal Account into Professional/Creator Account
 
-Switching from a **Personal Account** to a **Professional Account** is now required to keep your **Instagram Feeds** working on your **WordPress Site** using the** WP Socia Ninja** plugin.&nbsp;
+Switching from a **Personal Account** to a **Professional Account** is now required to keep your **Instagram Feeds** working on your **WordPress Site** using the **WP Social Ninja** plugin.
 
 Based on your needs, you can convert your account to a **Business** or **Creator** account. Both types function properly with our plugin and offer specific features.
 
@@ -19,7 +19,7 @@ To convert your personal account into a professional account, follow the steps b
 
 - Then, click on **Account Type and Tools** from the left sidebar, and select **Switch to Professional Account**.
 
-- Now, based on your needs select the **Account Type** for your **Professional Account**. You can choose either a [Business Account](https://help.instagram.com/138925576505882/?helpref=search&amp;query=about%20Business&amp;search_session_id=a1539d704d4e86b0909e490f18d7fe39&amp;sr=3) or a [Creator Account](https://help.instagram.com/1158274571010880?helpref=faq_content).
+- Now, based on your needs select the **Account Type** for your **Professional Account**. You can choose either a [Business Account](https://help.instagram.com/138925576505882/?helpref=search&query=about%20Business&search_session_id=a1539d704d4e86b0909e490f18d7fe39&sr=3) or a [Creator Account](https://help.instagram.com/1158274571010880?helpref=faq_content).
 
 - It is time to choose a **Category** that suits perfectly to your profile (e.g., **Blogger**, **Artist**, **Local Business**, etc.). Also, you can choose whether to display this **Category Publicly**.
 
@@ -37,4 +37,4 @@ Also, if you want to display a Hashtag feed, you’ll need to connect your accou
 
 :::
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&amp;utm_medium=home&amp;utm_campaign=site#/). Thank you.
+If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

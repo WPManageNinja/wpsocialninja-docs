@@ -9,7 +9,7 @@ Translating your product or service features into a foreign language can develop
 
 The keys to worldwide success for brands and express are top-notch and conversion-oriented translation help.
 
-That’s why we have introduced the **Translate Option** with WP Social Ninja.&nbsp;
+That's why we have introduced the **Translate Option** with WP Social Ninja.
 
 - For this, Go to **Settings** → **Others** → **Translation Settings.**
 

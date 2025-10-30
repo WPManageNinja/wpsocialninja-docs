@@ -84,32 +84,20 @@ Standard Facebook User Access Tokens expire quickly. To maintain a stable connec
 Follow these steps to generate your token.
 
 - **Navigate to the Access Token Debugger**
-
-<li>Go to the [Facebook Access Token Debugger](https://developers.facebook.com/tools/debug/accesstoken/) and log in to your Facebook account.
-
-</li>
+  - Go to the [Facebook Access Token Debugger](https://developers.facebook.com/tools/debug/accesstoken/) and log in to your Facebook account.
 
 - **Debug Your Current Token**
-
-<li>Paste your existing **User Access Token** into the input field and click the **Debug** button.
-
-</li>
+  - Paste your existing **User Access Token** into the input field and click the **Debug** button.
 
 ![access token debugger 1](/guide/public/images/facebook-feed/facebook-events-access-token/Access-Token-Debugger-1-1-scaled.webp)
 
 - **Extend the Token**
-
-<li>On the results page, scroll to the bottom and click the **Extend Access Token** button.
-
-</li>
+  - On the results page, scroll to the bottom and click the **Extend Access Token** button.
 
 ![access token debugger 2](/guide/public/images/facebook-feed/facebook-events-access-token/Access-Token-Debugger-2-1-scaled.webp)
 
 - **Copy the New Token**
-
-<li>A new, long-lived token will be generated. Copy this new token to use in WP Social Ninja.
-
-</li>
+  - A new, long-lived token will be generated. Copy this new token to use in WP Social Ninja.
 
 ![access token debugger 3](/guide/public/images/facebook-feed/facebook-events-access-token/Access-Token-Debugger-3-1-scaled.webp)
 

@@ -41,4 +41,4 @@ You’ll see a dropdown menu, allowing you to choose your preferred image resolu
 
 ![](/guide/public/images/global-settings/advanced-settings-social-feeds-wp-social-ninja/Social-Review-2-scaled.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our&nbsp;[@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&amp;utm_medium=home&amp;utm_campaign=site#/).&nbsp;
+If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).

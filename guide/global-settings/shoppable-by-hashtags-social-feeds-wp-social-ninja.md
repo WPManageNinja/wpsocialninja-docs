@@ -3,7 +3,9 @@ title: "Shoppable by Hashtags"
 description: ""
 ---
 
-# Shoppable by Hashtags **WP Social Ninja**&nbsp;can find every Instagram photo (using a hashtag, for instance,&nbsp;**#amazing**) with the **Shoppable by Hashtags** &amp; automatically link to the dedicated product page.
+# Shoppable by Hashtags
+
+**WP Social Ninja** can find every Instagram photo (using a hashtag, for instance, **#amazing**) with the **Shoppable by Hashtags** & automatically link to the dedicated product page.
 
 If you have common Hashtags, you can add them globally through this feature. Furthermore, these common hashtags will apply to all the existing and new feeds.
 
@@ -17,27 +19,27 @@ Let's follow the simple article to learn how to use hashtags for your Instagram 
 
 _Shoppable by Hashtags_
 
-- After clicking the button, a new page will appear with a field to enter** hashtags** as well as the Source, Link, and Button Text.
+- After clicking the button, a new page will appear with a field to enter **hashtags** as well as the Source, Link, and Button Text.
 
 - When you use hashtags that are also found in other posts, it will automatically promote those posts.
 
 You can use Separate multiple hashtags using commas. For example: #hashtag1,#hashtag2.
 
-- You can select your desired** source** from the dropdown in the** Select Source** field based on your needs.
+- You can select your desired **source** from the dropdown in the **Select Source** field based on your needs.
 
-- Your relevant products/pages/posts/landing pages will show up in the dropdown in the** Link To** area based on your** chosen source**, and you can select your preferred option from there.
+- Your relevant products/pages/posts/landing pages will show up in the dropdown in the **Link To** area based on your **chosen source**, and you can select your preferred option from there.
 
 ![Add Shoppable Hashtag](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/add-shoppable-hashtag.png)
 
 _Add Shoppable Hashtag_
 
-- Click on the** Save Settings** button when you are done!
+- Click on the **Save Settings** button when you are done!
 
 - The list of your added hashtags will appear in the center of the page.
 
 - Additionally, you can delete (by clicking on the Delete button) or Edit hashtags to match your requirements.
 
-To know more about **Instagram Shoppable Feed**, go**[here](../instagram-feed/instagram-shoppable-feed)**.
+To know more about **Instagram Shoppable Feed**, go **[here](../instagram-feed/instagram-shoppable-feed)**.
 
 - Let's see the below screenshot to learn how it works -
 

@@ -11,6 +11,6 @@ WP Social Ninja offers a Manual Syncing option that allows you to update the **S
 
 _Manual Auto Syncing_
 
-Here, we have usedthe **Airbnb platform. **However, the rest of the platforms have the same **Manual Syncing** option.
+Here, we have used the **Airbnb platform.** However, the rest of the platforms have the same **Manual Syncing** option.
 
 It’s as simple as that!

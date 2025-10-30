@@ -78,7 +78,7 @@ define( 'AUTH_SALT',        'xxxxx' );
 
 define( 'SECURE_AUTH_SALT', 'xxxxx' );
 
-define( 'LOGGED_IN_SALT',   'xxxxx' );`</pre>
+define( 'LOGGED_IN_SALT',   'xxxxx' );`
 
 #### **2. Add WP Social Ninja Keys**
 
@@ -86,7 +86,7 @@ Right** below this section**, add two new lines with your own unique keys:
 
 `define('WPSR_ENCRYPTION_KEY',  '***Paste_generated_key_here***');
 
-define('WPSR_ENCRYPTION_SALT', '***Paste_generated_key_here***');`</pre>
+define('WPSR_ENCRYPTION_SALT', '***Paste_generated_key_here***');`
 
 **Important:**
 

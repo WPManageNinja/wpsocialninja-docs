@@ -67,7 +67,7 @@ add_filter('wpsocialreviews/booking_header_request_cookie_set', function($header
 
     return $headers;
 
-});`</pre>
+});`
 
 - Replace <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-kb-palette-1-color">Cookie value goes here </mark>with the **AWS-WAF-Token** value you copied earlier.
 

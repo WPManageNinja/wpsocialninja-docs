@@ -19,11 +19,11 @@ Both methods share the same basic setup: you’ll create a form, integrate it, d
 
 Here’s why Fluent Forms + WP Social Ninja is better than the default WooCommerce setup:
 
-- Add** custom fields** like review title, product photo, or ratings.
+- Add **custom fields** like review title, product photo, or ratings.
 
-- Collect reviews** beyond WooCommerce products**, e.g., for services, memberships, or courses.
+- Collect reviews **beyond WooCommerce products**, e.g., for services, memberships, or courses.
 
-- Customize how the**“Write a Review” button** looks and works.
+- Customize how the **"Write a Review" button** looks and works.
 
 - Display reviews beautifully inside **WP Social Ninja templates**.
 
@@ -39,19 +39,12 @@ First, you need a form where users can submit their reviews.
 
 - Add the fields you want for reviews. For example:
 
-<li>**Name** → Who is leaving the review.
-
-- **Email** → Optional but useful for verification.
-
-- **Review Title** → A short headline for the review.
-
-- **Review Text** → The main review content.
-
-- **Hidden Field →**  Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
-
-- **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
-
-</li>
+  - **Name** → Who is leaving the review.
+  - **Email** → Optional but useful for verification.
+  - **Review Title** → A short headline for the review.
+  - **Review Text** → The main review content.
+  - **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
+  - **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
 
 - Save the form.
 
@@ -61,7 +54,7 @@ First, you need a form where users can submit their reviews.
 
 Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates.
 
-- Go to **Flunet Forms → Forms → Settings &amp; Integrations**.
+- Go to **Fluent Forms → Forms → Settings & Integrations**.
 
 - Click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
 
@@ -81,23 +74,15 @@ Now you’ll design how the reviews will appear on your site.
 
 - Under **Source → Platforms**, choose where the reviews come from:
 
-<li>**WooCommerce** → Reviews tied to your products.
-
-</li>
+  - **WooCommerce** → Reviews tied to your products.
 
 - Scroll to the **Header section**:
 
-<li>Toggle **Display Header ON**.
-
-- Pick a **Header Template** (Template 1 or Template 2).
-
-- Enable **Write a Review**.
-
-- Under **Button Source Type**, select **Fluent Form Shortcode ID**.
-
-- Paste the **Form ID** from your Fluent Form.
-
-</li>
+  - Toggle **Display Header ON**.
+  - Pick a **Header Template** (Template 1 or Template 2).
+  - Enable **Write a Review**.
+  - Under **Button Source Type**, select **Fluent Form Shortcode ID**.
+  - Paste the **Form ID** from your Fluent Form.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
@@ -128,7 +113,7 @@ Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settin
 **Note:** These settings only affect products that are connected to a WooCommerce Review Template in WP Social Ninja.
 To learn more, follow this documentation.
 
-#### **WooCommerce **Product Specific Settings 
+#### WooCommerce Product Specific Settings 
 
 - Go to **Products → Edit Product** in WooCommerce.
 
@@ -152,13 +137,13 @@ If you’re not using WooCommerce, or if you want reviews on pages like “Case 
 
 - Place it anywhere with the shortcode:
 
-` &#91;wp_social_ninja id="TEMPLATE_ID" platform="reviews"]`</pre>
+`[wp_social_ninja id="TEMPLATE_ID" platform="reviews"]`
 
 - Publish the page or post.
 
 Visitors will now see the reviews section along with a **Write a Review** button. When clicked, your Fluent Form opens, and their submission is stored and displayed in the template.
 
-Example: You run an** online coaching program**. On your “Student Testimonials” page, you add the shortcode for your custom review template. Students can click **Write a Review**, leave their feedback, and their testimonial appears directly on the page.
+Example: You run an **online coaching program**. On your "Student Testimonials" page, you add the shortcode for your custom review template. Students can click **Write a Review**, leave their feedback, and their testimonial appears directly on the page.
 
 ### **Final Thoughts**
 

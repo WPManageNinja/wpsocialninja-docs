@@ -168,7 +168,7 @@ add_filter('wpsocialreviews/airbnb_rooms_business_info_api_secret_key', function
 // for experiences or services 
 add_filter('wpsocialreviews/airbnb_experiences_api_secret_key', function(){
     return 'bc.....';
-});`</pre>
+});`
 
 ::: tip **Important: First Three Keys Are Required**
 

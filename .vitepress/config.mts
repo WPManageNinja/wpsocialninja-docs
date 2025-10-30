@@ -17,7 +17,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/guide/' },
-      { text: 'WordPress.org', link: 'https://wordpress.org/plugins/wp-social-ninja-pro/' }
     ],
 
     sidebar: [
@@ -327,9 +326,6 @@ export default defineConfig({
       }
 ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/WPManageNinja/wp-social-ninja' }
-    ],
 
     search: {
       provider: 'local'

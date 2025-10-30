@@ -17,7 +17,7 @@ Let's look at how you can style your feed template in a matter of seconds by rea
 
 - In this part, there are five style sections; **Header, Name, Meta, Content, **and** Action.**
 
-![Enable website styling Option](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Twitter-Template-2-1.png)
+![Enable website styling Option](/guide/public/images/design/website-styling-for-feeds-and-reviews/enable-website-styling-option.png)
 
 _Enabling Style Feature_
 
@@ -61,15 +61,15 @@ WP Social Ninja has upgraded the website styling functionality and adapted the l
 
 - Simply click on the Device icon, and each of the devices will allow you to adjust your template style.
 
-![Website styling desktop view](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Twitter-Template-12-1.png)
+![Website styling desktop view](/guide/public/images/design/website-styling-for-feeds-and-reviews/website-styling-desktop-view.png)
 
 _Desktop View_
 
-![Website styling tablet View](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Twitter-Template-11-1.png)
+![Website styling tablet View](/guide/public/images/design/website-styling-for-feeds-and-reviews/website-styling-tablet-view.png)
 
 _Tablet View_
 
-![Mobile View](/guide/public/images/design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Twitter-Template-13-1.png)
+![Mobile View](/guide/public/images/design/website-styling-for-feeds-and-reviews/mobile-view.png)
 
 _Mobile View_
 

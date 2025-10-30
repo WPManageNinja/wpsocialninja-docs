@@ -15,7 +15,7 @@ _Twitter feed settings with WP Social Ninja_
 
 This feature has various options to filter specific tweets according to your requirements. Enter the** Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order **option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular &amp; Random. Next is** Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the** Hide posts containing these words or hashtags**, you can hide posts in the same way.&nbsp;The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
 
-![Twitter Filters](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/WP-Social-Ninja-Edit-Twitter-Template-15-1.png)
+![Twitter Filters](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/twitter-filters.png)
 
 _Twitter Filters_
 
@@ -155,7 +155,7 @@ _Display GIFs On Tweet_
 
 _Display Photos &amp; Videos in Popup_
 
-![Front End | Display Photos &amp; Videos in Popup](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/Twitter-display-photos-videos-popup-1024x536.png)
+![Front End | Display Photos &amp; Videos in Popup](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-photos-amp-videos-in-popup.png)
 
 _Front End | Display Photos &amp; Videos in Popup_
 
@@ -165,13 +165,13 @@ This is how the Front End will look when the lightbox pops up for Display Photos
 
 The next setting is the **Display Twitter Summary Card**. Scroll down and turn on the Display Twitter Summary Card button.
 
-![Display Twitter Summary Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/google-image-1.png)
+![Display Twitter Summary Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/display-twitter-summary-card.png)
 
 _Display Twitter Summary Card_
 
 Here, by turning on the button, you will be able to enable all the Twitter Cards on your website.&nbsp;
 
-![Front End | Display Twitter Summary Button with Twitter feed settings](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/google-image-2.png)
+![Front End | Display Twitter Summary Button with Twitter feed settings](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-twitter-summary-button-with-twit.png)
 
 _Front End | Display Twitter Summary Button_
 
@@ -181,13 +181,13 @@ Now, if you preview the page, you can see in the screenshot Twitter Summary Card
 
 Now let’s look at how you can use a **Display Twitter Player Card. **In this part, you can control your Twitter Player Card.
 
-![Display Twitter Player Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/google-image-3.png)
+![Display Twitter Player Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/display-twitter-player-card.png)
 
 _Display Twitter Player Card_
 
 If you keep the button turned on, Twitter Player Card will be displayed on your website.&nbsp;
 
-![Front End | Display Twitter Player Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/google-image-4.png)
+![Front End | Display Twitter Player Card](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-twitter-player-card.png)
 
 _Front End | Display Twitter Player Card_
 
@@ -199,7 +199,7 @@ _Display Twitter Player card_
 
 In that case, videos will pop up in the Front End.
 
-![](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/google-image-5.png)
+![](/guide/public/images/twitter-feed/twitter-settings-twitter-feeds-wp-social-ninja/Pefm4-6xUFceHb0fCPndT1LwRBFvUs35Qf6Sge7EuSJEQBFGppdxxqCGQWn0gsdVslySC8rJ-ZVF-RNW842qTeZYFgamyTw68z5FrvmrFK8XBXE7M4WFB5n7dKUjBlxmqG1fC_g8.png)
 
 _Front End | Display Twitter Player card_
 

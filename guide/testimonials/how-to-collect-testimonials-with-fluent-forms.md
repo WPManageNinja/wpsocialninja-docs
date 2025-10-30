@@ -77,7 +77,7 @@ Here is a breakdown of the fields you need to configure:
 
 After mapping the fields, click the **Save Feed** button. Your integration is now active and will appear in the list, where you can edit or delete it later.
 
-![add new wp social ninja integration feed fluent forms 04](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/Add-New-WP-Social-Ninja-Integration-Feed-Fluent-Forms-04-scaled.webp)
+![add new wp social ninja integration feed fluent forms 04](/guide/public/images/testimonials/how-to-collect-testimonials-with-fluent-forms/add-new-wp-social-ninja-integration-feed-fluent-fo.webp)
 
 _WP Social Ninja Integration Feed_
 

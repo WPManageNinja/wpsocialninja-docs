@@ -17,7 +17,7 @@ Let's see how to do that.
 
 Go to the **WP Social Ninja** dashboard. Click on the **Reviews** option from the top menu bar. Next, to add custom reviews, click on the **Add Custom Review** button in the top right corner of the page.
 
-![access review](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/access-review-1-scaled-1.webp)
+![access review](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/access-review-1-scaled.webp)
 
 _All Reviews_
 
@@ -43,7 +43,7 @@ After clicking the **Add Custom Review** button, a pop-up form will appear where
 
 Once you have filled out all the necessary fields, click the **Save Review** button to add it to your collection.
 
-![add custom review 02](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/add-custom-review-02-1-1.webp)
+![add custom review 02](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/add-custom-review-02-1.webp)
 
 _Add Custom Review_
 
@@ -51,7 +51,7 @@ _Add Custom Review_
 
 You can filter your custom reviews by the category you created. In the template editor, open the **Filters** section. Scroll down to the **Filter by Category** option and select the specific category you wish to display.
 
-![filter by category 03](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/filter-by-category-03-1-scaled-1.webp)
+![filter by category 03](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/filter-by-category-03-1-scaled.webp)
 
 _Custom Review Form_
 
@@ -59,13 +59,13 @@ _Custom Review Form_
 
 Now that your custom review is saved, you need to create a template to display it on your site. Go to the **Templates** tab from the main dashboard. Click the **Add New Template** button and select **Add Reviews Template** from the dropdown options.
 
-![add reviews template ](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/add-reviews-template-04-scaled-1.webp)
+![add reviews template ](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/add-reviews-template-04-scaled.webp)
 
 _Add Reviews Template_
 
 In the template editor, go to the **Source** section on the right-hand side. Click on the **Platforms** dropdown menu and select the **Custom** option. This will load the custom reviews you have created.
 
-![platform 05](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/platform-05-1024x370-1.webp)
+![platform 05](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/platform-05-1024x370.webp)
 
 _Custom Review Template_
 

@@ -37,19 +37,19 @@ To obtain a Channel ID, you first need to visit YouTube.com and select any Chann
 
 Here, I will explain how you can obtain a Channel ID from your Channel. To start off, go to your Channel and then click on **Settings**.
 
-![youtube channel id settings](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-1.png)
+![youtube channel id settings](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id-settings.png)
 
 _Channel ID | Settings_
 
 Next, from Settings, you will find **View Advanced Settings**. Click to require the Channel ID.
 
-![Obtaining Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-2.png)
+![Obtaining Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/obtaining-channel-id.png)
 
 _Obtaining Channel ID_
 
 Copy and Paste it to insert on the Channel ID and click on the **Fetch Videos** to fetch the **Channel Videos**.
 
-![youtube channel id](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-5.png)
+![youtube channel id](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id.png)
 
 _Channel ID_
 
@@ -59,7 +59,7 @@ Once you are done, click on the **Save Template** button.
 
 For demonstration purposes, I will go with **WP Manage Ninja**. To understand more, see the screenshots below-
 
-![Obtaining Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-4.png)
+![Obtaining Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/obtaining-channel-id-2.png)
 
 _Obtaining Channel ID_
 
@@ -67,7 +67,7 @@ As you can see the URL, copy the selected **URL**, and paste it to insert the Ch
 
 Note that, you are to select the URL after the **channel/** and the ID will look like “**UCiyeXfnGx9e06hXWf0Hz7ow”.**
 
-![Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-5.png)
+![Channel ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id.png)
 
 _Channel ID_
 
@@ -81,13 +81,13 @@ Similar to **Channel ID**, to fetch the **Playlist,** you need the **Playlist ID
 
 To add **Playlist ID** from your Channel, click on your Channel and then click on the **YouTube Studio.**
 
-![youtube studio](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-6.png)
+![youtube studio](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-studio.png)
 
 _YouTube Studio_
 
 This will take you to the** Channel Dashboard. **From the left side, click on the** Playlists **to collect the** URL.**
 
-![youtube playlist url](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-7.png)
+![youtube playlist url](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-playlist-url.png)
 
 _Playlist URL_
 
@@ -95,7 +95,7 @@ Now copy the selected** URL **and insert it on the** Playlist ID. **Next, click 
 
 Make sure you select the URL after the **list=** and the ID will look like “**PLXpD0vT4thWEu4gAkLE0Eq7PRCFp_8j2z”.**
 
-![](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-8.png)
+![](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/image-7.png)
 
 _Playlist ID_
 
@@ -105,13 +105,13 @@ After you have completed it, don't forget to click on the** Save Template **butt
 
 Go to the YouTube channel and click on the **Playlists** to obtain the **Playlist ID**.
 
-![youtube playlists](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-9.png)
+![youtube playlists](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-playlists.png)
 
 _Playlists_
 
 This will take you straight to the **WPManageNinja Channel Playlists**. Next, click the Playlist that you want to display on your website.
 
-![Playlist URL](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-10.png)
+![Playlist URL](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/playlist-url.png)
 
 _Playlist URL_
 
@@ -119,7 +119,7 @@ In the screenshot, you can see the URL. Now copy the selected **URL** and insert
 
 Remember, select the URL after the **list=** and the ID will look like “**PLXpD0vT4thWF0mLcvKKSbt281wt1bMcfP”.**
 
-![Playlist ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-11.png)
+![Playlist ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/playlist-id.png)
 
 _Playlist ID_
 
@@ -147,7 +147,7 @@ However, you can also add multiple videos to your Feed. To do that, add more vid
 
 For demonstration purposes, we will go with a single **Video ID**.
 
-![Obtain Video ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-12.png)
+![Obtain Video ID](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/obtain-video-id.png)
 
 _Obtain Video ID_
 
@@ -167,7 +167,7 @@ Our last **Feed type** is **Live Streams**. To fetch Live Streams feed on your w
 
 To fetch **Live Videos Event Type** on your Feed, you need the Channel ID. For example, if you select **Completed, **you will need the** Channel ID **to fetch the videos. Previously we have already discussed how to integrate the Channel ID.
 
-![youtube live streams](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/google-image-13.png)
+![youtube live streams](/guide/public/images/youtube-feed/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-live-streams.png)
 
 _Live Streams_
 

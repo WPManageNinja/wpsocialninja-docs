@@ -125,13 +125,13 @@ _Create Credentials_
 
 Once you are done with the project, click the **Create Credentials** button to create API Key.
 
-![API Key](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-1.png)
+![API Key](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/api-key.png)
 
 _API Key_
 
 Next, click on the API Key button.
 
-![API Key YouTube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-2.png)
+![API Key YouTube configuration](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/api-key-youtube-configuration.png)
 
 _**API Key created**_
 
@@ -147,7 +147,7 @@ _API credentials_
 
 From the **API Library** scroll down and select the **YouTube Data API v3**.
 
-![YouTube Data API v3](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/google-image-3.png)
+![YouTube Data API v3](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube-data-api-v3.png)
 
 _**YouTube Data API v3**_
 

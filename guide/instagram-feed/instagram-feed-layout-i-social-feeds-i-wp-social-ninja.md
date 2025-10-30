@@ -25,13 +25,13 @@ In this section, we have three types of Feeds; **Account**, **Hashtag**, and **T
 
 Here, for demonstration purposes, we will go with **Account Feed Type**.
 
-![Instagram feed layout user account](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-1.png)
+![Instagram feed layout user account](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-user-account.png)
 
 _Account Feed Type_
 
 After you select the Account feed type, you need to select a **User Account**. Once you select the User Account **WPManageNinja, **click on the** Fetch Feeds **button**.**
 
-![select a user account Instagram feed type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-2.png)
+![select a user account Instagram feed type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/select-a-user-account-instagram-feed-type.png)
 
 _Select a User Account_
 
@@ -45,7 +45,7 @@ All the Instagram feeds will appear automatically on your website.
 
 You can see the **Template **option on the right side of the settings panel. Click on the **Template **button, and a drop-down menu will appear.
 
-![Instagram feed layout template type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-3.png)
+![Instagram feed layout template type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-template-type.png)
 
 _Layout Type_
 
@@ -55,7 +55,7 @@ At the moment we have three Layout Types available; Grid, Carousel, and **Masonr
 **However, to get Carousel and Masonry you need to upgrade to the Premium version.**
 :::
 
-![Instagram feed layout type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-4.png)
+![Instagram feed layout type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-type.png)
 
 _Grid | Layout Type_
 
@@ -65,7 +65,7 @@ Select any Layout Type for your website!
 
 Remember, if you select **Carousel Layout Type,** a new setting will come up.
 
-![Instagram feed layout Carousel settings](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-5.png)
+![Instagram feed layout Carousel settings](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-carousel-settings.png)
 
 At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides to show**, **Slides to scroll, **and **Navigation**.
 
@@ -73,7 +73,7 @@ At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay 
 
 In this section, you can control your **Autoplay** for Instagram Posts.
 
-![Instagram feed layout autoPlay](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-6.png)
+![Instagram feed layout autoPlay](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-autoplay.png)
 
 _Autoplay for Instagram Posts_
 
@@ -83,7 +83,7 @@ Turn off the button if you want to stop the Autoplay.
 
 Next is** Autoplay Speed. **You can adjust your autoplay speed limit.
 
-![Instagram feed layout AutoPlay speed](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-7.png)
+![Instagram feed layout AutoPlay speed](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-autoplay-speed.png)
 
 _Autoplay Speed_
 
@@ -93,7 +93,7 @@ Click on the plus sign to increase the speed limit. And to decrease the speed li
 
 Here you can adjust the number of slides that will be displayed on your website.
 
-![Slides to show](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-8.png)
+![Slides to show](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/slides-to-show.png)
 
 _Slides to show_
 
@@ -103,7 +103,7 @@ We have selected 3 **Slides to show,** so 3 slides are displayed. You can increa
 
 After Slides to show, you can edit your** Slides to Scroll **button.
 
-![Slides to scroll](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-9.png)
+![Slides to scroll](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/slides-to-scroll.png)
 
 _Slides to scroll_
 
@@ -113,7 +113,7 @@ From the settings panel, you can adjust the number of slides that will be displa
 
 In this Navigation section, we have four options; Arrows and Dots, Arrows, Dots and None.
 
-![Instagram feed layout Navigation](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-10.png)
+![Instagram feed layout Navigation](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-navigation.png)
 
 _Navigation_
 
@@ -123,13 +123,13 @@ You can see both Arrows and Dots in this screenshot as we have selected this. Yo
 
 Next, we have Template Types. **Select a Template** from the settings panel.
 
-![template 1 Instagram feed layout](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-11.png)
+![template 1 Instagram feed layout](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/template-1-instagram-feed-layout.png)
 
 _Select a Template 1_
 
 If you select **Template 1,** all the captions and hashtags will appear in front of the post.
 
-![template 2 Instagram feed layout](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-12.png)
+![template 2 Instagram feed layout](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/template-2-instagram-feed-layout.png)
 
 _Select a Template 2_
 
@@ -139,7 +139,7 @@ However, if you select **Template 2,** the caption and hashtag will display belo
 
 You can change the **Number of Columns** on your website.
 
-![Number of Columns](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-13.png)
+![Number of Columns](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/number-of-columns.png)
 
 _Number of Columns_
 
@@ -149,7 +149,7 @@ Here, you can select the columns of your website that you want to display. Right
 
 Next is **Columns Gap**. We have six types of Columns Gap available right now; **Default**,** No Gap**, **Narrow**, **Small**, **Wide,** and **Wider**.
 
-![Columns Gap](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/google-image-14.png)
+![Columns Gap](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/columns-gap.png)
 
 _Columns Gap_
 

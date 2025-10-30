@@ -77,7 +77,7 @@ These settings allow you to control how reviews are collected and displayed acro
 
 After configuring these options, always click the **Save Settings** button to apply your changes.
 
-![wp social ninja woocommerce settings](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/WP-Social-Ninja-WooCommerce-Settings-scaled.webp)
+![wp social ninja woocommerce settings](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/wp-social-ninja-woocommerce-settings.webp)
 
 ## Enabling Template from WooCommerce product
 
@@ -95,7 +95,7 @@ These settings on the WooCommerce product page let you control how reviews are d
 
 **Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings or use the default WooCommerce form.
 
-![social ninja review settings in woocommerce products](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/Social-Ninja-Review-settings-in-woocommerce-products.webp)
+![social ninja review settings in woocommerce products](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/social-ninja-review-settings-in-woocommerce-produc.webp)
 
 ## Reviews Notification Popup
 

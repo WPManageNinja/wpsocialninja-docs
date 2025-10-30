@@ -25,7 +25,7 @@ In the configuration part, if you want to work on only your Facebook feed, selec
 
 - For beginning the Manual process, select the **Manually Connect a Page.**
 
-![Connecting a Facebook page using access token- Choose the Credential type](https://lh3.googleusercontent.com/NgoFbJd3zM39xF6aOpFE5FofBcCxrXoLYlQm45b8K8TdDKRVExDhlBGy3nc_X5VIx8-9MBPp-uEAIGvpDxXzh7tEPHYQxobRIcJXTq_ja3YWFSIOT6wNZrLnzJ4TiKzsIJehStp3fNpSqm2LGJtYXHVzq-G_gDwFSBClwf2PljA6QhTpR0ABG0hlV0imKQ)
+![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/facebook-feed/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--cho.png)
 
 _Choose the Credential Type_
 
@@ -33,23 +33,23 @@ _Choose the Credential Type_
 
 - For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed.
 
-![Facebook Feed Access token generator](https://lh3.googleusercontent.com/pNTWo9A2RqGsSiyR2vpEWyDvcH7IKuvBGWZtRVDTD1_Tm0XXDol76hvTYDgEC1PmyyKX8zTsuCyG9T9c_VLnRLsSATsPSEcxt13xGtSe4jZCMeM3EVsa0edk9j9_DYkmgtwRoUT43J92_uCx6QvA-ASnIg9kPnqmLWRLOKBqy5d0_RKZxH6tLRwnqKyATQ)
+![Facebook Feed Access token generator](/guide/public/images/facebook-feed/facebook-feed-access-token/facebook-feed-access-token-generator.png)
 
 _Facebook Feed Access token generator_
 
 - This will take you to the page where you can get the access code. Copy the code.
 
-![Get Page ID &amp; Access Token](https://lh6.googleusercontent.com/GENXaLsNuZLTnIYvgv-Q9AagCKQHKwKRIfjuDuDFt2Rh3tDd2fkcDPbCqdDmqIj2P7ewBxDFS2F35OKBVGMp7eZqsMC77J5vTuDPFa48M5X_8LXsKdUPbsYjvAuRwqAq_OMjwnZZZKDZLl1ac5vp8L8Ez5QBtJ7jQx2G-o7uBPT0anhJ0B0lRo1sZUHFdQ)
+![Get Page ID &amp; Access Token](/guide/public/images/facebook-feed/facebook-feed-access-token/get-page-id-amp-access-token.png)
 
 _Get Page ID &amp; Access Token_
 
 - Lastly, paste the code in the **Access Token **box and finally complete the configuration done with clicking the button **Connect.**
 
-![Enter the Facebook Access token code &amp; Connect](https://lh3.googleusercontent.com/17BYBcRCYsWDbOYLoe-3tWs69W_LaibkABh58GJAntf6Pn7GXoy7Kdtt1zUSN6C95Ts397BMRlMrV1rnZR7Od-dD8pi97vkKIAzj4s6M3_pYEwfFec9nqIaWfNYvlXMVMqtVVs3oqytcDJy-c1ytJeXeYfoXPM_2dWxysgYiVjc8deC2a7WZMHQUmtuvaw)
+![Enter the Facebook Access token code &amp; Connect](/guide/public/images/facebook-feed/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
 
 _Enter the Facebook Access token code &amp; Connect_
 
-![Connecting a Facebook page using access token- Facebook page successfully connected](https://lh3.googleusercontent.com/pLBagd5tXJ2TlKXyjFLmCwUQHCnQW0MIv_wkhsw74ZVyc79fEiLj7ndtuuT5_WNDoRd8qjbOImDgHb3lsjrV9VjKyIvajOg14DADGuBm8Rnmgwa-cX2tLBuNBI302bEe-xs-ivS-urrEa5BZHfgAHAjswj7F4-ybkL3NQe0D0F8NWOWftOnk-dQS5hr27Q)
+![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/facebook-feed/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--fac.png)
 
 _Facebook page successfully connected_
 

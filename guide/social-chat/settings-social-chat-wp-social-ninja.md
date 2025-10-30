@@ -103,7 +103,7 @@ Here you can also set the time when your team will not be available
 
 Moreover, you have an amazing caption-text option. So you can type your own text on the **Caption Text When Offline** box.
 
-![](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/google-image-1.png)
+![](/guide/public/images/social-chat/settings-social-chat-wp-social-ninja/image-1.png)
 
 _Caption Text When Offline_
 

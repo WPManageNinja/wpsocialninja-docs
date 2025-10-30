@@ -27,7 +27,7 @@ _How to upgrade to pro_
 
 - Type **WP Social Ninja** on the search box, click on **Install Now **button, and then **Activate**
 
-![Installing and Activating WP Social Ninja](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/Jtr70AZ_iOiwIK4EZlDW9VqSjTgG54eLvDMF_P2dspe76_lVkjOxC7dLEyJVwizGolY-Z9umJpSFXylKnW7o4DApLq-1m8cJQZv0EawR9FUmLoPzr6tNKxeCc937QXTMdxh0cFs1.png)
+![Installing and Activating WP Social Ninja](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/installing-and-activating-wp-social-ninja.png)
 
 _Installing and Activating WP Social Ninja_
 
@@ -43,13 +43,13 @@ _Alternative Method_
 
 After a successful purchase, you can download the **Pro Version** from your **WPManageNinja **Account.
 
-![Activate license](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/0uAeJZamG50578jY65Wpr37oW2CHkv8jHEcWPZgS6mT5RWv3XJxGxQLUTIlTjj40TQLeTct9hkpubaVu4yh6DGOmmvn2RlykbUOiti1a7vAi4TvyVAkLtpzrg335Tc0ZufcBhwvB.png)
+![Activate license](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/activate-license.png)
 
 _WPManageNinja Account_
 
 - Go to the My Account page**, Download the file → Upload it to your site → Install → Activate** the plugin. Super easy!
 
-![Upload Plugin](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/UsJQUjxAN1a4a9eTyP4b4V6ex3BsA158oBwkX1kSkjBlzgzZ1QsGQBKFnFoFllAdDBOGZUuqWmmt8WsTPgmh0A60aMXOahrBu41qi9LuKG-uQ1GXn90jM6NzWOsaZFXrUJ5hYLp2.png)
+![Upload Plugin](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/upload-plugin.png)
 
 _Upload Plugin_
 
@@ -69,7 +69,7 @@ WP Social Ninja Pro comes with a licensing option to activate your license. Foll
 
 - Once you add the key, just click the **Verify License** button. Now you have successfully activated your license!
 
-![](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/WP-Social-Ninja-License-Management-1-1.png)
+![](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/WP-Social-Ninja-License-Management-1.png)
 
 _License Settings_
 
@@ -81,13 +81,13 @@ WP Social Ninja Pro comes with a licensing option to renew your license. Follow 
 
 - Then you’ll see the ‘**Renewing a license key?**’ link on the checkout cart, and click on that.
 
-![Your Checkout Cart](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/ioII4GhGSF3dK4h-LfXDR2OVbt-L6KjuOUijyP8lzjn_BwQ2wm7ho13NivZfN50bolGr1ETAjRg1t3xQjw-_ccTzkY0taLvtYaeRso8xzz90FzNSQjTJihXlosMSEsNqq0HHf2tz.png)
+![Your Checkout Cart](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/your-checkout-cart.png)
 
 _Your Checkout Cart_
 
 - After entering the license key, click the **Apply License Renewal** button
 
-![License Renewing](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/5cprL_uSqJYjyD0km6aS0hKMrlmbeZD7Tx0zP2-TWInKSPwEituEAM7OU4RCO4MAKaEiVjCF_NtZxv2hKkuCJpKCFBniulCxAMoBxgFulCVN6Byp6x2LjZ36YHGxn_79x-hsHvaa.png)
+![License Renewing](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/license-renewing.png)
 
 _License Renewing_
 

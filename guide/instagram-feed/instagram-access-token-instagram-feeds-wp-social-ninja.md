@@ -15,7 +15,7 @@ To add Instagram Feed to your website you need to retrieve the access token. To 
 
 Visit **develelopers.facebook.com** to create an App. Navigate to **developers.facebook.com**
 
-![Instagram access token | developers.facebook.com](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-1.png)
+![Instagram access token | developers.facebook.com](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/instagram-access-token-developersfacebookcom.png)
 
 _developers.facebook.com_
 
@@ -23,7 +23,7 @@ _developers.facebook.com_
 
 Then, click on **My Apps** to go further.
 
-![create app for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-2.png)
+![create app for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/create-app-for-instagram-access-token.png)
 
 _Create App_
 
@@ -31,7 +31,7 @@ _Create App_
 
 A popup button will appear. Next, select **Something Else** and then click on the **Continue** button.
 
-![continue to create Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-3.png)
+![continue to create Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/continue-to-create-instagram-access-token.png)
 
 _Continue Button_
 
@@ -39,7 +39,7 @@ _Continue Button_
 
 To create the App provide your **App Display Name**.
 
-![app display name Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-4.png)
+![app display name Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/app-display-name-instagram-access-token.png)
 
 _App Display Name_
 
@@ -49,7 +49,7 @@ Now select the **Create App** button to continue.
 
 Before you set up the** Instagram Basic Display**, click on the **Settings** from the left side and then select **Basic**.
 
-![Settings](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-5.png)
+![Settings](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/settings.png)
 
 _Settings_
 
@@ -57,13 +57,13 @@ _Settings_
 
 Next, scroll down and click on the **Add Platform** button.
 
-![add platforms Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-6.png)
+![add platforms Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/add-platforms-instagram-access-token.png)
 
 _Add Platform button_
 
 Now select the** Website** to go to the next step.
 
-![website for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-7.png)
+![website for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/website-for-instagram-access-token.png)
 
 _Select Platform_
 
@@ -71,7 +71,7 @@ _Select Platform_
 
 Once you click on the Website, you will have to provide your **website URL**. For demonstration, we will provide our website URL. You can put any.
 
-![Website URL Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-8.png)
+![Website URL Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/website-url-instagram-access-token.png)
 
 Now, click on the **Save Changes** button to preserve your settings.
 
@@ -79,25 +79,25 @@ Now, click on the **Save Changes** button to preserve your settings.
 
 Next, click on the **Products** from the left sidebar.
 
-![products for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-9.png)
+![products for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/products-for-instagram-access-token.png)
 
 _Click on Products Option_
 
 From the Products, click on the **Instagram Basic Display Set Up** button.
 
-![Instagram basic display for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-10.png)
+![Instagram basic display for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/instagram-basic-display-for-instagram-access-token.png)
 
 _Instagram Basic Display_
 
 Scroll down and click on the **Create New App**.
 
-![create new app for Instagram](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-11.png)
+![create new app for Instagram](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/create-new-app-for-instagram.png)
 
 _Create New App_
 
 Next, put your Display Name. As we have already provided all the information you can see the Display Name is visible. Once you are done click on the **Create App** button.
 
-![Create App Button](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-12.png)
+![Create App Button](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/create-app-button.png)
 
 _Create App Button_
 
@@ -105,25 +105,25 @@ _Create App Button_
 
 Here, insert your website URL in the input fields. And click on the **Save Changes** button.
 
-![save changes for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-13.png)
+![save changes for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/save-changes-for-instagram-access-token.png)
 
 _Save Changes_
 
 To get Instagram Access Token, in the next step click on the **Add or Remove Instagram Testers.**
 
-![](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-14.png)
+![](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/image-14.png)
 
 _Add or Remove Instagram Testers_
 
 After that, hit on the **Add or Remove Instagram Testers**.
 
-![add Instagram testers for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-15.png)
+![add Instagram testers for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/add-instagram-testers-for-instagram-access-token.png)
 
 _Add Instagram Testers_
 
 A pop-up **Add Instagram Testers** will appear on your screen. Insert the username and click on the **Submit** button.
 
-![click submit for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-16.png)
+![click submit for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/click-submit-for-instagram-access-token.png)
 
 _Submit Button_
 
@@ -131,11 +131,11 @@ _Submit Button_
 
 Next, you need to manage your Instagram Tester Invitations from your profile's **Apps and Websites** section. In case you are logged out from your Instagram profile, please log in.
 
-![Apps and Websites for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-17.png)
+![Apps and Websites for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/apps-and-websites-for-instagram-access-token.png)
 
 This will take you to your Instagram profile **Settings →** **Apps and Websites →** **Tester Invites Section**. Now click on the **Accept** button to continue.
 
-![Apps &amp; Websites](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-18.png)
+![Apps &amp; Websites](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/apps-amp-websites.png)
 
 _Apps &amp; Websites_
 
@@ -143,31 +143,31 @@ _Apps &amp; Websites_
 
 To generate Instagram Access Token go back to **developers.facebook.com. **Now go to Dashboard and select **Products →** **Instagram Basic Display →** **Basic Display**.
 
-![basic display for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-19.png)
+![basic display for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/basic-display-for-instagram-access-token.png)
 
 _Basic Display_
 
 Next, scroll down and you will see the field **Generate Token**. Click on the **Generate Token** field to retrieve Instagram Access Token.&nbsp;
 
-![generate token for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-20.png)
+![generate token for Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/generate-token-for-instagram-access-token.png)
 
 _Generate Token_
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once you click on the Generate Token field, log in with your Instagram credentials.
 
-![log in to get Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-21.png)
+![log in to get Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/log-in-to-get-instagram-access-token.png)
 
 Click **Continue **to go to the next step.
 
-![](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-22.png)
+![](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/image-22.png)
 
 Next, to Access Instagram Token click on the **Authorize** button.
 
-![authorize Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-23.png)
+![authorize Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/authorize-instagram-access-token.png)
 
 Now tick on the** I understand **box. If you want to copy the **Access** **Token**, click on the Copy button and hit **Done**.
 
-![Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/google-image-24.png)
+![Instagram access token](/guide/public/images/instagram-feed/instagram-access-token-instagram-feeds-wp-social-ninja/instagram-access-token.png)
 
 And congratulations! You’ve got the **Instagram Access Token**.
 

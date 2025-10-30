@@ -29,7 +29,7 @@ You can use Separate multiple hashtags using commas. For example: #hashtag1,#has
 
 - Your relevant products/pages/posts/landing pages will show up in the dropdown in the** Link To **area based on your **chosen source**, and you can select your preferred option from there.
 
-![Add Shoppable Hashtag](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/WP-Social-Ninja-Shoppable-by-Hashtags-6-1.png)
+![Add Shoppable Hashtag](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/add-shoppable-hashtag.png)
 
 _Add Shoppable Hashtag_
 
@@ -43,7 +43,7 @@ To know more about **Instagram Shoppable Feed**, go **[here](../instagram-feed/i
 
 - Let's see the below screenshot to learn how it works -
 
-![Instagram Feed](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/WP-Social-Ninja-Edit-Instagram-Template-7-1.png)
+![Instagram Feed](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/instagram-feed.png)
 
 _Instagram Feed_
 
@@ -55,7 +55,7 @@ _Redirected Page_
 
 Because the **Hashtags **feature is applied **globally **in all WP Social Ninja Instagram templates, anyone who wants to remove these hashtags from a specific Instagram template can do so by turning off the** Include Shoppable by Hashtags** option.
 
-![Turn off Include Shoppable by Hashtags option](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/WP-Social-Ninja-Edit-Instagram-Template-9-1.png)
+![Turn off Include Shoppable by Hashtags option](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/turn-off-include-shoppable-by-hashtags-option.png)
 
 _Turn off Include Shoppable by Hashtags option_
 

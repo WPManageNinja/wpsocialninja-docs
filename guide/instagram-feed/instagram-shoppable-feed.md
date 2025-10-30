@@ -17,7 +17,7 @@ Let's dive into this article to learn how to utilize Instagram Shoppable Feed by
 
 - Additionally, by default, **Include Shoppable by Hashtag**s is Enabled.
 
-![Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-8-1.png)
+![Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/shoppable-feed.png)
 
 _Shoppable Feed_
 
@@ -29,7 +29,7 @@ _Shoppable Feed_
 
 - By clicking on the Delete button, you can also undo your activities.
 
-![Enable Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-10-1.png)
+![Enable Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/enable-shoppable-feed.png)
 
 _Enable Shoppable Feed_
 
@@ -55,13 +55,13 @@ To know more about **Shoppable by Hashtags**, follow this **[documentation](../g
 
 To display the Shoppable icon on top of each Post Image, enable the **Display Shoppable Icon** option.
 
-![Display Shoppable Icon](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-14-1-1.png)
+![Display Shoppable Icon](/guide/public/images/instagram-feed/instagram-shoppable-feed/display-shoppable-icon.png)
 
 _Display Shoppable Icon_
 
 - When clicking the **Add **button (on top of each image), a pop will appear where you can add Source, Link &amp; Button Text.
 
-![Add Promotional URL](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-11-1.png)
+![Add Promotional URL](/guide/public/images/instagram-feed/instagram-shoppable-feed/add-promotional-url.png)
 
 _Add Promotional URL_
 
@@ -69,7 +69,7 @@ _Add Promotional URL_
 
 If you have installed **WooCommerce** on your site, you will get an option to add **products **in the dropdown!
 
-![Select Source](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-12-1.png)
+![Select Source](/guide/public/images/instagram-feed/instagram-shoppable-feed/select-source.png)
 
 _Select Source_
 
@@ -81,7 +81,7 @@ _Select Source_
 
 - Let's see the below screenshot to learn how Shoppable Feed works-
 
-![Clickable Instagram Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/WP-Social-Ninja-Edit-Instagram-Template-13-1.png)
+![Clickable Instagram Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/clickable-instagram-shoppable-feed.png)
 
 _Clickable Instagram Shoppable Feed_
 

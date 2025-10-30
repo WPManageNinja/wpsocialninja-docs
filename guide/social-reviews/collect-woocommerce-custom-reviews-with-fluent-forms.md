@@ -69,7 +69,7 @@ Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews ca
 
 For a complete guide on Fluent Forms integration with WP Social Ninja, see this [documentation](./fluent-forms-review).
 
-![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Update-WP-Social-Ninja-Integration-Feed-Fluent-Forms-scaled.webp)
+![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/update-wp-social-ninja-integration-feed-fluent-for.webp)
 
 ## **Step 3: Create a Review Template in WP Social Ninja**
 

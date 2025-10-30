@@ -11,7 +11,7 @@ The Instagram feed has a user-friendly and diverse setting panel for the users. 
 
 Click on the **Filter **button and a drop-down menu will appear.
 
-![](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_filter-2.png)
+![](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_filter.png)
 
 The Filter has six sections to display your Instagram feeds; Number of Posts to Display, Posts Order, Types of Posts, Show posts containing these words or hashtags, Hide posts containing these words or hashtags and **Hide Specific Posts**.
 
@@ -19,7 +19,7 @@ The Filter has six sections to display your Instagram feeds; Number of Posts to 
 
 Here, you will be able to select the **Number of Posts to Display** on your website. Moreover, you can increase or decrease the Number of Posts.
 
-![Instagram settings number of posts to display](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-1.png)
+![Instagram settings number of posts to display](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-number-of-posts-to-display.png)
 
 _Number of Posts to Display_
 
@@ -33,7 +33,7 @@ Next is **Posts Order**. In this section, you can adjust your post order from th
 **Remember: Most Popular, Least Popular, and Random posts order are for Pro features.**
 :::
 
-![Posts order Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-2.png)
+![Posts order Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/posts-order-instagram-settings.png)
 
 We have selected the Ascending Posts Order. You may select any for your feed.&nbsp;
 
@@ -41,11 +41,11 @@ We have selected the Ascending Posts Order. You may select any for your feed.&nb
 
 After Posts Order you can set up your **Types of Posts**. Click on the drop-down menu and a few options will appear.
 
-![Types of posts Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-3.png)
+![Types of posts Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/types-of-posts-instagram-settings.png)
 
 At the moment we have **All Posts**, **Videos Only** and **Images Only**.
 
-![Instagram posts images only](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-4.png)
+![Instagram posts images only](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-posts-images-only.png)
 
 _Types of Posts_
 
@@ -53,13 +53,13 @@ We have selected Images Only and you can see all the images are displayed.
 
 Furthermore, Types of Posts have a show/hide button that contains **Searchterms** or **Hashtags**. So now you can display a post that has a specific word or hashtag.
 
-![Instagram settings search terms](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-5.png)
+![Instagram settings search terms](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-search-terms.png)
 
 _Search terms_
 
 In this screenshot, you can see the post contains the hashtag&nbsp; **#genesis**. Similarly, you can hide your posts with a specific search term or hashtags.
 
-![Hashtags](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-6.png)
+![Hashtags](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/hashtags.png)
 
 _Hashtags_
 
@@ -73,7 +73,7 @@ Don’t forget to show/hide posts you can use multiple search terms or hashtags 
 
 Once you are done with Filters the next setting is **Post**.
 
-![Instagram settings post](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-7.png)
+![Instagram settings post](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-post.png)
 
 Click on the drop-down menu to continue the editing. Here we can adjust five settings; **Open Post In**, **Display Caption**, **Trim Caption Words**, **Display Likes Count**, and **Display Comments Count**.
 
@@ -81,7 +81,7 @@ Click on the drop-down menu to continue the editing. Here we can adjust five set
 
 In this **Open Post** In section, you can customize where you want to open your post. We have three options at the moment; None, Open on Instagram,** **and **Open in Popup Box**.
 
-![Instagram settings open post in](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-8.png)
+![Instagram settings open post in](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-open-post-in.png)
 
 _Open Post In_
 
@@ -91,13 +91,13 @@ If you click on the open on the Instagram button this will take you to the Insta
 
 If you select Open in Popup Box a drop-down menu will appear with a few unique options.
 
-![Open in popup box Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-9.png)
+![Open in popup box Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/open-in-popup-box-instagram-settings.png)
 
 ### **Display Sidebar**
 
 If you turn on the Popup Box **Display Sidebar **your sidebar information will be displayed on your popup box.
 
-![Display sidebar Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-10.png)
+![Display sidebar Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-sidebar-instagram-settings.png)
 
 _Display Sidebar_
 
@@ -107,7 +107,7 @@ However, if you don’t want to display the sidebar, turn off the button.
 
 Next is **Display Profile Photo**. Turn on the button in order to display the profile picture.
 
-![Display profile photo Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-11.png)
+![Display profile photo Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-profile-photo-instagram-settings.png)
 
 _Display Profile Photo_
 
@@ -117,7 +117,7 @@ You may turn off the button to hide the profile picture.
 
 To show your username on your popup box turn on the **Display Username** button.
 
-![Display user name](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-12.png)
+![Display user name](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-user-name.png)
 
 _Display User Name_
 
@@ -127,7 +127,7 @@ Or if you want to hide the username then you can turn off the button.
 
 The next feature is Display Caption. In this section, you can display your caption by turning on the button.&nbsp;
 
-![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-13.png)
+![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-caption-instagram-settings.png)
 
 _Display Caption_
 
@@ -137,7 +137,7 @@ And turn off the button if you want to hide the display caption.
 
 In this section, you can take control of your **Display Date**.
 
-![Display date Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-14.png)
+![Display date Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-date-instagram-settings.png)
 
 _Display Date_
 
@@ -147,7 +147,7 @@ Enable the Display Date button to show the date. If you don’t want to show the
 
 Here, show or hide your **Display Comments** section.
 
-![Display comments](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-15.png)
+![Display comments](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-comments.png)
 
 _Display Comments_
 
@@ -157,7 +157,7 @@ To do that turn on/off the button. Remember, Comments are only available for pos
 
 Next is the **Display Call to Action Button. **You can control your Call to Action Button in this section.
 
-![Display Call to Action Button Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-16.png)
+![Display Call to Action Button Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-call-to-action-button-instagram-settings.png)
 
 _Display Call to Action Button_
 
@@ -167,7 +167,7 @@ Enable or disable the button to show/hide the Display Call to Action Button on y
 
 **Display Caption** is another feature that helps to adjust the feed. Here, you will be able to control the display caption of your Instagram posts.
 
-![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-17.png)
+![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-caption-instagram-settings-2.png)
 
 _Display Caption_
 
@@ -177,7 +177,7 @@ If you turn on the button you can see the post caption. However, turn it off if 
 
 **Trim Caption Words** allow you to control your caption size that will display along with the post.
 
-![Trim caption words Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-18.png)
+![Trim caption words Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/trim-caption-words-instagram-settings.png)
 
 _Trim Caption Words_
 
@@ -187,7 +187,7 @@ Here, you can see that 15 words are displayed in your post. Click on the **plus*
 
 The next filter is Display Likes Count. In this part, if you turn on the button you will be able to see the likes count on your post.
 
-![Display likes count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-19.png)
+![Display likes count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-likes-count-instagram-settings.png)
 
 _Display Likes Count_
 
@@ -197,7 +197,7 @@ On the other hand, turning off the button hides all the likes count from your po
 
 Similar to Display Likes Count, Display Comments Count will allow you to show all the comments on your post.
 
-![Instagram settings display comments count](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-20.png)
+![Instagram settings display comments count](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-display-comments-count.png)
 
 _Display Comments Count_
 
@@ -211,7 +211,7 @@ Remember in order to adjust your Display Likes Count and Display Comments Count 
 
 For **Header** settings click on the arrow sign and a drop-down menu will appear.
 
-![Header Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-21.png)
+![Header Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/header-instagram-settings.png)
 
 At the moment we have ten options in the Header field.&nbsp;
 
@@ -219,7 +219,7 @@ At the moment we have ten options in the Header field.&nbsp;
 
 In this section, you can show your Header on your feed. To do that, turn on the **Display Header** button.
 
-![Display Header](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-22.png)
+![Display Header](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-header.png)
 
 _Display Header_
 
@@ -229,7 +229,7 @@ However, if you don’t want to show the display header you can turn off the but
 
 Once you turn on the Display Header button, this will automatically turn on the** Account to Display** option.
 
-![Amount to display Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-23.png)
+![Amount to display Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/amount-to-display-instagram-settings.png)
 
 _Account to Display_
 
@@ -239,7 +239,7 @@ Click on the arrow button and select any account to set which account to display
 
 Once you set your display account next you need to adjust your **Display Profile Picture**.
 
-![Display Profile Picture](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-24.png)
+![Display Profile Picture](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-profile-picture.png)
 
 _Display Profile Picture_
 
@@ -253,7 +253,7 @@ Note that a Profile picture is not available for personal accounts due to restri
 
 Next is **Display Username**. You can show your username by enabling the button.
 
-![Display Username](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-25.png)
+![Display Username](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-username.png)
 
 _Display Username_
 
@@ -263,7 +263,7 @@ To hide the username you can disable the button.
 
 After Display Username you can customize your **Display Full Name**.
 
-![Display Full Name](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-26.png)
+![Display Full Name](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-full-name.png)
 
 _Display Full Name_
 
@@ -273,7 +273,7 @@ You can enable/disable the button to customize your Display Full Name.
 
 After you set up your Display Full Name, you need to customize your **Display Bio Text**. In order to do that, turn on the display bio text and your bio will be displayed on your website.
 
-![Display Bio Text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-27.png)
+![Display Bio Text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-bio-text.png)
 
 _Display Bio Text_
 
@@ -287,7 +287,7 @@ Remember, Profile Bio text is not available for personal accounts due to restric
 
 The next field is Display Posts Count. Here, you can show your display post counts by enabling the button.
 
-![Display posts count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-28.png)
+![Display posts count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-posts-count-instagram-settings.png)
 
 _Display posts Count_
 
@@ -297,7 +297,7 @@ However, disable the button in order to hide your display posts count.
 
 In this section, you can adjust your **Display Followers Count**. You can see the button is turned on and the followers count are showing.
 
-![Display followers count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-29.png)
+![Display followers count Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-followers-count-instagram-settings.png)
 
 _Display Followers Count_
 
@@ -311,7 +311,7 @@ Note that Followers count is not available for personal accounts due to restrict
 
 In this **Custom Profile Photo** section, you can add your new image to display it on your website.
 
-![Custom profile photo Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-30.png)
+![Custom profile photo Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/custom-profile-photo-instagram-settings.png)
 
 _Custom Profile Photo_
 
@@ -321,7 +321,7 @@ However, you can also replace the image.
 
 Lastly, you can customize your **Custom Bio Text** and insert something that suits your brand.
 
-![Custom bio text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-31.png)
+![Custom bio text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/custom-bio-text.png)
 
 _Custom Bio Text_
 
@@ -333,7 +333,7 @@ Once you are done click on the **Save Template** button to preserve your setting
 
 The next feature is the **Follow Button**. To get this feature you need to upgrade to the Pro version.
 
-![follow button](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-32.png)
+![follow button](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/follow-button.png)
 
 Once you click on the arrow button a drop-down will come up.
 
@@ -341,13 +341,13 @@ Once you click on the arrow button a drop-down will come up.
 
 Turn on the **Display Follow Button** to adjust Follow Button Position and Button Text.
 
-![Display follow button Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-33.png)
+![Display follow button Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-follow-button-instagram-settings.png)
 
 ### **Follow Button Position**
 
 Here, you can select your **Follow Button Position** on your website. Click on the arrow and a drop-down menu will come.
 
-![Follow button position Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-34.png)
+![Follow button position Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/follow-button-position-instagram-settings.png)
 
 _Follow button position_
 
@@ -357,7 +357,7 @@ At the moment we have three options; Header, Footer, and Both. As you can see th
 
 Once you are done with the Follow Button Position you can edit your **Button Text.**
 
-![Instagram settings button text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/google-image-35.png)
+![Instagram settings button text](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-button-text.png)
 
 _Button Text_
 
@@ -369,13 +369,13 @@ After you are done don’t forget to click on the **Save Template** button to sa
 
 At this stage, you can adjust the **Pagination **from the settings.
 
-![pagination](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_pagination_type-1024x508-1-2.png)
+![pagination](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_pagination_type-1024x508-1.png)
 
 _Pagination_
 
 **Pagination Style** has two options at the moment. You can pick any from **None **or **Load More**.
 
-![Pagination Style](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_load_more-1-2.png)
+![Pagination Style](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/insta_load_more-1.png)
 
 _Pagination Style_
 

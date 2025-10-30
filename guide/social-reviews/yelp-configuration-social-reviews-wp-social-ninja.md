@@ -11,11 +11,11 @@ The **WP Social Ninja** plugin allows you to integrate Yelp reviews into your Wo
 
 Go to your WP Social Ninja and click on **Platform** from the navbar. Here you will see **Yelp**, click on the **Settings** icon button along with the **Yelp**.
 
-![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-1-1-scaled.webp)
+![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/wp-social-ninja-platforms-yelp.webp)
 
 A popup will arrive, you need to obtain an **API key** and **Place ID** first to connect with Yelp. Collect the API Key and Place ID from your Yelp Account.
 
-![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-2-1-scaled.webp)
+![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/wp-social-ninja-platforms-yelp-2.webp)
 
 ## **Yelp API Key**
 

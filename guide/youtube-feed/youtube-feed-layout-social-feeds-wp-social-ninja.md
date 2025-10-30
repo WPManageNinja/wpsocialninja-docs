@@ -15,7 +15,7 @@ Who doesn’t love to play with templates and designs? WP Social Ninja allows us
 
 If you click on the **Layout Type,** a drop-down menu will appear. Currently, we have two Layout Types; **Grid** and **Carousel**.
 
-![youtube template layout type](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-1.png)
+![youtube template layout type](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/youtube-template-layout-type.png)
 
 _Layout Type_
 
@@ -35,7 +35,7 @@ Let’s see how to adjust the features-
 
 In this step, the first setting is Autoplay.
 
-![youtube template layout autoplay](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-2.png)
+![youtube template layout autoplay](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/youtube-template-layout-autoplay.png)
 
 _Autoplay_
 
@@ -45,7 +45,7 @@ If you turn on the **Autoplay** button, the slides will be played automatically.
 
 The** Carousel **has an **Autoplay Speed** option.
 
-![autoplay speed youtube feed](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-3.png)
+![autoplay speed youtube feed](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/autoplay-speed-youtube-feed.png)
 
 _Autoplay Speed_
 
@@ -55,7 +55,7 @@ Adjust your slides with the **Autoplay Speed** button. You can increase or decre
 
 After** Autoplay Speed, **the next is the** Number of Rows.**
 
-![number of rows](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-4.png)
+![number of rows](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/number-of-rows.png)
 
 _Number of Rows_
 
@@ -75,7 +75,7 @@ If you want to add more videos to the Slides, increase the Slides to show button
 
 Here, if you want to add more than three videos to the slide, click on the** Slides To Scroll **button and increase the video numbers.
 
-![slides to scroll](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-5.png)
+![slides to scroll](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/slides-to-scroll.png)
 
 _Slides To Scroll_
 
@@ -85,7 +85,7 @@ You can also lessen the **Slide Video Numbers**. To do that, click on the minus 
 
 We have three types of navigation Types at the moment**; Arrows and Dots, Arrows, **and** Dots.**
 
-![Navigation Type](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-6.png)
+![Navigation Type](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/navigation-type.png)
 
 _Navigation Type_
 
@@ -107,7 +107,7 @@ We will go with **Template 1** for demonstration purposes.
 
 Once you are done with Template Types, you can change the **Number of Columns **on your YouTube Feed. Click on the Number of Columns, and a drop-down menu will appear.
 
-![youtube template layout number of colums](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-7.png)
+![youtube template layout number of colums](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/youtube-template-layout-number-of-colums.png)
 
 _Number of Columns_
 
@@ -117,7 +117,7 @@ At the moment, we have **1 Column **to **10 Columns**. Here we have selected **3
 
 Done customizing the Number of Columns? Next, we have **Columns Gap**. Column Gaps has six types of Column Gap at the moment; **Default**,** No Gap**, **Narrow**, **Small**, **Wide**, and **Wider**.
 
-![Columns Gap](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/google-image-8.png)
+![Columns Gap](/guide/public/images/youtube-feed/youtube-feed-layout-social-feeds-wp-social-ninja/columns-gap.png)
 
 _Columns Gap_
 

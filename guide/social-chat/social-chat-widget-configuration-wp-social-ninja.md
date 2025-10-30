@@ -207,17 +207,17 @@ Now, click on the **WeChat **icon on the chat bubble to take you to the WeChat p
 
 To add the Instagram Direct Message widget, click on the **Add Channel **button.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-1.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-1.png)
 
 Now, choose the **Instagram DM** channel from the list to add it as a widget.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-2.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-2.png)
 
 Now, enter your Instagram **Username** or **Profile link** in the provided field.
 
 If you’d like to update the label for your Instagram DM channel, you can do that in the Label field. Finally, click the **Save** button to apply your changes.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-3.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-3.png)
 
 ## **Microsoft Teams**
 
@@ -315,36 +315,36 @@ The best part is collecting your visitors’ information without disturbing thei
 
 To do so, go to **Chat Widget **and click on **Add New Widget.**
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-4.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-4.png)
 
 Once you are in, go to the **Channels** and click on **Add Channel. **A new box will pop out. Scroll down a little bit and choose **Fluent Forms.**&nbsp;
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-5.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-5.png)
 
 To connect Fluent Forms with the social chat widget, you need to paste the **form's Shortcode** in the box. So, paste the copied Shortcode in the **Paste your Fluent Form shortcode **box.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-6.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-6.png)
 
 Make sure to press the **Save** button.
 
 Now, go to **Template** settings, and choose your favorite **Layout Type. **You can also select a **Template Style** from 4 different styles.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-7.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-7.png)
 
 Similarly, you can customize your **Chat Widget** according to your taste from the different options available in the settings bar.&nbsp;
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-8.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-8.png)
 
 After you are done styling your **Chat Widget**, make sure to click on **Save Template** Button to save the chat widget template.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-9.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-9.png)
 
 Now let’s look at how it looks on the front end if you pick Chatbox Layout Type. When you click on Chat Icon, a Chat Box will pop up. After that, when you click on the Fluent Forms icon, you will see a pop-up box named **Contact Us**.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-10.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-10.png)
 
 Now, if you choose **Only Icon** Layout Type, you can only see the Chat Icon on the frontend. But once you click the **Fluent Forms Icon**, a **Contact Us** box will pop up.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/google-image-11.png)
+![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-11.png)
 
 This is how easy it is to configure all the Social Chat platforms with just a few clicks!

@@ -85,7 +85,7 @@ Use this guide to customize the appearance and behavior of each individual chann
 
 **Prefilled Input Placeholder Text**: Customize the placeholder text that is visible in the chat input field before a user starts typing. For example, change "Type a message" to "Ask us anything...".
 
-![wp social ninja edit chat widget 08 21 2025 03 01 pm](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/WP-Social-Ninja-Edit-Chat-Widget-08-21-2025_03_01_PM.webp)
+![wp social ninja edit chat widget 08 21 2025 03 01 pm](/guide/public/images/social-chat/template-layout-social-chat-wp-social-ninja/wp-social-ninja-edit-chat-widget-08-21-2025-03-01-.webp)
 
 _Channel Buttons_
 

@@ -5,7 +5,7 @@ description: ""
 
 # YouTube Configuration
 
-WP Social Ninja has three separate platforms; Social Reviews, Social Feeds, and Social Chat. This delightful plugin has all the updated social platforms with useful features.&nbsp;
+WP Social Ninja has three separate platforms; Social Reviews, Social Feeds, and Social Chat. This delightful plugin has all the updated social platforms with useful features.
 
 Undoubtedly YouTube is the most prominent social site for the user today. It has 2 billion monthly active users. WP Social Ninja has Social Feeds with four platforms, and YouTube is one of them.
 
@@ -23,7 +23,7 @@ To do that, you have to follow a few simple steps. Let’s see-
 
 _Social Feeds | YouTube_
 
-YouTube configuration has three** Credentials Types; OAuth 2.0, **[**API Key**](https://console.developers.google.com/apis/credentials?project=new-project-291004&amp;folder=&amp;organizationId=)**, and Manually Connect a Primary Account.**
+YouTube configuration has three **Credentials Types; OAuth 2.0**, **[API Key](https://console.developers.google.com/apis/credentials?project=new-project-291004&folder=&organizationId=)**, and **Manually Connect a Primary Account**.
 
 ### **OAuth2.0**
 
@@ -33,7 +33,7 @@ Select the credential type to start the configuration.
 
 _Credential Type ( oAuth 2.0)_
 
-Next, click on the **Sign In **And** Get Google Access Code** to get Access Code. This will take you to a new window.
+Next, click on the **Sign In** and **Get Google Access Code** to get Access Code. This will take you to a new window.
 
 ![Sign In &amp; Get Google Access Code ](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2.png)
 
@@ -51,7 +51,7 @@ Choose your YouTube email account to continue with WP Social Ninja.
 
 ### **Step 2**
 
-Click on the** Continue** button to grant access permission.
+Click on the **Continue** button to grant access permission.
 
 ![Continue Button](/guide/public/images/youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja/allow_youtube_id-1.png)
 
@@ -77,13 +77,13 @@ Click the **Save** button to complete the configuration process.
 
 _Successfully Connected_
 
-And you’ve successfully configured **YouTubeOAuth2.0.**
+And you've successfully configured **YouTube OAuth2.0**.
 
 ### **API Key**
 
 ### **Step 1**
 
-Click on** YouTube** to start the configuration process.
+Click on **YouTube** to start the configuration process.
 
 For a more detailed configuration process, you can follow the steps below:
 

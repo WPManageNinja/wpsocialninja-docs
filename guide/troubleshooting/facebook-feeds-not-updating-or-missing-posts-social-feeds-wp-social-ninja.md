@@ -9,17 +9,17 @@ If your Facebook feed in WPSocialNinja isn’t updating or some posts are missin
 
 ## 1. Posts Are Shared from a Personal Profile or Non-Public Facebook Page
 
-If your Facebook feed isn’t showing the most recent posts or some posts are missing, it’s likely because those posts were shared from a personal Facebook profile or a non-public Facebook page.&nbsp;
+If your Facebook feed isn't showing the most recent posts or some posts are missing, it's likely because those posts were shared from a personal Facebook profile or a non-public Facebook page.
 
 ### Why Does This Happen?
 
 WP Social Ninja can only display posts that the Facebook API provides. If a post is private, restricted, or removed, it won’t be retrievable through the API
 
-Facebook only allows us to fetch posts that are publicly available through the Page API. If a post is missing, it’s usually because of one of these reasons:&nbsp;
+Facebook only allows us to fetch posts that are publicly available through the Page API. If a post is missing, it's usually because of one of these reasons:
 
-Privacy settings – The page owner shared it with a limited audience (e.g., certain countries, age groups, or followers only).&nbsp;
+Privacy settings – The page owner shared it with a limited audience (e.g., certain countries, age groups, or followers only).
 
-Targeted/boosted posts – Posts that are only promoted or targeted to a specific audience may not appear in the API.&nbsp;
+Targeted/boosted posts – Posts that are only promoted or targeted to a specific audience may not appear in the API.
 
 ### Solution
 
@@ -27,23 +27,23 @@ Re-post the content directly to your Facebook page: Instead of sharing posts fro
 
 Share posts from public sources: If you share posts from other public Facebook pages or sources, they will appear in your feed. Avoid sharing from personal profiles or restricted pages.
 
-## &nbsp;2. Some Posts Are Being Filtered Out
+## 2. Some Posts Are Being Filtered Out
 
 If certain posts are missing, it could be due to filtering settings in WPSocialNinja.
 
 ### Check the Following Settings
 
-Go to WPSocialNinja and then select **Templates** from the navbar. Now, find the Facebook Feed Template where you’re facing the issue. Click on the **Edit** button of that feed to open its settings options.&nbsp;
+Go to WPSocialNinja and then select **Templates** from the navbar. Now, find the Facebook Feed Template where you're facing the issue. Click on the **Edit** button of that feed to open its settings options.
 
 ![image](/guide/public/images/troubleshooting/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/image-1.png)
 
-Filters: Under the **General** section, you’ll find the **Filter** option for your posts. Check the filter settings for Post Types under the **Display Posts With** dropdown menu.&nbsp;
+Filters: Under the **General** section, you'll find the **Filter** option for your posts. Check the filter settings for Post Types under the **Display Posts With** dropdown menu.
 
-Below this, you’ll also see some additional settings, make sure to check if you’ve applied any filters that exclude posts with specific words or phrases.
+Below this, you'll also see some additional settings, make sure to check if you've applied any filters that exclude posts with specific words or phrases.
 
 ![image](/guide/public/images/troubleshooting/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/image.png)
 
-## &nbsp;3. Missing Posts Have Audience Restrictions
+## 3. Missing Posts Have Audience Restrictions
 
 Facebook allows you to set audience restrictions on posts, which can prevent them from being displayed outside of Facebook.
 
@@ -51,7 +51,7 @@ Facebook allows you to set audience restrictions on posts, which can prevent the
 
 Ensure that the missing posts are set to “**Public**”. When creating a post, check the audience setting and select the globe icon to make it publicly visible.
 
-## &nbsp;4. Aggressive Caching Plugin Settings
+## 4. Aggressive Caching Plugin Settings
 
 If you’re using a caching plugin on your WordPress site, it might be causing delays in updating your Facebook feed.
 
@@ -63,8 +63,8 @@ Adjust caching settings: Ensure your caching plugin isn’t overly aggressive. Y
 
 ### Additional Tips
 
-Reconnect Your Facebook Account: Sometimes, reconnecting your Facebook account in WPSocialNinja can resolve feed issues.&nbsp;
+Reconnect Your Facebook Account: Sometimes, reconnecting your Facebook account in WPSocialNinja can resolve feed issues.
 
-Check Facebook API Limits: Facebook imposes API limits on how often data can be fetched. If your feed isn’t updating, wait a few minutes and check again.
+Check Facebook API Limits: Facebook imposes API limits on how often data can be fetched. If your feed isn't updating, wait a few minutes and check again.
 
-If the issue still exists after trying the solutions above, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/) for further assistance.&nbsp;
+If the issue still exists after trying the solutions above, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/) for further assistance.

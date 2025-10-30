@@ -19,7 +19,7 @@ A pop-up will appear to configure your Facebook account. Click **Continue with F
 
 ![WP Social Ninja Facebook Configuration](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Platforms-2-scaled.webp)
 
-Click on the Continue button here to give access to your WP Social Ninja.&nbsp;
+Click on the Continue button here to give access to your WP Social Ninja.
 
 ![Wp Social Ninja Facebook Permission Access](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-3.webp)
 
@@ -37,7 +37,7 @@ To display your Facebook events on your website you can choose some awesome temp
 
 ## Facebook **Feed Settings**
 
-WP Social Ninja offers various settings to keep your Facebook Feed updated. To access the **Facebook Feed Settings**, navigate to WP Social Ninja. Click on **Settings** from the top navigation bar. In the left sidebar, select** Feed Platforms**, then choose **Facebook Settings**.
+WP Social Ninja offers various settings to keep your Facebook Feed updated. To access the **Facebook Feed Settings**, navigate to WP Social Ninja. Click on **Settings** from the top navigation bar. In the left sidebar, select **Feed Platforms**, then choose **Facebook Settings**.
 
 Here’s a breakdown of the available Facebook Feed settings:
 
@@ -45,7 +45,7 @@ Here’s a breakdown of the available Facebook Feed settings:
 
 **Clear Cache:** If your latest content isn't appearing in your Facebook Feed, use this option to clear the cache. This action will refresh the feed and display the most recent data.
 
-**Optimize Image: **This feature allows you to optimize Facebook images for your Social Ninja Feed, ensuring faster load times on your website. You can Reset your image optimization anytime by clicking on the Reset button.
+**Optimize Image:** This feature allows you to optimize Facebook images for your Social Ninja Feed, ensuring faster load times on your website. You can Reset your image optimization anytime by clicking on the Reset button.
 
 ![](/guide/public/images/facebook-feed/facebook-feed-integration-with-wp-social-ninja/WP-Social-Ninja-Facebook-Settings-scaled.webp)
 
@@ -67,7 +67,7 @@ To fix this, please remove the old app and then re-integrate WP Social Ninja by 
 
 - Return to this page and follow the "Enable Facebook Feed" steps again to re-authorize the connection.
 
-::: tip **Important (Meta/Facebook Policy):** Please note that when you delete a registered app, the connected WP Social Ninja access token will be** disconnected from all sites** where it is used. This is a Meta (Facebook) policy, not an issue from our end. You will need to re-authorize the connection on every site where you use this Facebook account.
+::: tip **Important (Meta/Facebook Policy):** Please note that when you delete a registered app, the connected WP Social Ninja access token will be **disconnected from all sites** where it is used. This is a Meta (Facebook) policy, not an issue from our end. You will need to re-authorize the connection on every site where you use this Facebook account.
 
 :::
 

@@ -37,7 +37,7 @@ The **Manually Connect Your Account** option allows you to generate an API token
 
 ![configure instagram 0](/guide/public/images/instagram-feed/instagram-configuration-social-feeds-wp-social-ninja/Configure-Instagram-0-scaled.webp)
 
-## **Connect Your Business Basic Account&nbsp;**
+## **Connect Your Business Basic Account**
 
 To connect your **Business Basic Account** with WP Social Ninja, select the **Connect Your Business Basic Account** option and click the **Connect with Instagram** button.
 
@@ -55,7 +55,7 @@ Once connected, your **Instagram Business Account** will be added to **WP Social
 
 ![configure instagram 4](/guide/public/images/instagram-feed/instagram-configuration-social-feeds-wp-social-ninja/Configure-Instagram-4-scaled.webp)
 
-## **Connect Your Business Advanced Account&nbsp;**
+## **Connect Your Business Advanced Account**
 
 To connect your **Instagram Business Account** with **WP Social Ninja**, follow the same steps as before and select **Connect Your Business Advanced Account** from the dropdown menu.
 
@@ -67,15 +67,15 @@ You will be redirected to **Facebook**, where you'll first need to log in to you
 
 If you'd like to review the accesses you're granting, click on the **Edit Access** button. Then, click the **Allow** button to grant the necessary permissions.
 
-After that, your Business Advanced Account will be added.&nbsp;
+After that, your Business Advanced Account will be added.
 
 ![configure instagram 6](/guide/public/images/instagram-feed/instagram-configuration-social-feeds-wp-social-ninja/Configure-Instagram-6.webp)
 
-## **Connect Your Account Manually&nbsp;&nbsp;**
+## **Connect Your Account Manually**
 
-To manually connect your **Business Account**, select the **Manually Connect Account** option from the dropdown menu. You’ll then need to enter your **Access Token** and **User ID**.&nbsp;
+To manually connect your **Business Account**, select the **Manually Connect Account** option from the dropdown menu. You'll then need to enter your **Access Token** and **User ID**.
 
-To obtain these credentials, click on the**[Access Token Generator](https://wpsocialninja.com/access-token-generator/?id=instagram-feed)**.
+To obtain these credentials, click on the **[Access Token Generator](https://wpsocialninja.com/access-token-generator/?id=instagram-feed)**.
 
 ![configure instagram 7](/guide/public/images/instagram-feed/instagram-configuration-social-feeds-wp-social-ninja/Configure-Instagram-7-scaled.webp)
 

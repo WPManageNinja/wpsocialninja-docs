@@ -1,0 +1,32 @@
+/**
+ * Custom styles for WP Social Ninja Documentation
+ */
+
+/* Center align all images, GIFs, and videos in content */
+.vp-doc img,
+.vp-doc video,
+.vp-doc iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Add some spacing around centered media */
+.vp-doc img,
+.vp-doc video {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Center align iframes (YouTube embeds, etc.) */
+.vp-doc iframe {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Ensure images don't exceed container width */
+.vp-doc img {
+  max-width: 100%;
+  height: auto;
+}
+

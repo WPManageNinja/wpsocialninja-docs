@@ -33,9 +33,9 @@ _Installing and Activating WP Social Ninja_
 
 ### Alternative method
 
-Download the**.zip** file and upload this on the **Add New** page using the Upload Plugin button; then click **Install**&amp; **Activate.**
+Download the **.zip** file and upload this on the **Add New** page using the Upload Plugin button; then click **Install** & **Activate**.
 
-![Alternative Method](https://wpsocialninja.com/wp-content/uploads/2022/09/Add-Plugins-‹-Tania-—-WordPress-3-1.png)
+![Alternative Method](/guide/public/images/getting-started-with-the-user-interface/how-to-install-upgrade-and-activate-license/add-plugins-wordpress.png)
 
 _Alternative Method_
 

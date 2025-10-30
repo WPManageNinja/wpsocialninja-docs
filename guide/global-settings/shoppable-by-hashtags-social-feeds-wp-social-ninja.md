@@ -47,11 +47,11 @@ _Instagram Feed_
 
 - You will be taken to the page you previously selected when you click the **Buy Now** button.
 
-![Redirected Page](https://wpsocialninja.com/wp-content/uploads/2022/11/Calvin-Klein-Obsession-for-Men-Eau-de-Toilette-–-WP-Social-NInja-1.png)
+![Redirected Page](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/redirected-page.png)
 
 _Redirected Page_
 
-Because the **Hashtags** feature is applied** globally** in all WP Social Ninja Instagram templates, anyone who wants to remove these hashtags from a specific Instagram template can do so by turning off the** Include Shoppable by Hashtags** option.
+Because the **Hashtags** feature is applied **globally** in all WP Social Ninja Instagram templates, anyone who wants to remove these hashtags from a specific Instagram template can do so by turning off the **Include Shoppable by Hashtags** option.
 
 ![Turn off Include Shoppable by Hashtags option](/guide/public/images/global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja/turn-off-include-shoppable-by-hashtags-option.png)
 

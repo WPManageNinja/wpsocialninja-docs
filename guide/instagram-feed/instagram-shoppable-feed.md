@@ -5,23 +5,23 @@ description: ""
 
 # Instagram Shoppable Feed
 
-WP Social Ninja brings an **Instagram Shoppable Feed (Pro) ** feature that will help you to generate more sales on your website.
+WP Social Ninja brings an **Instagram Shoppable Feed (Pro)** feature that will help you to generate more sales on your website.
 
 Let's dive into this article to learn how to utilize Instagram Shoppable Feed by following a few steps.
 
 - First, go to the **WP Social Ninja →Instagram Template → Shoppable Feed** (right side of the Instagram Template).
 
-- In **Shoppable Feed**, you will get three options: Enable** Shoppable Feed**, **Include Shoppable by Hashtags&amp; Display Shoppable Icon**.
+- In **Shoppable Feed**, you will get three options: Enable **Shoppable Feed**, **Include Shoppable by Hashtags & Display Shoppable Icon**.
 
-- Both the **Enable Shoppable Feed** &amp; **Display Shoppable Icon** options are initially disabled.
+- Both the **Enable Shoppable Feed** & **Display Shoppable Icon** options are initially disabled.
 
-- Additionally, by default, **Include Shoppable by Hashtag** s is Enabled.
+- Additionally, by default, **Include Shoppable by Hashtags** is Enabled.
 
 ![Shoppable Feed](/guide/public/images/instagram-feed/instagram-shoppable-feed/shoppable-feed.png)
 
 _Shoppable Feed_
 
-- To get more options, ** turn on** the Enable Shoppable Feed option.
+- To get more options, **turn on** the Enable Shoppable Feed option.
 
 - After selecting the Enable Shoppable Feed option, an **Add** button will be added to the top of each image.
 
@@ -35,7 +35,7 @@ _Enable Shoppable Feed_
 
 ### Open Post In
 
-In this Open Post In section, you can customize where you want to open your post. Remember, **Open Post In** options will work differently in the shoppable feed. Currently, four options are available in this setting: **None, Inline, Open on Instagram &amp; Open in PopupBox**.
+In this Open Post In section, you can customize where you want to open your post. Remember, **Open Post In** options will work differently in the shoppable feed. Currently, four options are available in this setting: **None, Inline, Open on Instagram & Open in PopupBox**.
 
 - **None:** You can select this option if you don't want to redirect your feed to any specific site.
 
@@ -47,9 +47,9 @@ In this Open Post In section, you can customize where you want to open your po
 
 ### Include Shoppable by Hashtags
 
-As** Include Shoppable by Hashtags** option is switched on from the beginning, if you want to add hashtags to your Instagram Posts, don't switch off this option.
+As **Include Shoppable by Hashtags** option is switched on from the beginning, if you want to add hashtags to your Instagram Posts, don't switch off this option.
 
-To know more about **Shoppable by Hashtags**, follow this**[documentation](../global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja)**.
+To know more about **Shoppable by Hashtags**, follow this **[documentation](../global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja)**.
 
 ### Display Shoppable Icon
 
@@ -59,7 +59,7 @@ To display the Shoppable icon on top of each Post Image, enable the **Display Sh
 
 _Display Shoppable Icon_
 
-- When clicking the **Add** button (on top of each image), a pop will appear where you can add Source, Link &amp; Button Text.
+- When clicking the **Add** button (on top of each image), a pop will appear where you can add Source, Link & Button Text.
 
 ![Add Promotional URL](/guide/public/images/instagram-feed/instagram-shoppable-feed/add-promotional-url.png)
 
@@ -67,13 +67,13 @@ _Add Promotional URL_
 
 - You can **Select Source** from the dropdown according to your needs where you want to navigate when clicking on the feed.
 
-If you have installed **WooCommerce** on your site, you will get an option to add** products** in the dropdown!
+If you have installed **WooCommerce** on your site, you will get an option to add **products** in the dropdown!
 
 ![Select Source](/guide/public/images/instagram-feed/instagram-shoppable-feed/select-source.png)
 
 _Select Source_
 
-- You must add a Link from the** Link To** box to the location where you will be redirected after choosing your preferred source. According to your Selected Source, the link will appear in the Link To box.
+- You must add a Link from the **Link To** box to the location where you will be redirected after choosing your preferred source. According to your Selected Source, the link will appear in the Link To box.
 
 - You can Edit your button text according to your requirements in the **Button text** field.
 
@@ -85,6 +85,6 @@ _Select Source_
 
 _Clickable Instagram Shoppable Feed_
 
-- In the Popup Box, click on the **Buy Now** button &amp; it will redirect you to your selected locations.
+- In the Popup Box, click on the **Buy Now** button & it will redirect you to your selected locations.
 
 This is as simple as a slice of Pizza to eat!

@@ -3,7 +3,9 @@ title: "Optimize Images for Instagram"
 description: ""
 ---
 
-# Optimize Images for Instagram **Optimize Images** is designed to enhance your Instagram image quality and improve the loading speed of your website by saving locally.&nbsp;
+# Optimize Images for Instagram
+
+**Optimize Images** is designed to enhance your Instagram image quality and improve the loading speed of your website by saving locally.
 
 ## **Enabling Optimize Images**
 
@@ -33,4 +35,4 @@ Once this limit is reached, the image file that is displayed on your site the le
 
 Please ensure that your server has "**Imagick**" installed and properly configured. **Imagick** is an image resizing program used by WordPress to handle image loading and manipulation, including images uploaded or linked from external sources, such as Instagram Feed.
 
-If you have any questions or need further assistance, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpsnsite&amp;utm_medium=popup&amp;utm_campaign=spring#/).
+If you have any questions or need further assistance, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpsnsite&utm_medium=popup&utm_campaign=spring#/).

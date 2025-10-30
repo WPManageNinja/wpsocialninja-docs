@@ -28,7 +28,7 @@ Here, for demonstration purposes, we will go with **Account Feed Type**.
 
 _Account Feed Type_
 
-After you select the Account feed type, you need to select a **User Account**. Once you select the User Account **WPManageNinja, ** click on the** Fetch Feeds** button**.**
+After you select the Account feed type, you need to select a **User Account**. Once you select the User Account **WPManageNinja**, click on the **Fetch Feeds** button.
 
 ![select a user account Instagram feed type](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/select-a-user-account-instagram-feed-type.png)
 
@@ -64,7 +64,7 @@ Remember, if you select **Carousel Layout Type,** a new setting will come up.
 
 ![Instagram feed layout Carousel settings](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-carousel-settings.png)
 
-At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides to show**, **Slides to scroll, ** and **Navigation**.
+At the moment we have 5 options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides to show**, **Slides to scroll**, and **Navigation**.
 
 ### **AutoPlay**
 
@@ -78,7 +78,7 @@ Turn off the button if you want to stop the Autoplay.
 
 ### **AutoPlay Speed**
 
-Next is** Autoplay Speed. **You can adjust your autoplay speed limit.
+Next is **Autoplay Speed**. You can adjust your autoplay speed limit.
 
 ![Instagram feed layout AutoPlay speed](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/instagram-feed-layout-autoplay-speed.png)
 
@@ -144,7 +144,7 @@ Here, you can select the columns of your website that you want to display. Right
 
 ### **Columns Gap**
 
-Next is **Columns Gap**. We have six types of Columns Gap available right now; **Default**,** No Gap**, **Narrow**, **Small**, **Wide,** and **Wider**.
+Next is **Columns Gap**. We have six types of Columns Gap available right now; **Default**, **No Gap**, **Narrow**, **Small**, **Wide**, and **Wider**.
 
 ![Columns Gap](/guide/public/images/instagram-feed/instagram-feed-layout-i-social-feeds-i-wp-social-ninja/columns-gap.png)
 
@@ -154,4 +154,4 @@ We have selected the Default option. You may select any.
 
 It’s as simple as that!
 
-Also, check out -**[ Instagram Configuration](./instagram-configuration-social-feeds-wp-social-ninja)**
+Also, check out - **[Instagram Configuration](./instagram-configuration-social-feeds-wp-social-ninja)**

@@ -22,9 +22,9 @@ _Shoppable by Hashtags_
 - After clicking the button, a new page will appear with a field to enter **hashtags** as well as the Source, Link, and Button Text.
 
 - When you use hashtags that are also found in other posts, it will automatically promote those posts.
-
+::: info
 You can use Separate multiple hashtags using commas. For example: #hashtag1,#hashtag2.
-
+:::
 - You can select your desired **source** from the dropdown in the **Select Source** field based on your needs.
 
 - Your relevant products/pages/posts/landing pages will show up in the dropdown in the **Link To** area based on your **chosen source**, and you can select your preferred option from there.

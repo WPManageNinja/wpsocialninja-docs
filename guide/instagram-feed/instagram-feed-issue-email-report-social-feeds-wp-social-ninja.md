@@ -3,7 +3,9 @@ title: "Instagram Feed Issue Email Report"
 description: ""
 ---
 
-# Instagram Feed Issue Email Report **Feed Issue Email Report** is a valuable feature that ensures you stay informed about critical issues in your **Instagram Feed** through email.&nbsp;
+# Instagram Feed Issue Email Report
+
+**Feed Issue Email Report** is a valuable feature that ensures you stay informed about critical issues in your **Instagram Feed** through email.
 
 Once **Feed Issue Email Reports** are enabled, our system will actively monitor your **Instagram Feed** for any critical issues. If such an issue is detected, you will receive an email on the specified day of the week you have been selected. The email will alert you about the nature of the problem and what action is need to take.
 

@@ -34,7 +34,7 @@ Next is **Posts Order**. In this section, you can adjust your post order from th
 
 ![Posts order Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/posts-order-instagram-settings.png)
 
-We have selected the Ascending Posts Order. You may select any for your feed.&nbsp;
+We have selected the Ascending Posts Order. You may select any for your feed.
 
 ### **Types of Posts**
 
@@ -56,7 +56,7 @@ Furthermore, Types of Posts have a show/hide button that contains **Searchterms*
 
 _Search terms_
 
-In this screenshot, you can see the post contains the hashtag&nbsp; **#genesis**. Similarly, you can hide your posts with a specific search term or hashtags.
+In this screenshot, you can see the post contains the hashtag **#genesis**. Similarly, you can hide your posts with a specific search term or hashtags.
 
 ![Hashtags](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/hashtags.png)
 
@@ -68,7 +68,7 @@ You can also hide your Instagram posts using the **Hide Specific Posts** option.
 
 Don’t forget to show/hide posts you can use multiple search terms or hashtags in the editor panel.
 
-## **Post&nbsp;**
+## **Post**
 
 Once you are done with Filters the next setting is **Post**.
 
@@ -78,7 +78,7 @@ Click on the drop-down menu to continue the editing. Here we can adjust five set
 
 ### **Open Post In**
 
-In this **Open Post** In section, you can customize where you want to open your post. We have three options at the moment; None, Open on Instagram,and **Open in Popup Box**.
+In this **Open Post** In section, you can customize where you want to open your post. We have three options at the moment; None, Open on Instagram, and **Open in Popup Box**.
 
 ![Instagram settings open post in](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/instagram-settings-open-post-in.png)
 
@@ -124,7 +124,7 @@ Or if you want to hide the username then you can turn off the button.
 
 ### **Display Caption**
 
-The next feature is Display Caption. In this section, you can display your caption by turning on the button.&nbsp;
+The next feature is Display Caption. In this section, you can display your caption by turning on the button.
 
 ![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-caption-instagram-settings.png)
 
@@ -154,15 +154,17 @@ To do that turn on/off the button. Remember, Comments are only available for pos
 
 ### **Display Call to Action Button**
 
-Next is the **Display Call to Action Button. **You can control your Call to Action Button in this section.
+Next is the **Display Call to Action Button**. You can control your Call to Action Button in this section.
 
 ![Display Call to Action Button Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-call-to-action-button-instagram-settings.png)
 
 _Display Call to Action Button_
 
-Enable or disable the button to show/hide the Display Call to Action Button on your website**.**
+Enable or disable the button to show/hide the Display Call to Action Button on your website.
 
-### **Display CaptionDisplay Caption** is another feature that helps to adjust the feed. Here, you will be able to control the display caption of your Instagram posts.
+### **Display Caption**
+
+**Display Caption** is another feature that helps to adjust the feed. Here, you will be able to control the display caption of your Instagram posts.
 
 ![Display caption Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/display-caption-instagram-settings-2.png)
 
@@ -170,13 +172,15 @@ _Display Caption_
 
 If you turn on the button you can see the post caption. However, turn it off if you don’t want to display the caption on your website.
 
-### **Trim Caption WordsTrim Caption Words** allow you to control your caption size that will display along with the post.
+### **Trim Caption Words**
+
+**Trim Caption Words** allow you to control your caption size that will display along with the post.
 
 ![Trim caption words Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/trim-caption-words-instagram-settings.png)
 
 _Trim Caption Words_
 
-Here, you can see that 15 words are displayed in your post. Click on the** plus** sign to increase the words. However, you can also decrease the word limits by clicking on the** minus** sign.
+Here, you can see that 15 words are displayed in your post. Click on the **plus** sign to increase the words. However, you can also decrease the word limits by clicking on the **minus** sign.
 
 ### **Display Likes Count**
 
@@ -208,7 +212,7 @@ For **Header** settings click on the arrow sign and a drop-down menu will appear
 
 ![Header Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/header-instagram-settings.png)
 
-At the moment we have ten options in the Header field.&nbsp;
+At the moment we have ten options in the Header field.
 
 ### **Display Header**
 
@@ -222,7 +226,7 @@ However, if you don’t want to show the display header you can turn off the but
 
 ### **Account to Display**
 
-Once you turn on the Display Header button, this will automatically turn on the** Account to Display** option.
+Once you turn on the Display Header button, this will automatically turn on the **Account to Display** option.
 
 ![Amount to display Instagram settings](/guide/public/images/instagram-feed/instagram-set-up-social-feeds-wp-social-ninja/amount-to-display-instagram-settings.png)
 
@@ -275,7 +279,7 @@ _Display Bio Text_
 If you don’t want to show your bio on your website just turn off the button.
 
 ::: tip
-Remember, Profile Bio text is not available for personal accounts due to restrictions set by Instagram, in that case, you can upload custom profile bio text from our [ Header → **Custom Bio Text ] option.**
+Remember, Profile Bio text is not available for personal accounts due to restrictions set by Instagram, in that case, you can upload custom profile bio text from our [Header → **Custom Bio Text**] option.
 :::
 
 ### **Display Posts Count**

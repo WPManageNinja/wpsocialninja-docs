@@ -163,6 +163,10 @@ export default defineConfig({
                               {
                                     "text": "Image Optimization",
                                     "link": "/guide/social-feeds/optimize-images-for-instagram-social-feeds-wp-social-ninja"
+                              },
+                              {
+                                    "text": "Shoppable Hashtags",
+                                    "link": "/guide/social-feeds/shoppable-by-hashtags-social-feeds-wp-social-ninja"
                               }
                         ]
                   },
@@ -469,10 +473,6 @@ export default defineConfig({
                   {
                         "text": "Translation Options",
                         "link": "/guide/management-settings/translate-option-wp-social-ninja"
-                  },
-                  {
-                        "text": "Shoppable Hashtags",
-                        "link": "/guide/management-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja"
                   }
             ]
       },

@@ -17,7 +17,7 @@ You can connect your client's facebook pages without asking them for Facebook pe
 Note: WP Social Ninja does not store any details provided on this page. It’s a tool to generate Facebook feed access token and authorize WP Social Ninja’s connection through the plugin on your website. WP Social Ninja is a Facebook and Instagram-approved app, so the connection is secure. It uses Facebook and Instagram’s official API and only shares your Access Token and User ID with people you trust.
 :::
 
-Let’s get into the process;
+Let’s get into the 
 
 ## Manually Connect a Page
 

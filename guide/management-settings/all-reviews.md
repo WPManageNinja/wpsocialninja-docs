@@ -23,4 +23,4 @@ If a user does not use any particular platform, then from the Reviews option, th
 
 Moreover, sometimes if a user thinks that they don't have sufficient Social Reviews, in that case, they can add reviews and the platform as well.
 
-Also, check out these articles to know more about - **[Platforms](./all-platforms-of-wp-social-ninja)**, **[Templates](./all-templates)**
+Also, check out these articles to know more about - **[Platforms](../getting-started/all-platforms-of-wp-social-ninja)**, **[Templates](../customization-design/all-templates)**

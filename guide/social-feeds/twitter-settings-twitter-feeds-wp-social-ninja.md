@@ -333,4 +333,4 @@ If you select the&nbsp;**Load More**&nbsp;option, it’ll ask you to adjust your
 
 Once you're done, don't forget to click on the Save button, and you've successfully done your Twitter feed settings.
 
-Also, check out - **[How to use Shortcode](../global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja)**
+Also, check out - **[How to use Shortcode](../management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja)**

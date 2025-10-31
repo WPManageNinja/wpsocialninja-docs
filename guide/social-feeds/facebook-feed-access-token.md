@@ -21,36 +21,32 @@ Let’s get into the process
 
 ## Manually Connect a Page
 
-In the configuration part, if you want to work on only your Facebook feed, select the **OAuth 2.0** or **Manually Connect a Page** from the Credential Type.
+In the configuration part, if you want to work on only your Facebook feed, select the **Account Manually** from the Credential Type.
 
-- For beginning the Manual process, select the **Manually Connect a Page.**
+- For beginning the Manual process, select the **Account Manually**.
 
-![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/social-feeds/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--cho.png)
+![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-1.webp)
 
-_Choose the Credential Type_
 
-- Now, for connecting your Facebook Feed with a Facebook Feed access token, go to WP Social Ninja’s own access token generator page ([access token generator](https://wpsocialninja.com/access-token-generator/)).
+- Now, for connecting your Facebook Feed with a Facebook Feed access token, go to WP Social Ninja’s own access token generator page [access token generator](https://wpsocialninja.com/access-token-generator/).
 
-- For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed.
+- For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed. After that you will asked for the permisson in FaceBook. 
 
-![Facebook Feed Access token generator](/guide/public/images/social-feeds/facebook-feed-access-token/facebook-feed-access-token-generator.png)
+![Facebook Feed Access token generator](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-2.webp)
 
-_Facebook Feed Access token generator_
 
-- This will take you to the page where you can get the access code. Copy the code.
+- This will take you to the page where you can get the access **Page ID** and **Access Token**. Copy the **Access Token** from here.
 
-![Get Page ID & Access Token](/guide/public/images/social-feeds/facebook-feed-access-token/get-page-id-amp-access-token.png)
+![Get Page ID & Access Token](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-3.webp)
 
-_Get Page ID & Access Token_
 
 - Lastly, paste the code in the **Access Token** box and finally complete the configuration done with clicking the button **Connect**.
 
-![Enter the Facebook Access token code & Connect](/guide/public/images/social-feeds/facebook-feed-access-token/enter-the-facebook-access-token-code-amp-connect.png)
+![Enter the Facebook Access token code & Connect](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-4.webp)
 
-_Enter the Facebook Access token code & Connect_
+And that’s all! You’re done with connecting a Facebook feed access token. 
 
-![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/social-feeds/facebook-feed-access-token/connecting-a-facebook-page-using-access-token--fac.png)
+![Connecting a Facebook page using access token- Facebook page successfully connected](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-5.webp)
 
-_Facebook page successfully connected_
 
-And that’s all! You’re done with connecting a Facebook feed access token. Your Facebook page is now ready to unbox the WP Social Ninja feed features.
+Your Facebook page is now ready to unbox the WP Social Ninja feed features.

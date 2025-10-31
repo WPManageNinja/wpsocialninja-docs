@@ -95,10 +95,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja"
                               },
                               {
-                                    "text": "Date Range Settings",
-                                    "link": "/guide/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja"
-                              },
-                              {
                                     "text": "Single Album Feed",
                                     "link": "/guide/social-feeds/facebook-single-album-feed"
                               },

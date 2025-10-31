@@ -78,15 +78,31 @@ Filters are how you refine your feed to exclude content you don't want or only s
 * **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** posts with those words, or **hide** posts with those words.
     > **Example (Hide):** You run many contests. You can enter `#contest, #giveaway, win` to automatically hide all those posts from your website feed, keeping it focused on company news.
 * **Hide Specific Feeds:** This allows you to manually hide one or more specific posts. To get a post's ID, go to the post on Facebook, look at the URL, and copy the long string of numbers. Paste that ID here to hide it.
-* **Date Range:** This is one of the powerful features in the Facebook template editor, allowing you to create time-sensitive feeds that can be either fixed or dynamic. This filter is essential for creating "Recent News" feeds or "Year-in-Review" sections. You have three options to choose from:
-    1.  **(Default):** This is the default setting. It simply means no date filter is applied. The feed will display posts based on your other settings (like Post Order).
-    2.  **Specific Date Range:** This option allows you to select a fixed and permanent date range. When you select this, two new fields will appear: **From** and **To**.
-        * **What it does:** It will only show posts that were published between the two exact dates you select.
-        * **Use Case:** This is perfect for "archival" feeds. You can create a feed for a specific product launch ("Posts from June 2025"), a past event ("Our 2024 Conference"), or a holiday promotion ("Black Friday 2025 Highlights"). The content in this feed will never change, as it's locked to that specific timeframe.
-    3.  **Relative Date Range:** This option is incredibly powerful because it is dynamic and automatic. When you select this, you can set a timeframe that is relative to the current date.
-        * **What it does:** It allows you to create feeds like "All posts from the last 30 days" or "All posts from the last 6 months."
-        * **How it works:** Unlike a Specific Date Range, a Relative one updates itself. If you set it to "Past 30 Days," you can leave it forever. Tomorrow, it will automatically include any posts from today and drop off any posts that are now 31 days old.
-        * **Use Case:** This is the best way to create a "Recent News" or "What's New" feed on your website. It ensures your feed is always fresh and relevant, showing only the most recent content without you ever having to manually update the filter.
+
+##### Date Range
+
+This is one of the powerful features in the Facebook template editor, allowing you to create time-sensitive feeds that can be either fixed or dynamic. This filter is essential for creating "Recent News" feeds or "Year-in-Review" sections.
+
+You have three options to choose from:
+
+**a. (Default)**
+
+This is the default setting. It simply means no date filter is applied. The feed will display posts based on your other settings (like Post Order).
+
+**b. Specific Date Range**
+
+This option allows you to select a fixed and permanent date range. When you select this, two new fields will appear: **From** and **To**.
+
+* **What it does:** It will only show posts that were published between the two exact dates you select.
+* **Use Case:** This is perfect for "archival" feeds. You can create a feed for a specific product launch ("Posts from June 2025"), a past event ("Our 2024 Conference"), or a holiday promotion ("Black Friday 2025 Highlights"). The content in this feed will never change, as it's locked to that specific timeframe.
+
+**c. Relative Date Range**
+
+This option is incredibly powerful because it is dynamic and automatic. When you select this, you can set a timeframe that is relative to the current date.
+
+* **What it does:** It allows you to create feeds like "All posts from the last 30 days" or "All posts from the last 6 months."
+* **How it works:** Unlike a Specific Date Range, a Relative one updates itself. If you set it to "Past 30 Days," you can leave it forever. Tomorrow, it will automatically include any posts from today and drop off any posts that are now 31 days old.
+* **Use Case:** This is the best way to create a "Recent News" or "What's New" feed on your website. It ensures your feed is always fresh and relevant, showing only the most recent content without you ever having to manually update the filter.
 
 ![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-4.webp)
 

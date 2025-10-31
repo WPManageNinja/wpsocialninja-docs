@@ -17,6 +17,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/guide/' },
+      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
     ],
 
     sidebar: [

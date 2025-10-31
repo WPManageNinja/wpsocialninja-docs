@@ -17,7 +17,7 @@ You can connect your client's facebook pages without asking them for Facebook pe
 WP Social Ninja does not store any details provided on this page. It’s a tool to generate Facebook feed access token and authorize WP Social Ninja’s connection through the plugin on your website. WP Social Ninja is a Facebook and Instagram-approved app, so the connection is secure. It uses Facebook and Instagram’s official API and only shares your Access Token and User ID with people you trust.
 :::
 
-Let’s get into the 
+Let’s get into the process
 
 ## Manually Connect a Page
 
@@ -28,14 +28,14 @@ In the configuration part, if you want to work on only your Facebook feed, selec
 ![Connecting a Facebook page using access token- Choose the Credential type](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-1.webp)
 
 
-- Now, for connecting your Facebook Feed with a Facebook Feed access token, go to WP Social Ninja’s own access token generator page ([access token generator](https://wpsocialninja.com/access-token-generator/)).
+- Now, for connecting your Facebook Feed with a Facebook Feed access token, go to WP Social Ninja’s own access token generator page [access token generator](https://wpsocialninja.com/access-token-generator/).
 
-- For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed then you will be asked for the permission to get the access. 
+- For generating access token code, start it with selecting **Continue with Facebook** under the Facebook Feed. After that you will asked for the permisson in FaceBook. 
 
 ![Facebook Feed Access token generator](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-2.webp)
 
 
-- This will take you to the page where you can get the **Page ID** and an **Access Token**. Copy the **Acccess Token** from here. 
+- This will take you to the page where you can get the access **Page ID** and **Access Token**. Copy the **Access Token** from here.
 
 ![Get Page ID & Access Token](/guide/public/images/social-feeds/facebook-feed-access-token/access-token-3.webp)
 

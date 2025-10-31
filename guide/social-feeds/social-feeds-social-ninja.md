@@ -17,8 +17,8 @@ _Social Feeds_
 
 Also, check out the -
 
-- [Twitter Feed](../twitter-feed/twitter-configuration-twitter-feeds-wp-social-ninja)
-- [YouTube Feed](../youtube-feed/youtube-configuration-youtube-feeds-wp-social-ninja)
-- [Instagram Feed](../instagram-feed/instagram-configuration-social-feeds-wp-social-ninja)
-- [Facebook Feed](../facebook-feed/facebook-feed-integration-with-wp-social-ninja)
-- [TikTok Feed](../tiktok-feed/tiktok-feed-configuration)
+- [Twitter Feed](./twitter-configuration-twitter-feeds-wp-social-ninja)
+- [YouTube Feed](./youtube-configuration-youtube-feeds-wp-social-ninja)
+- [Instagram Feed](./instagram-configuration-social-feeds-wp-social-ninja)
+- [Facebook Feed](./facebook-feed-integration-with-wp-social-ninja)
+- [TikTok Feed](./tiktok-feed-configuration)

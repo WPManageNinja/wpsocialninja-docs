@@ -95,4 +95,4 @@ _License Renewing_
 
 Enjoy WP Social Ninja!
 
-You can also check out - **[What WP Social Ninja Offers](../getting-started-with-the-user-interface-2/what-wp-social-review-offers)**.
+You can also check out - **[What WP Social Ninja Offers](./what-wp-social-review-offers)**.

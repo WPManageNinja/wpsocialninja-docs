@@ -39,4 +39,4 @@ _Place Shortcode_
 
 And then you’re all set!
 
-Also, check out -  [What WP Social Ninja Offers](../getting-started-with-the-user-interface-2/what-wp-social-review-offers).
+Also, check out -  [What WP Social Ninja Offers](../getting-started/what-wp-social-review-offers).

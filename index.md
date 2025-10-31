@@ -8,10 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/getting-started-with-the-user-interface/getting-started-with-wp-social-ninja
-    - theme: alt
-      text: View on WordPress.org
-      link: https://wordpress.org/plugins/wp-social-ninja-pro/
+      link: /guide/getting-started/getting-started-with-wp-social-ninja
 
 features:
   - icon: �

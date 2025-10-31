@@ -39,7 +39,7 @@ _Add Shoppable Hashtag_
 
 - Additionally, you can delete (by clicking on the Delete button) or Edit hashtags to match your requirements.
 
-To know more about **Instagram Shoppable Feed**, go **[here](../instagram-feed/instagram-shoppable-feed)**.
+To know more about **Instagram Shoppable Feed**, go **[here](./instagram-shoppable-feed)**.
 
 - Let's see the below screenshot to learn how it works -
 

@@ -47,4 +47,4 @@ _Clear Cache_
 
 Once you are done, click the **Save Settings** button to preserve your changes.
 
-For more info, check out - **[Platforms](./all-platforms-of-wp-social-ninja)**, **[Reviews](./all-reviews)** & **[Templates](./all-templates)**.
+For more info, check out - **[Platforms](../getting-started/all-platforms-of-wp-social-ninja)**, **[Reviews](./all-reviews)** & **[Templates](../customization-design/all-templates)**.

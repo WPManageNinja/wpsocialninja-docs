@@ -35,7 +35,7 @@ You will find the template section here, and you can also customize your review 
 
 In the **General** section, you will find some template designs, layout types, filters, and many options for your template. Here you will get a template "Polaris" available for WooCommerce Product Reviews.
 
-In the **[Style](../design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
+In the **[Style](../customization-design/website-styling-for-feeds-and-reviews)** section, you can make custom designs for your template as you want.
 
 ![polaris template for woocommerce](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/Polaris-template-for-woocommerce-scaled.webp)
 

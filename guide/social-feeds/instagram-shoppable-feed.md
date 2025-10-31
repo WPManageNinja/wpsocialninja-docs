@@ -49,7 +49,7 @@ In this Open Post In section, you can customize where you want to open your post
 
 As **Include Shoppable by Hashtags** option is switched on from the beginning, if you want to add hashtags to your Instagram Posts, don't switch off this option.
 
-To know more about **Shoppable by Hashtags**, follow this **[documentation](../global-settings/shoppable-by-hashtags-social-feeds-wp-social-ninja)**.
+To know more about **Shoppable by Hashtags**, follow this **[documentation](./shoppable-by-hashtags-social-feeds-wp-social-ninja)**.
 
 ### Display Shoppable Icon
 

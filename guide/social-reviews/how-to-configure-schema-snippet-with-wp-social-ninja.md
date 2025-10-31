@@ -67,4 +67,4 @@ You can add your Average Fallback Rating and Fallback Total Rating. However, if 
 
 Once you are done, you can test whether your Schema Snippet is working or not from [Google Structured Data Testing Tool](https://developers.google.com/search/docs/advanced/structured-data)
 
-Also, check out [How to use Shortcode](../global-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja)
+Also, check out [How to use Shortcode](../management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja)

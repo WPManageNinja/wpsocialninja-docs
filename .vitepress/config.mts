@@ -121,10 +121,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja"
                               },
                               {
-                                    "text": "Access Token",
-                                    "link": "/guide/social-feeds/instagram-access-token-instagram-feeds-wp-social-ninja"
-                              },
-                              {
                                     "text": "Business Setup",
                                     "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
                               },

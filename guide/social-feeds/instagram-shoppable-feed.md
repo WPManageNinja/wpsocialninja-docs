@@ -5,86 +5,67 @@ description: ""
 
 # Instagram Shoppable Feed
 
-WP Social Ninja brings an **Instagram Shoppable Feed (Pro)** feature that will help you to generate more sales on your website.
+This guide explains how to use one of WP Social Ninja's most powerful features: the **Shoppable Feed**. This tool turns your Instagram feed into an interactive, shoppable gallery, allowing you to link posts directly to your product pages.
 
-Let's dive into this article to learn how to utilize Instagram Shoppable Feed by following a few steps.
+This helps visitors go from "I like that photo" to "I'm buying that product" in just a few clicks.
 
-- First, go to the **WP Social Ninja →Instagram Template → Shoppable Feed** (right side of the Instagram Template).
+> **Use Case:** Imagine a customer sees a photo of your new blue t-shirt on your website's feed. They click a "shopping bag" icon on the post, then click a "Buy Now" button that takes them straight to the product page. This feature turns your social media posts into a direct sales channel.
 
-- In **Shoppable Feed**, you will get three options: Enable **Shoppable Feed**, **Include Shoppable by Hashtags & Display Shoppable Icon**.
+You can add product links in two ways:
 
-- Both the **Enable Shoppable Feed** & **Display Shoppable Icon** options are initially disabled.
+1.  **Manual Method:** Add a unique link to each post, one by one. This gives you full control.
+2.  **Automatic Method:** Set up rules to automatically link posts that contain a specific hashtag. This is a huge time-saver.
 
-- Additionally, by default, **Include Shoppable by Hashtags** is Enabled.
+## Set Up Your Shoppable Feed
 
-![Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/shoppable-feed.png)
+You can find all these settings in the **General** tab when you are editing your Instagram Feed template.
 
-_Shoppable Feed_
+### Step 1. Enable the Main Shoppable Feed
 
-- To get more options, **turn on** the Enable Shoppable Feed option.
+First, you must turn on the main **Enable Shoppable Feed** toggle. This activates the feature for this template.
 
-- After selecting the Enable Shoppable Feed option, an **Add** button will be added to the top of each image.
+Once you turn this on, you will see a new **Add** button appear on every post in your feed preview. This button is how you'll add links manually.
 
-- To add or modify each post URL in the first option, click the **Add/Edit button** on each image.
+![Instagram Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/shoppable-1.webp)
 
-- By clicking on the Delete button, you can also undo your activities.
+### Step 2. Add Links Manually (Method 1)
 
-![Enable Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/enable-shoppable-feed.png)
+This is the best method for adding a specific link to a specific post.
 
-_Enable Shoppable Feed_
+1.  In the live preview, click the **Add** button on the post you want to make shoppable.
+2.  The "Add Promotional URL" pop-up will appear.
+3.  Click the **Select Source** dropdown. You have two choices:
+    * **Posts:** Link the Instagram post to a WordPress blog post.
+    * **Pages:** Link directly to a specific page on your site (for example, “Shop” or “Sale”).
+    * **Products:** Connect the post to a product page so customers can buy directly.
+    * **Custom URL:** Paste any external link — like an affiliate product, Etsy listing, or landing page.
+4.  In the **Button text** field, type what you want the button to say (e.g., "Buy Now," "Shop This Look," or "Learn More").
+5.  Click **Apply**. Your post is now shoppable.
 
-### Open Post In
+![Instagram Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/shoppable-2.webp)
+### Step 3. Add Links Automatically (Method 2)
 
-In this Open Post In section, you can customize where you want to open your post. Remember, **Open Post In** options will work differently in the shoppable feed. Currently, four options are available in this setting: **None, Inline, Open on Instagram & Open in PopupBox**.
+This method saves you a ton of time by using hashtags to create links.
 
-- **None:** You can select this option if you don't want to redirect your feed to any specific site.
+1.  Turn on the **Include Shoppable by Hashtags** toggle.
+2.  Click the **Configure Shoppable by Hashtags** link. This will open your main settings page for creating your "hashtag rules."
+3.  On this page, you can create rules that connect a hashtag to a link.
 
-- **Inline:** You can use the **Inline** option to play a video that is currently playing in one of your feeds without sending it to any other sites or displaying it in a pop-up window.
+    **Example Rule:**
+    * **Hashtag:** `#bluehat25`
+    * **Link:** `yourstore.com/products/blue-hat`
 
-- **Open on Instagram**: If you select the **Open on Instagram** option from the dropdown, you will be directly redirected to the product/page or custom URL after clicking on the Instagram feed post.
+![Instagram Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/shoppable-3.webp)
 
-- **Open in PopupBox**: Additionally, If the **Open in Popup** is chosen; as a result, your shoppable URL will apply to your popup box Call To Action button.
+4.  Now, whenever you publish a post on Instagram with the `#bluehat25` hashtag, WP Social Ninja will automatically add the correct product link to that post on your website.
 
-### Include Shoppable by Hashtags
 
-As **Include Shoppable by Hashtags** option is switched on from the beginning, if you want to add hashtags to your Instagram Posts, don't switch off this option.
+::: info
+**Note:** You can use both methods at the same time. If you add a link manually to a post, it will always override any automatic hashtag link for that same post.
+:::
 
-To know more about **Shoppable by Hashtags**, follow this **[documentation](./shoppable-by-hashtags-social-feeds-wp-social-ninja)**.
+### Step 4. Display the Shoppable Icon
 
-### Display Shoppable Icon
+Finally, turn on the **Display Shoppable Icon** toggle.
 
-To display the Shoppable icon on top of each Post Image, enable the **Display Shoppable Icon** option.
-
-![Display Shoppable Icon](/guide/public/images/social-feeds/instagram-shoppable-feed/display-shoppable-icon.png)
-
-_Display Shoppable Icon_
-
-- When clicking the **Add** button (on top of each image), a pop will appear where you can add Source, Link & Button Text.
-
-![Add Promotional URL](/guide/public/images/social-feeds/instagram-shoppable-feed/add-promotional-url.png)
-
-_Add Promotional URL_
-
-- You can **Select Source** from the dropdown according to your needs where you want to navigate when clicking on the feed.
-
-If you have installed **WooCommerce** on your site, you will get an option to add **products** in the dropdown!
-
-![Select Source](/guide/public/images/social-feeds/instagram-shoppable-feed/select-source.png)
-
-_Select Source_
-
-- You must add a Link from the **Link To** box to the location where you will be redirected after choosing your preferred source. According to your Selected Source, the link will appear in the Link To box.
-
-- You can Edit your button text according to your requirements in the **Button text** field.
-
-- At last, click on the **Apply** button when you are done!
-
-- Let's see the below screenshot to learn how Shoppable Feed works-
-
-![Clickable Instagram Shoppable Feed](/guide/public/images/social-feeds/instagram-shoppable-feed/clickable-instagram-shoppable-feed.png)
-
-_Clickable Instagram Shoppable Feed_
-
-- In the Popup Box, click on the **Buy Now** button & it will redirect you to your selected locations.
-
-This is as simple as a slice of Pizza to eat!
+This adds a small "shopping bag" icon to every post that has a product link. We highly recommend this, as it gives your customers a clear visual sign that the post is clickable and the item is for sale.

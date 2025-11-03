@@ -129,14 +129,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
                               },
                               {
-                                    "text": "Feed Layout",
-                                    "link": "/guide/social-feeds/instagram-feed-layout-i-social-feeds-i-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Account Conversion",
-                                    "link": "/guide/social-feeds/how-to-convert-an-instagram-personal-account-to-a-business-account"
-                              },
-                              {
                                     "text": "Professional Account",
                                     "link": "/guide/social-feeds/convert-your-instagram-personal-account-into-professional-account"
                               },

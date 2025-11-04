@@ -114,4 +114,4 @@ To fix this, please remove the old app and then re-integrate WP Social Ninja by 
 
 If you have any further questions about this article, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets).
 
-You can also check out **[how to convert an Instagram personal account to a business account](./how-to-convert-an-instagram-personal-account-to-a-business-account)**
+

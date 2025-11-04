@@ -203,20 +203,20 @@ export default defineConfig({
                         "collapsed": true,
                         "items": [
                               {
-                                    "text": "Configuration",
-                                    "link": "/guide/social-feeds/tiktok-feed-configuration"
-                              },
-                              {
                                     "text": "Activation",
                                     "link": "/guide/social-feeds/tiktok-feed-activation"
                               },
                               {
-                                    "text": "Settings",
-                                    "link": "/guide/social-feeds/tiktok-feed-settings"
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/tiktok-feed-configuration"
                               },
                               {
                                     "text": "Template",
                                     "link": "/guide/social-feeds/tiktok-feed-template"
+                              },
+                              {
+                                    "text": "Settings",
+                                    "link": "/guide/social-feeds/tiktok-feed-settings"
                               }
                         ]
                   }

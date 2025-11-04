@@ -159,10 +159,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
                               },
                               {
-                                    "text": "Create Twitter App",
-                                    "link": "/guide/social-feeds/create-your-twitter-app-wp-social-ninja"
-                              },
-                              {
                                     "text": "Feed Layout",
                                     "link": "/guide/social-feeds/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja"
                               },

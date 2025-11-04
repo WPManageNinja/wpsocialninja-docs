@@ -5,332 +5,144 @@ description: ""
 
 # Twitter Feed Settings
 
-WP Social Ninja has amazing **Twitter Feed Settings** for users that offers multiple filter options. Let's see how this works-
+This is your creative control center, where you can design a beautiful and functional feed that perfectly matches your website.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1Rlr2MheKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Twitter feed settings with WP Social Ninja_
+When you first open the editor, you'll see three main tabs at the top of the settings panel on the right:
 
-## **Filters**
+* **General (This Guide):** This is the most important tab. It controls *what* content is shown (your tweets, your profile info, filters) and *how* the feed functions (the layout, buttons, and links).
+* **Style:** This tab controls the "look and feel"—all the colors, fonts, and borders.
+* **Connection:** This tab is for managing the specific API connection for this template.
 
-This feature has various options to filter specific tweets according to your requirements. Enter the **Number of Tweets to Display** by clicking the up/down arrow icon. You can choose in what order you want to display your posts using the **Posts Order** option. Currently, there are five options available - Ascending, Descending, Most Popular, Least Popular & Random. Next is **Show posts containing these words or hashtags**, you can use this setting to show posts that contain certain specific words or hashtags in the caption. Separate multiple words or hashtags using commas. ex: #hashtag1,word1. With the **Hide posts containing these words or hashtags**, you can hide posts in the same way. The **Hide Specific Posts** option lets you find the ID of a Post by viewing the post on Twitter and copy / paste the ID number from the end of the URL.
+This guide will walk you through every single setting in the **General** tab in a simple, step-by-step way.
 
-![Twitter Filters](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-filters.png)
+**What can you build with these settings?**
 
-_Twitter Filters_
+* **A "Latest News" Feed:** Use the **User Account** feed type and the **Timeline** layout to show your newest tweets in a classic, single-column feed.
+* **A "Brand Mentions" Wall:** Use the **Search** feed type with your brand name (e.g., "WP Social Ninja") to show what people are saying about you.
+* **A "Hashtag" Campaign Wall:** Use the **Hashtag** feed type and the **Masonry** layout to create a beautiful wall of all tweets mentioning your event, like `#MyAwesomeConf2025`.
 
-## **Feed Settings**
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-1.webp)
 
-After clicking on **Settings,** a drop-down menu will appear.
+## General Settings
 
-![Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/Twitter-feed-settings.png)
+Here is a detailed breakdown of each section within the **General** tab.
 
-_Twitter Settings_
+### 1. Source
 
-WP Social Ninja offers a detailed setting for the users that has multiple options and filters to adjust.
+This is the very first and most important step. The Source settings tell WP Social Ninja what kind of content to get from X (Twitter) and which account or topic to get it from.
 
-### **Display Avatar Image**
+* **Feed Type:** This is a dropdown menu that lets you choose the kind of feed you want to create. You have three powerful options:
+    * **User Timeline:** This is the most common choice. Select this to display the tweets from your own X (Twitter) profile that you have connected to the plugin.
+    * **Hashtag:** This feature lets you display public tweets from all over X (Twitter) that use a specific hashtag (e.g., `#WordPress`).
+    * **Home Timeline:** A home timeline (also called a "home feed") is the main, primary feed you see when you log in to X (Twitter).
+    * **Mention:** Shows only mentions feed.
+    * **Username:** This will show the X (Twitter) accounts you have connected.
+* **Total Feed:** This number tells WP Social Ninja the maximum number of tweets to fetch (or pull) from X (Twitter) when it checks for new content. It's best to set this to a high number, like 50 or 100, to make sure the plugin has plenty of tweets to work with. (This is not the number of tweets that show up on your page at first; that's controlled by **Pagination**).
+* **Fetch Feeds:** This is your manual "Refresh" button. If you've just posted a new tweet on X (Twitter) and want to see it in your website preview right now, just click this button. It forces the plugin to check for new content immediately instead of waiting for the next scheduled update.
 
-You can turn on/off the Display Avatar Image in this section.
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-2.webp)
 
-![Display Avatar Image](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-47.png)
+### 2. Template
 
-_Display Avatar Image_
+This section controls the visual structure and arrangement of your tweets.
 
-If you turn off the button, the Avatar image will not be displayed. For the purpose of demonstration, we have turned it on.
+* **Layout Type:** This is the foundational structure of your feed.
+    * **Timeline:** This creates a classic, single-column feed that looks similar to the X (Twitter) timeline.
+    * **Grid:** This creates a clean, organized, multi-column grid. All tweet boxes are forced to be the same height, which creates a very neat and symmetrical look.
+    * **Carousel:** This displays your tweets in a horizontal slider. Visitors can click or swipe through your posts. This is perfect for saving space.
+    * **Masonry:** This is a "Pinterest-style" multi-column grid. Tweets will have different heights (based on their text length and images), and the plugin will intelligently fit them together like bricks in a wall.
+* **Template:** These are pre-designed visual "skins" for your feed. Each template (like Polaris, Deneb, etc.) changes the styling of the tweet boxes, fonts, and layout. Click through them to see which one best matches your brand.
+* **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
+* **Columns Gap:** This controls the amount of empty space (in pixels) between each tweet in your feed.
 
-### **Display Author Name**
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-3.webp)
 
-Like Display Avatar Image, you can customize the Display Author Name as well because privacy is always on top.
+### 3. Filters
 
-![Display Author Name Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-48.png)
+Filters are how you refine your feed to exclude content you don't want or only show content you do.
 
-_Display Author Name_
+* **Number of Feeds to Display:** This is the number of tweets a visitor will see when the page first loads. (More tweets can be loaded later using the **Pagination** settings).
+* **Post Order:** This lets you sort your tweets.
+    * **Descending:** Shows newest tweets first (this is the most common setting).
+    * **Ascending:** Shows oldest tweets first.
+    * **Random:** Shuffles the tweets in a new order every time the page loads.
+* **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** tweets with those words, or **hide** tweets with those words.
+    * *Example: If you want to hide all replies from your feed, you could add the `@` symbol to the "Hide" box.*
+* **Hide Specific Feeds:** This allows you to manually hide one or more specific tweets by pasting in their unique Tweet ID (a long string of numbers you can get from the tweet's URL).
 
-Here, you can turn off the Display Author Name to hide the name on your website.
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-4.webp)
 
-### **Display Username**
+### 4. Feed
 
-Once you are done with the Display Author Name, you can also adjust the **Display Username**.
+This section controls the content and links inside each individual tweet card.
 
-![display username Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-3.png)
+* **Open Post in:** This determines what happens when a visitor clicks on a tweet.
+    * **None:** The tweet is not clickable. This is for a "display-only" gallery.
+    * **X(Twitter):** The visitor will be taken to the original tweet on X.com (Twitter.com) in a new browser tab.
+    * **Popup / Lightbox:** This is the best user experience. The tweet and its media will open in a beautiful pop-up box on your own website.
+* **Display Toggles (On/Off Switches):** These let you show or hide all the metadata on a tweet.
+    * **Display Author Photo:** Shows the user's small, circular profile picture.
+    * **Display Author Name:** Shows the user's name (e.g., "Elon Musk") and handle (e.g., `@elonmusk`).
+    * **Display Date:** Shows when the tweet was published.
+    * **Display Description:** Shows the text content of the tweet.
+    * **Display Platform Icon:** Shows a small X (Twitter) icon.
+    * **Display Likes Count:** Shows how many likes the tweet has.
+    * **Display Comments Count:** Shows how many replies the tweet has.
+    * **Display Retweet Count:** Shows how many times the tweet has been retweeted.
+* **Trim Description Words:** This sets a maximum word count for the tweet text. If a tweet is longer than this number, it will be cut off with a "Read More..." link. This is the key to keeping your feed looking clean.
+* **Equal Height:** This toggle is very important for the **Grid** layout. When toggled **on**, all tweet boxes are forced to the same height, creating a uniform grid. You should turn this **Off** if you are using the **Masonry** layout.
+* **Display Media:** This is the main switch for showing any images or videos attached to the tweet. You will almost always want to keep this on.
 
-_Display Username_
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-5.webp)
 
-If you turn on the button, Display Username will be displayed. However, turning off the button will hide the username. Here, we have turned on the button to display the username on your Twitter feed settings.
+### 5. Header
 
-### **Display Date**
+This section controls the large banner at the top of your entire feed, which displays your main profile information.
 
-Next, the filter is&nbsp;Display Date. In these settings, you can turn off the button if you don’t want to display the date on your website.
+* **Display Header:** This is the master On/Off switch for the entire header section. Turn it off if you just want to show the tweets.
+* **Account to Display:** If your feed is showing tweets from multiple accounts, this lets you choose which one account's info to show in the header.
+* **Display Toggles (On/Off Switches):** These let you build a "mini-profile" on your website.
+    * **Display Cover Photo** (Your main profile banner image)
+    * **Display Profile Photo** (Your main profile picture)
+    * **Display User Name** (Your @username)
+    * **Display Full Name**
+    * **Display Description** (Your profile biography)
+    * **Display Website** (The link in your profile)
+    * **Display Posts Count** (Total tweets you've made)
+    * **Display Followers Count** (How many followers you have)
+    * **Display Following Count** (How many people you are following)
 
-![Display Date Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-49.png)
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-6.webp)
 
-_Display Date_
+### 6. Follow Button
 
-Here, the Display Date is showing as the Display Date is enabled.
+This adds a "Follow" call-to-action button to your feed, helping you get more followers directly from your website visitors.
 
-### **Display Twitter Logo**
+* **Display Follow Button:** Toggles the button on or off.
+* **Follow Button Position:** You can place the button in the **Header** (at the top of the feed) or the **Footer** (at the bottom, after all the tweets).
+* **Button Text:** You can customize the text on the button (e.g., "Follow Us on X" or "See More on X").
 
-You can adjust the Twitter Logo by enabling or disabling the button.
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-7.webp)
 
-![display twitter logo of twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-7.png)
+### 7. Pagination
 
-_Display Twitter Logo_
+Pagination controls what happens when a visitor gets to the bottom of the initial set of tweets (which you set in the **Filters** section).
 
-Here, the Logo is displayed as the **Display Twitter Logo** button is on.
+* **Pagination Type:** This lets you choose how users load more tweets.
+    * **None:** The feed will only show the "Number of Feeds to Display" (from the **Filters** section) and that's it. There will be no way to load more.
+    * **Load More:** This will add a button at the bottom of your feed. When clicked, it will load the next set of tweets. This is the most popular and user-friendly option.
+* **Load More Button Text:** You can change the text from "Load More" to something like "Show More Tweets" or "See More."
+* **Feeds Per Page:** This is very important. This number controls how many *new* tweets are loaded *each time* the "Load More" button is clicked.
 
-### **Display Tweet Text**
+![Twitter Settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter-template-8.webp)
 
-With **Display Tweet Text,** you will be able to hide the Tweet Text.
 
-![Display tweet text with Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-50.png)
+## Next Steps
 
-_Display Tweet Text_
+Now that you have configured all the General settings, your next step is to make your feed beautiful!
 
-Here, pointed Tweets will not be displayed on your website if you turn off the button. We have kept it on for demonstration purposes.
+Click on the **Style** tab to customize all the colors, fonts, and borders.
 
-### **Display Reply Action**
-
-In this section, you can turn on/off the **Display Reply Action** button.
-
-![Display Reply Action](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-9.png)
-
-_Display Reply Action_
-
-If you want to stop the reply option, turn off the button and reply button, and you will be able to hide the reply option.
-
-### **Display Retweet Action**
-
-Like Display Reply Action, you can also control your **Display Retweet Action**. In order to do that, you can enable/disable the button.
-
-![Display Retweet Action](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-11.png)
-
-_Display Retweet Action_
-
-Here, Display Retweet Action is enabled. Turn it off if you want to stop retweeting options.
-
-### **Display Like Action**
-
-After Display Retweet, next is **Display Like Action**. In this section, you will be able to control the like button.
-
-![Display Like Action](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-51.png)
-
-_Display Like Action_
-
-If you want to keep the like option on your website just turn on the button. However, turn the button off if you want to hide the Display Like Action Button.
-
-### **Display Images On Tweet**
-
-Next is **Display Images On Tweet**. If you want to hide the post images, this option gives you the authority to control the images.
-
-![Twitter feed settings display Images On Tweet](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-14.png)
-
-_Display Images On Tweet_
-
-Turn off the button in order to hide the display image.
-
-### **Display Videos On Tweet**
-
-Like Display Images On Tweet, **Display Videos On Tweet** will adjust the videos. Just enable/disable the button.
-
-![Display Videos On Tweet](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-16.png)
-
-_Display Videos On Tweet_
-
-Here, the video is displayed as the button is on. Turn it off to hide the video.
-
-### **Display GIFs On Tweet**
-
-You can also control the GIFs. Just turn on/off the **Display GIFs On Tweet** button.
-
-![Display GIFs On Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-12.png)
-
-_Display GIFs On Tweet_
-
-### **Display Photos &amp; Videos in PopupDisplay Photos &amp; Videos in Popup** is another Twitter setting for users. If you turn on the button and click on the images and videos in the Front end, all the images and videos will be displayed in a lightbox.
-
-![Display Photos &amp; Videos in Popup](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-19.png)
-
-_Display Photos &amp; Videos in Popup_
-
-![Front End | Display Photos &amp; Videos in Popup](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-photos-amp-videos-in-popup.png)
-
-_Front End | Display Photos &amp; Videos in Popup_
-
-This is how the Front End will look when the lightbox pops up for Display Photos &amp; Videos in Popup.
-
-### **Display Twitter Summary Card**
-
-The next setting is the **Display Twitter Summary Card**. Scroll down and turn on the Display Twitter Summary Card button.
-
-![Display Twitter Summary Card](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/display-twitter-summary-card.png)
-
-_Display Twitter Summary Card_
-
-Here, by turning on the button, you will be able to enable all the Twitter Cards on your website.&nbsp;
-
-![Front End | Display Twitter Summary Button with Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-twitter-summary-button-with-twit.png)
-
-_Front End | Display Twitter Summary Button_
-
-Now, if you preview the page, you can see in the screenshot Twitter Summary Card is displayed at the Front End.
-
-### **Display Twitter Player Card**
-
-Now let’s look at how you can use a **Display Twitter Player Card. **In this part, you can control your Twitter Player Card.
-
-![Display Twitter Player Card](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/display-twitter-player-card.png)
-
-_Display Twitter Player Card_
-
-If you keep the button turned on, Twitter Player Card will be displayed on your website.&nbsp;
-
-![Front End | Display Twitter Player Card](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/front-end-display-twitter-player-card.png)
-
-_Front End | Display Twitter Player Card_
-
-However, you may turn off the button if you don’t want to display the Twitter player card.
-
-![Display Twitter Player card](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-46.png)
-
-_Display Twitter Player card_
-
-In that case, videos will pop up in the Front End.
-
-![](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/Pefm4-6xUFceHb0fCPndT1LwRBFvUs35Qf6Sge7EuSJEQBFGppdxxqCGQWn0gsdVslySC8rJ-ZVF-RNW842qTeZYFgamyTw68z5FrvmrFK8XBXE7M4WFB5n7dKUjBlxmqG1fC_g8.png)
-
-_Front End | Display Twitter Player card_
-
-Now when you preview the Front End, this is how the video will pop up.
-
-## **Header Settings**
-
-If you select the **Feed Type User Timeline,** then an additional **Header Settings** will appear automatically after the **Settings** button. Let's find out how to change the Header Settings in the Twitter feed settings-
-
-### **Display Header** 
-
-In this part, you can control the **Display Header** on your website. Here, the Display Header button is enabled, and additional settings are displayed. However, if you don't want to display it on your website, turn off the button.
-
-![Display header with Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-54.png)
-
-_Display Header_
-
-You can see in the screenshots all the additional settings are pointed. For demonstration purposes, we have kept the button enabled.
-
-### **Display Banner Image**
-
-Here, in **Display Banner Image,** you can control the image. If you don't display the image, you can turn off the button from the settings panel.
-
-![Display Banner Image](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-55.png)
-
-_Display Banner Image_
-
-Here, the button is enabled, so the banner image is displayed.
-
-### **Display Avatar Image**
-
-After Display Banner Image, next is **Display Avatar Image**. Turn on the button if you want to display the image on your website.
-
-![Display Avatar Image](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-57.png)
-
-_Display Avatar Image_
-
-However, you can turn off the button in order to hide the Display Avatar image.
-
-### **Display Name**
-
-After Display Avatar Image, you can adjust the **Display Name**. In this part, turn off the display image button if you want to hide the name.
-
-![Display name Twitter feed settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-30.png)
-
-_Display Name_
-
-Here, you can see all the names as the button is enabled.
-
-### **Display Username**
-
-You can adjust the Display Username by clicking on the button at this stage.
-
-![Display Username](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-58.png)
-
-_Display Username_
-
-Display Username is showing as the button is enabled. Turn off the button if you don't want to display the username on the website.
-
-### **Display Location** 
-
-You can adjust your **Display Location** by just clicking on the button. Turn the button on if you want to show the location. Simply disable the option to hide the location.
-
-![Display Location](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-61.png)
-
-_Display Location_
-
-As you can see, the Display Location button is on, and the location is displayed.
-
-### **Display Description**
-
-With this settings option, you will be able to control your **Display Descriptions** on the website.
-
-![Display Description](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-59.png)
-
-_Display Description_
-
-In this screenshot, the Display Description button is enabled, and it is showing. You can turn the odd button off if you want to hide the description.
-
-### **Display Tweets**
-
-The next filter is **Display Tweets; ** enable/disable the button in order to show/hide the Tweets.
-
-![Display Tweets](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-37.png)
-
-_Display Tweets_
-
-In this screenshot, the Display Tweets button is enabled, and you can see all the Tweets.
-
-### **Display Following**
-
-Control your **Display Following** by just enabling/disabling the button.
-
-![Display Following](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-60.png)
-
-_Display Following_
-
-Turn on the button if you want to show the Display Following number on your website. Here, we have kept it on for demonstration purposes. Turn off the button if you don't want to keep the following option.
-
-### **Display Followers**
-
-Similar to Display Following, now adjust your **Display Followers** button by adjusting the button.
-
-![Display Followers](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-62.png)
-
-_Display Followers_
-
-As the button is turned on, so followers' numbers are displayed. However, turn off the button if you don't want to show the follower's information on your website.
-
-## **Follow Button**
-
-The last setting is the **Display Follow Button**. Keep the option enabled if you want to show the Follow button in your Twitter account. Turn off the button in order to hide the Follow option on your website. Set the Follow Button Position according to your needs; there are three options to choose from; Header, Footer &amp; Both. You can add text on your follow button using the **Button Text** option.
-
-![Follow Button](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/twitter_display_follow-1024x570-1.png)
-
-_Follow Button_
-
-## **Pagination**
-
-At this Twitter feed settings stage, you can adjust the&nbsp;**Pagination Settings** from the settings.
-
-![pagination settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-43.png)
-
-_Pagination Settings_
-
-**Pagination Style**&nbsp;has three options at the moment. You can pick any from&nbsp;**None**, **Load More, or Infinite Scroll**.
-
-![twitter feed settings of pagination settings](/guide/public/images/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja/image-45.png)
-
-_Load More_
-
-If you select the&nbsp;**Load More**&nbsp;option, it’ll ask you to adjust your&nbsp;Tweets Per Page. And if you choose Infinite Scroll, it will display an endless number of Twitter Feeds.
-
-Once you're done, don't forget to click on the Save button, and you've successfully done your Twitter feed settings.
-
-Also, check out - **[How to use Shortcode](../management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja)**
+When you are finished, click the **Save Template** button at the bottom.

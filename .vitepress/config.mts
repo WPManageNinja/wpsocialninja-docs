@@ -173,6 +173,10 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja"
                               },
                               {
+                                    "text": "Youtube Feed Template",
+                                    "link": "/guide/social-feeds/youtube-feed-template-general-settings"
+                              },
+                              {
                                     "text": "Settings",
                                     "link": "/guide/social-feeds/youtube-settings-social-feeds-wp-social-ninja"
                               },

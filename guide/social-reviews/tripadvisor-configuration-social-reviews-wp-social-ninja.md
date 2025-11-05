@@ -49,11 +49,11 @@ Look for an ID in the URL that starts with the letter 'd'—this is your Place I
 
 After receiving your TripAdvisor credentials, navigate to your WP Social Ninja dashboard and select **Platform** from the navigation bar. Search for TripAdvisor and click on the **Settings** icon button.
 
-![Tripadvisor API Configuration 6](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-6-scaled.webp)
+![Tripadvisor API Configuration 6](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/tripadvisor-review-1.webp)
 
 A TripAdvisor configuration popup will appear. Select Credential Type: **API Key**, then paste your **API Key** and **ID** into the appropriate fields. Finally, click the **Save** button.
 
-![Tripadvisor API Configuration 7](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/Tripadvisor-7-1-scaled.webp)
+![Tripadvisor API Configuration 7](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/tripadvisor-review-2.webp)
 
 ::: tip
 
@@ -61,6 +61,3 @@ WP Social Ninja will initially show the 5 most recent reviews from TripAdvisor, 
 
 :::
 
-If you have any further questions about this guide, please don't hesitate to [contact us](https://wpmanageninja.com/support-tickets/).
-
-Also, check out - **[Facebook Reviews](./facebook-configuration-social-reviews-wp-social-ninja)**

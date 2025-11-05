@@ -5,42 +5,67 @@ description: ""
 
 # Facebook Reviews
 
-To connect Facebook Reviews on your website, you need to know how to authorize the Facebook Configuration. WP Social Ninja has an amazing feature to fetch Facebook Reviews without creating any Facebook app.
+This guide will show you how to easily connect your Facebook Page to WP Social Ninja's **Business Reviews** feature. Once connected, you can pull in all your customer reviews to display on your website, building trust and social proof.
+
+This process is very simple and uses the recommended "OAuth" method, which means you just need to log in to your Facebook account and give permission. There are no complicated developer keys needed.
+
+> **Use Case:** This is the first and most important step for displaying your Facebook Reviews. Once you connect your page, you can create a beautiful Business Reviews template to show off your 5-star ratings, helping to convince new customers that your business is trusted and legitimate.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/88yM4eACxLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_How to add Facebook reviews on your WordPress website_
+## How to Connect Your Facebook Page
 
-Let’s check how **WP Social Ninja** will uplift your business by collecting Facebook Reviews on your website.
+Follow these simple steps to get your page connected in less than a minute.
 
-## **Facebook Configuration**
+### Step 1: Go to Platforms
 
-To add Facebook Reviews to your site, you need to authorize Facebook.
+First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the **Platforms** sub-menu. This is your main hub for connecting all your social accounts for feeds and business reviews.
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb_config-1.png)
+### Step 2: Choose Your Connection Method
 
-To authorize Facebook Pages Configuration, Click on [Continue with Facebook](https://www.facebook.com/dialog/oauth?client_id=443259723723907&redirect_uri=https%3A%2F%2Fwpsocialninja.com%2Fapi%2Ffacebook-login.php&state=http%3A%2F%2Flocalhost%2Fpiya%2Fwp-admin%2Fadmin.php%3Fpage%3Dwpsocialninja.php&scope=pages_show_list%2Cpages_read_user_content%2Cpublic_profile), and a box will pop up on your screen. While connecting with your Facebook account, click on **Continue as {Your Username}** to complete the steps.
+On the "Platforms" page, find the **Facebook** row. On the right side, click the **Settings icon** button.
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/Screenshot_1-2021-03-26-09-43-43.png)
+![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-1.webp)
 
-However, Log in to your Facebook Account if you are not logged in.
+A pop-up window will appear asking you to "Select Credential Type." You have two choices **OAuth 2.0** and **Manually Connect a Page**. In this guide we will show you the OAuth 2.0 connection process. To manually connect your Facebook Page follow this [documentation](./facebook-reviews-access-token).
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/pasted-image-0-2021-03-26-09-50-10.png)
+For the easiest and fastest setup, select the first option: **OAuth 2.0 (Recommended)**.
 
-After completing Account Verification, you must select your Page/Pages. However, it is possible to select all the Pages by clicking Select All. Now click on the Next button to go further.
+![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-2.webp)
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb_continue_1-1-1.png)
+### Step 3: Authorize Your Facebook Account
 
-Keep all permissions as they are (these are required for WP Social Ninja to work) and click on Done.
+After you select the recommended method, a new Facebook pop-up window will open. This is a secure window directly from Facebook.
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/pasted-image-0.png)
+* If you are not already logged in, Facebook will ask you to log in.
+* Next, it will ask you to grant permission for "WP Social Ninja" to access your information. Click the **"Continue as..."** button to proceed. This is a standard and safe process.
 
-You have linked with WP Social Ninja! Click OK to complete the Authorization.
+![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-3.webp)
 
-![](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb_success-1.png)
+### Step 4: Select Your Facebook Page(s)
 
-You can also include multiple Business Accounts by simply clicking the **Add More Business** button. Just enter the business URL following the previous steps & click on the **Save** button. You can click the Cross icon on the left side to delete a business account if needed. Don't forget to click on the **Save** button to fetch reviews on your website.
+After you grant permission, you will be brought back to a WP Social Ninja pop-up titled **Select Page(s)**.
 
-To connect your Facebook page through a Facebook reviews access token, check the [documentation](./facebook-reviews-access-token).
+* This window will show a list of all the Facebook Business Pages that your personal Facebook account manages.
+* Find the Page (or Pages) you want to get reviews from.
+* Click the checkbox next to each Page you want to connect.
+* Once you have selected your Page(s), click the blue **Connect Pages** button.
 
-Also, check out - [Booking.com Reviews](./booking-com-configuration-social-reviews-wp-social-ninja)
+![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-4.webp)
+
+### Step 5: You're Connected!
+
+The pop-up will close, and you will be returned to the main **Platforms** page.
+
+You will now see that the **Facebook** row has a green "Connected" status and lists the Page(s) you just added.
+
+![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-5.webp)
+
+### Next Steps
+
+Congratulations! Your Facebook Page is fully connected and ready to sync reviews.
+
+Now that your account is connected, you're ready for the fun part:
+
+* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template for Facebook.
+* If you manage pages under a different Facebook account, you can click the **Connect More Account** button to repeat this process and add those as well.

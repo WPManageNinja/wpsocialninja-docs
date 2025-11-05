@@ -1,50 +1,88 @@
 ---
-title: "Connecting a Facebook Page Using Access Token"
+title: "Facebook Reviews (Using Access Token)"
 description: ""
 ---
 
-# Connecting a Facebook Page Using Access Token
+# Facebook Reviews (Using Access Token)
 
-Having Facebook reviews on your website helps you boost your social media strategy benefits in many ways. Leveraging your social reviews gives your website a look professional, gets you more traffic, and collects leads.
+This guide will show you the "manual connect" method for connecting your Facebook Page to WP Social Ninja's **Business Reviews** feature.
 
-Nevertheless, you have a simple solution to get your Facebook reviews with WP Social Ninja; It has two processes for connecting your Facebook page.
+This is an excellent alternative to the direct "OAuth" login. It's perfect for developers who are building a site for a client and don't want to ask for their personal Facebook login credentials.
 
-You can connect your client's facebook pages without asking them for Facebook personal login credentials. Send your client the link of [Facebook reviews access token](https://wpsocialninja.com/access-token-generator/) generator page and ask them to provide you with the access token and User ID.
+> **Use Case:** You are a developer. Instead of asking your client for their Facebook password, you can send them a link to our secure Access Token Generator. The client can safely generate the required keys (a Page ID and an Access Token) on their own computer, then just email you the two text codes. You can then paste these codes to connect their page without ever needing their login.
 
-::: tip
-Note: WP Social Ninja does not store any details provided on this page. It’s a tool to generate access tokens and authorize WP Social Ninja’s connection through the plugin on your website. WP Social Ninja is a Facebook and Instagram-approved app, so the connection is secure. It uses Facebook and Instagram’s official API and only shares your Facebook reviews Access Token and User ID with people you trust.
-:::
+## How to Manually Connect Your Facebook Page
 
-Let’s move to the steps;
+Follow these simple steps to get your page connected using the manual method.
 
-## Manually Connect a Page
+### Step 1: Go to Platforms
 
-- To get your Facebook reviews with the manual configuration of **WP Social Ninja,** first of all, step across the configuration part from the dashboard.
+First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the **Platforms** sub-menu. This is your main hub for connecting all your social accounts.
 
-![](/guide/public/images/social-reviews/facebook-reviews-access-token/image-1.png)
+### Step 2: Choose the "Manually Connect" Method
 
-- Here, you need to fill up the two empty boxes of **Page ID** and **Access token**. To get them, just click on the [access token generator](https://wpsocialninja.com/access-token-generator/). It will take you to the WP Social Ninja’s own Facebook review access token generator page.
+On the "Platforms" page, find the **Facebook** row and click the **Connect** button.
 
-![Facebook reviews access token generator page](/guide/public/images/social-reviews/facebook-reviews-access-token/facebook-reviews-access-token-generator-page.png)
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-1.webp)
 
-_Facebook reviews access token generator page_
+A pop-up window will appear asking you to "Select Credential Type." The first option is the default login. For this method, select the second option: **Manually Connect a Page**.
 
-- Under the **Facebook Reviews,** click on the **Continue with Facebook** button. This will redirect you to the page where you get the **Page ID** and **Access Token**. Copy them.
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-2.webp)
 
-![Get the Page ID & Access Token](/guide/public/images/social-reviews/facebook-reviews-access-token/get-the-page-id-amp-access-token.png)
+### Step 3: Find the Required Fields
 
-_Get the Page ID & Access Token_
+After you select the manual method, a new pop-up will appear with two empty fields: **Page ID** and **Access Token**.
 
-- And lastly, paste them here and you’re done.
+Your goal is to find these two pieces of information. Keep this browser tab open and proceed to the next step.
 
-![Enter the Facebook Page ID & Facebook Access Token](/guide/public/images/social-reviews/facebook-reviews-access-token/enter-the-facebook-page-id-amp-facebook-access-tok.jpg)
+### Step 4: Go to the Access Token Generator
 
-_Enter the Facebook Page ID & Facebook Access Token_
+To get these two keys, you will use our free and secure tool. In a new browser tab, open the[**WP Social Ninja Access Token Generator**](https://wpsocialninja.com/access-token-generator/?id=facebook-reviews).
 
-- Finish the process by hitting the button **Save**.
+On this page, find the **Facebook Reviews** section.
 
-![Facebook page successfully connected](/guide/public/images/social-reviews/facebook-reviews-access-token/facebook-page-successfully-connected.png)
+### Step 5: Generate Your Keys
 
-_Facebook page successfully connected_
+1.  On the Token Generator page, click the blue **Continue with Facebook** button.
 
-This is all about the configuring part of connecting a Facebook page with the Facebook reviews access token. Your page is now good to go with collecting all reviews and get the advantages of WP Social Ninja features!
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-3.webp)
+
+2.  A secure Facebook pop-up window will open. Log in to your Facebook account (the one that manages your Business Page).
+3.  Follow the prompts. Facebook will ask you to "Continue as..." and then to select which of your pages you want to grant access to. Make sure you select the correct page.
+
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-4.webp)
+
+### Step 6: Copy Your Page ID and Access Token
+
+After you grant permission, the generator page will refresh and display your unique **Page ID** and **Access Token**.
+
+Click the **Copy** button for each of these keys.
+
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-5.webp)
+
+### Step L: Connect Your Page
+
+Now, go back to your WordPress dashboard (where you still have the pop-up from Step 3).
+
+1.  Paste the **Page ID** you just copied into the "Page ID" field.
+2.  Paste the **Access Token** you just copied into the "Access Token" field.
+3.  Click the **Save** button.
+
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-6.webp)
+
+### Step 8: You're Connected!
+
+The pop-up will close, and you will be returned to the main **Platforms** page.
+
+You will now see that the **Facebook** row has a green "Connected" status and lists the Page you just added manually.
+
+![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-7.webp)
+
+## Next Steps
+
+Congratulations! Your Facebook Page is fully connected and ready to sync reviews.
+
+Now that your account is connected, you're ready for the fun part:
+
+* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template for Facebook.
+* If you need to add another page manually, you can click the **Add More Business** button to repeat this process.

@@ -5,84 +5,143 @@ description: ""
 
 # TikTok Feed Template
 
-WP Social Ninja offers templates for your TikTok feed and you can customize many things in your template. This guide will give you the details about creating your template.
+This is your creative control center, where you can design a beautiful and functional TikTok feed that perfectly matches your website.
 
-## Adding Template for TikTok Feed
+When you first open the editor, you'll see three main tabs at the top of the settings panel on the right:
 
-Go to your **Platforms** from WP Social Ninja plugins then Click on the **Settings** of TikTok Feed module. A popup will come up and it will show your connected TikTok account. Now here you will see an **Add New Template** button click on the button to add default templates that WP Social Ninja offers you also you can customize the Template as you want.
+* **General (This Guide):** This is the most important tab. It controls *what* content is shown (your videos, your profile info, filters) and *how* the feed functions (the layout, buttons, and links).
+* **Style:** This tab controls the "look and feel"—all the colors, fonts, and borders.
+* **Connection:** This tab is for managing the specific API connection for this template.
 
-![TikTok Feed Settings ](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-.png)
+This guide will walk you through every single setting in the **General** tab in a simple, step-by-step way.
 
-You can also Edit, Delete and Duplicate your template from the **Templates** of the WP Social Ninja and you can also add a new template from here by clicking on the **Add New Template** button.
+**What can you build with these settings?**
 
-![Templates ](/guide/public/images/social-feeds/tiktok-feed-template/WP-Social-Ninja-Templates-1.png)
+* **A "Latest Videos" Slider:** Use the **Carousel** layout and set the **Post Order** to "Newest" to show your newest videos on your homepage.
+* **A Clean "Portfolio" Gallery:** Use the **Grid** layout, turn on **Equal Height**, and hide the **Description**, **Views**, and **Likes** to create a clean, professional-looking gallery of your work.
 
-## Customizing TikTok Feed Template
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template.webp)
 
-You will be redirected to the **TikTok Template** editing page now. Here you will see the two options which are **General** and **Style** to customize your template.
+## General Settings
 
-![Wp Social Ninja Template Customization ](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-1.png)
+Here is a detailed breakdown of each section within the **General** tab.
 
-## General Customizing Options
+### 1. Source
 
-In General option for customizing your template. You will get some options here we will discuss the options below.
+This is the very first and most important step. The Source settings tell WP Social Ninja where to get the TikTok videos from.
 
-### Source
+* **Feed Type:** This dropdown menu lets you choose the kind of feed you want to create.
+    * **User Account Feed:** This is the most common choice. It will display the most recent videos from your own TikTok profile.
+* **Select Account(s):** If you've connected more than one TikTok account to WP Social Ninja, this dropdown is where you'll pick the one you want to use for this template.
+* **Fetch Feeds:** This is your manual "Refresh" button. If you've just posted a new video on TikTok and want to see it in your website preview right now, just click this button. It forces the plugin to check for new content immediately.
 
-**Feed Type:** In Source, you will get the Feed Type and Account Selection option. Feed Type is for which type of account you want to connect with your TikTok Feed, like a Business account or User Account. Now you can only connect the User account with the WP Social Ninja.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-2.webp)
 
-**Select Account:** Account Selection is for selecting the TikTok accounts that will define from which accounts of yours the feeds will be loaded.
 
-**Total Feed:** From the Total Feed you can select how many Feeds you want to show.
+### 2. Template
 
-### Template
+This section controls the visual structure and arrangement of your videos.
 
-**Layout Types:** You can select the Layout Type here Grid, Carousel, and Masonry. Carousel and Masonry are the Pro features.
+* **Layout Type:** This is the foundational structure of your feed.
+    * **Grid:** This creates a clean, organized, multi-column grid. All video thumbnails are forced to be the same height, which creates a very neat and symmetrical look.
+    * **Carousel:** This displays your videos in a horizontal slider. Visitors can click or swipe through your posts. This is perfect for saving space on a homepage.
+    * **Masonry:** This is a "Pinterest-style" multi-column grid. Videos will have different heights (especially if you show the text caption), and the plugin will intelligently fit them together like bricks in a wall.
+* **Template:** These are pre-designed visual "skins" for your feed. Each template changes the styling of the video boxes, fonts, and layout. Click through them to see which one best matches your brand.
+* **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
+    * *Example: You might choose 4 columns for Desktop, 2 for Tablet, and 1 for Mobile. This ensures your feed is always easy to see and interact with, no matter the screen size.*
+* **Columns Gap:** This controls the amount of empty space (in pixels) between each video in your feed. Increase this number to give your videos more "breathing room," or set it to `0` to have them all touch.
 
-**Template:** You will get two Template designs here.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-3.webp)
 
-**Number of Columns:** You can set how many columns you want for your feed.
+### 3. Filters
 
-**Column Gap:** You can also select the Column Gap from the drop-down menu.
+Filters are how you refine your feed to exclude content you don't want or only show content you do.
 
-### Filters
+* **Number of Feeds to Display:** This is the number of videos a visitor will see when the page first loads. (More videos can be loaded later using the **Pagination** settings, which we'll cover below).
+* **Post Order:** This lets you sort your videos.
+    * **Newest:** Shows newest videos first (this is the most common setting).
+    * **Oldest:** Shows oldest videos first.
+    * **Most Viewed:** Shows most viewed video.
+    * **Most Likes:** Shows most liked video.
+    * **Random:** Shuffles the videos in a new order every time the page loads.
+* **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** videos with those words, or **hide** videos with those words.
+    * *Example: If you want to hide all videos that mention a certain competitor, you could add their name to the "Hide" box.*
+* **Hide Specific Feeds:** This allows you to manually hide one or more specific videos. To get a video's ID, open that video on TikTok, and copy the long string of numbers in the URL.
 
-**Number of Feeds to Display:** This option is for how many feeds you want to show in your account you can select that.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-4.webp)
 
-**Post order:** You can select post orders based on their like, comments, or random.
+### 4. Feed
 
-These are the Pro features of Filters:
+This section controls the content and links inside each individual video card.
 
-**Show Post Contain this Word or hashtag:** Here you can give the specific words or hashtags to show the specific posts you want.
+* **Open Post in:** This determines what happens when a visitor clicks on a video.
+    * **None:** The video is not clickable. This is for a "display-only" gallery.
+    * **TikTok:** The visitor will be taken to the original video on TikTok.com in a new browser tab.
+    * **Popup:** This is the best user experience. The video will open in a beautiful pop-up box on your own website, where it will play. This keeps visitors on your site longer.
+* **Display Toggles (On/Off Switches):**
+    * **Display Author Photo:** Shows your small, circular profile picture on each video.
+    * **Display Author Name:** Shows your TikTok username (e.g., @wpsocialninja) on each video.
+    * **Display Description:** Shows the text caption you wrote for that video.
+    * **Display Platform Icon:** Shows a small TikTok icon on each video.
+    * **Display Date:** Show the date with each video.
+* **Trim Description Words:** This sets a maximum word count for your video captions. If a caption is longer than this number, it will be cut off with a "Read More..." link. This is the key to keeping your feed looking clean and uniform.
+* **Equal Height:** This toggle is very important for the **Grid** layout. When toggled **on**, all video boxes are forced to the same height (based on the tallest one), creating a perfect, uniform grid. You should turn this **Off** if you are using the **Masonry** layout.
+* **Display Media:** This is the main switch for showing the actual video thumbnails. You will almost always want to keep this on. If you turn it off, your feed will only show text.
 
-**Hide a post containing this word or hashtag:** In the same way, you can also hide the post by giving the specific words or hashtags in this field.
+#### Views & Likes
 
-**Hide specific post:** In this field, you just need to give the post ID to hide any specific post you want. To get the ID copy the post URL in the last section of your post url you will get the post ID.
+This section lets you show or hide the social proof associated with each individual video.
 
-### Feed
+* **Display Views Count:** A simple On/Off toggle to show or hide how many views each video has.
+* **Display Likes Count:** A simple On/Off toggle to show or hide how many likes each video has.
+    * *Use Case: For a business, showing high view and like counts is great social proof. For a cleaner, more professional portfolio, you might turn these off.*
+* **Display Comment Count:** A simple On/Off toggle to show the comment count in the template feed.
 
-From the feed, the first drop-down will give the option to open your **Feed** in **TikTok** or in the **Pop-up box(Pro)**. Also, you will get many options for the specific things you want to show your feed. The Author's photo and name are free features, other features are only available in Pro. Like the Date, Description, Like count, View count, Comments count, etc. You can also Trim your description into words with the **Trim Description** Pro feature here.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-5.webp)
 
-### Header
+### 5. Header
 
-Here you can modify the header section of your Feed and you will get many options for how you want to customize it.
+This section controls the large banner at the top of your entire feed, which displays your main TikTok profile information.
 
-### Follow button
+* **Display Header:** This is the master On/Off switch for the entire header section. Turn it off if you just want to show the videos.
+* **Account to Display:** If your feed is showing videos from multiple accounts, this lets you choose which one account's info to show in the header.
+* **Display Toggles (On/Off Switches):** These let you build a "mini-profile" on your website.
+    * **Display Profile Photo** (Your main profile picture)
+    * **Display Account Name** (Your @username)
+    * **Display Description** (Your TikTok profile description)
+    * **Display Website** (The link in your profile)
+    * **Display Followers Count** (How many followers you have)
+    * **Display Following Count** (How many people you are following)
+    * **Display Likes Count:** This is a key TikTok metric. It shows the TOTAL number of likes your entire profile has ever received.
 
-From this option, you can set the position of your follow button and edit the button text. Also, you can hide your follow button if you want. Follow button options are Pro feature.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-6.webp)
 
-### Pop Up
+### 6. Follow Button
 
-When your feed pop-ups what you want to show on your pop-up you can modify those things from here. (The pop-up option is Pro feature and it will only arrive when you select Open in the pop-up box from the Feed option.)
+This adds a "Follow" call-to-action button to your feed, helping you get more TikTok followers directly from your website visitors.
 
-### Pagination
+* **Display FollowButton:** Toggles the button on or off.
+* **Follow Button Position:** You can place the button in the **Header** (at the top of the feed) or the **Footer** (at the bottom, after all the videos).
+* **Button Text:** You can customize the text on the button (e.g., "Follow Us on TikTok" or "See More on TikTok").
 
-Pagination is for how much content will load on your page customizing that option.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-7.webp)
 
-## Style
+### 7. Pagination
 
-Enable Style option will give you the option to opportunity to change or modify the color, typography, text size, background color, margin of your feed, and a lot of things. Style is Pro feature of WP Social Ninja.
+This is the new section you asked about. Pagination controls what happens when a visitor gets to the bottom of the initial set of videos.
 
-![Template Style](/guide/public/images/social-feeds/tiktok-feed-template/TikTok-Feed-Template-2.png)
+* **Pagination Type:** This lets you choose how users load more videos.
+    * **None:** The feed will only show the "Number of Feeds to Display" (from the **Filters** section) and that's it. There will be no way to load more videos.
+    * **Load More:** This will add a button at the bottom of your feed. When clicked, it will load the next set of videos. This is the most popular and user-friendly option.
 
-This is how you can customize your TikTok feed Template with the WP Social Ninja.
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-8.webp)
+
+## Next Steps
+
+Now that you have configured all the General settings, your next step is to make your feed beautiful!
+
+Click on the **Style** tab to customize all the colors, fonts, and borders.
+
+When you are finished, click the **Save Template** button at the bottom.
+
+

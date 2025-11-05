@@ -96,10 +96,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja"
                               },
                               {
-                                    "text": "Date Range Settings",
-                                    "link": "/guide/social-feeds/facebook-feed-date-range-social-feeds-wp-social-ninja"
-                              },
-                              {
                                     "text": "Single Album Feed",
                                     "link": "/guide/social-feeds/facebook-single-album-feed"
                               },
@@ -126,24 +122,12 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja"
                               },
                               {
-                                    "text": "Access Token",
-                                    "link": "/guide/social-feeds/instagram-access-token-instagram-feeds-wp-social-ninja"
-                              },
-                              {
                                     "text": "Business Setup",
                                     "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
                               },
                               {
                                     "text": "Setup Guide",
                                     "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Feed Layout",
-                                    "link": "/guide/social-feeds/instagram-feed-layout-i-social-feeds-i-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Account Conversion",
-                                    "link": "/guide/social-feeds/how-to-convert-an-instagram-personal-account-to-a-business-account"
                               },
                               {
                                     "text": "Professional Account",
@@ -164,10 +148,6 @@ export default defineConfig({
                               {
                                     "text": "Image Optimization",
                                     "link": "/guide/social-feeds/optimize-images-for-instagram-social-feeds-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Shoppable Hashtags",
-                                    "link": "/guide/social-feeds/shoppable-by-hashtags-social-feeds-wp-social-ninja"
                               }
                         ]
                   },
@@ -178,14 +158,6 @@ export default defineConfig({
                               {
                                     "text": "Configuration",
                                     "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Create Twitter App",
-                                    "link": "/guide/social-feeds/create-your-twitter-app-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Feed Layout",
-                                    "link": "/guide/social-feeds/twitter-feed-layout-i-twitter-feeds-i-wp-social-ninja"
                               },
                               {
                                     "text": "Settings",
@@ -224,20 +196,20 @@ export default defineConfig({
                         "collapsed": true,
                         "items": [
                               {
-                                    "text": "Configuration",
-                                    "link": "/guide/social-feeds/tiktok-feed-configuration"
-                              },
-                              {
                                     "text": "Activation",
                                     "link": "/guide/social-feeds/tiktok-feed-activation"
                               },
                               {
-                                    "text": "Settings",
-                                    "link": "/guide/social-feeds/tiktok-feed-settings"
+                                    "text": "Configuration",
+                                    "link": "/guide/social-feeds/tiktok-feed-configuration"
                               },
                               {
                                     "text": "Template",
                                     "link": "/guide/social-feeds/tiktok-feed-template"
+                              },
+                              {
+                                    "text": "Settings",
+                                    "link": "/guide/social-feeds/tiktok-feed-settings"
                               }
                         ]
                   }
@@ -308,20 +280,6 @@ export default defineConfig({
                               {
                                     "text": "Fluent Forms Integration",
                                     "link": "/guide/social-reviews/fluent-forms-review"
-                              }
-                        ]
-                  },
-                  {
-                        "text": "🤖 AI Integration",
-                        "collapsed": true,
-                        "items": [
-                              {
-                                    "text": "OpenAI Integration",
-                                    "link": "/guide/social-reviews/openai-integration-for-review"
-                              },
-                              {
-                                    "text": "OpenRouter Integration",
-                                    "link": "/guide/social-reviews/openrouter-integration-for-review"
                               }
                         ]
                   },
@@ -430,6 +388,20 @@ export default defineConfig({
                   {
                         "text": "Shortcode Usage",
                         "link": "/guide/integrations/how-to-use-a-shortcode-social-reviews-wp-social-ninja"
+                  },
+                  {
+                        "text": "🤖 AI Integration",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "OpenAI Integration",
+                                    "link": "/guide/ai-integration/openai-integration-for-review"
+                              },
+                              {
+                                    "text": "OpenRouter Integration",
+                                    "link": "/guide/ai-integration/openrouter-integration-for-review"
+                              }
+                        ]
                   }
             ]
       },

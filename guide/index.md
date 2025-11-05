@@ -33,7 +33,7 @@ Showcase reviews to build trust and implement AI-powered features:
 - [Yelp Reviews](./social-reviews/yelp-configuration-social-reviews-wp-social-ninja) - Setup Yelp reviews
 - [Trustpilot Reviews](./social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja) - Setup Trustpilot reviews
 - [WooCommerce Reviews](./social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja) - Setup WooCommerce reviews
-- [OpenAI Integration](./social-reviews/openai-integration-for-review) - AI-powered review summaries
+- [OpenAI Integration](./ai-integration/openai-integration-for-review) - AI-powered review summaries
 - [Schema Configuration](./social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja) - SEO schema markup
 
 ## 💬 Social Chat

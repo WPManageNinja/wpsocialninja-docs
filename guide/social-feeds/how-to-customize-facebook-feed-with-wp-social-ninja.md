@@ -2,309 +2,191 @@
 title: "Facebook Feed Settings"
 description: ""
 ---
+# Facebook Feed Template: General Settings
 
-# Facebook Feed Settings
+Once you have created a new template for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
 
-WP Social Ninja Facebook feed settings have unique features to highlight your brand. Let's see how to customize your Facebook feed easily.
+The editor is organized into two main tabs:
 
-## Feed
+* **General (This Guide):** This tab controls *what* content is shown (your source, filters, text) and *how* the feed functions (layouts, buttons, pagination).
+* **Style:** This tab controls the visual design (colors, fonts, borders, spacing).
+* **Connection:** This tab manages the specific API connection for this template. You will use this tab to add or update the required authentication keys, such as the Facebook Events Access Token, to ensure your feed can successfully fetch data from the platform.
 
-**WP Social Ninja** offers detailed **Feed** settings for users with multiple options to customize the feed section.
+This guide will provide a detailed, in-depth look at every single setting in the **General** tab.
 
-After clicking on the Feed, a drop-down menu will appear.
+**Use Case:** The General Settings allow for powerful combinations.
 
-![Feed settings for Facebook feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/feed-settings-for-facebook-feed-customization.png)
+* A band could use the **Source** settings to only show **Events**.
+* A photographer could only show **Photos** and use the **Template** settings to create a beautiful **Masonry** grid.
+* A business could show its **Timeline** but use the **Filters** to hide any posts that mention a `#contest` or `#giveaway`.
 
-_Feed Settings_
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-1.webp)
 
-Let's see how each setting option works.
+## General Settings
 
-### Open Post in
+Here is a breakdown of each section within the **General** tab.
 
-This section has three options; **None**, **Open on Facebook**, and **Open in Popup Box**.
+### 1. Source
 
-![Open Post In option for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/open-post-in-option-for-facebook-feed-customizatio.png)
+This is the most important step. The Source settings determine which Facebook Page to connect to and what type of content to pull from it.
 
-_Open Post In_
+* **Feed Type:** This dropdown menu lets you choose the kind of content to display.
+    * **Timeline:** This is the most common option. It shows the standard posts from your Facebook Page's wall, just as visitors would normally see them.
+    * **All Videos:** This will only pull video posts from your page. This is perfect if you want to create a dedicated video gallery on your website.
+    * **Specific Video Playlist:** This will only pull the Video Playlist.
+    * **Photos:** Similar to Videos, this will only pull photo posts, ignoring any text-only or link posts.
+    * **Events:** This powerful feature will display a feed of your Page's upcoming or past events, including the event date, time, and title.
+    * **Album:** This allows you to spotlight a single, specific photo album from your Page.
+    * **Single Album:** This will only show the single album.
+* **Total Feed:** This number tells WP Social Ninja the maximum number of posts to fetch (or pull) from Facebook. It's best to set this to a high number, like 50 or 100. (Note: This is different from the number of posts that load on the page initially, which is controlled by **Pagination**.)
+* **Select Page(s):** If you have connected multiple Facebook Pages to WP Social Ninja, this dropdown is where you will select which Page you want to display in this specific template.
 
-Selecting the **Open on Facebook** option will redirect you to the Facebook page to show the specific post. But, if you go for the **Open in Popup Box** button, you can look at the same page as a Popup modal.
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-2.webp)
 
-### Popup
+### 2. Template
 
-If you select Open in Popup Box, you will find a totally different popup section to customize your popup box with different key features. It has a **Display Sidebar**, **Display Profile Photo**, **Display User Name**, **Display Caption**, **Display Date**, **Display Comments**, and **Display Call to Action** buttons that will help you customize your pop-up.
+This section controls the visual structure and arrangement of your posts.
 
-![Popup Setting bar for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/popup-setting-bar-for-facebook-feed-customization.png)
+* **Layout Type:** This is the foundational structure of your feed.
+    * **Timeline:** A classic, single-column feed that looks similar to the Facebook wall.
+    * **Grid:** A clean, organized, multi-column grid. All post boxes are forced to be the same height, which creates a very neat and symmetrical look.
+    * **Masonry:** A modern, "Pinterest-style" multi-column grid. Posts have variable heights based on their content (e.g., a long post will be taller, a short one will be shorter) and fit together like bricks.
+    * **Carousel:** A horizontal slider that lets you show many posts in a small amount of space. Visitors can click or swipe through your posts.
+* **Template:** These are pre-designed visual "skins" for your feed. Each template (like Template 1, and Template 2.) changes the styling of the post boxes, fonts, and layout.
+* **Number of Columns:** This is a crucial responsive setting. You can set the number of columns to show on **Desktop**, **Tablet**, and **Mobile** devices.
+* **Columns Gap:** This controls the amount of "gutter" or empty space (in pixels) between each post in your feed. Increase this for a more spaced-out, airy look, or decrease it to make the posts tighter.
 
-_Popup Settings_
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-3.webp)
 
-You can enable or disable each button, depending on your preference.
+### 3. Filters
 
-### Display Author Photo
+Filters are how you refine your feed to exclude content you don't want or only show content you do.
 
-Next, you can control your **Display Author Photo** on your website. Decide whether you want to display the Author's photo from here and plan accordingly.
+* **Number of Feeds to Display:** This is the number of posts a visitor will see when the page first loads. This is directly related to the **Pagination** setting.
+* **Post Order:** This lets you sort your posts.
+    * **Descending:** Shows newest posts first (most common).
+    * **Ascending:** Shows oldest posts first.
+    * **Random:** Shuffles the posts in a new order every time the page loads.
+* **Display Post With:** This feature, found in the Filters section, acts as a content-type filter. It allows you to select exactly which kind of posts you want to show in your feed. By default, it is set to **All**, which shows everything. However, you can select one of the following options from the dropdown menu:
+    * **All:** (Default) This shows all post types from your page.
+    * **Text:** This will only display posts that are text-only (status updates).
+    * **Photos:** This will only display posts where the main content is one or more photos.
+    * **Videos:** This will only display video posts.
+    * **Links:** This will only display posts that are primarily a shared link.
+    * **Events:** This will only display your Facebook Event posts.
+    * **Albums:** This will only display posts that are photo albums.
+* **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** posts with those words, or **hide** posts with those words.
+    > **Example (Hide):** You run many contests. You can enter `#contest, #giveaway, win` to automatically hide all those posts from your website feed, keeping it focused on company news.
+* **Hide Specific Feeds:** This allows you to manually hide one or more specific posts. To get a post's ID, go to the post on Facebook, look at the URL, and copy the long string of numbers. Paste that ID here to hide it.
 
-![Display Author Photo for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-author-photo-for-facebook-feed-customizati.png)
+##### Date Range
 
-_Display Author Photo_
+This is one of the powerful features in the Facebook template editor, allowing you to create time-sensitive feeds that can be either fixed or dynamic. This filter is essential for creating "Recent News" feeds or "Year-in-Review" sections.
 
-For demonstration purposes, we have kept the button enabled. However, if you don't want to display it on your website, turn off the button.
+You have three options to choose from:
 
-### Display Author Name
+**a. (Default)**
 
-In **Display Author Name**, you can mention the author's name. If you don’t want to display the name, you can turn off the button from the settings panel.
+This is the default setting. It simply means no date filter is applied. The feed will display posts based on your other settings (like Post Order).
 
-![Display Author Name for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-author-name-for-facebook-feed-customizatio.png)
+**b. Specific Date Range**
 
-_Display Author Name_
+This option allows you to select a fixed and permanent date range. When you select this, two new fields will appear: **From** and **To**.
 
-Here, the button is enabled, so the Author Name is displayed.
+* **What it does:** It will only show posts that were published between the two exact dates you select.
+* **Use Case:** This is perfect for "archival" feeds. You can create a feed for a specific product launch ("Posts from June 2025"), a past event ("Our 2024 Conference"), or a holiday promotion ("Black Friday 2025 Highlights"). The content in this feed will never change, as it's locked to that specific timeframe.
 
-### Display Date
+**c. Relative Date Range**
 
-After Author Name, you will find **Display Date**. Turn on the button to show your feed date on your website.
+This option is incredibly powerful because it is dynamic and automatic. When you select this, you can set a timeframe that is relative to the current date.
 
-![Display Date for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-date-for-facebook-feed-customization.png)
+* **What it does:** It allows you to create feeds like "All posts from the last 30 days" or "All posts from the last 6 months."
+* **How it works:** Unlike a Specific Date Range, a Relative one updates itself. If you set it to "Past 30 Days," you can leave it forever. Tomorrow, it will automatically include any posts from today and drop off any posts that are now 31 days old.
+* **Use Case:** This is the best way to create a "Recent News" or "What's New" feed on your website. It ensures your feed is always fresh and relevant, showing only the most recent content without you ever having to manually update the filter.
 
-_Display Date_
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-4.webp)
 
-You can turn off the button to hide the display date.
+### 4. Feed
 
-### Display Description
+This section controls the content and links inside each individual post card.
 
-With the **Display Description** option, you can decide whether to show your post description on your website. If you don't want to display the description, disable the button.
+* **Open Post in:** This determines what happens when a visitor clicks on a post in your feed.
+    * **None:** The post is not clickable. It's for display only.
+    * **Facebook:** The visitor will be taken to the original post on Facebook.com in a new browser tab.
+    * **Popup / Lightbox:** This is often the best user experience. The post's details (including text and comments) will open in a beautiful pop-up box on your own website, keeping the visitor engaged on your page.
+* **Display Author Photo:** A toggle to show or hide your Page's profile picture on each post.
+* **Display Author Name:** A toggle to show or hide your Page's name on each post.
+* **Display Date:** A toggle to show or hide the date and time the post was published.
+* **Display Description:** A toggle to show or hide the text caption for each post.
+* **Trim Description Words:** Sets a maximum word count for the post text. If the post is longer, it will be shortened with a "Read More" link.
+* **Inherit Site Default Date Format:** When enabled, this matches the date's format (e.g., `mm/dd/yyyy`) to your main WordPress settings.
+* **Display Platform Icon:** A toggle to show or hide the small Facebook "f" icon on each post.
+* **Equal Height:** This toggle is very important for the **Grid** layout. When toggled on, all post boxes are forced to the same height (based on the tallest post), creating a perfect grid. When toggled off, boxes will have different heights, which can look messy in a Grid layout.
+* **Display Media in Timeline Feed:** A toggle to show or hide the images or videos in your posts. If turned off, the feed will only display text.
+* **Display Likes Count:** A toggle to show or hide the number of likes and reactions for each individual post.
+* **Display Comments Count:** A toggle to show or hide the number of comments for each individual post.
 
-![Display Description for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-description-for-facebook-feed-customizatio.png)
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-5.webp)
 
-_Display Description_
+### 5. Header
 
-However, the **Display Description** button is enabled in this screenshot, and now you can see all the descriptions.
+This section controls the large banner at the top of your entire feed, which displays your main Page information.
 
-### Display Likes Count
+* **Display Header:** This is the master on/off switch for the entire header section. Toggle it off if you want a minimal feed with no title.
+* **Account to Display:** If your feed is set up to show posts from multiple Pages at once, this setting lets you choose which one Page's info (cover photo, name, etc.) to show in the header.
+* **Display Toggles:** These let you show or hide the different parts of the header:
+    * Display Cover Photo (Your Page's large banner image)
+    * Display Profile Photo (Your Page's square logo/picture)
+    * Display Page Name
+    * Display Description (Your Page's "About" info)
+    * Display Likes Counter (The total number of likes your Page has)
 
-Decide whether to display the number of likes by enabling/disabling the **Display Likes Count** button.
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-6.webp)
 
-![Display Likes Count for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Display-Like-Count.png)
+### 6. Like Button
 
-_Display Likes Count_
+This adds a "Like Page" call-to-action button to your feed, helping you get more Facebook followers from your website traffic.
 
-If you want to show your likes count, turn on the button, but just disable this option if you don't want to display the likes count.
+* **Display Like Button:** Toggles the button on or off.
+* **Like Button Position:** You can place the button in the **Header** (at the top of the feed) or the **Footer** (at the bottom).
+* **Button Text:** You can customize the text on the button. For example, instead of "Like Page," you could change it to "Follow Us on Facebook."
 
-### Display Comments Count
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-7.webp)
 
-The next option is **Display Comments Count**. Here you can show or hide your comments for your website.
+### 7. Share Button
 
-![Display Comment Count for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-comment-count-for-facebook-feed-customizat.png)
+This adds a button that allows your website visitors to easily share your feed with their friends.
 
-_Display Comments Count_
+* **Display Share Button:** Toggles the button on or off.
+* **Share Button Position:** Place it in the **Header** or **Footer**.
+* **Button Text:** Customize the call-to-action text, such as "Share This Feed."
 
-Here, the button is enabled. So comments count is displayed. However, turn off the button if you don’t want to display it.
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-8.webp)
 
-### Display Play Icon
+### 8. Pagination
 
-At this part, you can display your video's **Play Icon**.
+Pagination controls what happens when a visitor scrolls to the bottom of the initial set of posts (which you set in the **Filters** section).
 
-![Display Play Icon for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-play-icon-for-facebook-feed-customization.png)
+* **Pagination Type:**
+    * **None:** The feed will only show the "Number of Feeds to Display" and nothing else. There will be no way to load more posts.
+    * **Load More:** This will add a button at the bottom of your feed. When clicked, it will load the next set of posts. This is the most popular and user-friendly option.
+* **Load More Button Text:** You can change the text from "Load More" to something like "See More Posts" or "Show Me More."
+* **Feeds Per Page:** This is very important. This number controls how many *new* posts are loaded each time the "Load More" button is clicked.
 
-_Display Play Icon_
+> **Example:** You set **Number of Feeds to Display** (in Filters) to **8**. You set **Feeds Per Page** (here) to **4**.
+>
+> 1.  Your page loads, and visitors see **8** posts.
+> 2.  They click "Load More."
+> 3.  **4** new posts appear (total of 12).
+> 4.  They click "Load More" again.
+> 5.  **4** more posts appear (total of 16).
 
-Here we kept it on. You can turn off this option if you want.
+![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-9.webp)
 
-### Equal Height
+## Next Steps
 
-**Equal Height** is another convenient feature. So if you want to maintain an equal height for every post, just enable the button.
+Now that you have configured all the General settings, your next step is to make your feed beautiful!
 
-![Equal Height Option for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/equal-height-option-for-facebook-feed-customizatio.png)
+Click on the **Style** tab (as shown in Screenshot 10) to customize the Colors, Fonts, Borders, and Spacing of your header, content, and buttons.
 
-_Equal Height_
-
-However, if you don't want to maintain an Equal Height for your post, just turn off the button.
-
-## Header
-
-**Header** settings will appear after the Feed button.
-
-![Header Settings for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/header-settings-for-facebook-feed-customization.png)
-
-_Header Settings_
-
-Let’s find out how to customize the **Header** in the Facebook feed settings.
-
-### Display Header
-
-In this part, you can control the **Display Header** on your website. The display header button is enabled here; for that reason, you can see the entire header part. However, if you don’t want to display it on your website, turn off the button.
-
-![Display Header](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-header.png)
-
-_Display Header_
-
-You can see this on the screenshot; all the additional settings are pointed.
-
-### Account to Display
-
-Next, you have to select the page you want to display for your website from the **Account to Display** button.
-
-![Account to Display for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/account-to-display-for-facebook-feed-customization.png)
-
-_Account to Display_
-
-Here, we have selected our **WP Social Ninja** Facebook page to understand better.
-
-### Display Cover Photo
-
-You can display your **Cover Photo** at this stage by turning on the button to show.
-
-![Display Cover Photo for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-cover-photo-for-facebook-feed-customizatio.png)
-
-_Display Cover Photo_
-
-But if you don’t want to show the photo, turn off the button. As a result, your cover photo will not be shown in your feed header section, but other information will remain the same.
-
-### Display Profile Photo
-
-After displaying the cover photo, you will find the **Display Profile Photo**. Turn on the button if you want to show your photo.
-
-![Display Cover Photo for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-cover-photo-for-facebook-feed-customizatio-2.png)
-
-_Display Profile Photo_
-
-Here, the button is enabled, so the profile photo is displayed. You can disable the button if you don't want to show your profile photo in the header.
-
-### Display Page Name
-
-The page name is your business identity. Decide whether to show your page name from **Display Page Name**.
-
-![Display Page Name for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-page-name-for-facebook-feed-customization.png)
-
-_Display Page Name_
-
-As you can see here, the **Display Page Name** button is on, and the page name is displayed. You can turn the button off if you want.
-
-### Display Description
-
-With this option, you can display your Page description so that your customers can get a brief idea about your product or service. That’s why you need to turn on the **Display Description** button.
-
-![Display Header Description for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-header-description-for-facebook-feed-custo.png)
-
-_Display Description_
-
-You can even turn off the button to hide the description if you want.
-
-### Display Likes Counter
-
-Similar to Display Description, you can also control whether to show pages from the **Display Likes Counter** option.
-
-![Display Like Counter for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-like-counter-for-facebook-feed-customizati.png)
-
-_Display Likes Counter_
-
-You can disable the button to hide the Likes Counter.
-
-## Like Button
-
-Once you click on the **Like Button**, a drop-down menu will appear again on the screen. In this segment, you can customize your Like Button in your way.
-
-![Like Button customization for Facebook Feed ](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Like-Button-2.png)
-
-_Like Button Text_
-
-Now, let's see how the options work.
-
-### Display Like Button
-
-By clicking the **Display Like Button**, you can turn on/off the Like button on your feed.
-
-![Display like button for feed settings](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Display-Like-Button.png)
-
-_Display Like Button_
-
-As you can see in this screenshot, we have turned it on. If you want to hide the button, just turn it off.
-
-### Like Button Position
-
-Right now, we have three options for Like Button Position; **Header**, **Footer**, and **Both**.
-
-![Like Button Position for Facebook Feed customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/photo6282551996380721585.jpg)
-
-_Like Button Position_
-
-We have selected both to display the **Like Button Position** on the header and footer sections.
-
-### Button Text
-
-**Button Text** option will allow you to pick the correct words for your customize button.
-
-![Button Text Customization for Facebook Feed](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/button-text-customization-for-facebook-feed.jpg)
-
-_Button Text (Like-Button)_
-
-So here, you can set your desired button text very easily.
-
-### Share Button
-
-The **Share Button** is quite similar to Like Button. So here, you can design your Share Button in your own way.
-
-![Share Button customization for Facebook Feed ](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Share-Button-1.png)
-
-_Share Button Settings_
-
-Let's go through all the options available in **Share Button**.
-
-### Display Share Button
-
-Do you want to share your presence on the internet? Don’t worry; just turn on the **Display Share Button**.
-
-![Display share button for feed settings](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Display-Share-Button-2.png)
-
-_Display Share Button_
-
-As you can see in this screenshot, we have turned it on. Turn off the **Display Share Button** if you want to hide this option.
-
-### Share Button Position
-
-There are three available options for **Share Button Position,** and are; **Header**, **Footer**, and **Both**.
-
-![Share Button Position Customization for Facebook Feed](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Share-Button-Position-1.png)
-
-_Share Button Position_
-
-So, choose any particular one according to your wish.
-
-### Button Text
-
-It is a great option. So don’t miss this opportunity to customize your **Button Text.**
-
-![Button Text Customization for Facebook Feed](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/button-text-customization-for-facebook-feed-2.jpg)
-
-_Button Text (Share Button)_
-
-And you are all set to get more Likes and Shares.
-
-### Pagination
-
-At this stage, you can adjust the **Pagination** from the settings.
-
-### Pagination Type
-
-Right now, Pagination has two options; **None** and **Load More**. So you can select any.
-
-![Pagination Customization for Facebook Feed](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Pagination-type-1.png)
-
-_Pagination Type_
-
-Selecting the Load More option will ask you to customize the **Load More Button Text** and adjust your **Feeds per page**. Adjust it according to your taste.
-
-![Load More Settings for Facebook Feed Customization](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Load-More-Button-Text.png)
-
-_Load More Options_
-
-Once you’re done, don’t forget to click on the **Save Template** button, and you’ve successfully customized your Facebook feed.
-
-Now let’s take a look at how it looks in the frontend.
-
-![Load More Frontend View](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/Load-More-Preview.png)
-
-_Load More at the Frontend_
-
-Customizing your Facebook feed with WP Social Ninja is that easy.
-
-Also, check out - **[Facebook Feed Layout](./facebook-feed-layout-styling-with-wp-social-ninja)**
+When you are finished, click the **Save Template** button at the bottom.

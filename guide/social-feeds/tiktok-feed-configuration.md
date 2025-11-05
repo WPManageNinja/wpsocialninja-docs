@@ -11,31 +11,29 @@ To grow your business Social Media Platforms play a vital role. If you wish to c
 
 First, you need to go to the **Platform** from the **WP Social Ninja Plugin** dashboard. Then you will see the option to enable the TikTok feed, now connect with your TikTok account to enable the TikTok Feed.
 
-![Enable TikTok Feed](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring.png)
+![Enable TikTok Feed](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-1.webp)
 
 ## Get the Access Code from TikTok
 
 A pop-up will come to configure your TikTok account feed. Here you have to give an **Access Code** to configure your **TikTok** feed. Click on the **Continue with TikTok** button.
 
-![TikTok Configure Access Code](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring-1.png)
+![TikTok Configure Access Code](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-2.webp)
 
 You will be redirected to the TikTok account login page, login into your account from here.
 
-![TikTok Login](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring-2.png)
+![TikTok Login](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-3.webp)
 
 Then you will be asked to access permissions for WP Social Ninja app, select the permissions and click on the continue button.
 
-![TikTok Account Access Permission ](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring-3.png)
-
 The next page will give you the **Access Code**, now copy the Access Code and Paste it into your TikTok configuration Access Code field.
 
-![Access Code TikTok ](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring-4.png)
+![Access Code TikTok ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-4.webp)
 
-Your TikTok account is now connected. Also, you can connect your multiple TikTok accounts and show your Feeds on your site.
+Your TikTok account is now connected. 
 
 Now add and customize your template as you want by simply clicking on the **Add New Template** button.
 
-![TikTok Connected Account ](/guide/public/images/social-feeds/tiktok-feed-configuration/Tiktok-Feed-Configuring-5.png)
+![TikTok Connected Account ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-6.webp)
 
 ## TikTok Feed Error 
 

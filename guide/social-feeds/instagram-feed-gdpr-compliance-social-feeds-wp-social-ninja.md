@@ -9,19 +9,19 @@ WP Social Ninja Instagram Feed allows you to fetch data from your Instagram acco
 
 ## **GDPR Settings**
 
-To enable the **GDPR** settings, go to **WP Social Ninja** dashboard then click on "**Settings**". Select "**Advance Settings**" and you will find out the **GDPR** settings.
+To enable the **GDPR** settings, go to **WP Social Ninja** dashboard then click on "**Settings**" icon button from the navbar. Select "**Advance Settings**" and you will find out the **GDPR Compliance** settings. From here enable the GDPR settings, select **Yes** from the dropdown menu. 
 
-![GDPR Settings for Instagram feed | WP Social Ninja](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Instagram-GDPR-Complience.png)
+![GDPR Settings for Instagram feed | WP Social Ninja](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/instagram-gdpr-settings-1.webp)
 
-_Instagram GDPR Compliance_
+### Instagram GDPR Compliance
 
 Additionally, please activate **Optimize Images** for GDPR compliance. GDPR compliance is not friendly with third-party media sources. Enabling this feature will store your images locally which will be GDPR friendly.
 
-To activate go to **Settings &gt; Feeds Platform &gt; Instagram Settings** here you will find out the optimize images enable option like the below screenshot.
+To activate go to **Settings &gt; Feeds Platforms &gt; Instagram Settings** here you will find out the optimize images enable option like the below screenshot.
 
-![Instagram settings optimize Images](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/Optimize-Images-Instagram-1.png)
+![Instagram settings optimize Images](/guide/public/images/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja/instagram-gdpr-settings-2.webp)
 
-_Optimize Images_
+### Optimize Images
 
 By enabling the GDPR option, some features of our plugin will be limited. These changes are designed to align with GDPR requirements and protect your data privacy. The following modifications will occur when you enable the GDPR option:
 

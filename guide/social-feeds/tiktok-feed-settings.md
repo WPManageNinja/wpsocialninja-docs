@@ -2,17 +2,29 @@
 title: "TikTok Feed Settings"
 description: ""
 ---
+# TikTok Feed Global Settings
 
-# TikTok Feed Settings
+This guide explains the global settings for all your TikTok feeds. These options control how your feeds fetch new videos, how they are "cached" (temporarily stored) for performance, and how images are handled.
 
-TikTok Feed has some settings in the **Global settings** of your WP Social Ninja plugin. To keep your feed updated and cache clean you can use these settings.
 
-Go to the **Settings** of your WP Social Ninja and on the left side, you will get the **Feeds Platforms** option. Select the **TikTok settings**. Here you will get the settings for your TikTok feed.
+## Settings Breakdown
 
-**Check New Feed Every:** Here you can choose how long the feeds are cached. If you select one hour then the plugin will clean the cache after that length of time and retrieve the new feeds.
+You can find this page by navigating to:
 
-**Clear cache:** If you are facing issues that your TikTok feed isn't updating automatically then click on this **Clear Feeds Cache** button. It will clear all TikTok cached feed data and retrieve the new Feed again.
+**WP Social Ninja → Settings → Feed Platforms → TikTok Settings**
 
-**Optimize Image**: This feature allows you to optimize TikTok images for your Social Ninja Feed, ensuring faster load times on your website. You can reset the image optimization at any time by clicking the **Reset** button.
+Here is a detailed breakdown of each feature on this page:
 
-![TikTok Feed Settings ](/guide/public/images/social-feeds/tiktok-feed-settings/WP-Social-Ninja-TikTok-Settings-scaled.webp)
+* **Check New Feeds Every:** To make your site load faster, WP Social Ninja temporarily saves (caches) your TikTok feed in your website's database. This setting lets you choose how long to keep this saved copy. If you select **1 Hour**, the plugin will clear the cache after that time and retrieve new feeds.
+
+* **Clear Cache:** This is a manual "force refresh" button. If your TikTok feed isn't updating automatically, click this button to clear all the cached feed data and retrieve new feeds again.
+
+* **Optimize Images:** This is a performance feature. When you toggle this **On**, the plugin will generate and save optimized, multiple-sized copies of your video thumbnails to your own website's server ("local storage"), which helps your pages load much faster.
+
+* **Reset Local Images:** This button is the "reset" for the "Optimize Images" feature. Clicking it will clear all the locally-saved images associated with the TikTok platform.
+
+::: info
+To configure settings for **GDPR Compliance** and **Image Format**, please navigate to the main **Advanced Settings** tab.
+:::
+
+![TikTok Feed Settings ](/guide/public/images/social-feeds/tiktok-feed-settings/tiktok-settings-1.webp)

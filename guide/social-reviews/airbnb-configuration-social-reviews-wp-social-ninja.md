@@ -19,7 +19,7 @@ To solve this, we will use a manual workaround. This process involves finding a 
 
 **Disclaimer**: This method uses Airbnb's internal development tools. Because it is not an official public solution, Airbnb may change these keys in the future, which could cause the connection to break. If this happens, you will need to repeat this process to get the new keys.
 
-### **Step 1: Find Your API Key and **Secret Key
+### **Step 1: Find Your API Key and Secret Key**
 
 In this step, we will use your browser's developer tools to find the required keys from your Airbnb listing page.
 
@@ -134,7 +134,8 @@ To make these keys work, you need to add a small code snippet to your WordPress 
 
 </li>
 
-`add_filter('wpsocialreviews/airbnb_api_key', function(){
+```php
+add_filter('wpsocialreviews/airbnb_api_key', function(){
     return 'd3......';
 });
 
@@ -151,7 +152,8 @@ add_filter('wpsocialreviews/airbnb_rooms_business_info_api_secret_key', function
 // for experiences or services 
 add_filter('wpsocialreviews/airbnb_experiences_api_secret_key', function(){
     return 'bc.....';
-});`
+});
+```
 
 ::: tip **Important: First Three Keys Are Required**
 

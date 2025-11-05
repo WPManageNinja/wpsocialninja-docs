@@ -5,21 +5,47 @@ description: ""
 
 # Yelp Reviews
 
-The **WP Social Ninja** plugin allows you to integrate Yelp reviews into your WordPress site. By doing so, you can easily display authentic reviews from Yelp to build trust, social proof, and boost your site’s credibility without manually importing them.
+This guide will show you how to connect your Yelp Business Page to WP Social Ninja's **Business Reviews** feature.
 
-## **Yelp Configuration**
+Yelp uses an API Key to connect. This is a simple key that you generate on Yelp's developer website. This guide will walk you through the entire process, step-by-step.
 
-Go to your WP Social Ninja and click on **Platform** from the navbar. Here you will see **Yelp**, click on the **Settings** icon button along with the **Yelp**.
+> **Use Case:** This is essential for restaurants, cafes, local shops, and service-based businesses. By connecting Yelp, you can display your valuable, high-star reviews directly on your website, building instant trust and credibility with new customers.
 
-![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/wp-social-ninja-platforms-yelp.webp)
+## Part 1: Start the Connection 
 
-A popup will arrive, you need to obtain an **API key** and **Place ID** first to connect with Yelp. Collect the API Key and Place ID from your Yelp Account.
+First, let's start inside your WordPress dashboard to see what you need.
 
-![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/wp-social-ninja-platforms-yelp-2.webp)
+1.  From your WordPress dashboard, navigate to **WP Social Ninja** in the left-hand menu, and then click on **Platforms**.
+2.  On the "Platforms" page, find the **Yelp** row in the Business Review section then click the **Settings icon** button with it.
 
-## **Yelp API Key**
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-1.webp)
 
-::: tip
+A pop-up window will appear with fields labeled **API Key** & **Place ID**. This is the things you need to get from Yelp.
+
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-2.webp)
+
+## Part 2: Yelp API Key
+
+Now, let's go to Yelp's developer portal to generate your key.
+
+### Step 1: Go to Yelp Developers
+
+In a new browser tab, go to the [**Yelp Developers website**](https://www.yelp.com/developers) and log in to your [Yelp account](https://www.yelp.com/developers/v3/manage_app) (the one associated with your business page).
+
+### Step 2: Create App
+
+Once login go to the **Manage App** section and create an App by filling in the required information:
+
+* **App Name:** Give it a name you'll recognize, like "My Website Reviews."
+* **Industry:** Select the industry that best fits your business.
+* **Your Contact Email:** Enter your email address.
+* **Description:** Write a brief description, such as "Connecting Yelp reviews to my website."
+
+Click the **Create App** button.
+
+Yelp will immediately take you to a "Success!" page. On this page, you will see your new **API Key**. This is the key you need! Copy the API Key to your clipboard.
+
+::: info
 
 Yelp’s Fusion API no longer provides reviews for free. To fetch Yelp reviews in WP Social Ninja, you need a **Yelp Pro plan**:
 
@@ -31,46 +57,51 @@ These limits are controlled by Yelp, not WP Social Ninja. [Check Yelp Plan and P
 
 :::
 
-This section will guide you through the easiest way to obtain your Yelp API Key. To create a Yelp API key for pulling reviews, follow these detailed steps:
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-3.webp)
 
-- Visit the[ Yelp Fusion API page](https://docs.developer.yelp.com/docs/fusion-intro), log in, or sign up for an account.
+## Part 3: Get Your Place ID (Add Your Business)
 
-- Verify your email address if prompted.
+Now you must add your specific business. To do this, you need your business's **Place ID**.
 
-- Once logged in, go to **Manage API Access** and click on **Create App**.
+### Step 1: Find Your Yelp Place ID
 
-- Fill in app details like the app name and description.
+Your Place ID is simply the unique part of your business's URL on Yelp.com.
 
-- After submitting, you'll receive your **API key** in the dashboard.
+1.  Go to **Yelp.com** in your browser.
+2.  Search for your business name and city.
+3.  Click on your business from the search results to open its main page.
+4.  Look at the URL in your browser's address bar. Your Place ID is the text that comes after `https://www.yelp.com/biz/`.
 
-### **Get Free Reviews** API
+> **Example URL:** `https://www.yelp.com/biz/bocconcino-san-francisco`
+> **Your Place ID:** `bocconcino-san-francisco`
 
-To get three free reviews from Yelp, first log in to your [Yelp account](https://www.yelp.com/developers) and follow this [link](https://www.yelp.com/developers/v3/manage_app). You'll be taken to the **My App** page where you'll need to fill in a few details about your app.
+Carefully copy this Place ID.
 
-Once done, click the **Save Changes** button and you’ll now see your API key. Copy the API key.
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-4.webp)
 
-![yelp developers api](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/Yelp-Developers-API-scaled.webp)
+## Part 4: Connect Your Yelp Account 
 
-## **Yelp Place ID**
+Now for the final, easy step.
 
-You can find your **Place ID** in the URL of your business account. To get your Yelp **Place ID**, visit [Yelp](https://www.yelp.com/) and search for your business. Then, copy your **business account name** directly from the **URL**, as shown in the screenshot below.
+### Paste Your API Key & Place ID
 
-![WP-Social-Ninja-Platforms-Yelp](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-6-scaled.webp)
+1.  Go back to your WordPress dashboard (where you still have the WP Social Ninja pop-up open from Part 1).
+2.  Paste the **API Key** you just copied into the "API Key" field.
+3.  Then Paste your **Place ID** (e.g., `bocconcino-san-francisco`) into the field.
+4.  Now click on the **Save** button.
 
-## Configuring Yelp
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-5.webp)
 
-Paste the **API Key** and **Place ID** into the **Yelp Configuration** section in WP Social Ninja, then click the **Save** button.
+Your business is now fully connected and will begin to sync reviews.
 
-![](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-7-scaled.webp)
+The **Yelp** row will now show a green "Connected" status.
 
-Your business account will now be connected to WP Social Ninja. To add more businesses, simply click the **Add More Business** button. You’ll also see a **Create a Template** button, which allows you to organize how the reviews will be displayed on your site.
+![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-6.webp)
 
-![](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-8-scaled.webp)
+## Next Steps
 
-In the Template section, you'll find all the customization options for the Yelp Reviews display.
+Congratulations! Your Yelp account is fully connected.
 
-![](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/WP-Social-Ninja-Platforms-Yelp-9-scaled.webp)
+Now that your account is set up, you're ready for the fun part:
 
-If you have any further questions please don’t hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).
-
-Also, check out - **[Tripadvisor Reviews](./tripadvisor-configuration-social-reviews-wp-social-ninja)**
+* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template for Yelp.

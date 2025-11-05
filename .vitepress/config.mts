@@ -283,20 +283,6 @@ export default defineConfig({
                         ]
                   },
                   {
-                        "text": "🤖 AI Integration",
-                        "collapsed": true,
-                        "items": [
-                              {
-                                    "text": "OpenAI Integration",
-                                    "link": "/guide/social-reviews/openai-integration-for-review"
-                              },
-                              {
-                                    "text": "OpenRouter Integration",
-                                    "link": "/guide/social-reviews/openrouter-integration-for-review"
-                              }
-                        ]
-                  },
-                  {
                         "text": "⚙️ Template & Display",
                         "collapsed": true,
                         "items": [
@@ -401,6 +387,20 @@ export default defineConfig({
                   {
                         "text": "Shortcode Usage",
                         "link": "/guide/integrations/how-to-use-a-shortcode-social-reviews-wp-social-ninja"
+                  },
+                  {
+                        "text": "🤖 AI Integration",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "OpenAI Integration",
+                                    "link": "/guide/ai-integration/openai-integration-for-review"
+                              },
+                              {
+                                    "text": "OpenRouter Integration",
+                                    "link": "/guide/ai-integration/openrouter-integration-for-review"
+                              }
+                        ]
                   }
             ]
       },

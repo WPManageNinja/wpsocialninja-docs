@@ -5,139 +5,121 @@ description: ""
 
 # YouTube Feed Type
 
-**WP Social Ninja** is specially designed for non-techies so that they don't face any difficulties. To adjust the **YouTube Feed Type**, there are some simple settings.
+When you create a YouTube feed template, the most important setting is the **Feed Type**. This option controls what kind of content your feed will display.
+After you select YouTube as your platform in the template editor, you will see a Feed Type dropdown. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t50xmvjjVSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/t50xmvjjVSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_YouTube feed type_
+## **Feed Type**
 
-## **YouTube Feed Type**
+Currently, we have five Feed Types; **Channel**, **Playlist**, **Search**, **Specific Videos**, and **Live Streams**. You can select any Feed Type; for example, if you select **Channel**, then you need a **Channel ID** to fetch the YouTube Channel Feed on your website. Similarly, if you pick **Playlist,** then you need a **Playlist ID**.
 
-Let’s take a look at the features of YouTube Feed Type-
+## 1.Channel
 
-### **Feed Type**
+This feed type displays the latest videos from a specific YouTube account.
 
-Currently, we have five Feed Types; **Channel**, **Playlist**, **Search**, **Specific Videos**, and **Live Streams**. You can select any Feed Type; for example, if you select **Channel**, then you need a **Channel ID** to fetch the YouTube Channel Feed on your website. Similarly, if you pick **Playlist,** then you need a** Playlist ID**.
+### **How to Find Your Channel ID, Handle, or Username**
 
-However, for every Feed Type, you have a **Total Feed** section to fetch the videos.&nbsp;
+In your web browser, go to [YouTube.com](/http://YouTube.com). Search for the channel you want to display and click on its name to go to its main page. Look at the URL in your browser's address bar.
+**Copy** the correct part of the URL based on its format:
 
-![](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube_total_feed.png)
+### Channel Handle
 
-_Total Feed_
+To find a Channel Handle:
+ * **URL:** https://www.youtube.com/@yourchannel
+ * **Copy and paste:** @yourchannel
 
-Adjust your video amount by clicking on the arrow sign. Once you are done, click on **Fetch Videos** to display the videos on your YouTube Feed.
+![Channel Handle](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/channel-handle.webp)
 
-In the next step, I will guide you on how to obtain the **Feed Type IDs**.
+After copying the channel handle, go to your **YouTube Template Source** options and paste the **Channel Handle** that you copied before. Then, click the **Save** button.
 
-### **Channel ID**
+![Paste Channel Handle](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/paste-channel-handle.webp)
 
-To obtain a Channel ID, you first need to visit YouTube.com and select any Channel. To require a **Channel ID,** you have two choices.
+### Channel ID
 
-### **Step 1**
+To find a Channel ID:
+ * **URL:** https://www.youtube.com/channel/UCibcXdeKy8e04hYWf0Gz7ow
+ * **Copy and paste:** UCibcXdeKy8e04hYWf0Gz7ow
 
-Here, I will explain how you can obtain a Channel ID from your Channel. To start off, go to your Channel and then click on **Settings**.
+Go to any YouTube channel page. Look at the **URL** in your browser. The **ID** is the long string of letters and numbers after youtube.com/channel/. Example: https://www.youtube.com/channel/UCiyeXfnGx9e06hXWf0Hz7ow.
+**Copy** this ID.
 
-![youtube channel id settings](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id-settings.png)
+![Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/channel-id.webp)
 
-_Channel ID | Settings_
+Now, **paste** it to insert the **Channel URL** and click on the Fetch Videos to fetch the Channel Videos. Then, click the **Save** button.
+Note that you are to select the URL after the channel, and the ID will look like “UCiyeXfnGx9e06hXWf0Hz7ow”.
 
-Next, from Settings, you will find **View Advanced Settings**. Click to require the Channel ID.
+![Youtube Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/paste-channel-id.webp)
 
-![Obtaining Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/obtaining-channel-id.png)
+### **Channel Username**
 
-_Obtaining Channel ID_
+To find a Username (for older channels):
+ * **URL:** https://www.youtube.com/user/your_user_name
+ * **Copy and paste:** your_user_name
 
-Copy and Paste it to insert on the Channel ID and click on the **Fetch Videos** to fetch the **Channel Videos**.
+### 2. Playlist
 
-![youtube channel id](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id.png)
+This feed type displays all videos from a single YouTube playlist.
+ * **Feed Type:** Select Playlist.
+ * **Playlist ID:** You must paste in the ID of the playlist.
+ * **Total Feeds:** Set the number of videos you want to retrieve (e.g., "10").
 
-_Channel ID_
+Similar to Channel, to fetch the Playlist, you need the Playlist ID. You can do it in the following two steps:
 
-Once you are done, click on the **Save Template** button.
+#### Step 1
 
-### **Step 2**
+To add **Playlist ID** from your Channel, click on your Channel and then click on the **YouTube Studio**.
 
-For demonstration purposes, I will go with **WP Manage Ninja**. To understand more, see the screenshots below-
+![Youtube Studio](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/yotube-studio.webp)
 
-![Obtaining Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/obtaining-channel-id-2.png)
+This will take you to the **Channel Dashboard**. From the left side, click on the **Playlists** to collect the **URL**.
 
-_Obtaining Channel ID_
-
-As you can see the URL, copy the selected **URL**, and paste it to insert the Channel ID. Don’t forget to click on the **Fetch Videos**.&nbsp;
-
-Note that, you are to select the URL after the** channel/** and the ID will look like “**UCiyeXfnGx9e06hXWf0Hz7ow”.**
-
-![Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-channel-id.png)
-
-_Channel ID_
-
-Now click on the **Save Template** button.
-
-### **Playlist ID**
-
-Similar to **Channel ID**, to fetch the **Playlist,** you need the **Playlist ID**. You can do it in the following two steps-
-
-### **Step 1**
-
-To add **Playlist ID** from your Channel, click on your Channel and then click on the **YouTube Studio.**
-
-![youtube studio](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-studio.png)
-
-_YouTube Studio_
-
-This will take you to the** Channel Dashboard. **From the left side, click on the** Playlists** to collect the** URL.**
-
-![youtube playlist url](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-playlist-url.png)
-
-_Playlist URL_
-
-Now copy the selected** URL** and insert it on the** Playlist ID. **Next, click on the** Fetch Videos button.&nbsp;**
-
-Make sure you select the URL after the** list=** and the ID will look like “**PLXpD0vT4thWEu4gAkLE0Eq7PRCFp_8j2z”.**
-
-![](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/image-7.png)
-
-_Playlist ID_
-
-After you have completed it, don't forget to click on the** Save Template** button.
-
-### **Step 2**
-
-Go to the YouTube channel and click on the **Playlists** to obtain the **Playlist ID**.
-
-![youtube playlists](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-playlists.png)
-
-_Playlists_
+![Copy URL](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/yotube-studio.webp)
 
 This will take you straight to the **WPManageNinja Channel Playlists**. Next, click the Playlist that you want to display on your website.
 
-![Playlist URL](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/playlist-url.png)
+![Playlist URL](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/youtube-playlist-url.webp)
 
-_Playlist URL_
+Now copy the selected **URL** and insert it on the **Playlist ID**. Next, click on the **Fetch Videos** button. 
 
-In the screenshot, you can see the URL. Now copy the selected **URL** and insert it on the **Playlist ID**. Make sure you click on the **Fetch Videos**.
+Make sure you select the URL after the list= and the ID will look like “PLXpD0vT4thWEu4gAkLE0Eq7PRCFp_8j2z”. After you have completed it, don’t forget to click on the **Save** button.
 
-Remember, select the URL after the** list=** and the ID will look like “**PLXpD0vT4thWF0mLcvKKSbt281wt1bMcfP”.**
+![Paste the Playlist ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/paste-playlist-id.webp)
 
-![Playlist ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/playlist-id.png)
+#### Step 2
 
-_Playlist ID_
+Go to the YouTube channel and click on the **Playlists** to obtain the **Playlist ID**.
 
-To preserve your settings, click on the **Save Template** button.
+![Playlist ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/playlist.webp)
 
-### **Search Term**
+This will take you straight to the **WPManageNinja Channel Playlists**. Next, click the **Playlist** that you want to display on your website.
+
+In the screenshot, you can see the **URL**. Now copy the selected URL and insert it on the **Playlist ID**. Make sure you click on the **Fetch Videos**.
+
+![Playlist URL](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/playlist-url1.webp)
+
+Remember, select the URL after the list= and the ID will look like “**PLXpD0vT4thWF0mLcvKKSbt281wt1bMcfP**”. After that, click to the **Save** button.
+![Playlist URL](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/save-playlist.webp)
+
+### 3. Search Term
+
+This feed type displays videos that match a specific search keyword.
+ * **Feed Type:** Select Search.
+ * **Search Term:** Enter the keyword you want to search for (e.g., "WordPress Plugins"). The feed will show the top results for this term.
 
 Once you select the **Search Feed, Search Term** will automatically appear. In this field, you need to fill up with the search term in order to fetch the videos to your YouTube feed.
 
-For example, if you put **Plugin** on the Search Term and click on the **Fetch Videos**. The search result will display all the Plugin related videos.
+For example, if you put **NinjaTables** on the Search Term and click on the **Fetch Videos**. The search result will display all the Ninjatables related videos. After that, click to the **Save** button.
 
-![](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube_search_term-1024x474.png)
+![Search Term](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/search-term.webp)
 
-_Search Term_
+### 4. Specific Videos
 
-To move on to the next field, click on the **Save Template** button.
+This feed type lets you hand-pick one or more specific videos to display.
+ * **Feed Type:** Select Specific Videos.
+ * **Video ID:** Paste in the ID of the video you want to show.
 
-### **Specific Videos**
+#### How to Find a Video ID
 
 Now it’s time to select the **Feed Type: Specific Videos**. Similar to Search Feed, once you select the **Specific Videos,** the** Video ID** menu will appear.
 
@@ -147,34 +129,29 @@ However, you can also add multiple videos to your Feed. To do that, add more vid
 
 For demonstration purposes, we will go with a single **Video ID**.
 
-![Obtain Video ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/obtain-video-id.png)
-
-_Obtain Video ID_
+![Obtain Video ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/obtain-video-id.webp)
 
 From the **Video URL,** copy the selected **URL** and paste it to insert it on the** video ID**. After you have pasted the Video ID, click on the** Fetch Videos** to display the videos on the YouTube Feed.
 
-Keep in mind, only select the ID after the** v= ** and the Video ID looks like “** nn0q2FOPfUA**”.
+Keep in mind, only select the ID after the** v= ** and the Video ID looks like “** nn0q2FOPfUA**”. Click to the **Save** button.
 
-![youtube video id](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/R-2020-09-30-12-17-44-1024x373.png)
+> [!NOTE]
+> To add multiple videos, paste in multiple Video IDs separated by a comma (e.g., nn0q2FOPfUA,rE8j6zFjKac).
 
-_Video ID_
+![youtube video id](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/video-id1.webp)
 
-Click on the **Save Template** button and move on to the next step.
+### 5. Live Streams
 
-### **Live Streams**
+This feed type allows you to display upcoming, live, or completed live streams from a specific channel.
+ * **Feed Type:** Select Live Streams.
+ * **Channel ID:** **Paste** in the Channel ID of the channel (see the "Channel" section above for how to find this).
+ * **Event Type:** Choose what you want to show:
+   * **Completed:** Show recently finished live streams.
+   * **Upcoming:** Show scheduled live streams.
+   * **Live:** Will only show a video if one is currently live.
+   * **None:** Will not filter by event type.
 
-Our last **Feed type** is **Live Streams**. To fetch Live Streams feed on your website, you need a Channel ID. Next, you have to select an **Event Type**. We have four types at the moment; **None, Completed**, **Upcoming**, and **Live**.
+After you have configured your feed type, you can continue to the **Filters** and **Settings** tabs to customize the layout. Click the **Save** button when you are finished.
 
-To fetch **Live Videos Event Type** on your Feed, you need the Channel ID. For example, if you select **Completed, ** you will need the** Channel ID** to fetch the videos. Previously we have already discussed how to integrate the Channel ID.
+![youtube live streams](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/youtube-live-streams.webp)
 
-![youtube live streams](/guide/public/images/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2/youtube-live-streams.png)
-
-_Live Streams_
-
-You can find the **Completed Live Videos** from your YouTube Channel or YouTube **Recent Live Streams. **Select any video to fetch on your YouTube Feed.
-
-However, all the **Live Streams Event Type** has a similar integration process. So you can select any Event Type; **Upcoming** or **Live.** Follow the above-mentioned steps to fetch **Upcoming** or **Live Streams.** Select the **Event Type** as **None** if you do not need any event type. Once you are done don't forget to click on the **Save Templates** button.
-
-So there you go! Select any Feed Type that suits your brand.
-
-Also, check out - **[YouTube Configuration](./youtube-configuration-youtube-feeds-wp-social-ninja)**

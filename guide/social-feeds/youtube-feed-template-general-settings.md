@@ -51,8 +51,26 @@ This section controls the foundational layout and visual structure of your YouTu
 * **Number of Columns:** Set the number of columns for Desktop, Tablet, and Mobile.
 * **Columns Gap:** This controls the space (in pixels) between each video.
 
-
 ![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/template.webp)
+
+#### Carousel Settings
+
+When you set your Layout Type to **Carousel** in the **Template** section, this new panel appears. It allows you to customize the behavior and controls of the carousel slider.
+
+![carousel Template](/guide/public/images/social-feeds/youtube-feed-template/select-carousel.webp)
+
+* **Autoplay:** This toggle enables or disables the automatic sliding of the carousel. Turn it **ON** if you want the carousel to slide automatically.
+* **Autoplay Speed:** This field sets the time (in milliseconds) between each automatic slide. For example, 3000 equals 3 seconds.
+* **Items To Show:** Use the slider to set how many video items are visible at one time in the carousel viewport (e.g., 3).
+* **Items To Scroll:** Use the slider to set how many items the carousel should slide at one time (e.g., 1)
+* **Navigation Type:** Displays clickable left/right arrows.
+  * **Dots:** Displays clickable dots at the bottom.
+  * **Arrows and Dots:** Displays both.
+  * **None:** Hides all navigation controls.
+
+* **Space Between:** This slider controls the amount of empty space (in px) between each video slide in the carousel.
+
+![carousel Template Settings](/guide/public/images/social-feeds/youtube-feed-template/carousel-settings.webp)
 
 ### 3. Filters
 

@@ -29,7 +29,9 @@ This button will immediately clear all stored YouTube feed cache from your websi
 
 **Use Case:** Click this button if your feeds are not showing new videos and you want to force the plugin to fetch the latest content from YouTube immediately.
 
-### This toggle enables or disables image optimization for your YouTube feeds.
+### Optimize Image
+
+This toggle enables or disables image optimization for your YouTube feeds.
 
 > [!NOTE]
 > As the setting explains, if you enable this, your page will load faster. However, videos will not play directly in the feed, and carousel posts will only show the first image.

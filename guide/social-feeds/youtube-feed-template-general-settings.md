@@ -23,7 +23,7 @@ Here is a breakdown of each section within the **General** tab.
 
 ### 1. Source
 
-This is the most important setting. It tells the template what content to fetch from YouTube.
+This section is the most important setting in your template. It controls what content to fetch from YouTube by defining the video source and the total number of videos to retrieve.
 
 * **Feed Type:** This dropdown lets you choose the kind of content to display.
     * **Channel:** Shows the latest videos from a specific YouTube account.
@@ -41,14 +41,12 @@ This is the most important setting. It tells the template what content to fetch 
 
 ### 2. Template
 
-This section controls the visual structure of your feed.
+This section controls the foundational layout and visual structure of your YouTube feed. It allows you to set the layout type, choose a pre-designed skin, and define the responsive column structure.
 
-* **Layout Type:** This is the main structure.
+* **Layout Type:** This dropdown lets you choose the main structure for your feed. As shown in the image, the options are:
+
     * **Grid:** A clean, multi-column grid where all video boxes are the same height.
     * **Carousel:** A horizontal slider.
-    * **Masonry:** A "Pinterest-style" grid where video boxes have variable heights.
-    * **Slider:** A layout that shows one video at a time.
-    * **Timeline:** A single-column feed.
 * **Template:** These are pre-designed visual "skins" (e.g., Vega, Sirius, Polaris, Rigel).
 * **Number of Columns:** Set the number of columns for Desktop, Tablet, and Mobile.
 * **Columns Gap:** This controls the space (in pixels) between each video.
@@ -58,58 +56,72 @@ This section controls the visual structure of your feed.
 
 ### 3. Filters
 
-Filters refine your feed to show only what you want.
+The Filters section helps you control which videos appear in your YouTube feed and how they’re displayed. You can refine, sort, or exclude content to ensure your feed only shows the most relevant videos.
 
-* **Number of Feeds to Display:** The number of videos a visitor sees when the page first loads.
-* **Post Order:** This lets you sort your videos.
-    * **Descending:** Shows newest videos first (most common).
-    * **Ascending:** Shows the oldest videos first.
-    * **Random:** Shuffles the videos.
-* **Cache Settings:** Set how often the plugin checks YouTube for new videos (e.g., 6 Hours, 1 Day).
+**Options Explained:**
+
+* **Number of Videos to Display:** Set how many videos are shown when the feed first loads. You can increase or decrease the count to adjust the layout.
+* **Posts Order:** Choose how your videos are sorted in the feed.
+    * **Newest (Descending):** Displays the latest videos first (default).
+    * **Oldest (Ascending):** Displays the oldest videos first.
+    * **Random:** Shuffles video order for a varied feed each time the page loads.
+* **Show Posts Containing These Words or Hashtags:** Enter specific keywords or hashtags to only show videos that include them in their title or description. This is useful for focusing on a topic, campaign, or product-related videos.
+* **Hide Posts Containing These Words or Hashtags:** Add keywords or hashtags to exclude videos that contain those terms. Perfect for filtering out unrelated or off-topic content.
+* **Hide Specific Videos:** Enter the YouTube video IDs of any videos you don’t want displayed in your feed. This gives you precise control over what appears publicly.
+* **Cache Settings (Optional):** Set how often the plugin refreshes data from YouTube. You can choose time intervals like 6 hours, 12 hours, or 1 day to balance performance and freshness.
 
 ![Filter settings](/guide/public/images/social-feeds/youtube-feed-template/filter.webp)
 
 ### 4. Video
 
-This section controls the content inside each video post.
+This section controls how individual video posts appear in your YouTube feed. It allows you to customize which video elements are shown and how the videos play when clicked.
 
-* **Display Player:** Toggles the video thumbnail.
-* **Display Video Name:** Toggles the video's title.
-* **Display Description:** Toggles the text description.
-* **Display Date:** Toggles the publish date.
-* **Display Call To Action Button:** Toggles the "Watch Now" button.
-* **Display Views:** Toggles the video's view count.
-* **Display Like:** Toggles the video's like count.
-* **Display Comments:** Toggles the video's comment count.
+**Options Explained:**
+
+* **Play Mode:** Determines how videos are played when a visitor clicks on them.
+    * **Popup:** Opens the video in a pop-up lightbox on your website (default and recommended for the best user experience).
+    * **In-line:** Plays the video directly inside the feed layout.
+    * **YouTube Player:** Redirects the visitor to watch the video on YouTube.
+    * *(Gallery mode available in Pro version)*
+* **Display Title:** Toggles the visibility of each video’s title.
+* **Trim Title Words:** Allows you to limit how many words appear in the video title (helpful for keeping your layout neat).
+* **Display Play Icon:** Enables or disables the play button overlay on the video thumbnail.
+* **Display Duration:** Shows or hides the video’s total length.
+* **Display Date:** Displays the date when the video was published.
+* **Display Views Counter:** Shows the total number of views for each video.
+* **Display Likes Counter:** Displays the total number of likes *(available in Pro version)*.
+* **Display Comments Counter:** Displays the number of comments on the video *(available in
+    Pro version)*.
+* **Display Description:** Shows a short text description for each video, if available.
+* **Display Channel Name:** Toggles the visibility of the YouTube channel name under each video.
+* **Display Call To Action Button:** Adds a “Watch Now” button below the video, encouraging viewers to engage.
 
 ![Video content display settings](/guide/public/images/social-feeds/youtube-feed-template/video.webp)
 
-#### Play Mode
-
-This setting controls what happens when a visitor clicks a video.
-
-* **Popup:** (Default) The video opens in a pop-up lightbox on your website. This is the best user experience as it keeps visitors on your page.
-* **In-line:** The video player loads directly inside the feed's grid.
-* **YouTube Player:** The visitor is sent to the official YouTube website.
 
 ### 5. Header
 
-This section controls the large banner at the top of your entire feed.
+This section controls the main banner area that appears at the top of your entire YouTube feed. It allows you to customize how the channel header looks and what information is displayed.
 
-* **Show Header:** This is the master switch to turn the entire header on or off.
-* **Display Channel Logo:** Toggles your channel's profile picture.
-* **Display Channel Name:** Toggles your channel's name.
-* **Display Banner:** Toggles your channel's large banner image.
-* **Display Subscriber:** Toggles your channel's subscriber count.
-* **Display Subscribe Button:** Toggles a "Subscribe" button in the header.
+* **Show Header:** This is the main toggle that enables or disables the entire header section. Turn it off to hide the banner, logo, and all channel info.
+* **Display Banner:** Toggles the large channel banner image at the top of the header. You can also upload a custom banner image if desired.
+* **Display Logo:** Enables or disables the channel’s profile image (logo) within the header section.
+* **Display Name:** Shows or hides the YouTube channel’s name under the logo.
+* **Display Subscriber Counter:** Displays the total number of subscribers for the connected YouTube channel.
+* **Display Videos Counter:** Displays the total count of videos available on the channel.
+* **Display Views Counter:** Displays the total number of views across the entire channel.
+* **Display Description:** Enables the short description or channel bio text (if available).
+* **Display Subscribe Button:** Shows or hides a “Subscribe” button within the header, allowing users to subscribe directly from the feed.
+* **Upload Custom Banner:** Allows you to manually upload your own banner image to replace the default YouTube channel banner.
 
 ![Header settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/header.webp)
 
-### 6. Follow Button
+### 6. Subscribe Button
 
 This adds a "Follow" button at the top or bottom of your feed.
 
-* **Button Position:** Choose where the button appears: **Top** or **Bottom**.
+* **Display Subscribe button:** click to the toogle button to show the subscribe button.
+* **Subscribe Button Position:** Choose where the button appears from the dropdown options: **Header** **Footer** or **Both**.
 * **Button Text:** Customize the text on the button (e.g., "Follow Us on YouTube").
 
 ![Subscribe Button settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/subscribe-button.webp)
@@ -121,8 +133,8 @@ Pagination controls what happens when a visitor reaches the end of the first set
 * **Pagination Type:**
     * **None:** The feed will only show the "Number of Feeds to Display." No more videos can be loaded.
     * **Load More:** This adds a button at the bottom of your feed.
-* **Videos Per Page:** This number controls how many new videos are loaded each time the "Load More" button is clicked.
-* **Button Text:** Change the text for the button (e.g., "Load More Videos").
+    * **Prev Next:** This button allows the user to move forward or backward to the immediately following page in the sequence. 
+
 
 > **Example:**
 > * You set **Number of Feeds to Display** (in Filters) to **8**.

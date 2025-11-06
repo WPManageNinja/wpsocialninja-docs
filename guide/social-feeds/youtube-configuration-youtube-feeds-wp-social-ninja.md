@@ -5,166 +5,98 @@ description: ""
 
 # YouTube Configuration
 
-WP Social Ninja has three separate platforms; Social Reviews, Social Feeds, and Social Chat. This delightful plugin has all the updated social platforms with useful features.
+The YouTube Feed feature in WP Social Ninja allows you to easily connect your YouTube channel and display your videos, playlists, and channel details directly on your WordPress website. Once connected, your YouTube content updates automatically, keeping your site fresh and engaging.
 
-Undoubtedly YouTube is the most prominent social site for the user today. It has 2 billion monthly active users. WP Social Ninja has Social Feeds with four platforms, and YouTube is one of them.
+In this guide, you’ll learn how to configure the YouTube platform and connect your channel using either of two methods: the **API Key (recommended for stability)** or **OAuth 2.0 (Connect via Google)**. Follow the steps below to complete the setup and start displaying your YouTube content on your site.
 
-## **YouTube Configuration**
+<iframe width="700" height="400" src="https://www.youtube.com/embed/l3zkXJuemak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To add **YouTube** to your website, you need to connect with the YouTube server to fetch the feeds from their repositories. **WP Social Ninja** has a simple way to connect with the YouTube feed on your website.
+## Configure the YouTube Platform
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WeYsuWrTnKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+To get started, you’ll first need to configure the YouTube platform.
 
-_WP Social Ninja: YouTube feed_
+From your WordPress dashboard, navigate to **WP Social Ninja → Platforms**. Click the **Social Feeds** tab. Find **YouTube** in the list and click the **Connect** button.
 
-To do that, you have to follow a few simple steps. Let’s see-
+A pop-up will appear with two connection types:
+* API Key (Recommended)
+* OAuth 2.0 (Connect Via Google)
 
-![Social Feeds | YouTube](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/Social_feeds-1.png)
+This guide will explain both methods.
 
-_Social Feeds | YouTube_
+![Connecting the YouTube platform in WP Social Ninja](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/access-youtube-feed.webp)
 
-YouTube configuration has three **Credentials Types; OAuth 2.0**, **[API Key](https://console.developers.google.com/apis/credentials?project=new-project-291004&folder=&organizationId=)**, and **Manually Connect a Primary Account**.
+## Method 1: API Key (Recommended)
 
-### **OAuth2.0**
+This is the most stable and recommended method. It requires you to create a free API Key from the Google Cloud Console.
 
-Select the credential type to start the configuration.
+### Get Your API Key from Google
 
-![Credential Type ( oAuth 2.0)](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_credential_type.png)
+Go to the [Google Cloud Console](https://console.cloud.google.com/) and log in with your Google account. In the top menu, click the **Select a Project** dropdown. Here, a pop-up appears; click **New Project**.
 
-_Credential Type ( oAuth 2.0)_
+![Creating a new project in Google Cloud Console](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/google-search-console.webp)
 
-Next, click on the **Sign In** and **Get Google Access Code** to get Access Code. This will take you to a new window.
+Enter a **Project name** (e.g., "WP Social Ninja") and click **Create**.
 
-![Sign In & Get Google Access Code](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_signin_access-2.png)
+![Create Project Name](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/new-project.webp)
 
-_Sign In & Get Google Access Code_
+Once the project is created, go to **APIs & Services → Credentials** from the main menu.
 
-Here, you need to select the Email associated with your YouTube account!
+![Navigating to Credentials in Google Cloud Console](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/api-service.webp)
 
-### **Step 1**
+Now, click the **+ Create Credentials** button at the top, and you will see an **API key** option.
 
-Continue with your YouTube account.
+![Creating a new API Key](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/api-keys.webp)
 
-![](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/choose_id_youtube.png)
+Here, a new pop-up arrives. Enter the name of your API key and click on the **Create** button.
 
-Choose your YouTube email account to continue with WP Social Ninja.
+![Create API Key](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/create-api-key.webp)
 
-### **Step 2**
+After that, a new pop-up will appear with your new key. Click the **Copy** icon.
 
-Click on the **Continue** button to grant access permission.
+![Copying the newly created API Key](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/copy-api-key.webp)
 
-![Continue Button](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/allow_youtube_id-1.png)
+In order to configure the YouTube Feed, you need to enable the **YouTube Data API v3** button; otherwise, the API Key will not work. Now, click on the **API Library** from the **APIs & Services** to enable the YouTube Data API v3.
 
-_Continue Button_
+![YouTube Data API v3 Library](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/api-library-new.webp)
 
-### **Step 3**
+From the API Library, scroll down and select the **YouTube Data API v3**.
 
-Now copy the **Access Code** and paste it into the YouTube Configuration page to configure YouTube Feed.
+![Selecting the YouTube Data API v3 from the API Library](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/youtube-data-api-v3.webp)
 
-![Copy the Access Code](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_access_code-1.png)
+### Add the API Key to WP Social Ninja
 
-_Copy the Access Code_
+Now, return to your WordPress dashboard and open the YouTube configuration pop-up. Select the **API Key (Recommended)** option. **Paste** your key into the **YouTube API Key** field. Click the **Save** button. Your YouTube account is now connected.
 
-### **Step 4**
+![Pasting the API Key into WP Social Ninja settings](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/save-api-key.webp)
 
-![](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtube_api_save-1.png)
+You will get a successful message like the screenshot below:
 
-_Save button_
+![YouTube connection success message](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/youtube-successful.webp)
 
-Click the **Save** button to complete the configuration process.
+## Method 2: OAuth 2.0 (Connect Via Google)
 
-![Successfully Connected](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/YouTube_configuration.png)
+<iframe width="700" height="400" src="https://www.youtube.com/embed/WeYsuWrTnKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Successfully Connected_
+This is a fast method that uses a temporary access code.
 
-And you've successfully configured **YouTube OAuth2.0**.
+First, select **OAuth 2.0 (Connect Via Google)** from the pop-up. Click the **Sign In and Get Google Access Code** button.
 
-### **API Key**
+![Selecting the OAuth 2.0 connection method](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/0auth2.webp)
 
-### **Step 1**
+A new Google pop-up window will appear. Choose the Google Account that manages your YouTube channel.
 
-Click on **YouTube** to start the configuration process.
+![Google account selection pop-up](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/choose-google-account.webp)
 
-For a more detailed configuration process, you can follow the steps below:
+Next, click the **Continue** button to permit WP Social Ninja.
 
-![Credential Type (API Key)](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-1.png)
+![Granting Google permissions to WP Social Ninja](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/sign-in-google-accounts.webp)
 
-_Credential Type (API Key)_
+Google will give you an **Access Code**. **Copy** this code.
 
-Click on the **API Key** to obtain the **YouTube API Key**.
+![Copying the Google Access Code](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/copy-access-key.webp)
 
-### **Step 2**
+Return to the WP Social Ninja dashboard, paste the code into the **Access Code** field, and click **Save**.
 
-First of all, go to [console.developers.google.com oauth](https://console.developers.google.com/apis/credentials?project=infra-fortress-289907&folder=&organizationId=). You need to create a **New Project** to acquire the API Key from the **Google APIs.**
+![Pasting the Access Code into WP Social Ninja](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/save-api-key1.webp)
 
-![youtube configuration select a project](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-3.png)
-
-_Select a Project_
-
-Click on the **New Project** to select or create a new one.
-
-![Youtube configuration |  Select/Create](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-4.png)
-
-_Select/Create_
-
-You can **Search projects and folders** or create a **New Project**. In order to create a New Project, click on it.
-
-![New project](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-5.png)
-
-_New Project_
-
-Put your **Project name** and click on the **Create** button. You will get a **Notification** with New Project.
-
-### **Step 4**
-
-Now, click on the **Credentials** from **APIs & Services** to get the **API Key.**
-
-![Create Credentials](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-6.png)
-
-_Create Credentials_
-
-Once you are done with the project, click the **Create Credentials** button to create API Key.
-
-![API Key](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/api-key.png)
-
-_API Key_
-
-Next, click on the API Key button.
-
-![API Key YouTube configuration](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/api-key-youtube-configuration.png)
-
-_**API Key created**_
-
-Congratulations! You have got your **YouTube API Key**.
-
-### **Step 5**
-
-In order to configure the **YouTube Feed**, you need to **enable** the YouTube Data API v3 button; otherwise, the API Key will not work. Now click on the **Library** to enable the **YouTube Data API v3**.
-
-![API credentials youtube configuration](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/image-7.png)
-
-_API credentials_
-
-From the **API Library** scroll down and select the **YouTube Data API v3**.
-
-![YouTube Data API v3](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtube-data-api-v3.png)
-
-_**YouTube Data API v3**_
-
-Now **Enable** the button.
-
-### **Step 6**
-
-In this step, copy and paste it to insert the **API Key** to configure **YouTube Feeds**.
-
-![YouTube Configuration](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja/youtubeconfiguration-2020-09-29-16-03-46.png)
-
-_YouTube Configuration_
-
-Now Click on the **Save** button to verify your **YouTube Social Feed**. And there you go! You have successfully managed to fetch the YouTube Social Feed.
-
-### **Manually Connect a Primary Account**
-
-In order to **Manually Connect a Primary Account,** you need the **Access Token**. However, you can easily connect with your YouTube Channel if you already have the Access Token.
-
-Also, check out - **[YouTube Feed Type](./youtube-feed-type-social-feeds-wp-social-ninja-2)**
+Now that your YouTube account is connected, that’s it.

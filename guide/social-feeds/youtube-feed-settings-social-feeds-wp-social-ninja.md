@@ -5,32 +5,37 @@ description: ""
 
 # YouTube Feed Settings
 
-WP Social Ninja now allows you to optimize **YouTube Thumbnail Images**, ensuring your site loads faster and performs better.
+The **YouTube Global Settings** panel allows you to control the default caching and image optimization settings for all of your YouTube feeds at once. These settings are located in the main plugin dashboard, not in the individual template editor.
 
-To enable this feature, go to **Settings**, then select **Feed Platform**, and click on **YouTube Settings**. Here, you’ll find options for managing your YouTube feed.
+## Access the Feed Settings
 
-#### **Check New Feeds Every**
+To find these settings, from your WordPress dashboard, navigate to **WP Social Ninja**→**Settings**. Click on the **Feed Platforms** tab. Then, select **YouTube Settings**. Here, you will find the **Feed Settings**.
 
-This option allows you to specify how frequently your YouTube feeds should be refreshed. Simply select the desired interval in days from the dropdown field.
+Here is a breakdown of each setting available in this panel.
 
-#### **Clear Cache**
+![Channel Handle](/guide/public/images/social-feeds/youtube-feed-settings/youtube-global-settings.webp)
 
-Use this option to clear the cache files associated with your YouTube feeds, ensuring updated and clean data is displayed.
+## YouTube Settings
 
-#### **Optimize Image**
+This section controls the main performance settings for all your YouTube feeds.
 
-In the YouTube Settings, toggle the **Optimize Images** option to enable it. Once activated, your YouTube thumbnail images will be displayed on your website in an optimized format.
+### Check New Feeds Every
 
-**Reset:** If you wish to reset the existing database of optimized YouTube thumbnail image files, click the **Reset** button located next to this option.
+This dropdown controls the default auto-sync schedule. It determines how often WP Social Ninja will check YouTube for new videos (e.g., 6 Hours, 1 Day, 1 Week). Setting a longer interval can improve your site's loading speed.
 
-Click on the **Save Settings** button to save your all changes.&nbsp;
+### Clear Cache
 
-![](/guide/public/images/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings--scaled.webp)
+This button will immediately clear all stored YouTube feed cache from your website.
 
-You can also customize the image size and resolution for your YouTube feed. To do this, go to the **Template** section of your YouTube feed.&nbsp;
+**Use Case:** Click this button if your feeds are not showing new videos and you want to force the plugin to fetch the latest content from YouTube immediately.
 
-Open your **YouTube Feed Template**, select **General** and scroll down to find the **Image Resolution** option. From here you can choose the resolution that best suits your needs.
+### This toggle enables or disables image optimization for your YouTube feeds.
 
-![](/guide/public/images/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja/Youtube-Settings-1-scaled.webp)
+> [!NOTE]
+> As the setting explains, if you enable this, your page will load faster. However, videos will not play directly in the feed, and carousel posts will only show the first image.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&amp;utm_medium=home&amp;utm_campaign=site#/).
+### Reset Local Images
+
+This button will clear all locally stored images associated with the YouTube platform.
+
+**Use Case:** You should click this if your images are not updating correctly or if you want to force the plugin to delete all stored images and fetch new ones from YouTube.

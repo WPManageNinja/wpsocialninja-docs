@@ -57,15 +57,16 @@ Follow these steps to add the code snippet:
 
 - Open **FluentSnippet** and click on the **Create Snippet** button.
 
-- In the code editor field, insert the following code:
-
-`php
+```php
 
 add_filter('wpsocialreviews/booking_header_request_cookie_set', function($headers) {
 
-    $headers['cookie'] = 'aws-waf-token=Cookie value goes here';    return $headers;
+    $headers['cookie'] = 'aws-waf-token=(Cookie value goes here)';    return $headers;
 
-});`
+});
+```
+
+- In the code editor field, insert the code above:
 
 - Replace **Cookie value goes here** with the **AWS-WAF-Token** value you copied earlier.
 

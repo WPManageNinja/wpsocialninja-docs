@@ -31,7 +31,7 @@ WP Social Ninja also allows you to enable email notifications for feed-related i
 
 After making all the desired changes, click the **Save Settings** button to apply them.
 
-![](/guide/public/images/management-settings/advanced-settings-social-feeds-wp-social-ninja/Social-Review-1-scaled.webp)
+![Advance Settings in General Settings](/guide/public/images/management-settings/advanced-settings-social-feeds-wp-social-ninja/advance-settings-1.webp)
 
 ### Image Resolution
 
@@ -39,6 +39,3 @@ You can customize the **Image Resolution** for your review images to enhance you
 
 You’ll see a dropdown menu, allowing you to choose your preferred image resolution based on your requirements and preferences.
 
-![](/guide/public/images/management-settings/advanced-settings-social-feeds-wp-social-ninja/Social-Review-2-scaled.webp)
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).

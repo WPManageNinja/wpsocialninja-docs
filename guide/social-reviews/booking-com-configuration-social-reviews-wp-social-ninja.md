@@ -19,7 +19,7 @@ You’ll need WP Social Ninja Pro to access and display Booking.com reviews on y
 
 Navigate to your **WP Social Ninja** dashboard and select **Platform** from the navigation bar. Locate the **Booking Platform** and click on the **Settings** icon to configure it.
 
-![booking review 1](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-1-scaled.webp)
+![booking review 1](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-1.webp)
 
 ## **Steps to Configure Booking.com Reviews**
 
@@ -41,7 +41,7 @@ In the Inspect mode, go to the **Application** tab and select **Cookies**.
 
 Search for the **AWS-WAF-Token** in the cookies list then copy the value of the AWS-WAF-Token cookie and save it for later use.
 
-![booking review 4](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-4-scaled.webp)
+![booking review 4](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-2.webp)
 
 ## **Add the AWS-WAF-Token in a Snippet**
 
@@ -72,24 +72,22 @@ add_filter('wpsocialreviews/booking_header_request_cookie_set', function($header
 
 - Save the snippet to apply the changes.
 
-![booking review 5](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-5-scaled.webp)
+![booking review 5](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-3.webp)
 
 ## **Business URL from Booking**
 
 Navigate to your business profile on Booking.com and copy the **Business URL** directly from the address bar of your browser.
 
-![booking review 6](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-6-scaled.webp)
+![booking review 6](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-4.webp)
 
 Next, return to your **WP Social Ninja Booking Configuration** and paste the **Booking.com Business Profile URL** you copied earlier. Click on the **Save** button, and you’ll see that your business has been successfully added.
 
-![booking review 2](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-2-scaled.webp)
+![booking review 2](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-5.webp)
 
 If you wish to add another business profile, simply click on the **Add More Business** button and repeat the same steps.
 
 To customize your **Booking.com Reviews Template**, click on the **Create a Template** button and start personalizing your template. Keep in mind, if you don't create a template, your reviews won’t be displayed, as the template won't be created automatically.
 
-![booking review 7](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/Booking-Review-7-scaled.webp)
+![booking review 7](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-6.webp)
 
-That's how you can easily fetch your **Booking.com** business profile reviews on your site using **WP Social Ninja**. If you have any further questions or need assistance with this process, feel free to [contact us](https://wpmanageninja.com/support-tickets/). We're here to help!
-
-Also, check out - **[AliExpress Reviews](./aliexpress-configuration-social-reviews-wp-social-ninja)**
+That's how you can easily fetch your **Booking.com** business profile reviews on your site using **WP Social Ninja**. 

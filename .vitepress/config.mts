@@ -189,14 +189,6 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/style-&-connection-settings"
                               },
                               {
-                                    "text": "Settings",
-                                    "link": "/guide/social-feeds/youtube-settings-social-feeds-wp-social-ninja"
-                              },
-                              {
-                                    "text": "Feed Layout",
-                                    "link": "/guide/social-feeds/youtube-feed-layout-social-feeds-wp-social-ninja"
-                              },
-                              {
                                     "text": "Feed Types",
                                     "link": "/guide/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2"
                               },

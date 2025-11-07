@@ -125,7 +125,7 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
                               },
                               {
-                                    "text": "Setup Guide",
+                                    "text": "Feed Template",
                                     "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
                               },
                               {

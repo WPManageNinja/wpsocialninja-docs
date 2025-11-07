@@ -129,6 +129,6 @@ The **Connection** tab is a simple shortcut. It allows you to connect a new Face
 
 ![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-5.webp)
 
-**Please Note:** The steps to connect a page here are identical to the main Facebook connection process.
+>**Please Note:** The steps to connect a page here are identical to the main Facebook connection process.
 
 For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja.md) documentation.

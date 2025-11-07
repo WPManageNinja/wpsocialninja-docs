@@ -1,350 +1,319 @@
 ---
-title: "All-in-One Configuration"
+title: "Social Chat Configuration"
 description: ""
 ---
 
-# All-in-One Configuration
+# Social Chat Configuration
 
-Have you thought about adding **Messenger Chat** or any other Social Chat platform to your WordPress site? The **All-in-One Chat** feature will definitely speed up the connection with the customers in the fastest way possible.
+Have you ever wanted to add Messenger, WhatsApp, or any other social chat platform directly to your WordPress website? With **WP Social Ninja’s Social Chat** feature, you can connect multiple chat channels in just a few clicks. It helps you communicate with visitors instantly and improve customer engagement.
 
-**WP Social Ninja** has an amazing feature to connect multiple Social Chats so you can communicate with the world in a minute. This process is extremely safe and doesn’t hamper your privacy. Let’s look at how you can attach the following platforms to your Page.
+This powerful feature allows you to integrate **popular chat platforms** like Messenger, WhatsApp, Telegram, Instagram, Twitter, Slack, and many more. The setup is secure, privacy-friendly, and designed to keep your communication seamless.
 
-## **Messenger Configuration**
+## Create a Widget & Add Channels
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/add_new_widget.png)
+You can create a widget and add a channel in two ways. Both ways are explained below:
 
-_Messenger Configuration_
+### Option 1
 
-To begin, click the **Create New Widget** button to add a new chat widget. Then click the **Add Channel** button to connect to the chat widget & select the Messenger icon.
+To get started, you first create a new chat widget template.
 
-![Add Channel](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/add_channel-1024x445-1.png)
+From your WordPress dashboard, navigate to **WP Social Ninja → Chat Widgets**. Click the **Click Here Create a Chat Widget** button. This will take you to the chat template editor.
 
-_Add Channel_
+![Create a new chat widget in WP Social Ninja](/guide/public/images/social-chat/social-chat-configuration/create-chat-widget.webp)
 
-Next, you need a **Facebook ID/username or Link** to insert in the box. Let's check how you can obtain that.
+Inside the editor, select the **Channels** options and click the **+Add New Channel** button.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_channel.png)
+![Add New Channel button in the chat editor](/guide/public/images/social-chat/social-chat-configuration/add-new-channel.webp)
 
-Login to your Facebook account. Suppose you need a User ID. The first thing you need to do is click on the profile & Go straight to the URL.
+A pop-up will appear showing all available chat platforms. You can now select a channel from the list to configure it.
 
-### **User ID**
+![Pop-up list of available chat channels](/guide/public/images/social-chat/social-chat-configuration/shows-all-social-chats%2003.webp)
 
-![Obtaining User ID](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/obtaining_user_id.png)
+### Option 2
 
-_Obtaining User ID_
+You can access this chat widget section directly from your WP Social Ninja dashboard. For this, click on the **Platforms**. Next, select the **Social Chats** and click on the **Choose Channel** button.
 
-Here, you can see the URL, **facebook.com/gutend3v**. In order to get the user's id, copy after the slash and paste it on the **Messenger Configuration**. For instance, **gutend3v**.
+![Accessing chat channels via the Platforms menu](/guide/public/images/social-chat/social-chat-configuration/social-chat-2.webp)
 
-![User ID Configuration ](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_userid.png)
+Here, a pop-up will appear showing all available chat platforms. You can now select a channel from the list to configure it.
 
-_User ID Configuration_
+![Pop-up list of available chat channels](/guide/public/images/social-chat/social-chat-configuration/choose-a-channel.webp)
 
-Now, click on the **Save** button, and you will get a Success notification. You can click on the **Edit** icon to edit the link or the **Delete** icon to delete it.
+## Configuring Your Chat Channels
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/msngr_success.png)
+Here is how to set up each available channel.
 
-### **Page ID**
+### Messenger
 
-Similarly, you need a **Page ID** or **Group ID** to configure. However, some IDs may vary, but the process is just the same. Let’s dive in.
+Select **Messenger** from the "Add Channel" list. In the **Facebook ID/username or Link** field, enter your Facebook Page ID, Group ID, or personal username. Click the **Save** button.
 
-![messenger configuration obtaining page id](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/obtaining_page_id.png)
+![Configuring the Messenger chat channel](/guide/public/images/social-chat/social-chat-configuration/copy-id-or-username.webp)
 
-_Obtaining Page ID_
+#### How to Find Your Facebook ID or Username
 
-Similar to **User ID**, you can click on the URL and copy the ID after the last slash. You can paste it into the Messenger Configuration and click on the Save button.
+Go to your Facebook Page, Group, or Profile. Look at the URL in your browser:
 
-## **WhatsApp Configuration**
+> For a Page: `facebook.com/YourPageName`
+>
+> For a User: `facebook.com/your.username`
 
-Ever considered adding WhatsApp Chat to your WordPress site? This will increase your business and open a network to connect with customers easily. Let's look at how you can attach **WhatsApp** to your Page.
+Copy the text that comes after `facebook.com/` and paste it into the field in the WP Social Ninja configuration field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field. Finally, click the **Save** button to apply your changes.
+![Messenger URL](/guide/public/images/social-chat/social-chat-configuration/enter%20fb%20url%2006.webp)
 
-First, click on the **Add Channel** button & tap the Whatsapp icon.
+> [!NOTE]
+> You can also connect your Facebook Chat Widget using your Page ID or Group ID.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_channel.png)
+Once connected, your Messenger chat widget will appear successfully. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Here, you need to provide your country & phone number, then Click **Save**. Now, the Whatsapp chat widget will be connected.
+![Messenger channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-messanger%2007.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_connect.png)
+### WhatsApp Configuration
 
-Click on the Whatsapp **icon** to take you to the Whatsapp chat page.
+You can add your WhatsApp chat easily by clicking a few times. It helps your business to reach. Adding a WhatsApp chat widget to your site is a great way to connect directly with your customers.
+To do this, click the **Add New Channel** button and select the **WhatsApp** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/whatsapp_icon.png)
+![Configuring the WhatsApp chat channel](/guide/public/images/social-chat/social-chat-configuration/whatsapp%20channel%2008.webp)
 
-## **Telegram Configuration**
+In the pop-up, enter your phone number, including your country code. If you want to customize the **Label Name**, enter your preferred name in the **Label** field. Then, click on the **Save** button.
 
-How about you add your Telegram account to your website to communicate with the customers? You can now connect your Telegram account and get in touch with the world in a few clicks. Let's take a look at the screenshots below to know how you can attach Telegram to your website.
+![Configuring the WhatsApp chat](/guide/public/images/social-chat/social-chat-configuration/whatsapp-connection.webp)
 
-Firstly, click on the **Add Channel** button & tap the Telegram icon.
+Once connected, a WhatsApp icon will appear on your website. You can edit or delete it at any time by clicking the **Edit** or **Delete** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_channel.png)
+![WhatsApp channel edit option](/guide/public/images/social-chat/social-chat-configuration/whatsapp-messanger%2009.webp)
 
-Here, you need to provide your **User ID/link** and Click on the **Save** button.
+When visitors click the icon, they will be redirected straight to a WhatsApp chat with you. This makes communication quick and convenient for both you and your customers.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_connect.png)
+![WhatsApp channel successfully added](/guide/public/images/social-chat/social-chat-configuration/whatsapp-message%20preview%2010.webp)
 
-Once you have successfully saved the Telegram User ID, click on the Telegram **icon** to take you to the Telegram Chat App.
+### Telegram Configuration
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/telegram_icon.png)
+If you want to communicate through Telegram, you can easily add it to your chat widget.
+First, click **Add New Channel** and select the **Telegram** icon.
 
-## **Instagram Configuration.**
+![Configuring the Telegram chat channel](/guide/public/images/social-chat/social-chat-configuration/telegram11.webp)
 
-Lack of proper communication can cause a loss of potential customers to your business. How about you add your Instagram account to your website to communicate with the customers?&nbsp; Let’s take a look at how you can attach Instagram to your website.&nbsp;
+Then, enter your **Telegram User ID or Profile Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-First, click on the **Add Channel** button &amp; tap the Instagram icon.
+![Configuring the Telegram chat channel](/guide/public/images/social-chat/social-chat-configuration/telegram-username%2012.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/instagram_channel.png)
+After saving, your Telegram chat button will appear on the website, allowing visitors to contact you directly through the Telegram app. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Then you need to provide your Instagram** username/link** and Click on the **Save** button.
+![Telegram channel successfully added](/guide/public/images/social-chat/social-chat-configuration/telegram-chat%2013.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/insta_connect.png)
+### Instagram Page Configuration
 
-Now, the Instagram chat widget will be connected. Click on the Instagram** icon** to take you to the Instagram chat page.
+You can also add your Instagram profile to your chat widget, allowing visitors to connect with you on this popular platform. First, click **Add New Channel** and select the **Instagram** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/insta_icon.png)
+![Configuring the Instagram chat channel](/guide/public/images/social-chat/social-chat-configuration/instagram-page%2014.webp)
 
-## **Twitter Configuration**
+Then, enter your **Instagram Username or Profile Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-First, click the **Add Channel** button to connect to the chat widget &amp; select the Twitter icon.
+![Configuring the Instagram page URL](/guide/public/images/social-chat/social-chat-configuration/instagram-page-connection%2015.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/WP-Social-Ninja-.png)
+After saving, your Instagram chat button will appear on the website, allowing visitors to see your profile or contact you directly. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Here, you need to provide your **Twitter username/link** and Click on the **Save** button.
+![Instagram channel successfully added](/guide/public/images/social-chat/social-chat-configuration/instagram-page%2016.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/twitter-connect.png)
+### Instagram DM (Pro) Configuration
 
-Now, click on the Twitter** icon** on the chat bubble to take you to the Twitter App page.
+For a more direct line of communication, you can add Instagram Direct Message (DM) to your chat widget. This Pro feature lets customers message you privately. First, click **Add New Channel** and select the **Instagram DM** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/twitter_icon.png)
+![Configuring the Instagram DM (Pro) chat channel](/guide/public/images/social-chat/social-chat-configuration/instagram-dm%2017.webp)
 
-## **Slack Configuration**
+Then, enter your **Instagram Username or Profile Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-First, click the **Add Channel** button to connect to the chat widget &amp; select the Slack icon.
+![Configuring the Instagram DM (Pro) Username](/guide/public/images/social-chat/social-chat-configuration/instagram-connection-dm%2018.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_channel.png)
+After saving, your Instagram DM chat button will appear on the website, allowing visitors to send you a direct message through the Instagram app. You can edit or delete it at any time by clicking the **Edit** or **Delete** icon.
 
-Here, you need to provide your **Slack username/link** and Click on the **Save** button.
+![Instagram DM channel successfully added](/guide/public/images/social-chat/social-chat-configuration/instagram-connection-dm%2018.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_connect.png)
+### Twitter Configuration
 
-Now, click the Slack** icon** on the chat bubble to take you to the Slack App page.
+Connect your Twitter account to let visitors start a conversation or follow you directly from the chat widget. First, click **Add New Channel** and select the **Twitter** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/slack_icon.png)
+![Configuring the Twitter chat channel](/guide/public/images/social-chat/social-chat-configuration/twitter%2020.webp)
 
-## **Skype Configuration**
+Then, enter your **Twitter Username or Profile Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-First, click the **Add Channel** button to connect to the chat widget &amp; select the Skype icon.
+![Configuring the Twitter Username or URL](/guide/public/images/social-chat/social-chat-configuration/twitter-connection%2021.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_channel.png)
+After saving, your Twitter chat button will appear on the website, allowing visitors to contact you directly on Twitter. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Here, you need to provide your **Skype username** and Click on the **Save** button.
+![Twitter channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-twitter%2022.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_connect.png)
+### Slack Configuration
 
-Now, click the Skype** icon** on the chat bubble to take you to the Skype App page.
+If your team uses Slack, you can add it to your chat widget to receive messages from visitors directly. First, click **Add New Channel** and select the **Slack** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/skype_icon.png)
+![Configuring the Slack chat channel](/guide/public/images/social-chat/social-chat-configuration/slack%2023.webp)
 
-## **Phone Configuration**
+Then, enter your **Slack Username or Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-First, click the **Add Channel** button to connect to the chat widget &amp; select the Phone icon.
+![Configuring the Slack chat channel URL](/guide/public/images/social-chat/social-chat-configuration/slack-username%2024.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_channel-1.png)
+After saving, your Slack chat button will appear on the website, allowing visitors to contact you directly through the Slack app. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Here, you need to provide your **Phone number** and Click on the **Save** button.
+![Slack channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-slack%2025.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_connect.png)
+### Microsoft Teams Configuration
 
-Now, click on the **Start Chat with, ** the button on the chat bubble to take you to the Phone page.
+You can add your Microsoft Teams account to your website to communicate with customers or colleagues. First, click **Add New Channel** and select the **Microsoft Teams** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/phone_icon.png)
+![Configuring the Microsoft Teams chat channel](/guide/public/images/social-chat/social-chat-configuration/microsoft-team%2026.webp)
 
-## **Added SMS chat widget. (Pro)**
+Then, enter your **Microsoft Teams URL** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-To add the SMS Chat Widget to your site, click the **Add Channel** button.
+![Configuring the Microsoft Teams URL ](/guide/public/images/social-chat/social-chat-configuration/microsoft-team-url%2027.webp)
 
-![sms chat widget 1](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/SMS-Chat-Widget-1.webp)
+After saving, your Microsoft Teams chat button will appear on the website, allowing visitors to contact you directly. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Now you'll see all the available channels for the chat widget. From the list, select the **SMS** channel.
+![Microsoft Teams channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-microsoft-team%2028.webp)
 
-![sms chat widget 2](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/SMS-Chat-Widget-2.png)
+### Phone Configuration
 
-Next, enter the phone number where you want to receive SMS messages. Make sure to include the country code for example, +880 followed by your number.
+Add a direct call button to your chat widget, allowing visitors to call you with a single click. First, click **Add New Channel** and select the **Phone** icon.
 
-If you'd like to customize the channel label, type your preferred label in the **Label** field.
+![Configuring the Phone chat channel](/guide/public/images/social-chat/social-chat-configuration/phone%2029.webp)
 
-Finally, click the **Save** button to apply your changes.
+In the pop-up, enter your **Phone number**, including your country code. If you want to customize the **Label Name**, enter your preferred name in the **Label** field. Then, click on the **Save** button.
 
-![sms chat widget 3](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/SMS-Chat-Widget-3.webp)
+![Configuring the Phone Number](/guide/public/images/social-chat/social-chat-configuration/phone-number%2030.webp)
 
-## **Email Configuration**
+After saving, your Phone icon will appear on the website. When visitors click the icon, it will prompt them to start a phone call with you. You can edit or delete it at any time by clicking the **Edit** or **Delete** icon.
 
-To configure Email, click the **Add Channel** button to connect to the chat widget &amp; select the **Email** icon.
+![Phone channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-phone-nuber%2031.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_channel.png)
+### SMS (Pro) Configuration
 
-Here, you need to provide your **Email Address** and Click on the **Save** button.
+You can add an SMS chat widget to your site, allowing customers to send you a text message directly. To do this, click the **Add New Channel** button and select the **SMS** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_connect.png)
+![Configuring the SMS (Pro) chat channel](/guide/public/images/social-chat/social-chat-configuration/sms%2032.webp)
 
-Now, click on the **Email** icon on the chat bubble to take you to the Email page.
+In the pop-up, enter the phone number where you want to receive messages, including your country code. If you want to customize the **Label Name**, enter your preferred name in the **Label** field. Then, click on the **Save** button.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/email_icon.png)
+![Configuring the SMS (Pro) ](/guide/public/images/social-chat/social-chat-configuration/sms-connection%2033.webp)
 
-## **WeChat Configuration**
+Once connected, an SMS icon will appear on your website. When visitors click the icon, it will open their phone's default messaging app, ready to send you a text. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
 
-To configure WeChat, click the **Add Channel** button to connect the chat widget &amp; select the WeChat icon.
+![SMS channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-sms%2034.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_channel.png)
+### Email Configuration
 
-Here, you need to provide your **WeChat User ID** and Click on the **Save** button.
+Add an Email channel to let visitors quickly send you a message directly to your inbox. First, click **Add New Channel** and select the **Email** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_connect.png)
+![Configuring the Email chat channel](/guide/public/images/social-chat/social-chat-configuration/email%2035.webp)
 
-Now, click on the **WeChat** icon on the chat bubble to take you to the WeChat page.
+Then, enter your **Email Address** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/wechat_icon.png)
+![Configuring the Email Address](/guide/public/images/social-chat/social-chat-configuration/email-connection%2036.webp)
 
-## **Added Instagram DM chat widget. (Pro)**
+After saving, your Email chat button will appear on the website. When clicked, it will open the visitor's default email client with your email address pre-filled. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-To add the Instagram Direct Message widget, click on the **Add Channel** button.
+![Email channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-email%2037.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-1.png)
+### WeChat Configuration
 
-Now, choose the **Instagram DM** channel from the list to add it as a widget.
+If you want to communicate through WeChat, you can easily add it to your chat widget. First, click **Add New Channel** and select the **WeChat** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-2.png)
+![Configuring the WeChat chat channel](/guide/public/images/social-chat/social-chat-configuration/wechat%2038.webp)
 
-Now, enter your Instagram **Username** or **Profile link** in the provided field.
+Then, enter your **WeChat User ID** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-If you’d like to update the label for your Instagram DM channel, you can do that in the Label field. Finally, click the **Save** button to apply your changes.
+![Configuring the WeChat user ID](/guide/public/images/social-chat/social-chat-configuration/wechat-connection%2039.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-3.png)
+After saving, your WeChat chat button will appear on the website, allowing visitors to contact you directly through the WeChat app. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
 
-## **Microsoft Teams**
+![WeChat channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-wechat%2040.webp)
 
-To add the **Microsoft Teams** widget, click on the **Add Channel** button.
+### Line Configuration
 
-![sms chat widget 1](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/SMS-Chat-Widget-1-1.webp)
+If you want to communicate through Line, you can easily add it to your chat widget. First, click **Add New Channel** and select the **Line** icon.
 
-Now, choose the **Microsoft Teams** channel from the list to add it as a widget.
+![Configuring the Line chat channel](/guide/public/images/social-chat/social-chat-configuration/line%2041.webp)
 
-![microsoft 0](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/Microsoft-0.webp)
+Then, enter your **Line ID or Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-Now, enter your Microsoft Teams URL as instructed
+![Configuring the Line ID or Link](/guide/public/images/social-chat/social-chat-configuration/line-connection%2042.webp)
 
-![example (1)](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/Example-1-1024x241.jpg)
+After saving, your Line chat button will appear on the website, allowing visitors to contact you directly through the Line app. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
 
-Hope you get the idea about the URL format now enter your Microsoft team URL:
+![Line channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-line%2043.webp)
 
-![microsoft 1](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/Microsoft-1.webp)
+### Snapchat Configuration
 
-## **Line Configuration**
+Connect your Snapchat account to let visitors add you or send you a message directly from the chat widget. First, click **Add New Channel** and select the **Snapchat** icon.
 
-First, click the **Add Channel** button to connect the chat widget &amp; select the Line icon.
+![Configuring the Snapchat chat channel](/guide/public/images/social-chat/social-chat-configuration/snapchat%2044.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_channel.png)
+Then, enter your **Snapchat Username** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-Here, you need to provide your **Line ID/link** and Click on the **Save** button.
+![Configuring the Snapchat Username](/guide/public/images/social-chat/social-chat-configuration/snapchat-connection%2045.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_connect.png)
+After saving, your Snapchat chat button will appear on the website, allowing visitors to connect with you on Snapchat. You can edit or delete it at any-time by clicking the **Edit or Delete** icon.
 
-Then click on the **Line** icon on the chat bubble to take you to the Line chat page.
+![Snapchat channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-snapchat%2046.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/line_icon.png)
+### LinkedIn Configuration
 
-## **Snapchat Configuration**
+To configure LinkedIn, you can easily add it to your chat widget to help build your professional network. First, click **Add New Channel** and select the **LinkedIn** icon.
 
-First, click the **Add Channel** button to connect to the chat widget &amp; select the Snapchat icon.
+![Configuring the LinkedIn chat channel](/guide/public/images/social-chat/social-chat-configuration/linkedIn%2047.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_channel.png)
+Then, enter your **LinkedIn username or Profile Link** in the input field. If you want to customize the **Label Name**, enter your preferred name in the **Label** field and click **Save**.
 
-Here, you need to provide your **Snapchat username** and Click on the **Save** button.
+![Configuring the LinkedIn Username or Link](/guide/public/images/social-chat/social-chat-configuration/linkedIn-connection%2048.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_connect.png)
+After saving, your LinkedIn chat button will appear on the website, allowing visitors to view your profile and connect. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
 
-Then click on the **Snapchat** icon on the chat bubble to take you to the Snapchat page.
+![LinkedIn channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-linkedIn%2049.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/snapchat_icon.png)
+### Viber Configuration
 
-## **Linkedin Configuration**
+You can add your Viber chat easily, helping your business reach customers on this platform. To do this, click the **Add New Channel** button and select the **Viber** icon.
 
-To configure Linkedin, click the **Add Channel** button to connect the chat widget &amp; select the Linkedin icon.
+![Configuring the Viber chat channel](/guide/public/images/social-chat/social-chat-configuration/viber%2050.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_channel.png)
+In the pop-up, enter your **Viber mobile number**, including your country code. If you want to customize the **Label Name**, enter your preferred name in the **Label** field. Then, click on the **Save** button.
 
-Here, you need to provide your **Linkedin username/link** and Click on the **Save** button.
+![Configuring the Viber Number](/guide/public/images/social-chat/social-chat-configuration/viber-connection%2051.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_connect.png)
+Once connected, a Viber icon will appear on your website. When visitors click the icon, they will be redirected straight to a Viber chat with you. You can edit or delete it at any time by clicking the Edit or Delete icon.
 
-Then click on the **Snapchat** icon on the chat bubble that will take you to the Linkedin page.
+![Viber channel successfully added](/guide/public/images/social-chat/social-chat-configuration/viber-edit%2052.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/linkedin_icon.png)
+### Fluent Forms Configuration
 
-## **Viber Configuration**
+You can embed a contact form directly into your chat widget using the Fluent Forms integration. This allows you to collect visitor information right from the chat box.
 
-To configure Viber, click the **Add Channel** button to connect the chat widget &amp; select the Viber icon.
+First, you must have the **Fluent Forms** plugin installed and have already created a form.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_channel.png)
+In your Fluent Forms plugin settings, find the form you want to use and copy its **Shortcode** (e.g., `[fluentform id="3"]`).
 
-Here, you need to provide your **Viber mobile number** and click on the **Save** button.
+![Fluent Forms shortcode](/guide/public/images/social-chat/social-chat-configuration/copy-shortcode%2053.webp)
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_connect.png)
+> [!NOTE]
+> In Fluent Forms Pro, you will find the Social Ninja Ratings field, which you can select for your website review.
 
-Then click on the **Viber** icon on the chat bubble that will take you to the Viber chat page.
+Now, go to WP Social Ninja chat editor, click **Add New Channel**, and select the **Fluent Forms** icon.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/viber_icon.png)
+![Configuring the Fluent Forms chat channel](/guide/public/images/social-chat/social-chat-configuration/fluent-forms%2054.webp)
 
-## Chat Widget Drag and Drop
+In the pop-up, paste your copied Fluent Form shortcode into the input field. If you want to customize the **Label Name** (e.g., "Contact Us"), enter your preferred name in the **Label** field. Then, click the **Save** button.
 
-WP Social Ninja now lets you reorder chat widgets effortlessly using the** drag-and-drop** feature. This makes organizing your chat widgets more convenient.
+![Configuring the Fluent Forms chat channel](/guide/public/images/social-chat/social-chat-configuration/fluent-forms-connection%2055.webp)
 
-To use this feature, go to the **Chat Widget Template** from the **Template Settings** in WP Social Ninja. Select the **Channels** section, where you'll see all the chat channels you've connected.&nbsp;
+After saving, a Fluent Forms icon will appear in your chat widget. When a visitor clicks it, the form will open directly inside the chat box, allowing them to send you a message. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
 
-Simply drag and drop the widgets to arrange them in your preferred order. Once you're done, click the **Save Template** button to apply your changes.
-
-With this feature, managing your chat widgets is quicker and more efficient!
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/Chat-Widget-1-scaled.webp)
-
-## **Fluent Forms Chat Widget**&nbsp;
-
-WP Social Ninja always comes up with awesome features.
-
-You already got to know how to connect Fluent Forms with WP Social Ninja to collect and embed reviews on your website. But, did you know, you can also integrate Fluent Forms with the social chat widget?
-
-The best part is collecting your visitors’ information without disturbing their scrolling.
-
-To do so, go to **Chat Widget** and click on **Add New Widget.**
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-4.png)
-
-Once you are in, go to the **Channels** and click on **Add Channel. **A new box will pop out. Scroll down a little bit and choose **Fluent Forms.**&nbsp;
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-5.png)
-
-To connect Fluent Forms with the social chat widget, you need to paste the** form's Shortcode** in the box. So, paste the copied Shortcode in the **Paste your Fluent Form shortcode** box.
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-6.png)
-
-Make sure to press the **Save** button.
-
-Now, go to **Template** settings, and choose your favorite **Layout Type. **You can also select a **Template Style** from 4 different styles.
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-7.png)
-
-Similarly, you can customize your **Chat Widget** according to your taste from the different options available in the settings bar.&nbsp;
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-8.png)
-
-After you are done styling your **Chat Widget**, make sure to click on **Save Template** Button to save the chat widget template.
-
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-9.png)
+![Configuring the Fluent Forms chat channel](/guide/public/images/social-chat/social-chat-configuration/edit-fluent-forms.webp)
 
 Now let’s look at how it looks on the front end if you pick Chatbox Layout Type. When you click on Chat Icon, a Chat Box will pop up. After that, when you click on the Fluent Forms icon, you will see a pop-up box named **Contact Us**.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-10.png)
+![Contact Us Form](/guide/public/images/social-chat/social-chat-configuration/image-10.webp)
 
 Now, if you choose **Only Icon** Layout Type, you can only see the Chat Icon on the frontend. But once you click the **Fluent Forms Icon**, a **Contact Us** box will pop up.
 
-![](/guide/public/images/social-chat/social-chat-widget-configuration-wp-social-ninja/image-11.png)
+![Fluent Forms Icon](/guide/public/images/social-chat/social-chat-configuration/image-11.webp)
 
 This is how easy it is to configure all the Social Chat platforms with just a few clicks!

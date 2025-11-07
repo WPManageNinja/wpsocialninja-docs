@@ -357,10 +357,6 @@ export default defineConfig({
                         "link": "/guide/social-chat/style-social-chat-wp-social-ninja"
                   },
                   {
-                        "text": "Template Layouts",
-                        "link": "/guide/social-chat/template-layout-social-chat-wp-social-ninja"
-                  },
-                  {
                         "text": "Custom Button Widget",
                         "link": "/guide/social-chat/how-to-add-custom-button-chat-widget-on-your-website"
                   }

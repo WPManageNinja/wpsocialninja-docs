@@ -20,6 +20,4 @@ We will go through the methods one by one.
 #### **Articles**
 
 - [Platforms](./all-platforms-of-wp-social-ninja)
-- [Reviews](../management-settings/all-reviews)
 - [Templates](../customization-design/all-templates)
-- [Settings](../management-settings/settings-of-wp-social-ninja)

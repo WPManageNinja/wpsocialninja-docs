@@ -435,20 +435,8 @@ export default defineConfig({
                         "link": "/guide/management-settings/advanced-settings-social-feeds-wp-social-ninja"
                   },
                   {
-                        "text": "General Settings",
-                        "link": "/guide/management-settings/settings-of-wp-social-ninja"
-                  },
-                  {
-                        "text": "Reviews Management",
-                        "link": "/guide/management-settings/all-reviews"
-                  },
-                  {
                         "text": "Manager Dashboard",
                         "link": "/guide/management-settings/manager-wp-social-ninja"
-                  },
-                  {
-                        "text": "Manual Sync",
-                        "link": "/guide/management-settings/how-to-sync-reviews-manually"
                   },
                   {
                         "text": "Translation Options",

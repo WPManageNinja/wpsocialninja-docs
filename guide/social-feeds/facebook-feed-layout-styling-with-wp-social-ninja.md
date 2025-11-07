@@ -3,218 +3,132 @@ title: "Facebook Feed Layout Settings"
 description: ""
 ---
 
-# Facebook Feed Layout Settings
+# Facebook Feed Template Styling & Connection
 
-**WP Social Ninja** always offers unique and customized **Social Feeds** options. The Facebook feed has an incredible formation that helps its customers change their **Facebook feed Layout**. As a result, you can show your brand identity in your way.
+This guide will walk you through all the options in the **Style** tab of the Facebook Feed template editor.
 
-## Facebook Feed Layout
+While the **General Settings** tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look.
 
-Let’s have a look at how to customize your Facebook feed Layout
+## 1. Feed Header
 
-### Source
+This section controls the complete visual design of the **Header** at the top of your feed. The header is the box that contains your main page information, like your cover photo, page name, description, and likes count.
 
-To change the layout, click on the **Source Button** and then on **Feed Type**. A drop-down menu will appear at the top of the right side of your dashboard.
+### User Name
 
-### Feed Type
+These settings control the appearance of your **Page Name** in the header.
 
-Currently, we have three Feed Types; **Timeline Feed**, **Videos**, and **Photos**. By changing the **Feed Type,** for example, if you select Videos, all the videos from your feed will appear on your site automatically.
+* **Text Color:** This opens a color picker that allows you to select the exact color of your Page Name text.
+* **Typography:** This opens a full set of font controls for your Page Name. You can change the **Font Family** (e.g., Arial, Roboto, etc.), **Font Size** (in pixels), **Font Weight** (e.g., Light, Regular, Bold), **Line Height**, and **Letter Spacing**.
+* **Bottom Spacing:** This controls the amount of empty space (in pixels) directly below your Page Name, pushing the content (like the description) further away from it.
 
-![Feed Type Settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/feed-type-settings-for-facebook-feed-layout-stylin.png)
+### Description
 
-_Feed Type_
+These settings control the appearance of your Page's "About" Text or biography, located in the header.
 
-Similarly, you can choose any **Feed Type** from this section and show your social presence on your website.
+* **Text Color:** This opens a color picker to set the color of the description text.
+* **Typography:** This opens the same set of font controls (Font Family, Size, Weight, etc.) specifically for your description text.
+* **Bottom Spacing:** This controls the amount of empty space (in pixels) directly below the description text, pushing the "Likes" count or other elements away from it.
 
-### Select Pages
+### Likes
 
-After selecting the Feed Type, you have to select the pages from the **Select Pages** option from where you want to collect your Facebook content.
+These settings control the appearance of the **Total Likes Counter** text in the header.
 
-![Select Pages for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Image-2.png)
+* **Text Color:** This opens a color picker to set the color of the "Likes" text.
+* **Typography:** This opens the full set of font controls (Font Family, Size, Weight, etc.) specifically for the "Likes" text.
 
-_Select Pages_
+### Box
 
-Here, we have selected the **WP Social Ninja** Facebook page. You can choose multiple pages from here.
+These settings control the overall container or "box" that holds all the header elements (your profile pic, user name, description, etc.).
 
-### Total Feed
+* **Background Color:** This allows you to set a background color for the entire header area. By default, it's usually transparent, but you could set it to white, light gray, or any brand color.
+* **Padding:** This is the "breathing room" *inside* the header box. It's the empty space between the border of the box and the content (like your profile picture and text). You can set the padding (in pixels) for the **Top**, **Right**, **Bottom**, and **Left** sides individually.
+* **Border Type:** This lets you choose the style of the border for the header box. You can select:
+    * Solid
+    * Dotted
+    * Dashed
+    * Double
+    * None (to have no border)
+* **Width:** This setting (which appears if you select a Border Type) lets you control the thickness of the border. You can set the thickness (in pixels) for the **Top**, **Right**, **Bottom**, and **Left** sides individually.
+* **Color:** This opens a color picker to set the color of the border itself.
 
-This input field will allow you to set how many posts to retrieve from Facebook. Here you have the option to show a maximum of 100 posts from the Facebook page.
+![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-1.webp)
 
-Once you select the page and set the number for **Total Feed**, Click on the **Fetch Feeds** button.
+## 2. Content
 
-![Fetch Feeds for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fetch-feeds-for-facebook-feed-layout-styling.png)
+This section of the Style tab controls the appearance of all the text inside each individual post card. This includes who posted it, when it was posted, and the post's main text.
 
-_Total Feed_
+### Author
 
-Now Facebook feed is ready to display on your website
+This styles the **Author's Name** (your Page Name) on each post.
 
-Note that you can fetch multiple pages simultaneously on your website.
+* **Text Color:** This opens a color picker to set the color of the Author's Name text.
+* **Typography:** This opens a full set of font controls for the Author's Name. You can change the **Font Family**, **Font Size**, **Font Weight**, **Line Height**, and **Letter Spacing**.
 
-### Template
+### Post Date
 
-The Facebook feed has several pretty Template features for you. Let’s check out.
+This styles the **Date** (e.g., "October 30, 2025") on each post.
 
-### Layout Type
+* **Text Color:** This opens a color picker to set the color of the date text.
+* **Typography:** This opens the full set of font controls (Font Family, Size, Weight, etc.) specifically for the date.
 
-TheTemplate has **Layout Types** to change your Facebook feed style on the right side. You can find a few options if you click on the drop-down menu.
+### Post Text
 
-Currently, we have **Timeline**, **Grid**, **Masonry**, and **Carousel**. You can select a template for layout, number of columns, and column gap.
+This styles the main description, or caption, of your Facebook post.
 
-![](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/pasted-image-0-1.png)
+* **Text Color:** This sets the color of the main body of your post's text.
+* **Typography:** This opens the full set of font controls for the post text, allowing you to make it larger, smaller, or easier to read.
+* **Link Color:** This is a special setting that controls the color of any clickable links inside your post, such as `#hashtags` or `@mentions`. This helps them stand out from the rest of the text.
+* **Read More Link Color:** This controls the color of the "Read More" link that appears if you have a long post (based on your settings in the General tab).
 
-_Layout Type_
+### Summary Card
 
-Select any **Layout Type** that suits your brand.
+This section styles the "link preview" box that appears when your Facebook post shares a link to another website. This box typically has a large image, a title, and a short description.
 
-### Carousel Setting
+* **Domain Color:** This sets the color of the small text that shows the website's address (e.g., "wpsocialninja.com").
+* **Typography (for Domain):** This controls the font settings for the domain text.
+* **Bottom Spacing (for Domain):** This adds a bit of empty space (in pixels) below the domain text, pushing it away from the title.
+* **Title Color:** This sets the color of the main (and largest) text in the summary card—the title of the article or page.
+* **Typography (for Title):** This controls the font settings for the title.
+* **Bottom Spacing (for Title):** This adds empty space (in pixels) below the title, pushing it away from the description.
+* **Description Color:** This sets the color of the small snippet of text (the description) in the summary card.
+* **Typography (for Description):** This controls the font settings for the description text.
 
-Suppose, If you select **Carousel** Layout Type, a new Setting will appear.
+![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-2.webp)
 
-![Carousel Settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Carousel-Settings.png)
+## 3. Like & Share Button
 
-_Carousel Settings_
+This section styles the main "Like Page" and "Share" buttons, which you can enable in the General tab. These are the buttons that usually appear in the Header or Footer of your entire feed.
 
-Right Now, we have five options for Carousel Settings; **Autoplay**, **Autoplay Speed**, **Slides To Show, Slides to Scroll, and Navigation Type**.
+* **Text Color:** This opens a color picker to set the color of the text on the buttons (e.g., "Like Page").
+* **Background Color:** This sets the main background color of the buttons themselves.
+* **Typography:** This opens the full set of font controls (Font Family, Size, Weight, etc.) for the button text.
+* **Padding:** This is the "breathing room" *inside* the button. It is the empty space between the button's text and its border. Increasing the padding makes the button look larger and easier to click.
 
-### Autoplay
+![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-3.webp)
 
-This section can help you display your Facebook posts in **Autoplay** mode.
+## 4. Item Box
 
-![Autoplay settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-settings.png)
+This is a very important section. The **Item Box** is the entire container or "card" that holds each individual post (including the author, text, image, etc.). These settings control the design of that main box.
 
-_Autoplay Settings_
+* **Background Color:** This sets the background color for the entire post card. By default, it's usually white or transparent, but you can set it to a light gray or any other color to match your brand.
+* **Padding:** This is the "breathing room" *inside* the post card. It's the empty space between the card's border and the content inside it (like the author's name and the post text). You can set the padding (in pixels) for the **Top**, **Right**, **Bottom**, and **Left** sides individually to get the spacing perfect.
+* **Border Type:** This lets you choose the style of the border for the post card. You can select:
+    * Solid
+    * Dotted
+    * Dashed
+    * Double
+    * None (to have no border)
+* **Width:** This setting (which appears if you select a Border Type) lets you control the thickness of the border. You can set the thickness (in pixels) for the **Top**, **Right**, **Bottom**, and **Left** sides individually.
+* **Color:** This opens a color picker to set the color of the border itself.
 
-Turn off the button if you don't want to use Autoplay.
+![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-4.webp)
 
-### Autoplay Speed
+## Connection Settings
 
-Next, you will find **Autoplay Speed**; you can set your autoplay speed limit. To increase the speed limit, simply up the speed limit by clicking the plus sign.
+The **Connection** tab is a simple shortcut. It allows you to connect a new Facebook Page or manually add one using a Page ID and Access Token, right from within the template editor.
 
-![Autoplay speed settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/autoplay-speed-settings.png)
+![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-5.webp)
 
-_Autoplay Speed Settings_
+**Please Note:** The steps to connect a page here are identical to the main Facebook connection process.
 
-Again to decrease the speed limit, turn down the speed limit by clicking the minus sign.
-
-### Slides to Show
-
-Here you can adjust the number of slides that will be displayed on your website.
-
-![Slides to show for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-show-for-facebook-feed-layout-settings.png)
-
-_Slides to Show_
-
-Now we have 3 Slides to Show. So, according to your wish, you can increase or decrease the slides from the **Slides to Show** option.
-
-### Slides to Scroll
-
-After Slides to Show, you can set your number of slides to scroll from the **Slides to Scroll** button.
-
-![Slides to scroll for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/slides-to-scroll-for-facebook-feed-layout-settings.png)
-
-_Slides to Scroll_
-
-You can adjust the number from the **Slides to Scroll** option from the settings panel. Here we picked digit three, so it scrolls three posts at a time and shows the following posts on your display.
-
-### Navigation Type
-
-Our navigation section has four options; **Arrows and Dots**, **Arrows**, **Dots**, and **None**.
-
-![Navigation Type for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/navigation-type-for-facebook-feed-layout-settings.png)
-
-_Navigation Type_
-
-In this Screenshot, we have selected Dots. But you can select any.
-
-Now let’s look at how it looks at the front end.
-
-![Facebook Feed Layout Style-Carousel](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/facebook-feed-layout-style-carousel.png)
-
-_Carousel Layout_
-
-Similarly, you can look stylish with the other 3 Layout Types.
-
-### Template Type
-
-Next, you have **Template Type;** select a style from the Settings Panel.
-
-![Template type for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Select-a-Template.png)
-
-_Template Type_
-
-Currently, we have only one **Template Type**.
-
-### Number of Columns
-
-In this section, you can change the **Number of Columns**.
-
-![Number of columns for Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Number-of-Columns-2.png)
-
-_Number of Columns_
-
-Here you can set the website columns you want to display. Right now, we have seven ways to sort the Number of Columns; **1 Column** to **6 Columns**. Select any that compliments your brand.
-
-### Columns Gap
-
-Next is **Columns Gap**; right now, we have five types of Columns Gaps available; **No Gap**, **Narrow**, **Small**, **Wide**, and **Wider**.
-
-![Column gap for layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Column-Gap.png)
-
-_Columns Gap_
-
-We have selected the Narrow option; you can select any.
-
-## Filters
-
-Once you click on the **Filters,** a drop-down menu will appear.
-
-![Filters settings for Facebook Feed Layout Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Filter.png)
-
-_Filters Setting_
-
-Let’s check out how it works.
-
-### Number of Feeds to Display
-
-This feature has various options to filter your Timeline, videos, and photos according to your requirements. You can adjust the **Number of Feeds to Display** by clicking the +/- icon.
-
-![Number of feeds to display for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/number-of-feeds-to-display-for-facebook-feed-layou.png)
-
-_Number of Feeds to Display_
-
-You can fetch up to 100 posts.
-
-### Post Order
-
-You can choose what order you want to display your posts using the **Posts Order** option. Currently, there are five options available; **Ascending**, **Descending**, **Most Popular**, **Least Popular**, and **Random**.
-
-![Post Order for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/post-order-for-facebook-feed-layout-settings.png)
-
-_Post Order_
-
-Choose any of them that you think will look good on your website.
-
-### Show/Hide Post
-
-Next is **Show posts containing these words or hashtags**; you can use this setting to show posts containing specific words or hashtags in the caption by separating multiple words or hashtags using commas.
-
-![Show or hide post for layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/Show-Hide-posts-2.png)
-
-_Show/Hide Post_
-
-Example: #SocialMedia. Moreover, with the **Hide posts containing these words or hashtags**, you can hide posts similarly by typing specific words or hashtags in the Hide post containing these words or hashtags. For instance, use #deal to hide all posts with that hashtag.
-
-### Hide Specific Feeds
-
-The **Hide Specific Feeds** option lets you hide a particular post by its Post ID. You can find the post's ID by clicking on the Facebook icon on the post and then copying & pasting the **ID Number** from the end of the URL.
-
-Example: https://www.facebook.com/229248910907303/posts/ **[247142819117912]**/
-
-![Hide specific feeds for Facebook Feed Layout settings](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/photo6282551996380721595.jpg)
-
-_Hide Specific Feeds_
-
-Make sure you select the ID Number correctly and copy and paste it into the **Hide Specific Feeds** field. The ID will look like **[247142819117912]**. After you have completed it, this will automatically update your feed.
-
-Once you’re done, don’t forget to click on the **Save** button, and you’ve successfully done styling your Facebook feed.
-
-Also, check out - **[Facebook Feed Configuration](./facebook-feed-integration-with-wp-social-ninja)**
+For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja.md) documentation.

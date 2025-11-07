@@ -20,7 +20,7 @@ This feed type displays the latest videos from a specific YouTube account.
 
 ### **How to Find Your Channel ID, Handle, or Username**
 
-In your web browser, go to [YouTube.com](/http://YouTube.com). Search for the channel you want to display and click on its name to go to its main page. Look at the URL in your browser's address bar.
+In your web browser, go to [YouTube.com](https://www.youtube.com). Search for the channel you want to display and click on its name to go to its main page. Look at the URL in your browser's address bar.
 **Copy** the correct part of the URL based on its format:
 
 ### Channel Handle

@@ -163,6 +163,10 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
                               },
                               {
+                                    "text": "Template Styling & Connection",
+                                    "link": "/guide/social-feeds/twitter-feed-template-styling-connection"
+                              },
+                              {
                                     "text": "Settings",
                                     "link": "/guide/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja"
                               }

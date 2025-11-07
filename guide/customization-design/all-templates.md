@@ -37,4 +37,4 @@ _Template_
 
 The best part is that the settings will not change and you can also resume your design at any point anytime.
 
-Also, check out these articles to know more about - **[Platforms](../getting-started/all-platforms-of-wp-social-ninja)**, **[Reviews](../management-settings/all-reviews)**
+Also, check out these articles to know more about - **[Platforms](../getting-started/all-platforms-of-wp-social-ninja)**

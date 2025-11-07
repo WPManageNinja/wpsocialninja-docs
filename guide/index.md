@@ -75,8 +75,6 @@ Make it match your brand perfectly:
 Configure and manage your plugin settings:
 
 - [Global Settings](./management-settings/advanced-settings-social-feeds-wp-social-ninja) - Advanced configuration
-- [General Settings](./management-settings/settings-of-wp-social-ninja) - Basic plugin settings
-- [Reviews Management](./management-settings/all-reviews) - Manage all reviews
 - [Manager Dashboard](./management-settings/manager-wp-social-ninja) - Administrative features
 - [Translation Options](./management-settings/translate-option-wp-social-ninja) - Multi-language support
 

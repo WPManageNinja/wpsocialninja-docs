@@ -1,36 +1,27 @@
 ---
-title: "Style"
+title: "Style Settings"
 description: ""
 ---
 
-# Style
+# Chat Widget: Style Settings
 
-## **Style**
+Want to make your chat widget perfectly match your website's brand? The **Style** tab gives you full control over the colors, helping you create a seamless and professional look for your visitors.
 
-Changing the styles of a Chat Body is a joyful task for sure. **WP Social Ninja** has various Styles to offer, so let's check it out.
+Customizing the appearance is simple. From your chat widget editor, just click the **Style** tab (located next to "General" and "Channels") to access all the color settings.
 
-### **Header Background Color**
+## Customizing Your Widget's Colors
 
-In this part, there are four color-changing sections; **Header Background Color**, **Header Title Color**, **Header Caption Color**, **Channel Icon Background Color** & **Bubble Button Background Color**.
+This section allows you to change the color of every part of your chat widget, from the header to the floating bubble button.
 
-![Style](/guide/public/images/social-chat/style-social-chat-wp-social-ninja/Style.png)
+To change a color, simply click the color swatch next to any setting. A color picker will pop up, allowing you to select your exact brand color or choose from the palette.
 
-_Style_
+![The Style tab in the Chat Widget settings](/guide/public/images/social-chat/style-social-chat-wp-social-ninja/style-settings.webp)
 
-First of all, if you want to change the **Header Background Color**, We have unlimited color options in the palette and you can pick any color according to your brand.
+ * **Header Background Color:** This changes the background color for the entire header section (the very top bar) of your chat window.
+ * **Header Title Color:** This sets the text color for the main title (your Profile/Page Name) in the header.
+ * **Header Caption Color:** This sets the text color for the smaller caption text (like "Typically replies in an hour") right below the title.
+ * **Channel Icon Background Color:** This controls the background color of the buttons for your individual chat channels (like WhatsApp, Messenger, etc.).
+ * **Bubble Button Background Color:** This changes the background color of the floating bubble button that appears on your website.
+ * **Close Button Color:** This sets the color of the 'X' (close) icon within the chat window header.
 
-![](/guide/public/images/social-chat/style-social-chat-wp-social-ninja/HEader-Color.png)
-
-_Header Background Color_
-
-Similarly, you can change the **Title**, **Caption**, **Background**, and **Close Button Color**.
-
-![Header Title Color](/guide/public/images/social-chat/style-social-chat-wp-social-ninja/Titel-Color.png)
-
-_Header Title Color_
-
-In this way, you can set up and customize your **Social Chat** to suit your brand perfectly. We have even more exciting features coming up for you!
-
-Moreover, this is a super-secure process. With **WP Social Ninja**, your personal credentials and privacy are absolutely safe.
-
-Also, check out - **[Add Custom Submit Button](./how-to-add-custom-button-chat-widget-on-your-website)**
+By adjusting these settings, you can ensure your chat widget doesn't just feel like a third-party tool, but a fully integrated part of your site.

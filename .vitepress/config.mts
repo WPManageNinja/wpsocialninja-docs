@@ -129,6 +129,10 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
                               },
                               {
+                                    "text": "Template Styling & Connection",
+                                    "link": "/guide/social-feeds/instagram-feed-template-styling-connection"
+                              },
+                              {
                                     "text": "Professional Account",
                                     "link": "/guide/social-feeds/convert-your-instagram-personal-account-into-professional-account"
                               },

@@ -51,17 +51,22 @@ export default defineConfig({
                         "collapsed": false,
                         "items": [
                               {
+                                    "text": "User Interface Guide",
+                                    "link": "/guide/getting-started/getting-started-with-the-user-interface-of-wp-social-ninja"
+                              },
+                              {
                                     "text": "Platform Overview",
                                     "link": "/guide/getting-started/all-platforms-of-wp-social-ninja"
                               },
                               {
-                                    "text": "Features Overview",
-                                    "link": "/guide/getting-started/what-wp-social-review-offers"
+                                    "text": "Templates Overview",
+                                    "link": "/guide/getting-started/templates-overview"
                               },
                               {
-                                    "text": "User Interface Guide",
-                                    "link": "/guide/getting-started/getting-started-with-the-user-interface-of-wp-social-ninja"
+                                    "text": "Features Overview",
+                                    "link": "/guide/getting-started/what-wp-social-review-offers"
                               }
+
                         ]
                   }
             ]

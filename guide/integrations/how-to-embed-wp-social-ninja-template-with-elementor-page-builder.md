@@ -19,7 +19,7 @@ The plugin includes several native widgets:
 ### Before You Begin
 
   * Make sure you have the **Elementor** plugin installed and activated.
-  * You must have already created and saved a template inside the WP Social Ninja dashboard (for example, an Instagram feed template). This process only loads existing templates.
+  * You must have already created and saved a template inside the **WP Social Ninja** dashboard (for example, an Instagram feed template). This process only loads existing templates.
 
 ## Add Your Template in Elementor
 
@@ -82,4 +82,4 @@ Common settings you'll use here include:
 
 ![The 'Advanced' tab options like Layout, Motion Effects, etc.](/guide/public/images/integrations/embed-wp-social-ninja-template-with-elementor-page-builder/advanced.webp)
 
-When you are finished, just click the "**Publish**" (or "**Update**") button at the bottom of the Elementor panel. That's it! Your live page will now display your social feed.
+When you are finished, just click the "**Publish**" (or "**Update**") button at the top corner of the Elementor panel. That's it! Your live page will now display your social feed.

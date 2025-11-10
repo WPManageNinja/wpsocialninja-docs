@@ -3,96 +3,79 @@ title: "How to Install, Upgrade and Activate License"
 description: ""
 ---
 
-# How to Install, Upgrade and Activate License
+# How to Install, Upgrade, and Activate a License
 
-WP Social Ninja is an all-in-one social media solution for your WordPress website. To install WP Social Ninja, go to your WordPress dashboard first. Or you can also download it from the **[WordPress](https://wordpress.org/plugins/wp-social-reviews/)** site and install it on your dashboard.
+This guide will show you how to install the WP Social Ninja plugin on your WordPress website. It covers installing the free version, uploading the Pro version, and activating your license key to unlock all premium features and receive updates.
 
-### Requirements
+<iframe width="700" height="400" src="https://www.youtube.com/embed/5gx14_umTZ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To use WP Social Ninja, you’ll need the following:
+## Requirements
 
-- WordPress version 5.6 or higher
+Before you begin, please ensure your WordPress environment meets the following minimum requirements:
+* **WordPress Version:** 5.6 or higher
+* **PHP Version:** 7.1 or higher
 
-- PHP version 7.1 or higher
+## How to Install WP Social Ninja (Free)
 
-### Installing and Activating WP Social Ninja
+You can install the free version directly from your WordPress dashboard.
 
-You can install WP Social Ninja free version like any other WordPress plugin. Follow the steps given below -
+1.  **Step 1: Go to Plugins:** From your WordPress dashboard, navigate to **Plugins** and click on **Add New**.
+2.  **Step 2: Search for a Plugin:** In the search box in the top-right corner, type "WP Social Ninja".
+3.  **Step 3: Install and Activate:** The plugin will appear in the search results. Click the **Install Now** button, and then click **Activate**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5gx14_umTZ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ ![Installing the free WP Social Ninja plugin from the WordPress repository](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/install-wp-social-ninja.webp)
 
-_How to upgrade to pro_
+## How to Install WP Social Ninja Pro
 
-- Go to the **WordPress Admin Dashboard → Plugins → Add New**
+After you purchase the Pro version, you must upload it to your website.
 
-- Type **WP Social Ninja** on the search box, click on **Install Now** button, and then **Activate**
+> [!NOTE]
+> You must have the free (core) version of WP Social Ninja (from the steps above) installed and activated before you install the Pro version.
 
-![Installing and Activating WP Social Ninja](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/installing-and-activating-wp-social-ninja.png)
+1.  **Step 1: Download the Pro Plugin:** Log in to your **[WPManageNinja Account](https://wpmanageninja.com/account/)** and download the WP Social Ninja Pro `.zip` file from your purchase history.
 
-_Installing and Activating WP Social Ninja_
+![Activate license](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/download-wpsocialninja.webp)
 
-### Alternative method
+2.  **Step 2: Upload Plugin:** From your WordPress dashboard, go to **Plugins > Add New**. At the top of the page, click the **Upload Plugin** button.
+3.  **Step 3: Install and Activate:** Click **Choose File** and select the `.zip` file you just downloaded. Click **Install Now**. After the plugin finishes installing, click the **Activate Plugin** button.
 
-Download the **.zip** file and upload this on the **Add New** page using the Upload Plugin button; then click **Install** & **Activate**.
+![Uploading the WP Social Ninja Pro zip file](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/upload-plugin.webp)
 
-![Alternative Method](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/add-plugins-wordpress.png)
+## How to Activate the License
 
-_Alternative Method_
+To unlock all pro features and receive automatic updates, you must activate your license key.
 
-### Installing WP Social Ninja Pro
+1.  **Step 1: Go to License Settings:** From your WordPress dashboard, navigate to **WP Social Ninja** and click on **Settings**. Select the **Others** tab, and then click the **License Settings** sub-tab.
 
-After a successful purchase, you can download the **Pro Version** from your **WPManageNinja** Account.
+2.  **Step 2: Enter Your License Key:** Find your license key in your **WPManageNinja Account**. Copy the key and paste it into the **License Key** field.
+3.  **Step 3: Verify License:** Click the **Verify License** button. If the key is valid, you will see a success message. Your Pro plugin is now active.
 
-![Activate license](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/activate-license.png)
+![Activating the license key in the WP Social Ninja settings](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/activate-license.webp)
 
-_WPManageNinja Account_
+## How to Update WP Social Ninja
 
-- Go to the My Account page, **Download the file → Upload it to your site → Install → Activate** the plugin. Super easy!
+You can update both the Free and Pro versions directly from your WordPress dashboard.
 
-![Upload Plugin](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/upload-plugin.png)
+* Go to **Dashboard > Updates**.
+* If an update is available, you will see it in the list.
+* Select the WP Social Ninja plugins and click **Update Plugins**.
 
-_Upload Plugin_
-
-### How to Update WP Social Ninja
-
-- It's very simple to update both the Free and Pro version. To do that, you can navigate to the plugin page of your dashboard to check if an update is available.
-
-- If any update is available, just click on the update button. Make sure that the pro version is activated with a valid license key. If you don't have a license key or the license key is expired, you can purchase a new one or renew the existing one from **[here](https://wpsocialninja.com/price/#pricing)**.
-
-### How to Activate the License
-
-WP Social Ninja Pro comes with a licensing option to activate your license. Follow these simple steps to activate the license -
-
-- From your dashboard, go to the **WP Social Ninja** menu and click on the **Settings** option from the sidebar.
-
-- Scroll down and click on the **Others,** then the **License Settings tab**; here, you’ll find the License Key providing the option.
-
-- Once you add the key, just click the **Verify License** button. Now you have successfully activated your license!
-
-![](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/WP-Social-Ninja-License-Management-1.png)
-
-_License Settings_
+> [!NOTE]
+> To update the Pro version, you must have an active license key. If your license has expired, you can renew it here.
 
 ## How to Renew the License
 
 WP Social Ninja Pro comes with a licensing option to renew your license. Follow these simple steps to renew the license:
 
-- You can start by going to the purchase history from **WPManageNinja Account**.
+You can start by going to the purchase history from **WPManageNinja Account**. Then you’ll see the ‘**Renewing a license key?**’ link on the checkout cart, and click on that.
 
-- Then you’ll see the ‘**Renewing a license key?**’ link on the checkout cart, and click on that.
+![Your Checkout Cart](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/your-checkout-cart.webp)
 
-![Your Checkout Cart](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/your-checkout-cart.png)
+After entering the license key, click the **Apply License Renewal** button
 
-_Your Checkout Cart_
+![License Renewing](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/license-renewing.webp)
 
-- After entering the license key, click the **Apply License Renewal** button
-
-![License Renewing](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/license-renewing.png)
-
-_License Renewing_
-
-- Lastly, your license will be activated automatically. Your license key activation process is complete.
+Lastly, your license will be activated automatically. Your license key activation process is complete.
 
 Enjoy WP Social Ninja!
 
-You can also check out - **[What WP Social Ninja Offers](./what-wp-social-review-offers)**.

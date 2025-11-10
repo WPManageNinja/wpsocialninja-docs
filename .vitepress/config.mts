@@ -33,16 +33,16 @@ export default defineConfig({
                         "link": "/guide/getting-started/wp-social-ninja-glossary"
                   },
                   {
-                        "text": "Onboarding Setup Wizard",
-                        "link": "/guide/getting-started/onboarding-setup-wizard"
-                  },
-                  {
                         "text": "📋 Setup & Installation",
                         "collapsed": false,
                         "items": [
                               {
                                     "text": "Installation & License",
                                     "link": "/guide/getting-started/how-to-install-upgrade-and-activate-license"
+                              },
+                              {
+                                    "text": "Onboarding Setup Wizard",
+                                    "link": "/guide/getting-started/onboarding-setup-wizard"
                               }
                         ]
                   },

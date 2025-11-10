@@ -16,7 +16,7 @@ To create a new template, click the **Add New Template** button. This will open 
 You can also click the **Quick Builder** button to open a simple 3-step wizard for creating a feed or review template.
 
 
-![The main Templates overview screen in WP Social Ninja](/guide/public/images/getting-started/teamplates-overview/template.webp)
+![The main Templates overview screen in WP Social Ninja](/guide/public/images/getting-started/templates-overview/template.webp)
 
 ## How to Display Your Templates (Using Shortcodes)
 
@@ -34,4 +34,4 @@ In the **Actions** column, you have three options for managing each template:
  * **Duplicate (Copy Icon):** This creates an exact copy of your template. This is useful if you want to make small changes without affecting your original template.
  * **Delete (Trash Icon):** This will permanently delete the template.
 
-![Copying a shortcode from the Templates list](/guide/public/images/getting-started/teamplates-overview/manage-existing-template.webp)
+![Copying a shortcode from the Templates list](/guide/public/images/getting-started/templates-overview/manage-existing-template.webp)

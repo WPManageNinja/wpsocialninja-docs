@@ -63,9 +63,10 @@ export default defineConfig({
                                     "link": "/guide/getting-started/templates-overview"
                               },
                               {
-                                    "text": "Features Overview",
-                                    "link": "/guide/getting-started/what-wp-social-review-offers"
+                                    "text": "Reviews Overview",
+                                    "link": "/guide/getting-started/reviews"
                               }
+                  
 
                         ]
                   }

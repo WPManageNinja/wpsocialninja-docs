@@ -47,7 +47,7 @@ To unlock all pro features and receive automatic updates, you must activate your
 
 1.  **Step 1: Go to License Settings:** From your WordPress dashboard, navigate to **WP Social Ninja** and click on **Settings**. Select the **Others** tab, and then click the **License Settings** sub-tab.
 
-2.  **Step 2: Enter Your License Key:** Find your license key in your **WPManageNinja Account**. Copy the key and paste it into the **License Key** field.
+2.  **Step 2: Enter Your License Key:** Find your license key in your **[WPManageNinja Account](https://wpmanageninja.com/account/)**. Copy the key and paste it into the **License Key** field.
 3.  **Step 3: Verify License:** Click the **Verify License** button. If the key is valid, you will see a success message. Your Pro plugin is now active.
 
 ![Activating the license key in the WP Social Ninja settings](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/activate-license.webp)
@@ -71,7 +71,7 @@ You can start by going to the purchase history from **WPManageNinja Account**. T
 
 ![Your Checkout Cart](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/your-checkout-cart.webp)
 
-After entering the license key, click the **Apply License Renewal** button
+After entering the license key, click the **Apply License Renewal** button.
 
 ![License Renewing](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/license-renewing.webp)
 

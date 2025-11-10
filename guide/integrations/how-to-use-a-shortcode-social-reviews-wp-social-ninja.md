@@ -3,40 +3,39 @@ title: "How to use a Shortcode"
 description: ""
 ---
 
-# How to use a Shortcode
+# How to Use Shortcodes to Display Your Feeds
 
-You need to use **Shortcodes** in order to display your reviews on your website.
+Have you ever created the perfect social feed template and wanted to place it anywhere on your website? Whether it's on a page, in a blog post, or even in a sidebar, WP Social Ninja's shortcodes make this super easy.
 
-After configuring reviews / recommendations, you need to embed them on your website. Your **Shortcodes** will allow you to put them anywhere, on any page, and edit accordingly.
+A shortcode is a simple, one-line piece of code that WordPress understands. WP Social Ninja automatically generates one for every template you create. When you add this code to your page, it tells WordPress, "Show my beautiful feed right here!"
 
-## **How to use Shortcode**
+## How to Find and Copy Your Shortcode
 
-Let’s look at how we can use shortcodes to display reviews on the website.
+Finding your shortcode is simple. All your saved templates and their shortcodes are kept in one central location.
 
-- To use your Shortcode, first, go to **Templates**.
+From your WordPress dashboard, navigate to **WP Social Ninja → Templates**. You will see a list of all the templates you have created, such as "YouTube Template" or "Instagram Template."
 
-![List of shortcode](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-2-1-1.png)
+Now, look for the template you want to display on your site. In the "**ShortCode**" column next to it, you will see its unique shortcode (e.g., `[wp_social_ninja id="100" platform="youtube"]`). After that, click the **shortcode** in the list to **copy** it directly to your clipboard. It's that easy!
 
-_List of Shortcode_
+![Finding and copying a shortcode from the Templates page](/guide/public/images/integrations/use-shortcode/copy-shortcode.webp)
 
-- Here, you can see all the **Shortcodes**.
+## How to Add the Shortcode to a Page or Post
 
-- You can **Click** to copy the shortcode or **Edit** your previous Templates. The best part is you don't have to create a new **Shortcode** again.
+Once you've copied your shortcode, you can place it anywhere on your site. The most common way is to add it directly to a page or post.
 
-![Edit button](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-3-1.png)
+Go to any **Page** or **Post** you want to edit, or create a new one. In the WordPress block editor, click the plus icon (**+**) to add a new block.
 
-_Edit button_
+Next, type "**Shortcode**" and select the **Shortcode** block. **Paste** the shortcode you copied from the Templates page into the block. Once all done, click to the **Publish** or **Update** button.
 
-## **Where to put Shortcodes**
+![Pasting a shortcode into the WordPress block editor](/guide/public/images/integrations/use-shortcode/copy-shortcode.webp)
 
-- You can keep your **Shortcode** anywhere, like any page, page builder, post, or maybe on the sidebar.
+That's it! When you view the live page, WordPress will replace that one line of code with your fully-styled WP Social Ninja template.
 
-![how to use a shortcode | where to put shortcodes](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/Shortcodes.png)
+### A Quick Tip: Manage Your Templates
 
-_Place Shortcode_
+The "All Templates" page is also your hub for managing your designs. If you hover over any template, you'll see options to:
 
-- Here, click on **Pages, select New Page,** and paste your Shortcode as shown in the screenshot above.
+  * **Edit:** Make changes to your existing template.
+  * **Duplicate:** Instantly create a copy of a template. This is perfect for creating a similar feed without starting from scratch.
+  * **Delete:** Remove any templates you no longer need.
 
-And then you’re all set!
-
-Also, check out -  [What WP Social Ninja Offers](../getting-started/what-wp-social-review-offers).

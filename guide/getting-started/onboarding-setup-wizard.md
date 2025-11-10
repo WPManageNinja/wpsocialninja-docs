@@ -1,0 +1,67 @@
+# Onboarding Setup Wizard
+
+After successfully installing and activating WP Social Ninja, you will see some easy steps to set up the wizard. This guided process is designed to help you configure the foundational settings for your first social platform.
+
+You are always in control. If you prefer to explore the full dashboard first, click the **Skip All onboarding** link at any time.
+
+Let's walk through the setup, step by step.
+
+## Step 1: Select Your Category
+
+The first step asks you to choose which **Category** of features you want to start with. As the image shows, your options are:
+
+* **Social Feeds:** To display posts from your social accounts.
+* **Business Reviews:** To display business reviews.
+* **Social Chat:** To add a chat widget to your website.
+* **Notification Popup:** To display notification popups on your website.
+
+![Selecting a category in the WP Social Ninja onboarding wizard](/guide/public/images/getting-started/onboarding-setup-wizard/select-category.webp)
+
+Select one and click the "**Continue**" button to proceed to the next step.
+
+> [!NOTE]
+> In this example, the **Social Feed** category is selected. The next steps will be based on this category. If you choose **Business Reviews** instead, the following steps will change according to that category.
+
+## Step 2: Select Your Platform
+
+Here, you will select the specific social platform you want to connect.
+
+The list of platforms shown (like Instagram, YouTube, TikTok, Twitter, Google My Business, Yelp, or Facebook Feed) will depend on the category you just selected.
+
+![Selecting a platform in the onboarding wizard](/guide/public/images/getting-started/onboarding-setup-wizard/social-platform.webp)
+
+Click on your desired platform and press the **Continue** button for the next step.
+
+## Step 3: Select the Post Type
+
+This step is to decide the type of content you want to display.
+
+* **Timeline Feed:** Embed photos and videos from any Instagram account directly.
+* **Hashtag Feed:** Showcase public Instagram posts if they use specific hashtags in their caption.
+* **Shoppable Feed:** Connect the shoppable feed to convert visitors from the Instagram feed to websites.
+
+![Selecting the post type in the onboarding wizard](/guide/public/images/getting-started/onboarding-setup-wizard/select-post-type.webp)
+
+Make your selections and click the **Continue** button.
+
+## Step 4: Choose a Template
+
+This step is for choosing the visual style of your feed or reviews. You have two settings to configure:
+
+* **Layout Type:** This is the structure (e.g., Grid, Slider, Carousel, or Masonry).
+* **Template:** This is the design skin (e.g., Vega, Sirius, or Polaris).
+
+![Choosing a layout and template in the onboarding wizard](/guide/public/images/getting-started/onboarding-setup-wizard/choose-a-template.webp)
+
+## Step 5: Configure Your Template
+
+In this final step, you will connect your account and apply basic filters.
+
+* **Configuration:** Click the **Connect...** button (for example, **Connect with Instagram**) to authorize your account. A pop-up will guide you through the login and permission process.
+* **Filters:** After connecting, you can use the **Filters** dropdown. For example, you can use **Filter by Rating** to only show 5 Star reviews.
+
+Click the **Save** button to finish.
+
+![Configuring the template by connecting an account and setting filters](/guide/public/images/getting-started/onboarding-setup-wizard/template-style.webp)
+
+After clicking **Save**, you have successfully created your first template. You will be taken to the full template editor, where you can copy the **Shortcode** to embed on your site or continue to customize its advanced settings.

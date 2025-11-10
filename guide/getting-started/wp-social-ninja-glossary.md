@@ -1,0 +1,102 @@
+# WP Social Ninja Glossary
+
+This guide defines common terms used in the WP Social Ninja documentation to help you understand key features.
+
+## A
+
+**Access Token:** A unique code required to connect to some social media platforms (like Facebook or Instagram). It allows WP Social Ninja to securely fetch data from your account.
+
+**API Key:** A code from a platform (like YouTube or Yelp) that you must add to WP Social Ninja. It gives the plugin permission to access and display data.
+
+**Auto Syncing:** A feature that automatically checks for and downloads new social reviews or feed posts. You can set this to run at specific intervals (e.g., every 6 hours, daily).
+
+## B
+
+**Badge Layout (Reviews):** A review template style that displays a small badge with your average rating and total review count. This is often used to link to a full page of reviews.
+
+**Business Account (Instagram):** A professional Instagram profile. This is required to use features like Hashtag Feeds or connect with the Business Advanced method.
+
+## C
+
+**Carousel Layout:** A template that displays your posts or reviews in a horizontal slider. Visitors can click arrows to see more content.
+
+**Channel (Social Chat):** A specific messaging platform (like Messenger, WhatsApp, or Telegram) that you can add to your chat widget.
+
+**Chat Widget:** The complete chat box or icon bubble that you place on your site. It holds all the social chat Channels you want to offer.
+
+**Columns:** A setting in Grid or Masonry layouts that controls how many vertical columns your feed or reviews are split into.
+
+**Configuration:** The one-time setup process to connect a platform (like Google Business Profile or Twitter) to WP Social Ninja.
+
+**Custom Review:** A review that you write and add manually in WP Social Ninja. This is useful for adding reviews you received offline or via email.
+
+## E
+
+**Embed:** The action of placing a WP Social Ninja template on your website. You embed content using a Shortcode or a page builder widget.
+
+## F
+
+**Feed Type:** The specific kind of content you want to display.
+> Examples: For Twitter, this could be your User Timeline or a Hashtag. For YouTube, it could be your Channel, a Playlist, or a Search term. For Facebook, it could be your Timeline, Photos, or Events.
+
+**Filters:** Settings inside a template that let you control which posts or reviews are shown. You can filter by rating, hide posts with certain keywords, or show posts with specific hashtags.
+
+**Fluent Forms Integration:** A connection with the Fluent Forms plugin. This allows you to create a form on your site to collect new Custom Reviews or Testimonials directly from your visitors.
+
+## G
+
+**Grid Layout:** A standard template that arranges posts or reviews in a clean, uniform grid with even rows and columns.
+
+## H
+
+**Header Settings:** Options to customize the top area of your feed or review template. You can show or hide your profile picture, page name, follower count, and follow buttons.
+
+## L
+
+**Layout Type:** The main visual style you choose for your template.
+> Examples: Grid, Carousel, Masonry, Slider, or Timeline.
+
+**License Key:** The unique code you get when you buy WP Social Ninja Pro. You must add this in the plugin settings to unlock pro features and get automatic updates.
+
+## M
+
+**Masonry Layout:** A template style where posts or reviews are arranged in columns of different heights. This creates a "brick-like" look that fits content together without leaving large empty spaces.
+
+## N
+
+**Notification Popup:** A Pro feature that displays individual social reviews (like a recent 5-star Google review) in a small popup box. This appears to visitors as they browse your site.
+
+## O
+
+**OAuth 2.0:** A secure connection method used by platforms like Google and Facebook. It lets you authorize WP Social Ninja to access your account without ever sharing your password.
+
+**Optimize Images:** A feature that stores copies of your social media images on your own website server. This can make your feeds load faster.
+
+## P
+
+**Pagination:** An option for feeds or reviews with many posts. Instead of showing all posts at once, it adds a "Load More" button or numbered pages at the bottom.
+
+**Platform:** Any social media or review service that connects to WP Social Ninja.
+> Examples: Google Business Profile, Instagram, WhatsApp, Facebook, YouTube.
+
+## Q
+
+**QR Code Generator:** A Pro feature that creates a QR code. Customers can scan this with their phone to go directly to your review page (like Google or Yelp) and leave new feedback.
+
+## S
+
+**Schema Snippet:** Special code added to your reviews that is only visible to search engines. This helps Google understand your review data and can result in star ratings appearing next to your website in search results.
+
+**Shortcode:** A small piece of code in brackets (e.g., `[wp_social_ninja id="123"]`) that you copy and paste. You use it to embed a specific template onto a WordPress page, post, or sidebar.
+
+**Shoppable Feed (Instagram):** A Pro feature that lets you add custom links to your Instagram posts. This turns your feed into a gallery where visitors can click a post to buy a product or visit a specific page.
+
+**Slider Layout:** A template style, usually for reviews or testimonials, that displays one item at a time in a sliding format.
+
+## T
+
+**Template:** A saved design that controls how your reviews, feeds, or chat widget looks and functions. You create a template, customize its Layout Type and Filters, and then embed it on your site.
+
+**Testimonial:** A Pro feature similar to a Custom Review. It is used for adding longer, more detailed endorsements that you can manage separately.
+
+**Timeline Layout:** A layout for Facebook or Twitter feeds that arranges posts one after another in a single vertical column, similar to the look on the social media sites themselves.

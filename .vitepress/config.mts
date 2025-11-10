@@ -277,7 +277,7 @@ export default defineConfig({
                         ]
                   },
                   {
-                        "text": "🛍️ E-commerce Integration",
+                        "text": "🛍️ E-commerce Reviews",
                         "collapsed": true,
                         "items": [
                               {

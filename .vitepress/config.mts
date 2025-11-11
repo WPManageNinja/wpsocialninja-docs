@@ -469,7 +469,7 @@ export default defineConfig({
             "collapsed": true,
             "items": [
                   {
-                        "text": "Common Issues",
+                        "text": "Facebook Feed Error",
                         "link": "/guide/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja"
                   },
                   {

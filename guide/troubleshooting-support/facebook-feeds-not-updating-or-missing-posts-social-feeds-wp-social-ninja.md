@@ -35,13 +35,13 @@ If certain posts are missing, it could be due to filtering settings in WPSocialN
 
 Go to WPSocialNinja and then select **Templates** from the navbar. Now, find the Facebook Feed Template where you're facing the issue. Click on the **Edit** button of that feed to open its settings options.
 
-![image](/guide/public/images/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/image-1.png)
+![image](/guide/public/images/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/facebook-feed-1.webp)
 
 Filters: Under the **General** section, you'll find the **Filter** option for your posts. Check the filter settings for Post Types under the **Display Posts With** dropdown menu.
 
 Below this, you'll also see some additional settings, make sure to check if you've applied any filters that exclude posts with specific words or phrases.
 
-![image](/guide/public/images/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/image.png)
+![image](/guide/public/images/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/facebook-feed-2.webp)
 
 ## 3. Missing Posts Have Audience Restrictions
 
@@ -66,5 +66,3 @@ Adjust caching settings: Ensure your caching plugin isn’t overly aggressive. Y
 Reconnect Your Facebook Account: Sometimes, reconnecting your Facebook account in WPSocialNinja can resolve feed issues.
 
 Check Facebook API Limits: Facebook imposes API limits on how often data can be fetched. If your feed isn't updating, wait a few minutes and check again.
-
-If the issue still exists after trying the solutions above, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/) for further assistance.

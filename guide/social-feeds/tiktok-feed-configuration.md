@@ -9,7 +9,7 @@ To grow your business Social Media Platforms play a vital role. If you wish to c
 
 ## Enable TikTok Platform
 
-First, you need to go to the **Platform** from the **WP Social Ninja Plugin** dashboard. Then you will see the option to enable the TikTok feed, now connect with your TikTok account to enable the TikTok Feed.
+First, you need to go to the [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the **WP Social Ninja Plugin** dashboard. Then you will see the option to enable the TikTok feed, now connect with your TikTok account to enable the TikTok Feed.
 
 ![Enable TikTok Feed](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-1.webp)
 
@@ -31,7 +31,7 @@ The next page will give you the **Access Code**, now copy the Access Code and Pa
 
 Your TikTok account is now connected. 
 
-Now add and customize your template as you want by simply clicking on the **Add New Template** button.
+Now add and customize your [template](../customization-design/all-templates) as you want by simply clicking on the **Add New Template** button.
 
 ![TikTok Connected Account ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-6.webp)
 

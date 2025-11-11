@@ -216,8 +216,8 @@ This is very useful if you are building a template and realize you want to inclu
 ![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-connection.webp)
 
 For a complete, step-by-step guide on how to connect each platform, please see our main Configuration guides:
-* How to Connect Google Reviews
-* How to Connect Facebook Reviews
-* How to Connect Yelp Reviews
-* How to Connect Trustpilot Reviews
+* [How to Connect Google Reviews](./google-configuration)
+* [How to Connect Facebook Reviews](./facebook-configuration)
+* [How to Connect Yelp Reviews](./yelp-configuration)
+* [How to Connect Trustpilot Reviews](./trustpilot-configuration)
 * (and so on for all other platforms)

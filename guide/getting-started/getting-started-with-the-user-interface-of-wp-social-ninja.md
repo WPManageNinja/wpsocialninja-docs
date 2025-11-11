@@ -17,18 +17,18 @@ This is the main overview page for the plugin. It provides a quick summary of yo
 
 ## Platforms
 
-This is the most important step. Before you can create a template, you must connect your accounts in this section. Go here to add your Google Business Profile, Facebook Page, Instagram account, and any other available platform you want to display.
+This is the most important step. Before you can create a template, you must connect your accounts in this section. Go here to add your [Google Business Profile](../social-reviews/google-configuration), [Facebook Page](../social-feeds/facebook-integration), [Instagram account](../social-feeds/instagram-configuration), and any other available platform you want to display.
 
 ## Templates
 
-This is the main area where you create and manage all your display templates. A template is a saved layout and style that you can embed on your site using a shortcode.
+This is the main area where you create and manage all your display [templates](../customization-design/all-templates). A template is a saved layout and style that you can embed on your site using a [shortcode](../integrations/shortcode-usage).
 
 As shown in the image, this page is organized into tabs:
-* **Social Feeds:** All your templates for Instagram, Facebook, Twitter, TikTok, etc.
-* **Business Reviews:** All your templates for Google, Yelp, Facebook, etc.
-* **Chat Widgets:** Your templates for the social chat widget.
-* **Notification Popup:** Your templates for review notification popups.
-* **Testimonials:** All your templates for manually added testimonials.
+* **Social Feeds:** All your templates for [Instagram](../social-feeds/instagram-configuration), [Facebook](../social-feeds/facebook-integration), [Twitter](../social-feeds/twitter-configuration), [TikTok](../social-feeds/tiktok-feed-configuration), etc.
+* **Business Reviews:** All your templates for [Google](../social-reviews/google-configuration), [Yelp](../social-reviews/yelp-configuration), [Facebook](../social-reviews/facebook-configuration), etc.
+* **Chat Widgets:** Your templates for the [social chat widget](../social-chat/chat-widget-configuration).
+* **Notification Popup:** Your templates for [review notification popups](../advanced-features/notification-popup).
+* **Testimonials:** All your templates for [manually added testimonials](../advanced-features/add-testimonials).
 
 ![The main Templates management screen in WP Social Ninja](/guide/public/images/getting-started/user-interface/user-interface.webp)
 
@@ -40,7 +40,7 @@ On the **WordPress Dashboard → Wp Social Ninja**, you will see a **Quick Build
 
 ## Testimonials
 
-If you want to display a testimonial, go to this section to add and manage your testimonials. Once you’ve added them, navigate to **Templates → Testimonials** to create a custom template for displaying them on your site.
+If you want to display a testimonial, go to this section to add and manage your [testimonials](../advanced-features/add-testimonials). Once you've added them, navigate to **Templates → Testimonials** to create a custom template for displaying them on your site.
 
 ## Custom Source (Beta)
 
@@ -48,15 +48,15 @@ This section allows you to create a custom feed by manually adding your own cont
 
 ## Reviews
 
-In this section, you’ll find all the individual business reviews you’ve collected from connected platforms like Google or Yelp. You can view, filter, and manage all your reviews in one organized list for easy access and control.
+In this section, you'll find all the individual business reviews you've collected from connected platforms like [Google](../social-reviews/google-configuration) or [Yelp](../social-reviews/yelp-configuration). You can view, filter, and manage all your reviews in one organized list for easy access and control.
 
 ## Notification Popups
 
-This is a shortcut that takes you to the **Templates > Notification Popup** tab. You can create and manage your pop-up templates here.
+This is a shortcut that takes you to the **Templates > Notification Popup** tab. You can create and manage your [pop-up templates](../advanced-features/notification-popup) here.
 
 ## Chat Widgets
 
-This is a shortcut that takes you to the **Templates > Chat Widgets** tab. Go chat widget to build and customize your website's social chat widget.
+This is a shortcut that takes you to the **Templates > Chat Widgets** tab. Go [chat widget](../social-chat/chat-widget-configuration) to build and customize your website's social chat widget.
 
 ## Support
 

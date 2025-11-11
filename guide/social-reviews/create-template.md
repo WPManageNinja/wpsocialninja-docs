@@ -39,4 +39,4 @@ _Save Template_
 
 Now you can click on **Save Template,** and the Airbnb Template is ready!
 
-Also, check out - **[Social Reviews](./social-media-reviews-wp-social-ninja)**
+Also, check out - **[Social Reviews](./)**

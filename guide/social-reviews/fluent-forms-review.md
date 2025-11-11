@@ -135,4 +135,4 @@ From here, you can **Approve** or **Unapprove** the specific reviews. Let's **Ap
 
 _Frontend Review_
 
-As you can see, you’ve successfully controlled the reviews from your dashboard. Also, check out - **[How to add Custom Reviews](./how-to-add-custom-reviews-with-wp-social-ninja)**
+As you can see, you've successfully controlled the reviews from your dashboard. Also, check out - **[How to add Custom Reviews](./add-custom-reviews)**

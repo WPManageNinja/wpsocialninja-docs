@@ -131,4 +131,4 @@ The **Connection** tab is a simple shortcut. It allows you to connect a new Face
 
 >**Please Note:** The steps to connect a page here are identical to the main Facebook connection process.
 
-For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja.md) documentation.
+For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](/guide/social-feeds/facebook-customization) documentation.

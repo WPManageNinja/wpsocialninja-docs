@@ -139,4 +139,4 @@ _Header Settings | Front End View_
 
 Here, from the Front End, you can Write a Review and in the case of multiple platforms, this Call to Action button will take you to the individual sites.
 
-Also, check out - **[Template Layout](./template-layouts-social-reviews-wp-social-ninja)**
+Also, check out - **[Template Layout](./template-layouts)**

@@ -13,7 +13,7 @@ To add a Single Album, first connect your Facebook Page to WP Social Ninja. Then
 
 ::: tip
 
-To learn how to connect your Facebook Page, follow the step-by-step instructions in this [article](./facebook-feed-integration-with-wp-social-ninja).
+To learn how to connect your Facebook Page, follow the step-by-step instructions in this [article](./facebook-integration).
 
 :::
 

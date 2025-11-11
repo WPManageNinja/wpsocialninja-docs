@@ -37,4 +37,4 @@ _Displaying Facebook Events_
 
 - After fetching, all of the Events of that specific page will be shown.
 
-- You can also change your [Facebook Feed Settings](./how-to-customize-facebook-feed-with-wp-social-ninja) & [Facebook Layout Settings](./facebook-feed-layout-styling-with-wp-social-ninja).
+- You can also change your [Facebook Feed Settings](./facebook-customization) & [Facebook Layout Settings](./facebook-layout-styling).

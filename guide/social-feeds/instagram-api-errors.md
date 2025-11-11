@@ -51,7 +51,7 @@ The possible reason could be admin deauthorized our Facebook app, resulting in t
 
 ### **Solution:**
 
-To resolve this issue, reconnect your [account](./instagram-configuration-social-feeds-wp-social-ninja).
+To resolve this issue, reconnect your [account](./instagram-configuration).
 
 ## **API Error: Unexpected Error Occurred**
 

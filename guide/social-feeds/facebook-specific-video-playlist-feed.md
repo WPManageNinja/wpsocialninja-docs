@@ -17,7 +17,7 @@ To display a specific video playlist from Facebook on your site using WP Social 
 
 To add a Video Playlist, first connect your Facebook **Page** to WP Social Ninja. Then, click the **Add New Template** button to create a new template.
 
-To learn how to connect your Facebook Page, follow the step-by-step instructions in this [article](./facebook-feed-integration-with-wp-social-ninja).
+To learn how to connect your Facebook Page, follow the step-by-step instructions in this [article](./facebook-integration).
 
 From the template settings, go to the **General** section of the Facebook Template, then click on the **Source** option.
 

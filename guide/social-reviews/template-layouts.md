@@ -251,4 +251,4 @@ Example: If you set**10**, search engines will consider it as 10 reviews.
 
 This article was for **Template Layouts**. Hope this was helpful! However, you can customize your templates with any **Platform** following those steps.
 
-Also, check out - **[How to Create a Template](./create-a-template-social-reviews-wp-social-ninja)**
+Also, check out - **[How to Create a Template](./create-template)**

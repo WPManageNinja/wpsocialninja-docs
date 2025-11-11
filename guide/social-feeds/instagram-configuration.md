@@ -29,7 +29,7 @@ A popup will appear, prompting you to select your Instagram **Account Type**. In
 
 ::: tip
 
-To understand the differences between a **Business Basic Account** and a **Business Advanced Account**, read [this article](./instagram-business-basic-social-feeds-wp-social-ninja) for more details.
+To understand the differences between a **Business Basic Account** and a **Business Advanced Account**, read [this article](./instagram-business-basic) for more details.
 
 :::
 

@@ -38,7 +38,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Installation & License",
-                                    "link": "/guide/getting-started/how-to-install-upgrade-and-activate-license"
+                                    "link": "/guide/getting-started/install-upgrade-activate-license"
                               },
                               {
                                     "text": "Onboarding Setup Wizard",
@@ -78,7 +78,7 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Overview",
-                        "link": "/guide/social-feeds/social-feeds-social-ninja"
+                        "link": "/guide/social-feeds/"
                   },
                   {
                         "text": "📘 Facebook Feeds",
@@ -86,7 +86,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Setup & Integration",
-                                    "link": "/guide/social-feeds/facebook-feed-integration-with-wp-social-ninja"
+                                    "link": "/guide/social-feeds/facebook-integration"
                               },
                               {
                                     "text": "Access Token",
@@ -98,11 +98,11 @@ export default defineConfig({
                               },
                               {
                                     "text": "Feed Customization",
-                                    "link": "/guide/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja"
+                                    "link": "/guide/social-feeds/facebook-customization"
                               },
                               {
                                     "text": "Layout & Styling",
-                                    "link": "/guide/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja"
+                                    "link": "/guide/social-feeds/facebook-layout-styling"
                               },
                               {
                                     "text": "Single Album Feed",
@@ -114,11 +114,11 @@ export default defineConfig({
                               },
                               {
                                     "text": "Display Events",
-                                    "link": "/guide/social-feeds/how-to-display-facebook-events"
+                                    "link": "/guide/social-feeds/display-facebook-events"
                               },
                               {
                                     "text": "Reauthorize App",
-                                    "link": "/guide/social-feeds/how-to-reauthorize-the-wp-social-ninja-instagram-facebook-app"
+                                    "link": "/guide/social-feeds/reauthorize-instagram-facebook"
                               }
                         ]
                   },
@@ -128,15 +128,15 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Configuration",
-                                    "link": "/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-configuration"
                               },
                               {
                                     "text": "Business Setup",
-                                    "link": "/guide/social-feeds/instagram-business-basic-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-business-basic"
                               },
                               {
                                     "text": "Feed Template",
-                                    "link": "/guide/social-feeds/instagram-set-up-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-setup"
                               },
                               {
                                     "text": "Template Styling & Connection",
@@ -152,15 +152,15 @@ export default defineConfig({
                               },
                               {
                                     "text": "GDPR Compliance",
-                                    "link": "/guide/social-feeds/instagram-feed-gdpr-compliance-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-gdpr-compliance"
                               },
                               {
                                     "text": "Issue Reporting",
-                                    "link": "/guide/social-feeds/instagram-feed-issue-email-report-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-email-report"
                               },
                               {
                                     "text": "Image Optimization",
-                                    "link": "/guide/social-feeds/optimize-images-for-instagram-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/instagram-optimize-images"
                               }
                         ]
                   },
@@ -170,7 +170,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Configuration",
-                                    "link": "/guide/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/twitter-configuration"
                               },
                               {
                                     "text": "Template Styling & Connection",
@@ -178,7 +178,7 @@ export default defineConfig({
                               },
                               {
                                     "text": "Settings",
-                                    "link": "/guide/social-feeds/twitter-settings-twitter-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/twitter-settings"
                               }
                         ]
                   },
@@ -188,7 +188,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Configuration",
-                                    "link": "/guide/social-feeds/youtube-configuration-youtube-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/youtube-configuration"
                               },
                               {
                                     "text": "Youtube Feed Template",
@@ -200,11 +200,11 @@ export default defineConfig({
                               },
                               {
                                     "text": "Feed Types",
-                                    "link": "/guide/social-feeds/youtube-feed-type-social-feeds-wp-social-ninja-2"
+                                    "link": "/guide/social-feeds/youtube-feed-types"
                               },
                               {
                                     "text": "Feed Settings",
-                                    "link": "/guide/social-feeds/youtube-feed-settings-social-feeds-wp-social-ninja"
+                                    "link": "/guide/social-feeds/youtube-settings"
                               }
                         ]
                   },
@@ -238,7 +238,7 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Overview",
-                        "link": "/guide/social-reviews/social-media-reviews-wp-social-ninja"
+                        "link": "/guide/social-reviews/"
                   },
                   {
                         "text": "🌍 Review Platforms",
@@ -246,11 +246,11 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Google Reviews",
-                                    "link": "/guide/social-reviews/google-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/google-configuration"
                               },
                               {
                                     "text": "Facebook Reviews",
-                                    "link": "/guide/social-reviews/facebook-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/facebook-configuration"
                               },
                               {
                                     "text": "Facebook Access Token",
@@ -258,27 +258,27 @@ export default defineConfig({
                               },
                               {
                                     "text": "Yelp Reviews",
-                                    "link": "/guide/social-reviews/yelp-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/yelp-configuration"
                               },
                               {
                                     "text": "Trustpilot Reviews",
-                                    "link": "/guide/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/trustpilot-configuration"
                               },
                               {
                                     "text": "Airbnb Reviews",
-                                    "link": "/guide/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/airbnb-configuration"
                               },
                               {
                                     "text": "Booking.com Reviews",
-                                    "link": "/guide/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/booking-com-configuration"
                               },
                               {
                                     "text": "TripAdvisor Reviews",
-                                    "link": "/guide/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/tripadvisor-configuration"
                               },
                               {
                                     "text": "AliExpress Reviews",
-                                    "link": "/guide/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/aliexpress-configuration"
                               }
                         ]
                   },
@@ -288,7 +288,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "WooCommerce Reviews",
-                                    "link": "/guide/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/woocommerce-reviews"
                               },
                               {
                                     "text": "Custom WooCommerce with Fluent Forms",
@@ -306,19 +306,19 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Create Templates",
-                                    "link": "/guide/social-reviews/create-a-template-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/create-template"
                               },
                               {
                                     "text": "Template Layouts",
-                                    "link": "/guide/social-reviews/template-layouts-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/template-layouts"
                               },
                               {
                                     "text": "Layout Settings",
-                                    "link": "/guide/social-reviews/layout-settings-social-reviews-wp-social-ninja"
+                                    "link": "/guide/social-reviews/layout-settings"
                               },
                               {
                                     "text": "Custom Reviews",
-                                    "link": "/guide/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja"
+                                    "link": "/guide/social-reviews/add-custom-reviews"
                               }
                         ]
                   },
@@ -328,7 +328,7 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Schema Configuration",
-                                    "link": "/guide/social-reviews/how-to-configure-schema-snippet-with-wp-social-ninja"
+                                    "link": "/guide/social-reviews/configure-schema"
                               },
                               {
                                     "text": "QR Code Generation",
@@ -344,23 +344,23 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Social Chat Overview",
-                        "link": "/guide/social-chat/social-chat-wp-social-ninja"
+                        "link": "/guide/social-chat/"
                   },
                   {
                         "text": "Chat Widget Configuration",
-                        "link": "/guide/social-chat/social-chat-widget-configuration-wp-social-ninja"
+                        "link": "/guide/social-chat/chat-widget-configuration"
                   },
                   {
                         "text": "Chat Settings",
-                        "link": "/guide/social-chat/settings-social-chat-wp-social-ninja"
+                        "link": "/guide/social-chat/chat-settings"
                   },
                   {
                         "text": "Chat Styling",
-                        "link": "/guide/social-chat/style-social-chat-wp-social-ninja"
+                        "link": "/guide/social-chat/chat-styling"
                   },
                   {
                         "text": "Custom Button Widget",
-                        "link": "/guide/social-chat/how-to-add-custom-button-chat-widget-on-your-website"
+                        "link": "/guide/social-chat/add-custom-button-chat-widget"
                   }
             ]
       },
@@ -370,11 +370,11 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Testimonials",
-                        "link": "/guide/advanced-features/how-to-add-testimonials-with-wp-social-ninja"
+                        "link": "/guide/advanced-features/add-testimonials"
                   },
                   {
                         "text": "Fluent Forms Testimonials",
-                        "link": "/guide/advanced-features/how-to-collect-testimonials-with-fluent-forms"
+                        "link": "/guide/advanced-features/collect-testimonials-fluent-forms"
                   },
                   {
                         "text": "Notification Popups",
@@ -388,11 +388,11 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Elementor Page Builder",
-                        "link": "/guide/integrations/how-to-embed-wp-social-ninja-template-with-elementor-page-builder"
+                        "link": "/guide/integrations/elementor-integration"
                   },
                   {
                         "text": "Oxygen Page Builder",
-                        "link": "/guide/integrations/how-to-embed-wp-social-ninja-template-with-oxygen-page-builder"
+                        "link": "/guide/integrations/oxygen-integration"
                   },
                   {
                         "text": "Beaver Builder",
@@ -400,7 +400,7 @@ export default defineConfig({
                   },
                   {
                         "text": "Shortcode Usage",
-                        "link": "/guide/integrations/how-to-use-a-shortcode-social-reviews-wp-social-ninja"
+                        "link": "/guide/integrations/shortcode-usage"
                   },
                   {
                         "text": "🤖 AI Integration",
@@ -438,15 +438,15 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Advanced Settings",
-                        "link": "/guide/management-settings/advanced-settings-social-feeds-wp-social-ninja"
+                        "link": "/guide/management-settings/advanced-settings"
                   },
                   {
                         "text": "Manager Dashboard",
-                        "link": "/guide/management-settings/manager-wp-social-ninja"
+                        "link": "/guide/management-settings/manager"
                   },
                   {
                         "text": "Translation Options",
-                        "link": "/guide/management-settings/translate-option-wp-social-ninja"
+                        "link": "/guide/management-settings/translation"
                   }
             ]
       },
@@ -456,7 +456,7 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Export/Import Guide",
-                        "link": "/guide/import-export-migration/how-to-export-import-custom-reviews"
+                        "link": "/guide/import-export-migration/export-import-custom-reviews"
                   },
                   {
                         "text": "Judge.me Migration",
@@ -470,15 +470,15 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Facebook Feed Error",
-                        "link": "/guide/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja"
+                        "link": "/guide/troubleshooting-support/facebook-feeds-not-updating"
                   },
                   {
                         "text": "Fixing Access Token Decryption Failed",
-                        "link": "/guide/troubleshooting-support/fixing-access-token-decryption-failed-in-wp-social-ninja"
+                        "link": "/guide/troubleshooting-support/fixing-access-token-decryption"
                   },
                   {
                         "text": "How to Get Support",
-                        "link": "/guide/troubleshooting-support/how-to-get-support"
+                        "link": "/guide/troubleshooting-support/get-support"
                   },
                   {
                         "text": "Change Log",

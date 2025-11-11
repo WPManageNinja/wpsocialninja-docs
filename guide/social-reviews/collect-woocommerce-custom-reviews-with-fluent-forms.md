@@ -86,7 +86,7 @@ Now you’ll design how the reviews will appear on your site.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
-Read the [documentation](./template-layouts-social-reviews-wp-social-ninja) to understand fully how review templates work.
+Read the [documentation](./template-layouts) to understand fully how review templates work.
 
 ![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-Review-Template-scaled.webp)
 
@@ -125,7 +125,7 @@ To learn more, follow this documentation.
 
 Now, on that product page, the review section will display your Fluent Form instead of the default WooCommerce form.
 
-Check out the [documentation](./woocommerce-reviews-social-reviews-wp-social-ninja) for a full guide on integrating WooCommerce with Fluent Forms.
+Check out the [documentation](./woocommerce-reviews) for a full guide on integrating WooCommerce with Fluent Forms.
 
 ![edit product woocommerce](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-product-woocommerce.webp)
 

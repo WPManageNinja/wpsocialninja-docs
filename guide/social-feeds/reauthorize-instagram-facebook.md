@@ -31,4 +31,4 @@ This will then prompt you to reauthorize the WP Social Ninja App.
 
 Simple!
 
-You can also check out - **[Facebook Feed Configuration](./facebook-feed-integration-with-wp-social-ninja)**
+You can also check out - **[Facebook Feed Configuration](./facebook-integration)**

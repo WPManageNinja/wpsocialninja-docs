@@ -5,184 +5,51 @@ description: ""
 
 # Notification Popup
 
-With the most exclusive **Notification Popup** available in WP Social Ninja Pro, you can show off your social reviews in the most stylish way without any hassle and coding.
+Want to show off your best reviews as live social proof? WP Social Ninja’s **Notification Popup** feature lets you display your reviews one by one in a small, eye-catching pop-up on your site.
 
-## Notification Popup
+This is a fantastic way to build trust and show visitors that real people are enjoying your products or services. Let's walk through how you can set it up!
 
-Let’s see how we can configure a new Notification Popup in just a few minutes.
+## Create a New Notification Popup
 
-- To design a template, you need to go to the **Notification Popups** tab first.
+To get started, you first need to create a pop-up template.
 
-![Notification Popup Section](/guide/public/images/advanced-features/notification-popup/Notification_popup-1.png)
+From your WordPress dashboard, navigate to **WP Social Ninja → Notification Popups**. Click the "**Add New Popup**" button in the top-right corner to open the editor.
 
-_Notification Popup Section_
+![Notification Popup Section](/guide/public/images/advanced-features/notification-popup/add-new-popup-1.webp)
 
-- Then, **click** on **Add New Popup** button to start designing a new Notification Popup.
+## Configuring Your Popup (General Tab)
 
-![Add New Popup Button](/guide/public/images/advanced-features/notification-popup/add-new-popup-button.png)
+The **General** tab is where you select which reviews to display and set the **basic style**.
 
-_Add New Popup_
+ **Select Platforms:** First, you need to select your source. Click on the **Platforms** section and check the box for where you want to pull reviews from, like Testimonial, Fluent Forms, Google My Business, Booking.com, Amazon, Tripadvisor,or WooCommerce etc.
 
-### Source
+ ![Select the Platforms](/guide/public/images/advanced-features/notification-popup/select-platforms-2.webp)
 
-Select a Source from which you want to display your social reviews.
+ **Select a Template:** Next, click on the **Template** section. This allows you to choose the visual style for your pop-up. Select a design you like, such as **Vega, Spica, or Sirius**. You can click the **see all** button to find all the available template.
 
-![Select the Platforms](/guide/public/images/advanced-features/notification-popup/select-the-platforms.png)
+ ![Template Select Option](/guide/public/images/advanced-features/notification-popup/select-template-3.webp)
 
-_Select the Platforms_
 
-### Template
+## Customize Your Notification Settings
 
-Choose from 9 different template variants like **Vega, Spica, Sirius, Rigel, Procyon, Pollux, Mimosa, Hadar, and Deneb.**
+This is the most important section for controlling how, where, and when your pop-ups appear. Click on the **Notification** tab to see all the options.
 
-![Template Select Option](/guide/public/images/advanced-features/notification-popup/template-select-option.png)
+![Custom Notification Title](/guide/public/images/advanced-features/notification-popup/notification-4.webp)
 
-_Template Select Option_
+Here’s what each setting does:
 
-### Notification Settings
+ * **Custom Notification Title:** Change the default text. For example, you can write "Just left us a 5-star review!" to add a personal touch.
+ * **Notification Position:** Choose which corner of the screen the pop-up will appear in (e.g., "Float Left Bottom" or "Float Right Bottom").
+ * **Display Reviews in:** Select what happens when a visitor clicks the pop-up. The **Popup** option will open a larger lightbox showing a feed of all your reviews.
+ * **Display 'Read all reviews' Button:** Toggle this on to show a button that links to your main reviews page (if you have one).
+ * **Include Pages to Display Notification:** This controls where the popups will appear. You can choose "Everywhere" to show them on all pages, or select specific pages.
+ * **Exclude Pages to Hide Notification:** Use this to prevent popups from showing on specific pages, such as your "Checkout" or "Thank You" page.
+ * **Or Display by Post Type:** This is another option to control display. For example, you could choose to only show popups on your "Posts."
+ * **Hide Notification on Desktop / Mobile:** Use these toggles to hide the pop-ups on certain devices.
+ * **Display Close Button:** This shows a small "X" on the pop-up so users can close it.
+ * **Display Date:** Show or hide the date the review was left.
+ * **Initial Delay:** This is the time (in milliseconds) to wait before the first pop-up appears after a visitor loads your page. (e.g., 6000ms = 6 seconds).
+ * **Delay Between:** This is the time (in milliseconds) to wait between each notification. (e.g., 5000ms = 5 seconds).
+Display For: This sets how long (in milliseconds) a single pop-up will stay on the screen before hiding. (e.g., 6000ms = 6 seconds).
 
-Let’s look at the Notification Popup settings and how to adjust them on your website.
-
-### Custom Notification Title
-
-WP Social Ninja also lets you modify the **Custom Notification Title** to lock your website visitors then and there.
-
-- To do it, go to the **Custom Notification Title**, set the number of rating scales, and show it on your notification popup.
-
-![Custom Notification Title](/guide/public/images/advanced-features/notification-popup/custom-notification-title.png)
-
-_Custom Notification Title_
-
-- So you can specify a Custom Notification Title to enhance your brand worth.
-
-### Notification Position
-
-- Next, go to the **Notification** tab from the sidebar and set Notification Positions. You can adjust your Notification Position in two ways: Left to **Right**.
-
-![Notification Position](/guide/public/images/advanced-features/notification-popup/notification-position.png)
-
-_Notification Position_
-
-- So, specify your notification popup box according to your plan.
-
-### Display Reviews in Popup Box
-
-- Next, if your customers want to see all the reviews when they click on the popup, enable the **Display Reviews in Popup Box** button. In case.
-
-![Display Reviews Popup Box](/guide/public/images/advanced-features/notification-popup/display-reviews-popup-box.png)
-
-_Display Reviews Popup Box_
-
-- In case, if you don't want to show reviews on click, then **disable** the option.
-
-### Include Pages to Display Notification
-
-- If you want to display reviews on specific pages, select the pages from the Include Pages to Display Notification dropdown.
-
-![Include Pages to Display Notification](/guide/public/images/advanced-features/notification-popup/include-pages-to-display-notification.png)
-
-_Include Pages to Display Notification_
-
-- Here, you can select specific pages to display reviews or select all pages to display the reviews on Notification Popup.
-
-### Exclude Pages to Hide Notification
-
-- If you don’t want to show reviews on a specific page, you can hide the specific pages.
-
-![Exclude Pages to Hide Notification](/guide/public/images/advanced-features/notification-popup/exclude-pages-to-hide-notification.png)
-
-_Exclude Pages to Hide Notification_
-
-- To do that, simply select the pages from the dropdown list of **Exclude Pages to Hide Notification** options.
-
-### Display by Post Type
-
-- Again, if you want to show reviews by different post types, then choose from the dropdown of the **Display by Post Type** option.
-
-![Display by Post Type](/guide/public/images/advanced-features/notification-popup/display-by-post-type.png)
-
-_Display by Post Type_
-
-- With this option, you will be able to select the post type you would like to show on your display.
-
-### Hide Notifications on Desktop/Mobile
-
-- If you don’t want to show reviews either on desktop or mobile devices or both, then just enable the options **Hide Notifications on Desktop** or **Hide Notifications on Mobile**.
-
-![Hide Notification Option](/guide/public/images/advanced-features/notification-popup/hide-notification-option.png)
-
-_Hide Notification Option_
-
-- In case, you want to show reviews either on desktop or mobile devices or both, then just disable the option.
-
-### Display Close Button
-
-- WP Social Ninja also has the privilege to stop your users from removing the popups on your webpage. You can enable the Display Close Button and give access to remove the popup.
-
-![Display Close Button](/guide/public/images/advanced-features/notification-popup/display-close-button.png)
-
-_Display Close Button_
-
-- However, if you disable the button, there will be no close sign.
-
-### Display Date
-
-- Next, you can control the dates on the popup box.
-
-![Display Date](/guide/public/images/advanced-features/notification-popup/display-date.png)
-
-_Display Date_
-
-- Whether you want to display or hide the dates is entirely up to you.
-
-### Display ‘Read all reviews’ Button
-
-- We have one much-needed feature Display Read All reviews Button. It lets the users read all the reviews from your website. So when your notification popup on your display, you can click on a specific notification then the selected reviews will come up on your display.
-
-![Display Read All Reviews Button](/guide/public/images/advanced-features/notification-popup/display-read-all-reviews-button.png)
-
-_Display Read All Reviews_
-
-- Sometimes, users want to read **More Reviews**. To do that, you can provide your review business URL in the “Read all reviews’ Button URL input field and click on Read all reviews. It will redirect you to the business page from where your customer will get all the reviews in the same place.
-
-### Initial Delay
-
-- From now on, we have the **Initial Delay** option. So WP Social Ninja has the power to control the timing of your initial notification delay for the popup.
-
-![Initial Delay](/guide/public/images/advanced-features/notification-popup/initial-delay.png)
-
-_Initial Delay_
-
-- So without facing any trouble with the cookie consent popup overlapping, you can display your notification smoothly.
-
-### Delay Between
-
-- Do you want to maintain a time gap between two notifications? You can enable this feature from the **Delay Between** option.
-
-![Delay Between Option](/guide/public/images/advanced-features/notification-popup/delay-between-option.png)
-
-_Delay Between_
-
-- In this part, you can specify the time frame between these notifications. Set the notification delay time machine that suits your business plan.
-
-### Display For
-
-- Lastly, you can also set the time for how long the notification will display on your screen.
-
-![Display For Option](/guide/public/images/advanced-features/notification-popup/display-for-option.png)
-
-_Display For Option_
-
-- It helps your users read all the reviews on Notification Popup without any interruption.
-
-- Once you’re done, click on the **Save** button to preserve all your settings.
-
-- Now you can set up your **Filters**, **Settings**, **Header**, **Pagination**, **Schema Snippet**, and **Priority** settings just like you will do with any other template style.
-
-![Other Features](/guide/public/images/advanced-features/notification-popup/other-features.png)
-
-_Other Features_
-
-And your new **Notification Popup** is all good to go.
-
-Simple, right?
+When you're all done, don't forget to click the **Save** button! You can also use the **Filters, Header, and Style** tabs to refine further which reviews are shown and how they look, just like a standard feed template.

@@ -52,7 +52,8 @@ This ensures:
 
 It will look like this:
 
-`/*#@+
+```php
+/*#@+
 
 Authentication unique keys and salts.
 
@@ -66,27 +67,30 @@ This will force all users to have to log in again.
 
 @since 2.6.0 */
 
-define( 'AUTH_KEY',         'xxxxx' );
+define( 'AUTH_KEY',         'xxxxx' );
 
-define( 'SECURE_AUTH_KEY',  'xxxxx' );
+define( 'SECURE_AUTH_KEY',  'xxxxx' );
 
-define( 'LOGGED_IN_KEY',    'xxxxx' );
+define( 'LOGGED_IN_KEY',    'xxxxx' );
 
-define( 'NONCE_KEY',        'xxxxx' );
+define( 'NONCE_KEY',        'xxxxx' );
 
-define( 'AUTH_SALT',        'xxxxx' );
+define( 'AUTH_SALT',        'xxxxx' );
 
 define( 'SECURE_AUTH_SALT', 'xxxxx' );
 
-define( 'LOGGED_IN_SALT',   'xxxxx' );`
-
-#### **2. Add WP Social Ninja Keys**
+define( 'LOGGED_IN_SALT',   'xxxxx' );
+```
 
 Right **below this section**, add two new lines with your own unique keys:
 
-`define('WPSR_ENCRYPTION_KEY',  '***Paste_generated_key_here***');
+#### **2. Add WP Social Ninja Keys**
 
-define('WPSR_ENCRYPTION_SALT', '***Paste_generated_key_here***');`
+```php
+define('WPSR_ENCRYPTION_KEY',  'Paste_generated_key_here');
+
+define('WPSR_ENCRYPTION_SALT', 'Paste_generated_key_here');
+```
 
 **Important:**
 

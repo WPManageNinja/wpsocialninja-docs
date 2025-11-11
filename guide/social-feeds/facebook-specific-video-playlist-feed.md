@@ -31,7 +31,7 @@ From the template settings, go to the **General** section of the Facebook Templa
 
 Now, click the **Fetch Feeds** button, and your Playlist will be loaded into the template.
 
-![facebook template](/guide/public/images/social-feeds/facebook-specific-video-playlist-feed/Facebook-Template.webp)
+![facebook template](/guide/public/images/social-feeds/facebook-specific-video-playlist-feed/specific-video-playlist.webp)
 
 You’ll also find additional settings and styling options to customize your Specific Video Playlist template. Once you're done, click the **Save Template** button to save your changes.
 

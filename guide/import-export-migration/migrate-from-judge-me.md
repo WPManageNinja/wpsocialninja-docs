@@ -33,7 +33,7 @@ Next, you need to import the CSV file into WP Social Ninja.
 
 - Click the **Import** button to begin the migration process.
 
-![judgeme import](/guide/public/images/import-export-migration/migrate-from-judge-me/Judgeme-import-1024x452.webp)
+![judgeme import](/guide/public/images/import-export-migration/migrate-from-judge-me/judgme-import.webp)
 
 **Note:** Please be aware of the following when migrating:
 

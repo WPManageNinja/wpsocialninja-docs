@@ -3,48 +3,33 @@ title: "Platforms"
 description: ""
 ---
 
-# Platforms
+# Platforms Overview
 
-## Platforms of WP Social Ninja
+The **Platforms** page is the central hub for connecting all your social media and business accounts to WP Social Ninja. You must connect a platform here before you can create a template to display its content.
 
-**WP Social Ninja** All Platforms have some amazing options which include **Social Reviews**, **Social Feeds**, and **Social Chat**.
+![The Platforms overview screen in WP Social Ninja](/guide/public/images/getting-started/platforms/WP-Social-Ninja-Platforms.webp)
 
-![Platforms](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/WP_Social_Ninja-2.jpeg)
+## How to Connect a Platform
 
-_Platforms_
+To connect an account, select the platform you want from the list and click **Connect**. A pop-up will appear asking you to log in and authorize the connection. Once approved, your account will be successfully linked.
 
-## **Social Feeds**
+## Platform Categories
 
-In WP Social Ninja, Social Feeds have multiple options. Now you can add feeds from your social networking sites.
+You can filter the list to find a specific type of platform by clicking on the tabs at the top of the page.
 
-![Social Feeds](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/Social_feeds.png)
+### Social Feeds
 
-_Social Feeds_
+This category includes all platforms for displaying live posts, photos, and videos on your website.
+> Examples: Twitter, YouTube, Instagram, and Facebook Feeds.
 
-For example, social site feeds such as YouTube Videos and Tweets will automatically increase your business. WP Social Ninja has **four** Social Feeds Platforms at the moment, including **Twitter, Youtube**, **Instagram** &amp; **Facebook**.
+### Social Reviews
 
-## **Social Reviews**
+This category is for fetching and displaying customer reviews from various business and e-commerce platforms.
+> Examples: Google Business Profile, Yelp, Facebook Reviews, Airbnb, Amazon, WooCommerce, Trustpilot, Booking.com, and more.
 
-WP Social Ninja fetches different Reviews on your site with just one click. Most businesses have a WordPress site and want to add all the reviews from different social networking sites. Does that sound like you?
+### Social Chat
 
-Well, you have reached a solution!
+This category includes all the communication channels you can add to your website's Chat Widget.
+> Examples: Messenger, WhatsApp, Telegram, Instagram, Slack, and 15+ other channels.
 
-![Social Reviews](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/Screenshot-by-Lightshot-1.png)
-
-_Social Reviews_
-
-For instance, consider Social Platforms like **Google My Business** and **Facebook**. WP Social Ninja will connect reviews from all these platforms to your website, helping you to uplift your business like never before. Social Reviews have around nine platforms currently.
-
-## **Social Chats**
-
-You already know about Social Reviews and Social Feeds. Now there is one more Platform left to know about: **Social Chat**.
-
-![Social Chat](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/WP-Social-Ninja-6.png)
-
-_Social Chat_
-
-On your WordPress Site, you can also add Widgets for Social Chat and pages like **Messenger, WhatsApp**, and **Telegram**. This will make your communication a lot easier and connect you with more people in a minute.
-
-More features are coming up soon!
-
-For more info, check out - **[What WP Social Ninja Offers](./what-wp-social-review-offers)**
+After you have successfully connected your account (which will display a "Connected" status), your next step is to navigate to the **Templates** menu. From there, you can create and customize a new template to display the feed, reviews, or chat widget on your site.

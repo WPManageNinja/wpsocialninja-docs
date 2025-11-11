@@ -105,4 +105,4 @@ This is very useful if you are building a template and realize you want to inclu
 
 ![Instagram Styling & Connection](/guide/public/images/social-feeds/instagram-feed-template-styling-connection/instagram-template-styling-5.webp)
 
-For a complete, step-by-step guide on how to use these settings, please see our main [**Instagram Configuration**](/guide/social-feeds/instagram-configuration-social-feeds-wp-social-ninja.md) documentation.
+For a complete, step-by-step guide on how to use these settings, please see our main [**Instagram Configuration**](/guide/social-feeds/instagram-configuration) documentation.

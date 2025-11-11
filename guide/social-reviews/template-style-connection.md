@@ -1,9 +1,3 @@
-
----
-title: "Template Styling & Connection"
-description: "Learn how to customize the visual design of your review templates with colors, fonts, spacing, and borders. Complete guide to Style and Connection settings in WP Social Ninja."
----
-
 # Template Styling & Connection
 
 This guide will walk you through all the options in the **Style** and **Connection** tabs of the Review Template editor.
@@ -16,13 +10,15 @@ The **Style** tab is organized into several sections, each controlling a differe
 
 ### 1. Star Rating
 
-This section styles the (★★★★★) star ratings that appear on your reviews and in the header.
+This section styles the (★) star ratings that appear on your reviews and in the header.
 
 #### Filled Star
 * **Filled Star Color:** This opens a color picker to set the color of the "filled" stars (e.g., the 4 gold stars in a 4-star review).
 
 #### Empty Star
 * **Empty Star Color:** This sets the color of the "empty" or "unfilled" stars (e.g., the 1 gray star in a 4-star review).
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-1.webp)
 
 ### 2. Header
 
@@ -61,12 +57,16 @@ This controls the overall container or "box" that holds all the header elements.
 * **Background Color:** Sets a background color for the entire header area.
 * **Border Type:** Lets you choose the style of the border for the header box (e.g., **Solid**, **Dotted**, **Dashed**, or **None**).
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-2.webp)
+
 ### 3. Reviewer Name
 
 This section styles the author's name on each individual review card.
 * **Text Color:** Sets the color of the reviewer's name.
 * **Typography:** Opens the full set of font controls for the name.
 * **Spacing Top:** This adds a bit of empty space (in pixels) above the name, pushing it away from the element above it (like the star rating).
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-3.webp)
 
 ### 4. Verified Badge
 
@@ -78,12 +78,16 @@ This section styles the "Verified" badge that can appear on reviews.
 #### Checkmark
 * **Checkmark Color:** Sets the color of the checkmark icon inside the badge.
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-4.webp)
+
 ### 5. Author Position
 
 This section styles the author's job title (e.g., "Marketing Manager"), which you can add to Testimonials.
 * **Text Color:** Sets the color of the author's position text.
 * **Typography:** Opens the full set of font controls for this text.
 * **Spacing Top:** This adds empty space (in pixels) above the author's position.
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-5.webp)
 
 ### 6. Review Date
 
@@ -92,12 +96,16 @@ This section styles the date (e.g., "October 30, 2025") on each individual revie
 * **Typography:** Opens the full set of font controls for the date.
 * **Spacing Top:** This adds empty space (in pixels) above the date.
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-6.webp)
+
 ### 7. Title
 
 This section styles the main "headline" or "title" of each individual review (e.g., "The Best Plugin Ever!").
 * **Text Color:** Sets the color of the review title text.
 * **Typography:** Opens the full set of font controls for the review title.
 * **Spacing Bottom:** This adds empty space (in pixels) below the title, pushing it away from the main review text.
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-7.webp)
 
 ### 8. Content
 
@@ -106,11 +114,15 @@ This section styles the main body text (the full review) on each individual revi
 * **Typography:** Opens the full set of font controls for the review text.
 * **Spacing Top:** This adds empty space (in pixels) above the review text.
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-8.webp)
+
 ### 9. Read More/Less
 
 This section styles the "Read More" or "Read Less" link that appears on long reviews.
 * **Text Color:** Sets the color of the "Read More/Less" link, making it stand out.
 * **Typography:** Opens the full set of font controls for this link.
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-9.webp)
 
 ### 10. Platform Name
 
@@ -118,6 +130,8 @@ This section styles the platform label (e.g., "Google," "Facebook") that can app
 * **Text Color:** Sets the color of the text inside the platform badge.
 * **Background Color:** Sets the background color of the platform badge itself.
 * **Typography:** Opens the full set of font controls for the platform name.
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-10.webp)
 
 ### 11. Badge
 
@@ -139,6 +153,8 @@ This section styles your template only if you selected the "Badge" layout type i
 * **Background Color:** Sets the background color of the entire badge.
 * **Typography:** (This likely refers to a global font setting for the badge if other typography is not set).
 * **Border Type:** Lets you choose the style of the border for the badge (e.g., **Solid**, **Dotted**, **Dashed**, or **None**).
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-11.webp)
 
 ### 12. Notification
 
@@ -164,6 +180,8 @@ This section styles your reviews only if you are using them in a Notification Po
 * **Typography:** (This likely refers to a global font setting for the popup).
 * **Border Type:** Lets you choose the style of the border for the popup.
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-12.webp)
+
 ### 13. Pagination
 
 This section styles the "Load More" button at the bottom of your feed (if you enabled it in the General tab).
@@ -171,6 +189,8 @@ This section styles the "Load More" button at the bottom of your feed (if you en
 * **Background Color:** Sets the main background color of the button.
 * **Typography:** Opens the full set of font controls for the button's text.
 * **Border Type:** Lets you choose the style of the border for the button (e.g., **Solid**, **Dotted**, **Dashed**, or **None**).
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-13.webp)
 
 ### 14. Review Box
 
@@ -181,6 +201,8 @@ This is a very important section. The **Review Box** is the entire container or 
 * **Width:** This setting (which appears if you select a Border Type) lets you control the thickness of the border. You can set the thickness (in pixels) for the **Top**, **Right**, **Bottom**, and **Left** sides individually.
 * **Color:** This opens a color picker to set the color of the border itself.
 
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-style-14.webp)
+
 ---
 
 ## Connection Settings
@@ -190,6 +212,8 @@ The **Connection** tab is a simple shortcut. It allows you to connect a new revi
 This is very useful if you are building a template and realize you want to include a platform you haven't connected yet, or if you want to add multiple accounts from the same platform.
 
 **Please Note:** The steps to connect an account here are identical to the main platform connection process.
+
+![Template style and connection](/guide/public/images/social-reviews/template-style-connection/review-template-connection.webp)
 
 For a complete, step-by-step guide on how to connect each platform, please see our main Configuration guides:
 * How to Connect Google Reviews

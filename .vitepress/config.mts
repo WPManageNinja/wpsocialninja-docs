@@ -309,12 +309,8 @@ export default defineConfig({
                                     "link": "/guide/social-reviews/create-template"
                               },
                               {
-                                    "text": "Template Layouts",
-                                    "link": "/guide/social-reviews/template-layouts"
-                              },
-                              {
-                                    "text": "Layout Settings",
-                                    "link": "/guide/social-reviews/layout-settings"
+                                    "text": "Template Styling & Connection",
+                                    "link": "/guide/social-reviews/template-style-connection"
                               },
                               {
                                     "text": "Custom Reviews",

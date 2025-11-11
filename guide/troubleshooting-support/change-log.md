@@ -452,5 +452,4 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ## Additional Links
 - [Getting Started Guide](/guide/getting-started/getting-started-with-wp-social-ninja)
-- [Feature Documentation](/guide/getting-started/what-wp-social-review-offers)
 - [Support & Troubleshooting](/guide/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja)

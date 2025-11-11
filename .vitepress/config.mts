@@ -475,6 +475,14 @@ export default defineConfig({
                   {
                         "text": "Change Log",
                         "link": "/guide/troubleshooting-support/change-log"
+                  },
+                  {
+                        "text": "Fixing Access Token Decryption Failed",
+                        "link": "/guide/troubleshooting-support/fixing-access-token-decryption-failed-in-wp-social-ninja"
+                  },
+                  {
+                        "text": "How to Get Support",
+                        "link": "/guide/troubleshooting-support/how-to-get-support"
                   }
             ]
       }

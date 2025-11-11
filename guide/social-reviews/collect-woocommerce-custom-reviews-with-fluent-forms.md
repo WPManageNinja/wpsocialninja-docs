@@ -86,7 +86,7 @@ Now you’ll design how the reviews will appear on your site.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
-Read the [documentation](./template-layouts) to understand fully how [review templates](./create-template) work.
+Read the [documentation](./template-style-connection) to understand fully how [review templates](./create-template) work.
 
 ![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-Review-Template-scaled.webp)
 

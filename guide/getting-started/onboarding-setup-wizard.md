@@ -65,3 +65,11 @@ Click the **Save** button to finish.
 ![Configuring the template by connecting an account and setting filters](/guide/public/images/getting-started/onboarding-setup-wizard/template-style.webp)
 
 After clicking **Save**, you have successfully created your first template. You will be taken to the full template editor, where you can copy the **Shortcode** to embed on your site or continue to customize its advanced settings.
+
+## Quick Builder
+
+If you skipped the initial setup wizard (onboarding), you can easily access it again at any time using the **Quick Builder** feature.This feature is perfect for quickly creating a new template without going through the full, advanced editor.To Access the wizard:
+
+From your WordPress dashboard, navigate to **WP Social Ninja dasborads** from the leftsidebar.Click the **Quick Builder** button.This will open the 4-step pop-up wizard, allowing you to select a category, platform, and template to instantly create and save a new feed or review display.
+
+![Configuring the template by Quick Builder](/guide/public/images/getting-started/onboarding-setup-wizard/quick-builder.webp)

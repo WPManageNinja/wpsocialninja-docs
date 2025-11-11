@@ -9,7 +9,7 @@ WP Social Ninja easily connects with your Facebook account, letting you display 
 
 ## **Enable Facebook Feed**
 
-First, go to WP Social Ninja and select the **Platform** from the navbar. Locate **Facebook** and enable it by connecting your Facebook account with the WP Social Ninja Plugin.
+First, go to WP Social Ninja and select the [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the navbar. Locate **Facebook** and enable it by connecting your Facebook account with the WP Social Ninja Plugin.
 
 Click on the **Settings** icon next to the **Facebook** in your **Platform** section.
 
@@ -31,7 +31,7 @@ After selecting the pages, click the **Connect Pages** button.
 
 In the next pop-up, you'll see your Facebook Page has been added. To remove it, simply click the **Remove** icon button next to your Page Name. To connect another account, click the **AddMore Account** button.
 
-To display your Facebook events on your website you can choose some awesome templates from WP Social Ninja, to do so click the **Add New Template** button and choose a template.
+To display your Facebook events on your website you can choose some awesome [templates](../social-feeds/facebook-customization) from WP Social Ninja, to do so click the **Add New Template** button and choose a template.
 
 ![Wp Social Ninja Facebook ](/guide/public/images/social-feeds/facebook-feed-integration-with-wp-social-ninja/facebook-feed-5.webp)
 

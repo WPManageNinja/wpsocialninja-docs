@@ -47,7 +47,7 @@ Look for an ID in the URL that starts with the letter 'd'—this is your Place I
 
 ## **Configuring Tripadvisor with WP Social Ninja**
 
-After receiving your TripAdvisor credentials, navigate to your WP Social Ninja dashboard and select **Platform** from the navigation bar. Search for TripAdvisor and click on the **Settings** icon button.
+After receiving your TripAdvisor credentials, navigate to your WP Social Ninja dashboard and select [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the navigation bar. Search for TripAdvisor and click on the **Settings** icon button.
 
 ![Tripadvisor API Configuration 6](/guide/public/images/social-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/tripadvisor-review-1.webp)
 

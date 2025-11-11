@@ -23,7 +23,7 @@ Follow these simple steps to get your page connected.
 
 First, log in to your WordPress dashboard.
 
-In the main menu on the left-hand side, find the **WP Social Ninja** icon. Click on it, and then select the **Platforms**. This is your main "control center" for connecting all your social media and review accounts.
+In the main menu on the left-hand side, find the **WP Social Ninja** icon. Click on it, and then select the [Platforms](../getting-started/all-platforms-of-wp-social-ninja). This is your main "control center" for connecting all your social media and review accounts.
 
 ### Step 2: Open the Trustpilot Settings
 
@@ -80,5 +80,5 @@ Congratulations! Your Trustpilot account is fully connected and ready to sync re
 
 Now that your account is connected, you're ready for the fun part:
 
-* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template for Trustpilot.
+* Click the **Add New Template** button to go to the [template editor](./create-template) and start designing your **Business Reviews** template for Trustpilot.
 * You can click the **Add More Business** button if you run another company and want to connect its Trustpilot page as well.

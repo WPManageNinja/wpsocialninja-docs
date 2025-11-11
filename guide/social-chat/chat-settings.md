@@ -9,7 +9,7 @@ The General tab for your Chat Widget allows you to control the appearance, conte
 
 ## Access the Chat widget settings
 
-To access the chat widget settings from your website, go to the **WP Social Ninja dashboard**. Click on the **Chat Widget** from the top menu bar. Then, click any chat widget that you configure before.
+To access the chat widget settings from your website, go to the **WP Social Ninja dashboard**. Click on the **Chat Widget** from the top menu bar. Then, click any [chat widget](./chat-widget-configuration) that you configure before.
 
 ![Accessing the Chat Widget menu in WP Social Ninja](/guide/public/images/social-chat/chat-widget-settings/access-chat-widget-settings.webp)
 

@@ -7,7 +7,7 @@ description: ""
 
 In case you are a beginner-level user of **WP Social Ninja**, we have created the simplest ways to operate this Plugin for you.
 
-**WP Social Ninja** allows you to Create a Template for the platforms available.
+**WP Social Ninja** allows you to Create a [Template](../customization-design/all-templates) for the [platforms](../getting-started/all-platforms-of-wp-social-ninja) available.
 
 However, all the Platforms have a similar way to Create a Template. So, all you need to do is to follow the steps, since all the Platforms have similar ways to Create a Template.
 

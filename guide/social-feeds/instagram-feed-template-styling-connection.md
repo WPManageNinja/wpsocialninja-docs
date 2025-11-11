@@ -2,7 +2,7 @@
 
 This guide will walk you through all the options in the **Style** and **Connection** tabs of the Instagram Feed template editor.
 
-While the **General Settings** tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look.
+While the **General Settings** tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look. Learn more about [Instagram configuration](./instagram-configuration).
 
 ## Style Settings
 

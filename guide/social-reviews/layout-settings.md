@@ -5,9 +5,9 @@ description: ""
 
 # Layout Settings
 
-**WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks.
+**WP Social Ninja** will allow you to change every single **Layout Setting** on your website within a few clicks. Learn more about [template layouts](./template-layouts) and [creating templates](./create-template).
 
-Here, you may select a single Platform or multiple Platforms. However, the **Layout Settings** customize option will remain the same for all the Social Reviews Platforms.
+Here, you may select a single [Platform](../getting-started/all-platforms-of-wp-social-ninja) or multiple Platforms. However, the **Layout Settings** customize option will remain the same for all the Social Reviews Platforms.
 
 ## **Settings**
 

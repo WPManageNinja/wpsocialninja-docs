@@ -17,7 +17,7 @@ This guide will show you how to use all the features. Here are the top things WP
 
 This feature allows you to show your live social media posts directly on your website.
 
- * **Connect Major Platforms:** Show feeds from Instagram, Facebook (including Timeline, Videos, Photos, Events, and Albums), Twitter, YouTube (Channels, Playlists, Search, or Specific Videos), and TikTok.
+ * **Connect Major Platforms:** Show feeds from [Instagram](../social-feeds/instagram-configuration), [Facebook](../social-feeds/facebook-integration) (including Timeline, Videos, Photos, Events, and Albums), [Twitter](../social-feeds/twitter-configuration), [YouTube](../social-feeds/youtube-configuration) (Channels, Playlists, Search, or Specific Videos), and [TikTok](../social-feeds/tiktok-feed-configuration).
  * **Customize Your Feeds:** Select different Layout Types (like Timeline, Grid, Masonry, or Carousel). You can choose the number of posts to show and filter content by hashtags, keywords, or post types.
  * **Make Feeds Interactive:** Add features like pop-up viewers for images and videos, a **Load More** button to show older posts, and **Follow** buttons to grow your audience.
 
@@ -25,13 +25,13 @@ This feature allows you to show your live social media posts directly on your we
 
 This feature allows you to automatically pull reviews from over platforms and display them on your site.
 
- * **Fetch from Multiple Platforms:** Connect Google Business Profile, Facebook, Yelp, Airbnb, WooCommerce, Trustpilot, Booking.com, AliExpress, Tripadvisor, and Fluent Forms.
- * **Display Beautifully:** Choose from different Templates (like Grid, Slider, or Masonry) to control the layout and match your website's design.
- * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own **Custom Reviews** or testimonials.
+ * **Fetch from Multiple Platforms:** Connect [Google Business Profile](../social-reviews/google-configuration), [Facebook](../social-reviews/facebook-configuration), [Yelp](../social-reviews/yelp-configuration), [Airbnb](../social-reviews/airbnb-configuration), [WooCommerce](../social-reviews/woocommerce-reviews), [Trustpilot](../social-reviews/trustpilot-configuration), [Booking.com](../social-reviews/booking-com-configuration), [AliExpress](../social-reviews/aliexpress-configuration), [Tripadvisor](../social-reviews/tripadvisor-configuration), and [Fluent Forms](../social-reviews/fluent-forms-review).
+ * **Display Beautifully:** Choose from different [Templates](../social-reviews/create-template) (like Grid, Slider, or Masonry) to control the layout and match your website's design.
+ * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own [Custom Reviews](../social-reviews/add-custom-reviews) or [testimonials](../advanced-features/add-testimonials).
 
 ### 3. Integrate Social Chat
 
-This feature adds a chat widget to your site, allowing visitors to contact you through their favorite apps.
+This feature adds a [chat widget](../social-chat/chat-widget-configuration) to your site, allowing visitors to contact you through their favorite apps.
 
  * **Connect 15+ Chat Channels:** Offer communication through Messenger, WhatsApp, Telegram, Instagram DM, Slack, Microsoft Teams, SMS, Email, and more.
  * **Customize Your Chat Widget:** Choose from a **Chat Box** or simple **Icons** layout. You can set your business's online/offline hours, define display rules (e.g., show only on specific pages, or hide on mobile), and personalize greeting messages.
@@ -40,14 +40,14 @@ This feature adds a chat widget to your site, allowing visitors to contact you t
 
 WP Social Ninja also includes powerful marketing and SEO tools.
 
- * **Notification Popups:** Use this feature to display your best reviews in a small, eye-catching pop-up as visitors browse your site.
- * **Shoppable Feeds:** Turn your Instagram feed into a sales tool. This allows you to link your Instagram posts directly to your product pages or any custom URL.
- * **Improve SEO (Schema Support):** The plugin has built-in Schema Snippet support. This adds special code that helps Google understand your review data and display your star ratings in search results.
- * **Generate QR Codes:** Create simple QR codes that link directly to your review platforms (like Google or Yelp). This makes it easy for your customers to leave you new reviews.
+ * **Notification Popups:** Use this feature to display your best reviews in a small, eye-catching [pop-up](../advanced-features/notification-popup) as visitors browse your site.
+ * **Shoppable Feeds:** Turn your [Instagram feed](../social-feeds/instagram-shoppable-feed) into a sales tool. This allows you to link your Instagram posts directly to your product pages or any custom URL.
+ * **Improve SEO (Schema Support):** The plugin has built-in [Schema Snippet](../social-reviews/configure-schema) support. This adds special code that helps Google understand your review data and display your star ratings in search results.
+ * **Generate QR Codes:** Create simple [QR codes](../social-reviews/generate-qr-code-for-reviews) that link directly to your review platforms (like Google or Yelp). This makes it easy for your customers to leave you new reviews.
 
 ![WP Social Ninja Platforms](/guide/public/images/getting-started/getting-started-with-wp-social-ninja/WP-Social-Ninja-Platforms.webp)
 
 ## Getting Started
 
-If you are new to WP Social Ninja, we recommend starting with the Social Reviews or Social Feeds guides to learn how to connect your first platform. From there, you can explore Social Chat and Template Settings to customize the appearance and engage with your visitors.
+If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../social-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../customization-design/all-templates) to customize the appearance and engage with your visitors.
 

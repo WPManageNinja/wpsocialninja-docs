@@ -60,5 +60,5 @@ Then paste the copied **Access Code** into the Google Configuration page to Conf
 
 You can also click on **Connect New Account** to get your reviews from multiple Business Accounts.
 
-You have successfully managed to get your **Google Business Profile Reviews**. Now click to **Create a Template** to display reviews on your website.
+You have successfully managed to get your **Google Business Profile Reviews**. Now click to [Create a Template](./create-template) to display reviews on your website.
 

@@ -7,11 +7,11 @@ description: ""
 
 ## Templates of WP Social Ninja 
 
-As you have gone through the **Platforms**, now you can see in the given screenshot we have a **Templates** option.
+As you have gone through the [Platforms](../getting-started/all-platforms-of-wp-social-ninja), now you can see in the given screenshot we have a **Templates** option.
 
-You can view the Templates list on the **Social Reviews** and **Social Feeds** in this section. To show this on other pages, you can use the **Shortcodes**.
+You can view the Templates list on the [Social Reviews](../social-reviews/) and [Social Feeds](../social-feeds/) in this section. To show this on other pages, you can use the [Shortcodes](../integrations/shortcode-usage).
 
-However, you can change the design and layout in this **Template Segment**. For instance, you have made your Template before & now you need to **Edit** your layout.
+However, you can change the design and layout in this **Template Segment**. For instance, you have made your Template before & now you need to **Edit** your layout. You can customize the [template layouts](../social-reviews/template-layouts) and [layout settings](../social-reviews/layout-settings) to match your needs.
 
 In that case, you don't need to create a new Template for that. You can change it from the previous settings, click on **Edit**, or you may **Delete** or **Duplicate** it as well.
 

@@ -19,7 +19,7 @@ Follow these simple steps to get your page connected in less than a minute.
 
 ### Step 1: Go to Platforms
 
-First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the **Platforms** sub-menu. This is your main hub for connecting all your social accounts for feeds and business reviews.
+First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the [Platforms](../getting-started/all-platforms-of-wp-social-ninja) sub-menu. This is your main hub for connecting all your social accounts for feeds and business reviews.
 
 ### Step 2: Choose Your Connection Method
 
@@ -67,5 +67,5 @@ Congratulations! Your Facebook Page is fully connected and ready to sync reviews
 
 Now that your account is connected, you're ready for the fun part:
 
-* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template for Facebook.
+* Click the **Add New Template** button to go to the [template editor](./create-template) and start designing your **Business Reviews** template for Facebook.
 * If you manage pages under a different Facebook account, you can click the **Connect More Account** button to repeat this process and add those as well.

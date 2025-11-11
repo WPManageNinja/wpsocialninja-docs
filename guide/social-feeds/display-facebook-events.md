@@ -11,7 +11,7 @@ If you want to show your Events, please follow this **[documentation](./facebook
 
 Let's go through the article to learn how to accomplish it.
 
-- Go to the **Platforms** → choose **Facebook Feeds & Reviews**.
+- Go to the [Platforms](../getting-started/all-platforms-of-wp-social-ninja) → choose **Facebook Feeds & Reviews**.
 
 ![Facebook Feeds & Reviews](/guide/public/images/social-feeds/how-to-display-facebook-events/image-16.png)
 

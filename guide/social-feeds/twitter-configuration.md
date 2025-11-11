@@ -17,7 +17,7 @@ We will walk you through every step.
 
 This is the first step. You will begin inside your WordPress dashboard to see what information you need to find.
 
-First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the **Platforms**. This is your main hub for connecting all your social accounts.
+First, go to your WordPress dashboard. In the left-hand menu, click on **WP Social Ninja**, and then select the [Platforms](../getting-started/all-platforms-of-wp-social-ninja). This is your main hub for connecting all your social accounts.
 
 On the "Platforms" page, you will see a list of all available social networks. Find the **X (Twitter)** row and click the **Connect** button (or Settings icon) on the right side.
 

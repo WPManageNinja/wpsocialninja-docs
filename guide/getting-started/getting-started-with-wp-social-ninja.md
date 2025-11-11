@@ -25,7 +25,7 @@ This feature allows you to show your live social media posts directly on your we
 
 This feature allows you to automatically pull reviews from over platforms and display them on your site.
 
- * **Fetch from Multiple Platforms:** Connect Google Business Profile, Facebook, Yelp, Airbnb, Amazon, WooCommerce, Trustpilot, Booking.com, AliExpress, Tripadvisor, and Fluent Forms.
+ * **Fetch from Multiple Platforms:** Connect Google Business Profile, Facebook, Yelp, Airbnb, WooCommerce, Trustpilot, Booking.com, AliExpress, Tripadvisor, and Fluent Forms.
  * **Display Beautifully:** Choose from different Templates (like Grid, Slider, or Masonry) to control the layout and match your website's design.
  * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own **Custom Reviews** or testimonials.
 

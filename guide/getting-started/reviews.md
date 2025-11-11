@@ -35,12 +35,12 @@ As shown in the image, you will see options:
 * **Delete:** This will permanently delete the review from your website.
 * **Save as Testimonial:** This will copy the review and save it as a new entry in your **Testimonials** section.
 
-## Add Custom Review
+## Add Custom Source Review
 
-You will also see an **Add Custom Review** button. This feature is for manually adding reviews to your site.
+You will also see an **Add Custom Source** button. This feature is for manually adding reviews to your site.
 
 > **Use Case:** If a customer emails you a positive review or gives you feedback in person, you can use this button to create a **Custom Review**. You can add the reviewer's name, their text, and a star rating. These custom reviews can then be displayed in your templates alongside your fetched reviews.
 
-![The "Add Custom Review" button](/guide/public/images/getting-started/reviews/add-custom-review.webp)
+![The "Add Custom Source" button](/guide/public/images/getting-started/reviews/custom-source.webp)
 
 After you have fetched and managed your reviews, your next step is to go to the **Templates** section. From there, you can create a new **Business Reviews** template to display them on your website.

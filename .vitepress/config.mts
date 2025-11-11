@@ -469,8 +469,16 @@ export default defineConfig({
             "collapsed": true,
             "items": [
                   {
-                        "text": "Common Issues",
+                        "text": "Facebook Feed Error",
                         "link": "/guide/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja"
+                  },
+                  {
+                        "text": "Fixing Access Token Decryption Failed",
+                        "link": "/guide/troubleshooting-support/fixing-access-token-decryption-failed-in-wp-social-ninja"
+                  },
+                  {
+                        "text": "How to Get Support",
+                        "link": "/guide/troubleshooting-support/how-to-get-support"
                   },
                   {
                         "text": "Change Log",

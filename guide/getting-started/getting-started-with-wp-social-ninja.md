@@ -13,21 +13,21 @@ Use this plugin to build social proof by showing customer reviews, keep your sit
 
 This guide will show you how to use all the features. Here are the top things WP Social Ninja can do for you:
 
-### 1. Showcase Social Reviews
-
-This feature allows you to automatically pull reviews from over 10 platforms and display them on your site.
-
- * **Fetch from Multiple Platforms:** Connect Google Business Profile, Facebook, Yelp, Airbnb, Amazon, WooCommerce, Trustpilot, Booking.com, AliExpress, Tripadvisor, and Fluent Forms.
- * **Display Beautifully:** Choose from different Templates (like Grid, Slider, or Masonry) to control the layout and match your website's design.
- * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own **Custom Reviews** or testimonials.
-
-### 2. Display Social Feeds
+### 1. Display Social Feeds
 
 This feature allows you to show your live social media posts directly on your website.
 
  * **Connect Major Platforms:** Show feeds from Instagram, Facebook (including Timeline, Videos, Photos, Events, and Albums), Twitter, YouTube (Channels, Playlists, Search, or Specific Videos), and TikTok.
  * **Customize Your Feeds:** Select different Layout Types (like Timeline, Grid, Masonry, or Carousel). You can choose the number of posts to show and filter content by hashtags, keywords, or post types.
  * **Make Feeds Interactive:** Add features like pop-up viewers for images and videos, a **Load More** button to show older posts, and **Follow** buttons to grow your audience.
+
+ ### 2. Showcase Social Reviews
+
+This feature allows you to automatically pull reviews from over platforms and display them on your site.
+
+ * **Fetch from Multiple Platforms:** Connect Google Business Profile, Facebook, Yelp, Airbnb, WooCommerce, Trustpilot, Booking.com, AliExpress, Tripadvisor, and Fluent Forms.
+ * **Display Beautifully:** Choose from different Templates (like Grid, Slider, or Masonry) to control the layout and match your website's design.
+ * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own **Custom Reviews** or testimonials.
 
 ### 3. Integrate Social Chat
 

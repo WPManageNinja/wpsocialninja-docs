@@ -37,6 +37,4 @@ _Place Shortcode_
 
 - Here, click on **Pages, select New Page,** and paste your Shortcode as shown in the screenshot above.
 
-And then you’re all set!
-
-Also, check out -  [What WP Social Ninja Offers](../getting-started/what-wp-social-review-offers).
+And then you're all set!

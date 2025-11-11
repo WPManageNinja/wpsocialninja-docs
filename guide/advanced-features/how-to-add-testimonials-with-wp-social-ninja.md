@@ -3,62 +3,128 @@ title: "How to Add Testimonials with WP Social Ninja"
 description: ""
 ---
 
-# How to Add Testimonials with WP Social Ninja
+# How to Add and Display Testimonials
 
-WP Social Ninja has a multitude of functionality, and **Testimonials** are one of them. To unlock it, you need to get the **premium version**.
+The Testimonials feature is a powerful tool that allows you to manually add, manage, and display your best customer reviews.
 
-Let’s see how to add Testimonials.
+Unlike the social reviews (like Google or Facebook) that are fetched automatically, the Testimonials feature is for all the other positive feedback you've collected. This is perfect for reviews you receive via email, private messages, or contact forms.
 
-- To add Testimonials, first, go to the WP Social Ninja **Dashboard** menu, then select the **Testimonials** option, or you can also access it from the top of the page.
+This guide will walk you through the entire process, from adding your first testimonial to designing a beautiful template to display it.
 
-- After that, you will get a section where you can add Testimonials by clicking on the button.
+## Part 1: How to Add a New Testimonial
 
-![WP Social Ninja Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so1.png)
+Before you can create a template, you need to add some testimonials to the plugin.
 
-_Testimonials_
+### Step 1: Go to the Testimonials Tab
 
-- Now a popup will appear with all the input fields.
+From your WordPress dashboard, go to **WP Social Ninja → All Testimonials**. This will open the main dashboard where all your manually-added testimonials will be listed.
 
-![WP Social Ninja Add Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so2.png)
+### Step 2: Add Your First Testimonial
 
-_Add Testimonial_
+Click the **+ Add New Testimonial** button in the top-right corner to get started.
 
-- Insert all your information/data (Author Name, Author URL, Author Image, Author Position, Author Company Name, Author Website Logo, Author Website URL, Testimonial Title, Testimonial Text, Testimonial Rating, Testimonial Date, and Testimonial Category) and click on the **Save Testimonial** button.
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-1.webp)
 
-- All of your Testimonials will appear on the page after you save them.
+### Step 3: Fill in the Testimonial Details
 
-- By clicking on the **Add Testimonial** button, you can add more Testimonials.
+A pop-up window will appear with all the fields you need to create a rich, professional-looking testimonial.
 
-![Display Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/SO3.png)
+Here is a breakdown of each field:
 
-_Display Testimonial_
+* **Author Name:** Enter the full name of the person who gave the review (e.g., "John Doe").
+* **Author Position:** Enter the person's job title (e.g., "Marketing Manager"). This is great for B2B social proof.
+* **Company Name:** Enter the name of their company (e.g., "Example Inc.").
+* **Author Website:** Enter the URL of their company's website.
+* **Author Image:** Click to upload a photo of the author. This adds a huge amount of authenticity.
+* **Company Logo:** Click to upload the author's company logo.
+* **Rating:** Click the stars to set a rating from 1 to 5. This is crucial for filtering your templates later.
+* **Testimonial Title:** Add a short, powerful "headline" for the review (e.g., "The Best Plugin I've Ever Used!").
+* **Testimonial Text:** This is the most important part. Paste the full text of the review here.
+* **Date:** Select the date you received the testimonial.
+* **Category:** This is a very useful organizing tool. You can create categories (like "Service Reviews," "Product Feedback," etc.) to group your testimonials. This allows you to create templates that only show testimonials from a specific category.
 
-- Now you've saved your **Testimonials,** click on the **Template** to display the **Testimonials** on your website.
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-2.webp)
 
-- Click on **Add New Template**.
+### Step 4: Save and Manage Your Testimonials
 
-- A drop-down menu will appear. Now select **Add Testimonial Template.**
+Click the **Save Testimonial** button. Your testimonial is now saved!
 
-![Add Testimonial Template](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so4.png)
+You will be returned to the "All Testimonials" dashboard, where you will see your new entry in a list. From here, you can click the **Edit** or **Delete** buttons to manage your testimonials at any time.
 
-_Add Testimonial Template_
+## Part 2: Customizing Your Testimonial Template (General Settings)
 
-- This will take you to the WP Social Ninja template editor settings panel.
+Now that you have some testimonials, it's time to create a template to display them on your website.
 
-![Testimonial Template](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so5.png)
+Go to **WP Social Ninja → Templates** and click **"Add New Template"**. Select **Testimonials** as your platform. This will take you to the template editor. The **General** tab controls *what* your template shows and *how* it functions.
 
-_Testimonial Template_
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-3.webp)
 
-- In this section, you can adjust your Template, Filters, Settings, and Pagination using **WP Social Ninja** to design your website.
+### 1. Template
 
-![Testimonials | Editor Settings Panel ](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so6.png)
+This section controls the visual structure and arrangement of your testimonials.
 
-_Editor Settings Panel_
+* **Layout Type:** This is the foundational structure of your feed.
+    * **Grid:** Creates a clean, multi-column grid where all boxes are the same height.
+    * **Slider:** Displays your testimonials in a horizontal, swipe-able carousel.
+    * **Masonry:** A "Pinterest-style" grid where boxes have different heights to fit together.
+* **Select a Template:** These are pre-designed visual "skins" (e.g., Testimonial 1, Testimonial 2) that change the look of your testimonial boxes.
+* **Number of Columns:** Set the number of columns to show on **Desktop**, **Tablet**, and **Mobile**.
 
-- Let’s see how these Testimonials will show on the website
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-template-4.webp)
 
-![Displaying Testimonials on website](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/so8.png)
+### 2. Filters
 
-_Displaying Testimonials_
+This section is how you refine your feed to only show the specific testimonials you want.
 
-So, there you go! Adding Testimonials is as easy as a piece of cake.
+* **Number of Reviews:** Sets the total number of testimonials to load into this template.
+* **Filters by Minimum Rating:** A powerful filter. Select "5 Stars" to create a template that only shows your best 5-star reviews.
+* **Order:** Sort your testimonials by **Descending** (newest first) or **Ascending** (oldest first).
+* **Hide Reviews Without Text:** If turned **On**, this will hide any testimonials that have a star rating but no written text.
+* **Filter by Include/Exclude:** Manually select specific testimonials to either **Include** (show only these) or **Exclude** (show all except these).
+* **Show reviews containing these words:** Create a topic-specific feed. For example, enter "customer support" to only show testimonials that mention that phrase.
+* **Hide reviews containing these words:** A moderation tool to hide testimonials that mention certain words (e.g., "bug," "problem").
+* **Filter by Business/Product:** (If applicable) Show testimonials associated with a specific WooCommerce product.
+* **Filter by Category:** This is very powerful. It lets you create a template that only shows testimonials from a specific category you created in Part 1 (e.g., "Service Reviews").
+
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-template-5.webp)
+
+### 3. Settings (Content Display)
+
+This section controls which pieces of information you want to display on each testimonial card.
+
+* **Display Rating:** Show or hide the star rating.
+* **Display Verified Badge:** Show or hide a "Verified" badge for extra trust.
+* **Rating Style:** Choose the visual style for the stars.
+* **Display Date:** Show or hide the date.
+* **Display Author Name:** Show or hide the author's name.
+* **Author Name Format:** Choose to display the **Full Name** or just the **First Name**.
+* **Display Author Position:** Show or hide the author's job title (e.g., "Marketing Manager").
+* **Display Author Company Name:** Show or hide the author's company.
+* **Display Author Website Logo:** Show or hide the company's logo. This adds huge credibility.
+* **Display Author Image:** Show or hide the author's profile picture.
+* **Display Testimonial Title:** Show or hide the main "headline" of the testimonial.
+* **Display Testimonial Text:** Show or hide the main body of the review.
+* **Content Type:** Choose to show the **Full Content** or a short **Excerpt**.
+* **Trim Excerpt Words:** If you chose "Excerpt," set the maximum number of words (e.g., 25) to show. This is key for creating a clean, uniform look.
+* **Enable External Links:** A toggle to make any links in the text clickable.
+* **Equal Height:** Essential for the **Grid** layout. Turn this **On** to force all boxes to the same height. Turn it **Off** for the **Masonry** layout.
+
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-template-6.webp)
+
+### 4. Pagination
+
+This controls how visitors load more testimonials.
+
+* **Pagination Type:** Choose **None** (to show a fixed number) or **Load More** (to add a button).
+* **Load More Button Text:** Customize the text (e.g., "Show More Stories").
+* **Reviews Per Page:** Set how many new testimonials load each time the "Load More" button is clicked.
+
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-template-7.webp)
+
+## Part 3: Customizing Your Testimonial Template (Style Settings)
+
+Now that you've set up the content, click on the **Style** tab to control the visual design. This is where you match your template to your brand's colors and fonts.
+
+![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-style-8.webp)
+
+

@@ -7,10 +7,8 @@ Welcome to the complete documentation for WP Social Ninja - the ultimate WordPre
 New to WP Social Ninja? Start here:
 
 - [Introduction](./getting-started/getting-started-with-wp-social-ninja) - Learn what WP Social Ninja can do
-- [Prerequisites](./getting-started/prerequisites-of-wp-social-ninja-installation) - System requirements
 - [Installation Guide](./getting-started/how-to-install-upgrade-and-activate-license) - Install and activate
 - [Platform Overview](./getting-started/all-platforms-of-wp-social-ninja) - Overview of all features
-- [What WP Social Ninja Offers](./getting-started/what-wp-social-review-offers) - Complete feature breakdown
 
 ## 📱 Social Feeds
 
@@ -44,7 +42,6 @@ Connect with your customers instantly across multiple platforms:
 - [Chat Widget Configuration](./social-chat/social-chat-widget-configuration-wp-social-ninja) - Setup all chat platforms
 - [Chat Settings](./social-chat/settings-social-chat-wp-social-ninja) - Configure chat behavior
 - [Chat Styling](./social-chat/style-social-chat-wp-social-ninja) - Customize chat appearance
-- [Template Layouts](./social-chat/template-layout-social-chat-wp-social-ninja) - Chat widget layouts
 
 ## 🚀 Advanced Features
 

@@ -1,3 +1,4 @@
+
 # WP Social Ninja Glossary
 
 This guide defines common terms used in the WP Social Ninja documentation to help you understand key features.
@@ -92,6 +93,8 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 **Shoppable Feed (Instagram):** A Pro feature that lets you add custom links to your Instagram posts. This turns your feed into a gallery where visitors can click a post to buy a product or visit a specific page.
 
 **Slider Layout:** A template style, usually for reviews or testimonials, that displays one item at a time in a sliding format.
+
+**Screen Options:** A settings panel, usually accessed from the top-right corner of the dashboard, that lets you customize your workspace. You can use it to show or hide specific platform modules from the "**All Platforms**" page, allowing you to create a cleaner view.
 
 ## T
 

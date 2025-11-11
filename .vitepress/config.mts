@@ -425,10 +425,6 @@ export default defineConfig({
                   {
                         "text": "Website Styling",
                         "link": "/guide/customization-design/website-styling-for-feeds-and-reviews"
-                  },
-                  {
-                        "text": "Template Management",
-                        "link": "/guide/customization-design/all-templates"
                   }
             ]
       },

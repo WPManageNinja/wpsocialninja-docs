@@ -29,8 +29,7 @@ From the template settings, go to the **General** section of the Facebook Templa
 
 Now, click the **Fetch Feeds** button, and your Single Album will be loaded into the template.
 
-![facebook single event 1](/guide/public/images/social-feeds/facebook-single-album-feed/Facebook-Single-Event-1.webp)
+![facebook single event 1](/guide/public/images/social-feeds/facebook-single-album-feed/single-album-feed.webp)
 
 You’ll also find additional settings and styling options to customize your Single Album template. Once you're done, click the **Save Template** button to save your changes.
 
-If you have any further questions or need assistance, please don’t hesitate to contact [us](https://wpmanageninja.com/support-tickets/).

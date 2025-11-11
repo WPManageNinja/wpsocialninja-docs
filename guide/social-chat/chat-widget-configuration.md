@@ -31,7 +31,7 @@ A pop-up will appear showing all available chat platforms. You can now select a 
 
 ### Option 2
 
-You can access this chat widget section directly from your WP Social Ninja dashboard. For this, click on the **Platforms**. Next, select the **Social Chats** and click on the **Choose Channel** button.
+You can access this chat widget section directly from your WP Social Ninja dashboard. For this, click on the [Platforms](../getting-started/all-platforms-of-wp-social-ninja). Next, select the **Social Chats** and click on the **Choose Channel** button.
 
 ![Accessing chat channels via the Platforms menu](/guide/public/images/social-chat/social-chat-configuration/social-chat-2.webp)
 

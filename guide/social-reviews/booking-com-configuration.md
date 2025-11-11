@@ -17,7 +17,7 @@ You’ll need WP Social Ninja Pro to access and display Booking.com reviews on y
 
 ## **Enable Booking.com Platform**
 
-Navigate to your **WP Social Ninja** dashboard and select **Platform** from the navigation bar. Locate the **Booking Platform** and click on the **Settings** icon to configure it.
+Navigate to your **WP Social Ninja** dashboard and select [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the navigation bar. Locate the **Booking Platform** and click on the **Settings** icon to configure it.
 
 ![booking review 1](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-1.webp)
 
@@ -86,7 +86,7 @@ Next, return to your **WP Social Ninja Booking Configuration** and paste the **B
 
 If you wish to add another business profile, simply click on the **Add More Business** button and repeat the same steps.
 
-To customize your **Booking.com Reviews Template**, click on the **Create a Template** button and start personalizing your template. Keep in mind, if you don't create a template, your reviews won’t be displayed, as the template won't be created automatically.
+To customize your **Booking.com Reviews Template**, click on the **Create a Template** button and start personalizing your [template](./create-template). Keep in mind, if you don't create a template, your reviews won't be displayed, as the template won't be created automatically.
 
 ![booking review 7](/guide/public/images/social-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-6.webp)
 

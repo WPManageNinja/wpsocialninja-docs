@@ -15,7 +15,7 @@ Yelp uses an API Key to connect. This is a simple key that you generate on Yelp'
 
 First, let's start inside your WordPress dashboard to see what you need.
 
-1.  From your WordPress dashboard, navigate to **WP Social Ninja** in the left-hand menu, and then click on **Platforms**.
+1.  From your WordPress dashboard, navigate to **WP Social Ninja** in the left-hand menu, and then click on [Platforms](../getting-started/all-platforms-of-wp-social-ninja).
 2.  On the "Platforms" page, find the **Yelp** row in the Business Review section then click the **Settings icon** button with it.
 
 ![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-1.webp)

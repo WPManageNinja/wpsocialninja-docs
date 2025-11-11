@@ -4,13 +4,13 @@ description: ""
 ---
 # Facebook Feed Template: General Settings
 
-Once you have created a new template for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
+Once you have created a new [template](../social-reviews/create-template) for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
 
 The editor is organized into two main tabs:
 
 * **General (This Guide):** This tab controls *what* content is shown (your source, filters, text) and *how* the feed functions (layouts, buttons, pagination).
-* **Style:** This tab controls the visual design (colors, fonts, borders, spacing).
-* **Connection:** This tab manages the specific API connection for this template. You will use this tab to add or update the required authentication keys, such as the Facebook Events Access Token, to ensure your feed can successfully fetch data from the platform.
+* **Style:** This tab controls the visual design (colors, fonts, borders, spacing). You can customize the [layout and styling](../social-feeds/facebook-layout-styling) here.
+* **Connection:** This tab manages the specific API connection for this template. You will use this tab to add or update the required authentication keys, such as the [Facebook Events Access Token](./facebook-events-access-token), to ensure your feed can successfully fetch data from the platform.
 
 This guide will provide a detailed, in-depth look at every single setting in the **General** tab.
 
@@ -187,6 +187,6 @@ Pagination controls what happens when a visitor scrolls to the bottom of the ini
 
 Now that you have configured all the General settings, your next step is to make your feed beautiful!
 
-Click on the **Style** tab (as shown in Screenshot 10) to customize the Colors, Fonts, Borders, and Spacing of your header, content, and buttons.
+Click on the **Style** tab (as shown in Screenshot 10) to customize the Colors, Fonts, Borders, and Spacing of your header, content, and buttons. Learn more about [Facebook Feed Layout & Styling](./facebook-layout-styling).
 
 When you are finished, click the **Save Template** button at the bottom.

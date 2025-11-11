@@ -57,7 +57,7 @@ _Custom Review Form_
 
 ### Create a Review Template
 
-Now that your custom review is saved, you need to create a template to display it on your site. Go to the **Templates** tab from the main dashboard. Click the **Add New Template** button and select **Add Reviews Template** from the dropdown options.
+Now that your custom review is saved, you need to create a [template](./create-template) to display it on your site. Go to the **Templates** tab from the main dashboard. Click the **Add New Template** button and select **Add Reviews Template** from the dropdown options.
 
 ![add reviews template ](/guide/public/images/social-reviews/how-to-add-custom-reviews-with-wp-social-ninja/add-reviews-template-04-scaled.webp)
 
@@ -69,4 +69,4 @@ In the template editor, go to the **Source** section on the right-hand side. Cli
 
 _Custom Review Template_
 
-And that's it! Your custom review template is now ready to be embedded on your website using its shortcode. You may also be interested in learning [**how to add Fluent Forms Review**](https://www.google.com/search?q=https://wpsocialninja.com/docs/fluent-forms-reviews/).
+And that's it! Your custom review template is now ready to be embedded on your website using its [shortcode](../integrations/shortcode-usage). You may also be interested in learning [**how to add Fluent Forms Review**](./fluent-forms-review).

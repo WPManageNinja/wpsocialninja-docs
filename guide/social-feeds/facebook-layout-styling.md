@@ -7,7 +7,7 @@ description: ""
 
 This guide will walk you through all the options in the **Style** tab of the Facebook Feed template editor.
 
-While the **General Settings** tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look.
+While the [General Settings](./facebook-customization) tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look.
 
 ## 1. Feed Header
 
@@ -129,6 +129,6 @@ The **Connection** tab is a simple shortcut. It allows you to connect a new Face
 
 ![Facebook Template Styling](/guide/public/images/social-feeds/facebook-feed-layout-styling-with-wp-social-ninja/fb-style-connection-5.webp)
 
->**Please Note:** The steps to connect a page here are identical to the main Facebook connection process.
+>**Please Note:** The steps to connect a page here are identical to the main [Facebook connection process](./facebook-integration).
 
-For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](/guide/social-feeds/facebook-customization) documentation.
+For a complete, step-by-step guide on how to use these settings, please see our main [**Facebook Feed Configuration**](./facebook-customization) documentation.

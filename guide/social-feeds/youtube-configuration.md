@@ -15,7 +15,7 @@ In this guide, you’ll learn how to configure the YouTube platform and connect 
 
 To get started, you’ll first need to configure the YouTube platform.
 
-From your WordPress dashboard, navigate to **WP Social Ninja → Platforms**. Click the **Social Feeds** tab. Find **YouTube** in the list and click the **Connect** button.
+From your WordPress dashboard, navigate to **WP Social Ninja → [Platforms](../getting-started/all-platforms-of-wp-social-ninja)**. Click the **Social Feeds** tab. Find **YouTube** in the list and click the **Connect** button.
 
 A pop-up will appear with two connection types:
 * API Key (Recommended)

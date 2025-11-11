@@ -7,7 +7,7 @@ description: ""
 
 The Testimonials feature is a powerful tool that allows you to manually add, manage, and display your best customer reviews.
 
-Unlike the social reviews (like Google or Facebook) that are fetched automatically, the Testimonials feature is for all the other positive feedback you've collected. This is perfect for reviews you receive via email, private messages, or contact forms.
+Unlike the [social reviews](../social-reviews/) (like [Google](../social-reviews/google-configuration) or [Facebook](../social-reviews/facebook-configuration)) that are fetched automatically, the Testimonials feature is for all the other positive feedback you've collected. This is perfect for reviews you receive via email, private messages, or contact forms.
 
 This guide will walk you through the entire process, from adding your first testimonial to designing a beautiful template to display it.
 
@@ -55,7 +55,7 @@ You will be returned to the "All Testimonials" dashboard, where you will see you
 
 Now that you have some testimonials, it's time to create a template to display them on your website.
 
-Go to **WP Social Ninja → Templates** and click **"Add New Template"**. Select **Testimonials** as your platform. This will take you to the template editor. The **General** tab controls *what* your template shows and *how* it functions.
+Go to **WP Social Ninja → [Templates](../customization-design/all-templates)** and click **"Add New Template"**. Select **Testimonials** as your platform. This will take you to the template editor. The **General** tab controls *what* your template shows and *how* it functions.
 
 ![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-3.webp)
 

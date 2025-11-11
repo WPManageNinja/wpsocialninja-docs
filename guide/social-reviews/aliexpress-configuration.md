@@ -27,7 +27,7 @@ Follow these simple steps to get your product connected in less than a minute.
 
 First, please log in to your WordPress dashboard.
 
-On the main menu on the left-hand side, find the **WP Social Ninja**. Click on it, and then select the **Platforms**. This will take you to the central hub where you can connect all your social media and review accounts.
+On the main menu on the left-hand side, find the **WP Social Ninja**. Click on it, and then select the [Platforms](../getting-started/all-platforms-of-wp-social-ninja). This will take you to the central hub where you can connect all your social media and review accounts.
 
 ### Step 2: Open the AliExpress Connection Window
 
@@ -80,5 +80,5 @@ Congratulations! Your AliExpress product is fully connected and ready to start s
 
 Now that your product is connected, you're ready for the fun part:
 
-* Click the **Add New Template** button to go to the template editor and start designing your **Business Reviews** template to show off those great AliExpress reviews.
+* Click the **Add New Template** button to go to the [template editor](./create-template) and start designing your **Business Reviews** template to show off those great AliExpress reviews.
 * You can connect more products at any time by clicking the **Add More Business** button and repeating this process.

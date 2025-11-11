@@ -5,7 +5,7 @@ description: ""
 
 # Template Layouts
 
-Changing **Template Layouts** are fun to do. You have the authority to change your Layouts the way you want.
+Changing **Template Layouts** are fun to do. You have the authority to change your Layouts the way you want. Learn more about [creating templates](./create-template) and [layout settings](./layout-settings).
 
 ## **Template Layouts**
 

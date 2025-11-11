@@ -9,7 +9,7 @@ WP Social Ninja simplifies the process of displaying WooCommerce product reviews
 
 ## WooCommerce Reviews Settings
 
-Go to your WP Social Ninja plugins **Platforms** section and enable the **WooCommerce** module. Then click on the **Settings** icon in the right corner.
+Go to your WP Social Ninja plugins [Platforms](../getting-started/all-platforms-of-wp-social-ninja) section and enable the **WooCommerce** module. Then click on the **Settings** icon in the right corner.
 
 ![enable woocommerce review 1](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-1.webp)
 
@@ -27,7 +27,7 @@ Click the **Add More Product** button to include multiple product reviews. From 
 
 After selecting a product, click the **Save** button to confirm your choice.
 
-Once you have saved your product selection, click the **Add New Template** button. This will take you to the template editor, where you can design the layout and style for displaying the fetched reviews on your website.
+Once you have saved your product selection, click the **Add New Template** button. This will take you to the [template editor](./create-template), where you can design the layout and style for displaying the fetched reviews on your website.
 
 ![select a product](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-3.webp)
 
@@ -61,7 +61,7 @@ These settings allow you to control how reviews are collected and displayed acro
 
 - **Default Woocommerce Form**: Uses the standard, unstyled WooCommerce form.
 
-**Review Template**: Choose the default review template that will be applied to all WooCommerce products across your site. This serves as the primary template for your entire store.
+**Review Template**: Choose the default [review template](./create-template) that will be applied to all WooCommerce products across your site. This serves as the primary template for your entire store.
 
 After configuring these options, always click the **Save Settings** button to apply your changes.
 
@@ -73,7 +73,7 @@ To customize your product reviews in WooCommerce, go to the specific product you
 
 These settings on the WooCommerce product page let you control how reviews are displayed for this specific item.
 
-**Select a Template**: Choose a WP Social Ninja template to control the visual style and layout of the reviews on this product page.
+**Select a Template**: Choose a WP Social Ninja [template](./create-template) to control the visual style and layout of the reviews on this product page.
 
 **Hide reviews total?**: Enable this checkbox to hide the total number of reviews from being displayed.
 
@@ -89,7 +89,7 @@ These settings on the WooCommerce product page let you control how reviews are d
 
 You can also set a pop-up notification of WooCommerce product reviews on your site. The pop-up review notification will show up on your font end site like this.
 
-Go to your Notification pop-settings from WP Social Ninja Dashboard and select **Notification Popups** then select the **WooCommerce** platform from the **General** tab platform option.
+Go to your Notification pop-settings from WP Social Ninja Dashboard and select [Notification Popups](../advanced-features/notification-popup) then select the **WooCommerce** platform from the **General** tab platform option.
 
 ![Notification Popup](/guide/public/images/social-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-6.webp)
 

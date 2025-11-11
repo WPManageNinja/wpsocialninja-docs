@@ -15,7 +15,7 @@ _WP Social Ninja: Instagram feed_
 
 ## **Instagram Configuration**
 
-From your WordPress dashboard, navigate to **WP Social Ninja** and click on **Platforms** in the navbar. Here, you'll find **Instagram** click on the **Settings** icon to access the configuration settings.
+From your WordPress dashboard, navigate to **WP Social Ninja** and click on [Platforms](../getting-started/all-platforms-of-wp-social-ninja) in the navbar. Here, you'll find **Instagram** click on the **Settings** icon to access the configuration settings.
 
 ![configure instagram 1](/guide/public/images/social-feeds/instagram-configuration-social-feeds-wp-social-ninja/instagram-configuration-1.webp)
 
@@ -51,7 +51,7 @@ Once connected, your **Instagram Business Account** will be added to **WP Social
 
 - To add another account, click the **Connect More Account** button.
 
-- To create or modify your **Instagram Platform Template**, click the **Add New Template** button.
+- To create or modify your **Instagram Platform Template**, click the **Add New Template** button. Learn more about [Instagram feed template styling](./instagram-feed-template-styling-connection).
 
 ![configure instagram 4](/guide/public/images/social-feeds/instagram-configuration-social-feeds-wp-social-ninja/instagram-configuration-5.webp)
 

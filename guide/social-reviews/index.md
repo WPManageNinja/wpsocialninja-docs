@@ -5,7 +5,7 @@ description: ""
 
 # Business Reviews
 
-Your business receives valuable **Business Reviews** on multiple social networking sites like **Google My Business**, **Facebook**, **Airbnb**, **Yelp**, **Tripadvisor**, **Ali Express**, **Amazon**, **Booking.com**, **Trustpilot**, and **WooCommerce**. It's no surprise you want to add them all to your WordPress site so that you can display all the reviews consecutively.
+Your business receives valuable **Business Reviews** on multiple social networking sites like [Google My Business](./google-configuration), [Facebook](./facebook-configuration), [Airbnb](./airbnb-configuration), [Yelp](./yelp-configuration), [Tripadvisor](./tripadvisor-configuration), [Ali Express](./aliexpress-configuration), **Amazon**, [Booking.com](./booking-com-configuration), [Trustpilot](./trustpilot-configuration), and [WooCommerce](./woocommerce-reviews). It's no surprise you want to add them all to your WordPress site so that you can display all the reviews consecutively.
 
 **WP Social Ninja** will let you add different Reviews on your site in just a few clicks. For instance, Social Platforms like Google My Business and Facebook. WP Social Ninja will help you to add all those sites with zero hassle.
 

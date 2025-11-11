@@ -34,9 +34,9 @@ Instead of a single "live chat" system, you can connect multiple social channels
 
 ### How it Works
 
-1. **Go to Platforms:** First, you go to **WP Social Ninja → Platforms→Social Chat** to connect the channels you want to use (like adding your WhatsApp number or Messenger username).
-2. **Go to Templates:** Next, you go to **WP Social Ninja →Chat Widgets** to create a new template.
-3. **Build Your Widget:** In the template editor, you add your connected channels, customize the style, and set your online hours.
+1. **Go to Platforms:** First, you go to **WP Social Ninja → [Platforms](../getting-started/all-platforms-of-wp-social-ninja)→Social Chat** to connect the channels you want to use (like adding your WhatsApp number or Messenger username).
+2. **Go to Templates:** Next, you go to **WP Social Ninja →Chat Widgets** to create a new [template](./chat-widget-configuration).
+3. **Build Your Widget:** In the template editor, you add your connected channels, customize the [style](./chat-styling), and set your online [hours](./chat-settings).
 4. **Embed (No Shortcode Needed):** Unlike feeds, the chat widget is often enabled globally. You can set its display rules (like "show on all pages") directly from the template editor.
 
 ![Social Chats](/guide/public/images/social-chat/social-chat-wp-social-ninja/social_chats.webp)

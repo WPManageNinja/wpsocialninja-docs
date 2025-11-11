@@ -68,7 +68,7 @@ For a complete guide on Fluent Forms integration with WP Social Ninja, see this 
 
 Now you’ll design how the reviews will appear on your site.
 
-- Go to **WP Social Ninja → Templates → Add New Template**.
+- Go to **WP Social Ninja → [Templates](../customization-design/all-templates) → Add New Template**.
 
 - Select **Reviews** as the template type.
 
@@ -86,7 +86,7 @@ Now you’ll design how the reviews will appear on your site.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
-Read the [documentation](./template-layouts) to understand fully how review templates work.
+Read the [documentation](./template-layouts) to understand fully how [review templates](./create-template) work.
 
 ![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-Review-Template-scaled.webp)
 
@@ -96,7 +96,7 @@ Once your form and template are ready, the final step depends on how you want to
 
 #### WooCommerce Global Review Settings
 
-Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings** to manage how reviews are collected and displayed across all WooCommerce products. These settings apply globally, but you can still override them on individual product pages.
+Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings** to manage how reviews are collected and displayed across all [WooCommerce products](./woocommerce-reviews). These settings apply globally, but you can still override them on individual product pages.
 
 - **Auto Syncing** – Automatically fetch new WooCommerce reviews. Choose how often to check (e.g., daily).
 

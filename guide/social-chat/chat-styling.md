@@ -7,7 +7,7 @@ description: ""
 
 Want to make your chat widget perfectly match your website's brand? The **Style** tab gives you full control over the colors, helping you create a seamless and professional look for your visitors.
 
-Customizing the appearance is simple. From your chat widget editor, just click the **Style** tab (located next to "General" and "Channels") to access all the color settings.
+Customizing the appearance is simple. From your [chat widget editor](./chat-widget-configuration), just click the **Style** tab (located next to "General" and "Channels") to access all the color settings. You can also configure [chat settings](./chat-settings) from the General tab.
 
 ## Customizing Your Widget's Colors
 

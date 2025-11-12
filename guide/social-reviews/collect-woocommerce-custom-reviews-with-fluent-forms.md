@@ -31,13 +31,7 @@ Example: If you sell perfumes, you could add an “Upload your photo” field so
 
 ## **Step 1: Create a Review Form in Fluent Forms**
 
-First, you need a form where users can submit their reviews.
-
-- Go to **Fluent Forms → Add New**.
-
-- Choose a **Blank Form** or use a template.
-
-- Add the fields you want for reviews. For example:
+First, you need a form where users can submit their reviews. For this, go to **Fluent Forms → Add New**. Choose a **Blank Form** or use a template. Then, dd the fields you want for reviews. For example:
 
   - **Name** → Who is leaving the review.
   - **Email** → Optional but useful for verification.
@@ -46,33 +40,29 @@ First, you need a form where users can submit their reviews.
   - **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
   - **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
 
-- Save the form.
+After that, **Save** the form and **Copy** the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
 
-- Copy the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
+![Create a Review Form ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/review-form.webp)
 
 ## **Step 2: Connect Fluent Forms with WP Social Ninja**
 
-Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates.
+Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates. Then, go to **Fluent Forms → Forms → Settings & Integrations**.Now, click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
 
-- Go to **Fluent Forms → Forms → Settings & Integrations**.
+![Connect Fluent Forms with WP Social Ninja ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/connect-form-with-wpsocial-ninja.webp)
 
-- Click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
-
-- While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
+While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
 
 For a complete guide on Fluent Forms integration with WP Social Ninja, see this [documentation](./fluent-forms-review).
 
-![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/update-wp-social-ninja-integration-feed-fluent-for.webp)
+![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/add-new-integration-feed.webp)
 
 ## **Step 3: Create a Review Template in WP Social Ninja**
 
 Now you’ll design how the reviews will appear on your site.
 
-- Go to **WP Social Ninja → [Templates](../customization-design/all-templates) → Add New Template**.
+Go to **WP Social Ninja → [Templates](../customization-design/all-templates) → Add New Template**. Select **Reviews** as the template type.
 
-- Select **Reviews** as the template type.
-
-- Under **Source → Platforms**, choose where the reviews come from:
+Under **Source → Platforms**, choose where the reviews come from:
 
   - **WooCommerce** → Reviews tied to your products.
 
@@ -88,7 +78,7 @@ At this point, your **Write a Review** button is ready. When users click it, you
 
 Read the [documentation](./template-style-connection) to understand fully how [review templates](./create-template) work.
 
-![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-Review-Template-scaled.webp)
+![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/fluent-forms-review.webp)
 
 ## **Step 4: Apply Your Setup**
 

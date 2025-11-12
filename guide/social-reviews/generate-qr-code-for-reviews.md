@@ -5,13 +5,13 @@ description: ""
 
 # Generate QR Code for Reviews
 
-The QR Code feature in WPSocialNinja makes it easy for your customers to leave reviews for your business. Generate a unique QR code that links directly to your review page on platforms like Google Business Profile, Booking.com, Airbnb, etc. Customers can scan the code to leave a review instantly, without needing to search for your page.
+The QR Code feature in WPSocialNinja makes it easy for your customers to leave reviews for your business. Generate a unique QR code that links directly to your review page on platforms like [Google Business Profile](./google-configuration), [Booking.com](./booking-com-configuration), [Airbnb](./airbnb-configuration), etc. Customers can scan the code to leave a review instantly, without needing to search for your page.
 
 This guide will show you how to generate, use, and track your review QR code.
 
 ### **How to Generate Your QR Code**
 
-Before you begin, ensure you have already connected your business platforms in WP Social Ninja, as you will need to select their URLs during the setup process.
+Before you begin, ensure you have already connected your business [platforms](../getting-started/all-platforms-of-wp-social-ninja) in WP Social Ninja, as you will need to select their URLs during the setup process.
 
 #### Navigate to the QR Code Menu
 

@@ -166,6 +166,6 @@ Pagination controls what happens when a visitor reaches the end of the first set
 
 Now that you have configured all the General settings, your next step is to make your feed look great.
 
-Click on the **Style** tab to customize the Colors, Fonts, and Spacing of your header, video posts, and buttons.
+Click on the **Style** tab to customize the Colors, Fonts, and Spacing of your header, video posts, and buttons. Learn more about [YouTube configuration](./youtube-configuration).
 
 When you are finished, click the **Save** button.

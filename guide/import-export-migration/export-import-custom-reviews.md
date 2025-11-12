@@ -15,15 +15,15 @@ Navigate to the **Tools** section of WP Social Ninja from the left sidebar in Wo
 
 First, choose the data you want to export by selecting it from the drop-down menu. You'll have the following options:
 
-- Reviews
+- [Reviews](../social-reviews/)
 
-- Testimonials
+- [Testimonials](../advanced-features/add-testimonials)
 
-- Feed and Reviews Template
+- Feed and Reviews [Template](../customization-design/all-templates)
 
-- Notification Popups Template
+- [Notification Popups](../advanced-features/notification-popup) Template
 
-- Chat Widgets
+- [Chat Widgets](../social-chat/chat-widget-configuration)
 
 After selecting the data, pick the specific template you want to export.
 
@@ -31,7 +31,7 @@ Please note that **Reviews** and **Testimonial** content will be exported in **C
 
 It's important to mention that when exporting the Feed and Reviews option, only the Template Settings of WP Social Ninja will be exported. The reviews themselves cannot be exported because they won't appear on another site during import.
 
-This happens because the other site doesn't have the necessary authorization to display reviews from the platform. Not all platforms require this authorization, but platforms like Facebook, Instagram, TripAdvisor, and Yelp do require authorization.
+This happens because the other site doesn't have the necessary authorization to display reviews from the platform. Not all platforms require this authorization, but platforms like [Facebook](../social-reviews/facebook-configuration), [Instagram](../social-feeds/instagram-configuration), [Tripadvisor](../social-reviews/tripadvisor-configuration), and [Yelp](../social-reviews/yelp-configuration) do require authorization.
 
 ![wpsocialninja export import 1](/guide/public/images/import-export-migration/how-to-export-import-custom-reviews/export-import-1.webp)
 

@@ -164,4 +164,4 @@ This is very useful if you are building a template and realize you want to inclu
 
 ![X template styling connection](/guide/public/images/social-feeds/twitter-feed-template-styling-connection/x-template-styling-7.webp)
 
-For a complete, step-by-step guide on how to use these settings, please see our main **X (Twitter) Configuration** documentation.
+For a complete, step-by-step guide on how to use these settings, please see our main [X (Twitter) Configuration](./twitter-configuration) documentation.

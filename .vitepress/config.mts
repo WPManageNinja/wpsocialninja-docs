@@ -415,6 +415,20 @@ export default defineConfig({
             ]
       },
       {
+            "text": "🎨 Custom Sources",
+            "collapsed": true,
+            "items": [
+                  {
+                        "text": "Custom Sources Overview",
+                        "link": "/guide/custom-source/custom-source-overview"
+                  },
+                  {
+                        "text": "Manually Add or Import Custom Reviews",
+                        "link": "/guide/custom-source/manually-add-or-import-custom-reviews"
+                  }
+            ]
+      },
+      {
             "text": "🎨 Customization & Design",
             "collapsed": true,
             "items": [

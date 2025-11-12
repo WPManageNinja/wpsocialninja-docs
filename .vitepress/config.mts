@@ -425,6 +425,10 @@ export default defineConfig({
                   {
                         "text": "Manually Add or Import Custom Reviews",
                         "link": "/guide/custom-source/manually-add-or-import-custom-reviews"
+                  },
+                  {
+                        "text": "How to Collect Reviews with a Fluent Forms Custom Source",
+                        "link": "/guide/custom-source/fluent-forms-custom-source"
                   }
             ]
       },

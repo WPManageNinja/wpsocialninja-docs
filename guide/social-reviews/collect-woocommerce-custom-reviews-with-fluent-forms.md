@@ -60,7 +60,7 @@ For a complete guide on Fluent Forms integration with WP Social Ninja, see this 
 
 Now you’ll design how the reviews will appear on your site.
 
-Go to **WP Social Ninja → [Templates](../customization-design/all-templates) → Add New Template**. Select **Reviews** as the template type.
+Go to **WP Social Ninja → [Templates](../getting-started/templates-overview) → Add New Template**. Select **Reviews** as the template type.
 
 Under **Source → Platforms**, choose where the reviews come from:
 

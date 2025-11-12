@@ -19,7 +19,7 @@ First, choose the data you want to export by selecting it from the drop-down men
 
 - [Testimonials](../advanced-features/add-testimonials)
 
-- Feed and Reviews [Template](../customization-design/all-templates)
+- Feed and Reviews [Template](../getting-started/templates-overview)
 
 - [Notification Popups](../advanced-features/notification-popup) Template
 

@@ -49,5 +49,5 @@ WP Social Ninja also includes powerful marketing and SEO tools.
 
 ## Getting Started
 
-If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../social-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../customization-design/all-templates) to customize the appearance and engage with your visitors.
+If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../social-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../getting-started/templates-overview) to customize the appearance and engage with your visitors.
 

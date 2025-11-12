@@ -13,7 +13,7 @@ A shortcode is a simple, one-line piece of code that WordPress understands. WP S
 
 Finding your shortcode is simple. All your saved templates and their shortcodes are kept in one central location.
 
-From your WordPress dashboard, navigate to **WP Social Ninja → Templates**. You will see a list of all the [templates](../customization-design/all-templates) you have created, such as "YouTube Template" or "Instagram Template."
+From your WordPress dashboard, navigate to **WP Social Ninja → Templates**. You will see a list of all the [templates](../getting-started/templates-overview) you have created, such as "YouTube Template" or "Instagram Template."
 
 Now, look for the template you want to display on your site. In the "**ShortCode**" column next to it, you will see its unique shortcode (e.g., `[wp_social_ninja id="100" platform="youtube"]`). After that, click the **shortcode** in the list to **copy** it directly to your clipboard. It's that easy!
 

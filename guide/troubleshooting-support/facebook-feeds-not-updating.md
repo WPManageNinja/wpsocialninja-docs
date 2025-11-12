@@ -33,7 +33,7 @@ If certain posts are missing, it could be due to filtering settings in WPSocialN
 
 ### Check the Following Settings
 
-Go to WPSocialNinja and then select [Templates](../customization-design/all-templates) from the navbar. Now, find the [Facebook Feed Template](../social-feeds/facebook-customization) where you're facing the issue. Click on the **Edit** button of that feed to open its settings options.
+Go to WPSocialNinja and then select [Templates](../getting-started/templates-overview) from the navbar. Now, find the [Facebook Feed Template](../social-feeds/facebook-customization) where you're facing the issue. Click on the **Edit** button of that feed to open its settings options.
 
 ![image](/guide/public/images/troubleshooting-support/facebook-feeds-not-updating-or-missing-posts-social-feeds-wp-social-ninja/facebook-feed-1.webp)
 

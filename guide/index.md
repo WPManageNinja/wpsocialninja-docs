@@ -65,7 +65,7 @@ Connect with popular page builders and external services:
 Make it match your brand perfectly:
 
 - [Website Styling](./customization-design/website-styling-for-feeds-and-reviews) - Custom styling options
-- [Template Management](./customization-design/all-templates) - Working with templates
+- [Template Management](./getting-started/templates-overview) - Working with templates
 
 ## ⚙️ Management & Settings
 

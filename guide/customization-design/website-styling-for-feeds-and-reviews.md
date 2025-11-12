@@ -9,7 +9,7 @@ Designing your Feeds and Reviews is simple and fun with **WP Social Ninja’s** 
 
 ## Access the Style Settings
 
-When editing any of your feed or [review templates](../customization-design/all-templates), simply click on the **Style** tab, located right next to the **General** tab.
+When editing any of your feed or [review templates](../getting-started/templates-overview), simply click on the **Style** tab, located right next to the **General** tab.
 
 This will open a panel with all the customization settings. You can change everything from colors and typography to spacing and borders.
 

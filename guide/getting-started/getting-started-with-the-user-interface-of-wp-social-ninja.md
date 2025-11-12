@@ -21,7 +21,7 @@ This is the most important step. Before you can create a template, you must conn
 
 ## Templates
 
-This is the main area where you create and manage all your display [templates](../customization-design/all-templates). A template is a saved layout and style that you can embed on your site using a [shortcode](../integrations/shortcode-usage).
+This is the main area where you create and manage all your display [templates](./templates-overview). A template is a saved layout and style that you can embed on your site using a [shortcode](../integrations/shortcode-usage).
 
 As shown in the image, this page is organized into tabs:
 * **Social Feeds:** All your templates for [Instagram](../social-feeds/instagram-configuration), [Facebook](../social-feeds/facebook-integration), [Twitter](../social-feeds/twitter-configuration), [TikTok](../social-feeds/tiktok-feed-configuration), etc.

@@ -32,4 +32,4 @@ This category is for fetching and displaying customer reviews from various busin
 This category includes all the communication channels you can add to your website's Chat Widget.
 > Examples: Messenger, WhatsApp, Telegram, Instagram, Slack, and 15+ other channels.
 
-After you have successfully connected your account (which will display a "Connected" status), your next step is to navigate to the [Templates](../customization-design/all-templates) menu. From there, you can create and customize a new template to display the feed, reviews, or chat widget on your site.
+After you have successfully connected your account (which will display a "Connected" status), your next step is to navigate to the [Templates](./templates-overview) menu. From there, you can create and customize a new template to display the feed, reviews, or chat widget on your site.

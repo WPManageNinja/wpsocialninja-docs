@@ -77,7 +77,7 @@ After clicking the button, a pop-up form will appear. Here, you can fill in all 
 
 ### Display Your Testimonials on Your Website
 
-Finally, to display the testimonials collected through your form, you need to create a [template](../customization-design/all-templates) in WP Social Ninja. Copy the template's [shortcode](../integrations/shortcode-usage) and paste it onto any page or post where you want your testimonials to appear.
+Finally, to display the testimonials collected through your form, you need to create a [template](../getting-started/templates-overview) in WP Social Ninja. Copy the template's [shortcode](../integrations/shortcode-usage) and paste it onto any page or post where you want your testimonials to appear.
 
 - Go to your **WP Social Ninja dashboard → Templates**.
 

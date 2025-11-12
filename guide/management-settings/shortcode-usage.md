@@ -13,7 +13,7 @@ After configuring reviews / recommendations, you need to embed them on your webs
 
 Let’s look at how we can use shortcodes to display reviews on the website.
 
-- To use your Shortcode, first, go to [Templates](../customization-design/all-templates).
+- To use your Shortcode, first, go to [Templates](../getting-started/templates-overview).
 
 ![List of shortcode](/guide/public/images/management-settings/how-to-use-a-shortcode-social-reviews-wp-social-ninja/WP-Social-Ninja-Templates-2-1-1.png)
 

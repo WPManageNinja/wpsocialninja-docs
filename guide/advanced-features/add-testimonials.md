@@ -55,7 +55,7 @@ You will be returned to the "All Testimonials" dashboard, where you will see you
 
 Now that you have some testimonials, it's time to create a template to display them on your website.
 
-Go to **WP Social Ninja → [Templates](../customization-design/all-templates)** and click **"Add New Template"**. Select **Testimonials** as your platform. This will take you to the template editor. The **General** tab controls *what* your template shows and *how* it functions.
+Go to **WP Social Ninja → [Templates](../getting-started/templates-overview)** and click **"Add New Template"**. Select **Testimonials** as your platform. This will take you to the template editor. The **General** tab controls *what* your template shows and *how* it functions.
 
 ![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-3.webp)
 

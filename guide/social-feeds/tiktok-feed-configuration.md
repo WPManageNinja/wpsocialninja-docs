@@ -31,7 +31,7 @@ The next page will give you the **Access Code**, now copy the Access Code and Pa
 
 Your TikTok account is now connected. 
 
-Now add and customize your [template](../customization-design/all-templates) as you want by simply clicking on the **Add New Template** button.
+Now add and customize your [template](../getting-started/templates-overview) as you want by simply clicking on the **Add New Template** button.
 
 ![TikTok Connected Account ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-6.webp)
 

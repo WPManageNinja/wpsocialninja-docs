@@ -119,6 +119,10 @@ export default defineConfig({
                               {
                                     "text": "Reauthorize App",
                                     "link": "/guide/social-feeds/reauthorize-instagram-facebook"
+                              },
+                              {
+                                    "text": "Facebook Feed Settings",
+                                    "link": "/guide/social-feeds/facebook-feed-settings"
                               }
                         ]
                   },

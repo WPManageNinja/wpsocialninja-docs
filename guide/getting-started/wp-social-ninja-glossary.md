@@ -13,6 +13,7 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 
 ## B
 
+
 **Badge Layout (Reviews):** A review template style that displays a small badge with your average rating and total review count. This is often used to link to a full page of reviews.
 
 **Business Account (Instagram):** A professional Instagram profile. This is required to use features like Hashtag Feeds or connect with the Business Advanced method.
@@ -30,6 +31,12 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 **Configuration:** The one-time setup process to connect a platform (like Google Business Profile or Twitter) to WP Social Ninja.
 
 **Custom Review:** A review that you write and add manually in WP Social Ninja. This is useful for adding reviews you received offline or via email.
+
+**Custom Sources:** A powerful feature that lets you create your own "review platforms" inside the plugin. It is used to manually add individual reviews, bulk-import reviews from a CSV file, or connect a Fluent Form to collect new testimonials. These custom-made sources then appear as a new, selectable platform in the template editor.
+
+## D
+
+**Dark/Light Mode:** A toggle, usually found in the top bar of the WP Social Ninja admin dashboard, that switches the appearance of the plugin's backend interface between a light and dark theme. This setting is for administrator comfort and does not affect the style of your live feeds or reviews on the website.
 
 ## E
 
@@ -84,6 +91,8 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 
 **QR Code Generator:** A Pro feature that creates a QR code. Customers can scan this with their phone to go directly to your review page (like Google or Yelp) and leave new feedback.
 
+**Quick Builder:** A button on the main dashboard that re-opens the initial 3-step setup wizard. It's used to quickly create a new feed or review template without going through the advanced editor.
+
 ## S
 
 **Schema Snippet:** Special code added to your reviews that is only visible to search engines. This helps Google understand your review data and can result in star ratings appearing next to your website in search results.
@@ -95,6 +104,10 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 **Slider Layout:** A template style, usually for reviews or testimonials, that displays one item at a time in a sliding format.
 
 **Screen Options:** A settings panel, usually accessed from the top-right corner of the dashboard, that lets you customize your workspace. You can use it to show or hide specific platform modules from the "**All Platforms**" page, allowing you to create a cleaner view.
+
+**Search bar:** An admin-side tool, usually found at the top-right of list pages (like "All Platforms," "All Reviews," or "All Templates"). It allows you to quickly find a specific item by typing its name, filtering the list instantly.
+
+**Support:** A dedicated page in the WP Social Ninja admin dashboard that provides help resources. It includes links to contact the support team, report a bug, write a review, and access the full product documentation.
 
 ## T
 

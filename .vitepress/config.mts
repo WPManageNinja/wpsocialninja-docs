@@ -159,8 +159,8 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-email-report"
                               },
                               {
-                                    "text": "Image Optimization",
-                                    "link": "/guide/social-feeds/instagram-optimize-images"
+                                    "text": "Instagram Feed Settings",
+                                    "link": "/guide/social-feeds/instagram-feed-settings"
                               }
                         ]
                   },

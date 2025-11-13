@@ -67,11 +67,7 @@ You can update both the Free and Pro versions directly from your WordPress dashb
 
 WP Social Ninja Pro comes with a licensing option to renew your license. Follow these simple steps to renew the license:
 
-You can start by going to the purchase history from **WPManageNinja Account**. Then you’ll see the ‘**Renewing a license key?**’ link on the checkout cart, and click on that.
-
-![Your Checkout Cart](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/your-checkout-cart.webp)
-
-After entering the license key, click the **Apply License Renewal** button.
+You can start by going to the purchase history from **WPManageNinja Account**. Then you’ll see the ‘**Renewing a license key?**’ link on the checkout cart, and click on that. After entering the license key, click the **Apply License Renewal** button.
 
 ![License Renewing](/guide/public/images/getting-started/how-to-install-upgrade-and-activate-license/license-renewing.webp)
 

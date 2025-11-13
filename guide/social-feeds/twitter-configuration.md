@@ -9,7 +9,7 @@ This guide will show you exactly how to connect your X (Twitter) account to WP S
 
 To connect your account, you will first open the X (Twitter) settings inside WP Social Ninja. The plugin will ask you for specific "credentials" (like an API Key or Token). We will then show you exactly where to find these keys by creating a simple "App" in the X (Twitter) Developer Portal.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLpefN7tIz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/SLpefN7tIz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We will walk you through every step.
 

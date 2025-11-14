@@ -7,16 +7,19 @@ export default defineConfig({
   base: '/',
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'alternate icon', href: '/favicon.svg' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.svg' }]
   ],
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo.svg',
     outline: [2,3],
     
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/guide/' },
+      { text: 'Website', link: 'https://wp-social-ninja.com' },
+      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
+      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
     ],
 
     sidebar: [

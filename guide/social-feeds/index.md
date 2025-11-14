@@ -17,8 +17,8 @@ _Social Feeds_
 
 Also, check out the -
 
-- [Twitter Feed](./twitter-configuration)
-- [YouTube Feed](./youtube-configuration)
 - [Instagram Feed](./instagram-configuration)
 - [Facebook Feed](./facebook-integration)
 - [TikTok Feed](./tiktok-feed-configuration)
+- [YouTube Feed](./youtube-configuration)
+- [X (Twitter) Feed](./twitter-configuration)

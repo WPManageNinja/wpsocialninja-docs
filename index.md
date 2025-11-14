@@ -31,41 +31,11 @@ features:
     details: Add WhatsApp, Facebook Messenger, and other chat widgets to your site
     link: /guide/social-chat/
     linkText: "Setup Chat →"
-  - icon: 🎯
-    title: Notification Popups
-    details: Create engaging notification popups to boost conversions and engagement
-    link: /guide/advanced-features/notification-popup
-    linkText: "Setup Popups →"
-  - icon: 📝
-    title: Custom Testimonials
-    details: Create and manage custom testimonials and customer reviews
-    link: /guide/advanced-features/add-testimonials
-    linkText: "Manage Testimonials →"
-  - icon: 🤖
-    title: AI Integration
-    details: OpenAI and OpenRouter integration for smart content summarization
-    link: /guide/ai-integration/
-    linkText: "Setup AI →"
   - icon: 🧩
-    title: Page Builder Integration
+    title: Integrations
     details: Elementor, Beaver Builder, Oxygen, and other page builder widgets
     link: /guide/integrations/
-    linkText: "Add Widgets →"
-  - icon: 🎨
-    title: Design & Customization
-    details: Style feeds, reviews, and chat widgets to match your brand perfectly
-    link: /guide/customization-design/
-    linkText: "Customize Design →"
-  - icon: 🔧
-    title: Management & Settings
-    details: Global settings, translations, and advanced configuration options
-    link: /guide/management-settings/
-    linkText: "Configure Settings →"
-  - icon: 📤
-    title: Export & Import
-    details: Backup, migrate, and transfer your social ninja configurations
-    link: /guide/import-export-migration/export-import-custom-reviews
-    linkText: "Manage Data →"
+    linkText: "View Integrations →"
   - icon: 🆘
     title: Troubleshooting & Support
     details: Common issues, solutions, changelog, and getting help when you need it

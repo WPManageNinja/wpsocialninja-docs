@@ -34,12 +34,12 @@ features:
   - icon: 🎯
     title: Notification Popups
     details: Create engaging notification popups to boost conversions and engagement
-    link: /guide/notification-popup/
+    link: /guide/advanced-features/notification-popup
     linkText: "Setup Popups →"
   - icon: 📝
     title: Custom Testimonials
     details: Create and manage custom testimonials and customer reviews
-    link: /guide/testimonials/
+    link: /guide/advanced-features/add-testimonials
     linkText: "Manage Testimonials →"
   - icon: 🤖
     title: AI Integration
@@ -49,12 +49,12 @@ features:
   - icon: 🧩
     title: Page Builder Integration
     details: Elementor, Beaver Builder, Oxygen, and other page builder widgets
-    link: /guide/page-builders/
+    link: /guide/integrations/
     linkText: "Add Widgets →"
   - icon: 🎨
     title: Design & Customization
     details: Style feeds, reviews, and chat widgets to match your brand perfectly
-    link: /guide/design/
+    link: /guide/customization-design/
     linkText: "Customize Design →"
   - icon: 🔧
     title: Management & Settings
@@ -64,7 +64,7 @@ features:
   - icon: 📤
     title: Export & Import
     details: Backup, migrate, and transfer your social ninja configurations
-    link: /guide/troubleshooting-support/export-import/
+    link: /guide/import-export-migration/export-import-custom-reviews
     linkText: "Manage Data →"
   - icon: 🆘
     title: Troubleshooting & Support

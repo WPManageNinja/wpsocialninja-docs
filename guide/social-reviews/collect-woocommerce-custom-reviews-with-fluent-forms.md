@@ -33,12 +33,12 @@ Example: If you sell perfumes, you could add an “Upload your photo” field so
 
 First, you need a form where users can submit their reviews. For this, go to **Fluent Forms → Add New**. Choose a **Blank Form** or use a template. Then, dd the fields you want for reviews. For example:
 
-  - **Name** → Who is leaving the review.
-  - **Email** → Optional but useful for verification.
-  - **Review Title** → A short headline for the review.
-  - **Review Text** → The main review content.
-  - **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
-  - **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
+- **Name** → Who is leaving the review.
+- **Email** → Optional but useful for verification.
+- **Review Title** → A short headline for the review.
+- **Review Text** → The main review content.
+- **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
+- **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
 
 After that, **Save** the form and **Copy** the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
 
@@ -64,15 +64,15 @@ Go to **WP Social Ninja → [Templates](../getting-started/templates-overview) �
 
 Under **Source → Platforms**, choose where the reviews come from:
 
-  - **WooCommerce** → Reviews tied to your products.
+- **WooCommerce** → Reviews tied to your products.
 
-- Scroll to the **Header section**:
+Scroll to the **Header section**:
 
-  - Toggle **Display Header ON**.
-  - Pick a **Header Template** (Template 1 or Template 2).
-  - Enable **Write a Review**.
-  - Under **Button Source Type**, select **Fluent Form Shortcode ID**.
-  - Paste the **Form ID** from your Fluent Form.
+- Toggle **Display Header ON**.
+- Pick a **Header Template** (Template 1 or Template 2).
+- Enable **Write a Review**.
+- Under **Button Source Type**, select **Fluent Form Shortcode ID**.
+- Paste the **Form ID** from your Fluent Form.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
@@ -84,7 +84,7 @@ Read the [documentation](./template-style-connection) to understand fully how [r
 
 Once your form and template are ready, the final step depends on how you want to apply it. You can set the review form globally for all products linked to a WooCommerce template, or configure it individually for specific products. Both methods work global setup for all products at once, or product-level setup for finer control.
 
-#### WooCommerce Global Review Settings
+### WooCommerce Global Review Settings
 
 Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings** to manage how reviews are collected and displayed across all [WooCommerce products](./woocommerce-reviews). These settings apply globally, but you can still override them on individual product pages.
 
@@ -103,7 +103,7 @@ Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settin
 **Note:** These settings only affect products that are connected to a WooCommerce Review Template in WP Social Ninja.
 To learn more, follow this documentation.
 
-#### WooCommerce Product Specific Settings 
+### WooCommerce Product Specific Settings
 
 - Go to **Products → Edit Product** in WooCommerce.
 

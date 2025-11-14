@@ -17,8 +17,6 @@ When building your form, you must include the "**Social Ninja Rating**" field (a
 
 ![The Social Ninja Rating field in the Fluent Forms editor](/guide/public/images/custom-source/fluent-forms-custom-source/create-form-1.webp)
 
-> For a complete step-by-step guide on creating your form and connecting it, please read our [documentation](guide/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms).
-
 ## Step 1: Create Your "Fluent Forms" Source
 
 First, you’ll need to create a dedicated source to receive your new form submissions.

@@ -11,35 +11,35 @@ hero:
       link: /guide/getting-started/getting-started-with-wp-social-ninja
 
 features:
-  - icon: �
+  - icon: 🚀
     title: Getting Started
     details: Installation, setup, prerequisites, and platform overview for new users
     link: /guide/getting-started/getting-started-with-wp-social-ninja
-    linkText: "Get Started →"
-  - icon: 📱
+    linkText: "Get Started"
+  - icon: 📰
     title: Social Feeds
     details: Display feeds from Facebook, Instagram, Twitter, YouTube, TikTok and more
     link: /guide/social-feeds/
-    linkText: "Setup Feeds →"
+    linkText: "Setup Feeds"
   - icon: ⭐
     title: Social Reviews
     details: Showcase reviews from Google, Facebook, Yelp, Trustpilot, and 10+ platforms
     link: /guide/social-reviews/
-    linkText: "Setup Reviews →"
+    linkText: "Setup Reviews"
   - icon: 💬
     title: Social Chat
     details: Add WhatsApp, Facebook Messenger, and other chat widgets to your site
     link: /guide/social-chat/
-    linkText: "Setup Chat →"
-  - icon: 🧩
+    linkText: "Setup Chat"
+  - icon: 🔗
     title: Integrations
     details: Elementor, Beaver Builder, Oxygen, and other page builder widgets
-    link: /guide/integrations/
-    linkText: "View Integrations →"
-  - icon: 🆘
+    link: /guide/integrations/integrations-overview
+    linkText: "View Integrations"
+  - icon: ❓
     title: Troubleshooting & Support
     details: Common issues, solutions, changelog, and getting help when you need it
-    link: /guide/troubleshooting-support/
-    linkText: "Get Help →"
+    link: /guide/troubleshooting-support/get-support
+    linkText: "Get Help"
 ---
 

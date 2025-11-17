@@ -184,8 +184,12 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/twitter-feed-template-styling-connection"
                               },
                               {
-                                    "text": "Settings",
-                                    "link": "/guide/social-feeds/twitter-settings"
+                                    "text": "Template Settings",
+                                    "link": "/guide/social-feeds/twitter-template-settings"
+                              },
+                              {
+                                    "text": "Feed Settings",
+                                    "link": "/guide/social-feeds/twitter-feed-settings"
                               }
                         ]
                   },

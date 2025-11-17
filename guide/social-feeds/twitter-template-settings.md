@@ -1,9 +1,9 @@
 ---
-title: "Twitter Feed Settings"
+title: "Twitter Template Settings"
 description: ""
 ---
 
-# Twitter Feed Settings
+# Twitter Template Settings
 
 This is your creative control center, where you can design a beautiful and functional feed that perfectly matches your website.
 

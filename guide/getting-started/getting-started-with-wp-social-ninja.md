@@ -27,7 +27,7 @@ This feature allows you to automatically pull reviews from over platforms and di
 
  * **Fetch from Multiple Platforms:** Connect [Google Business Profile](../social-reviews/google-configuration), [Facebook](../social-reviews/facebook-configuration), [Yelp](../social-reviews/yelp-configuration), [Airbnb](../social-reviews/airbnb-configuration), [WooCommerce](../social-reviews/woocommerce-reviews), [Trustpilot](../social-reviews/trustpilot-configuration), [Booking.com](../social-reviews/booking-com-configuration), [AliExpress](../social-reviews/aliexpress-configuration), [Tripadvisor](../social-reviews/tripadvisor-configuration), and [Fluent Forms](../social-reviews/fluent-forms-review).
  * **Display Beautifully:** Choose from different [Templates](../social-reviews/create-template) (like Grid, Slider, or Masonry) to control the layout and match your website's design.
- * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own [Custom Reviews](../social-reviews/add-custom-reviews) or [testimonials](../advanced-features/add-testimonials).
+ * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own [Custom Reviews](../custom-source/manually-add-or-import-custom-reviews) or [testimonials](../advanced-features/add-testimonials).
 
 ### 3. Integrate Social Chat
 

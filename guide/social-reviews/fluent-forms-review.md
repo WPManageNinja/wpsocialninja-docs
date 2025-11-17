@@ -115,4 +115,4 @@ By default, reviews might appear instantly. If you want to approve each review b
 
 ![fluent form settings 09](/guide/public/images/social-reviews/fluent-forms-review/fluent-forms-settings-8.webp)
 
-Now, all new submissions will go to the **Reviews** tab in WP Social Ninja, where you can manually approve or disapprove them before they appear on your site. You can check out the - **[How to add Custom Reviews](./add-custom-reviews)** documentation.
+Now, all new submissions will go to the **Reviews** tab in WP Social Ninja, where you can manually approve or disapprove them before they appear on your site. You can check out the - **[How to add Custom Reviews](../custom-source/manually-add-or-import-custom-reviews)** documentation.

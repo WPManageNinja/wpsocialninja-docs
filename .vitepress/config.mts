@@ -20,7 +20,7 @@ export default defineConfig({
     outline: [2,3],
     
     nav: [
-      { text: 'Website', link: 'https://wp-social-ninja.com' },
+      { text: 'Website', link: 'https://wpsocialninja.com' },
       { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
     ],
@@ -514,8 +514,20 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2025 WP Social Ninja'
+    }
+  },
+
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 1000,
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'vendor': ['vitepress']
+          }
+        }
+      }
     }
   }
 })

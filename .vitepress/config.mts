@@ -20,14 +20,9 @@ export default defineConfig({
     outline: [2,3],
     
     nav: [
-<<<<<<< HEAD
-      { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/guide/' },
-=======
-      { text: 'Website', link: 'https://wpsocialninja.com' },
       { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
->>>>>>> docteam
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
+      { text: 'Website', link: 'https://wpsocialninja.com' },
     ],
 
     sidebar: [

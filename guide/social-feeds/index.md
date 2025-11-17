@@ -1,9 +1,8 @@
 ---
-title: "Social Feeds"
 description: ""
 ---
 
-# Social Feeds 
+# Social Feeds
 
 **WP Social Ninja** has multiple **Social Feeds**, especially the most extensive and useful Feeds to offer.
 
@@ -11,14 +10,12 @@ Just like [Social Reviews](../social-reviews/), **Social Feeds** can also fetch 
 
 <!-- ![Social Feeds Platforms](/guide/public/images/getting-started/all-platforms-of-wp-social-ninja/Social_feeds.png) -->
 
-_Social Feeds_
-
 **WP Social Ninja** has **Five Social Feeds currently:** Twitter, Instagram, Facebook, YouTube, and TikTok.
 
 Also, check out the -
 
-- [Twitter Feed](./twitter-configuration)
-- [YouTube Feed](./youtube-configuration)
 - [Instagram Feed](./instagram-configuration)
 - [Facebook Feed](./facebook-integration)
 - [TikTok Feed](./tiktok-feed-configuration)
+- [YouTube Feed](./youtube-configuration)
+- [X (Twitter) Feed](./twitter-configuration)

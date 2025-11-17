@@ -185,7 +185,7 @@ Paste the URL into the field and hit **Save**. Once connected, you’ll see your
 
 ![airbnb platform 4](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-3.webp)
 
-Your template is now ready! From here, you can customize it the way you like. For more details, check out this [documentation](./template-layouts) on template customization.
+Your template is now ready! From here, you can customize it the way you like. For more details, check out this [documentation](./template-style-connection) on template customization.
 
 ::: info
 You can fetch up to **100 reviews** for each business on your site. If you're using the **free version of WP Social Ninja**, you can fetch a maximum of **5 Airbnb reviews**.

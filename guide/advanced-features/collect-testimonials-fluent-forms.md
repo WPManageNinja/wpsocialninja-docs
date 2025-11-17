@@ -65,7 +65,7 @@ The form has been integrated successfully. You can modify or remove the feed by 
 
 ### Add a Custom Testimonial
 
-First, go to your WP Social Ninja dashboard. From the top menu bar, click on the **Testimonials** tab. This will take you to the "All Testimonials" page. To add a new entry, click the **Add Testimonial** button located in the top-right corner.
+First, go to your WP Social Ninja dashboard. From the top menu bar, click on the **Testimonials** tab. This will take you to the "All Testimonials" page. To add a new entry, click the **Add Testimonial** button located in the top-right corner. Learn more about [adding testimonials](./add-testimonials).
 
 ![add custom testimonial ](/guide/public/images/advanced-features/how-to-collect-testimonials-with-fluent-forms/add-testimonial.webp)
 
@@ -77,7 +77,7 @@ After clicking the button, a pop-up form will appear. Here, you can fill in all 
 
 ### Display Your Testimonials on Your Website
 
-Finally, to display the testimonials collected through your form, you need to create a template in WP Social Ninja. Copy the template's shortcode and paste it onto any page or post where you want your testimonials to appear.
+Finally, to display the testimonials collected through your form, you need to create a [template](../getting-started/templates-overview) in WP Social Ninja. Copy the template's [shortcode](../integrations/shortcode-usage) and paste it onto any page or post where you want your testimonials to appear.
 
 - Go to your **WP Social Ninja dashboard → Templates**.
 

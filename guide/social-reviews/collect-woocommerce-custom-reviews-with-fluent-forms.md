@@ -31,70 +31,60 @@ Example: If you sell perfumes, you could add an “Upload your photo” field so
 
 ## **Step 1: Create a Review Form in Fluent Forms**
 
-First, you need a form where users can submit their reviews.
+First, you need a form where users can submit their reviews. For this, go to **Fluent Forms → Add New**. Choose a **Blank Form** or use a template. Then, dd the fields you want for reviews. For example:
 
-- Go to **Fluent Forms → Add New**.
+- **Name** → Who is leaving the review.
+- **Email** → Optional but useful for verification.
+- **Review Title** → A short headline for the review.
+- **Review Text** → The main review content.
+- **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
+- **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
 
-- Choose a **Blank Form** or use a template.
+After that, **Save** the form and **Copy** the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
 
-- Add the fields you want for reviews. For example:
-
-  - **Name** → Who is leaving the review.
-  - **Email** → Optional but useful for verification.
-  - **Review Title** → A short headline for the review.
-  - **Review Text** → The main review content.
-  - **Hidden Field** → Add a Hidden field (this step is required). Then, from the input customization section, set the Default Value to this shortcode: `{embed_post.ID}`.
-  - **Rating** → Add a star rating field (You will get a Social Ninja Rating input field in Fluent Forms free version)
-
-- Save the form.
-
-- Copy the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
+![Create a Review Form ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/review-form.webp)
 
 ## **Step 2: Connect Fluent Forms with WP Social Ninja**
 
-Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates.
+Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates. Then, go to **Fluent Forms → Forms → Settings & Integrations**.Now, click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
 
-- Go to **Fluent Forms → Forms → Settings & Integrations**.
+![Connect Fluent Forms with WP Social Ninja ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/connect-form-with-wpsocial-ninja.webp)
 
-- Click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
-
-- While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
+While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
 
 For a complete guide on Fluent Forms integration with WP Social Ninja, see this [documentation](./fluent-forms-review).
 
-![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/update-wp-social-ninja-integration-feed-fluent-for.webp)
+![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/add-new-integration-feed.webp)
 
 ## **Step 3: Create a Review Template in WP Social Ninja**
 
 Now you’ll design how the reviews will appear on your site.
 
-- Go to **WP Social Ninja → [Templates](../customization-design/all-templates) → Add New Template**.
+Go to **WP Social Ninja → [Templates](../getting-started/templates-overview) → Add New Template**. Select **Reviews** as the template type.
 
-- Select **Reviews** as the template type.
+Under **Source → Platforms**, choose where the reviews come from:
 
-- Under **Source → Platforms**, choose where the reviews come from:
+- **WooCommerce** → Reviews tied to your products.
 
-  - **WooCommerce** → Reviews tied to your products.
+Scroll to the **Header section**:
 
-- Scroll to the **Header section**:
-
-  - Toggle **Display Header ON**.
-  - Pick a **Header Template** (Template 1 or Template 2).
-  - Enable **Write a Review**.
-  - Under **Button Source Type**, select **Fluent Form Shortcode ID**.
-  - Paste the **Form ID** from your Fluent Form.
+- Toggle **Display Header ON**.
+- Pick a **Header Template** (Template 1 or Template 2).
+- Enable **Write a Review**.
+- Under **Button Source Type**, select **Fluent Form Shortcode ID**.
+- Paste the **Form ID** from your Fluent Form.
 
 At this point, your **Write a Review** button is ready. When users click it, your Fluent Form will open for them to submit reviews.
 
-Read the [documentation](./template-layouts) to understand fully how [review templates](./create-template) work.
+Read the [documentation](./template-style-connection) to understand fully how [review templates](./create-template) work.
 
-![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-Review-Template-scaled.webp)
+![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/fluent-forms-review.webp)
 
 ## **Step 4: Apply Your Setup**
 
 Once your form and template are ready, the final step depends on how you want to apply it. You can set the review form globally for all products linked to a WooCommerce template, or configure it individually for specific products. Both methods work global setup for all products at once, or product-level setup for finer control.
 
-#### WooCommerce Global Review Settings
+### WooCommerce Global Review Settings
 
 Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings** to manage how reviews are collected and displayed across all [WooCommerce products](./woocommerce-reviews). These settings apply globally, but you can still override them on individual product pages.
 
@@ -113,7 +103,7 @@ Go to **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settin
 **Note:** These settings only affect products that are connected to a WooCommerce Review Template in WP Social Ninja.
 To learn more, follow this documentation.
 
-#### WooCommerce Product Specific Settings 
+### WooCommerce Product Specific Settings
 
 - Go to **Products → Edit Product** in WooCommerce.
 

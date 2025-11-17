@@ -9,7 +9,7 @@ This guide will show you exactly how to connect your X (Twitter) account to WP S
 
 To connect your account, you will first open the X (Twitter) settings inside WP Social Ninja. The plugin will ask you for specific "credentials" (like an API Key or Token). We will then show you exactly where to find these keys by creating a simple "App" in the X (Twitter) Developer Portal.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLpefN7tIz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/SLpefN7tIz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We will walk you through every step.
 
@@ -61,7 +61,6 @@ Click **Next**.
 
 ![Twitter Configuration](/guide/public/images/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja/x-app-v2-2.webp)
 
-
 After this step, your app is created! The next page will show you your new keys.
 
 ## Part 2: Your Credentials
@@ -77,7 +76,6 @@ This is the fastest and easiest way.
 * Click to copy the long string of characters and save it in a safe place (like a text file). This is the only key you need for this method.
 
 ![Twitter Configuration](/guide/public/images/social-feeds/twitter-configuration-twitter-feeds-wp-social-ninja/x-app-v2-3.webp)
-
 
 ### Method B: Get Credentials for API V1 (Advanced)
 
@@ -120,4 +118,3 @@ Congratulations! Your X (Twitter) account is fully connected.
 
 * **Connect New Account:** You can click this to add another X (Twitter) account.
 * **Add New Template:** Click this button to go to the template editor and start designing how your X (Twitter) feed will look on your website!
-

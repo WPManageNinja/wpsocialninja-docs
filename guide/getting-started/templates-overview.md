@@ -1,13 +1,13 @@
 # Templates Overview
 
-The **Templates** section is where you create and manage all the designs for your feeds, reviews, and widgets. After you connect an account in the **Platforms** section, you can build the template that will display your content here.
+The **Templates** section is where you create and manage all the designs for your feeds, reviews, and widgets. After you connect an account in the [Platforms](./all-platforms-of-wp-social-ninja) section, you can build the template that will display your content here.
 
 As shown in the image, this page is organized into tabs for each feature:
-* **Social Feeds**
-* **Business Reviews**
-* **Chat Widgets**
-* **Notification Popup**
-* **Testimonials**
+* **[Social Feeds](../social-feeds/)**
+* **[Business Reviews](../social-reviews/)**
+* **[Chat Widgets](../social-chat/)**
+* **[Notification Popup](../advanced-features/notification-popup)**
+* **[Testimonials](../advanced-features/add-testimonials)**
 
 ## Create a New Template
 
@@ -24,7 +24,7 @@ Once you save a template, it appears in the list on this page.
 
 To add the template to your website, find the **Shortcode** column. As shown in the image, you can click the shortcode (e.g., `[wp_social_ninja id="123"]`) to copy it.
 
-You can then paste this shortcode into any WordPress page, post, or widget area to display your template.
+You can then paste this [shortcode](../integrations/shortcode-usage) into any WordPress page, post, or widget area to display your template.
 
 ## How to Manage Existing Templates
 

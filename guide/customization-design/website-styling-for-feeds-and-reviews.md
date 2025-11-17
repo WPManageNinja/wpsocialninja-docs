@@ -3,78 +3,69 @@ title: "Style | Feeds & Reviews"
 description: ""
 ---
 
-# Style 
+# Style
 
-Changing the styles of Feeds and Reviews is a fascinating task. WP Social Ninja provides comprehensive website styling with multiple functionalities. You no longer need to use a Custom CSS code or page builder to decorate your feeds or reviews; you can instead do so directly from the WP Social Ninja dashboard.
+Designing your Feeds and Reviews is simple and fun with **WP Social Ninja’s** powerful styling options. The Style settings give you complete control over the appearance of your social feeds and review templates. From colors, fonts, and borders to spacing and layout, you can easily match your website’s branding in just a few clicks.
 
-## Feeds
+## Access the Style Settings
 
-Let's look at how you can style your feed template in a matter of seconds by reading this article.
+When editing any of your feed or [review templates](../getting-started/templates-overview), simply click on the **Style** tab, located right next to the **General** tab.
 
-- From the right sidebar, beside the General option, you will get a new feature: Style **(Pro)**.
+This will open a panel with all the customization settings. You can change everything from colors and typography to spacing and borders.
 
-- Click on the **Enable Style** button, and a drop-down menu will appear.
+## Styling Your Social Feeds ([Twitter](../social-feeds/twitter-configuration), [Facebook](../social-feeds/facebook-integration), etc.)
 
-- In this part, there are five style sections; **Header**, **Name**, **Meta**, **Content**, and **Action**.
+When you are styling a social feed, the **Style (Pro)** tab organizes the settings into logical sections. You can customize every part of it simply and easily.
 
-![Enable website styling Option](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/enable-website-styling-option.png)
+![Styling options for a social feed template](/guide/public/images/customization-design/style/style-1.webp)
 
-_Enabling Style Feature_
+* **Header:** This allows you to style the main header block at the top of your feed. You can customize the "Follow" button, the profile name, bio text, and the follower/following counts.
+* **Name:** This controls the appearance of the author's name (e.g., "Josep Peter") on each post or tweet.
+* **Meta:** This allows you to style the metadata associated with each post, such as the @username and the date it was posted.
+* **Content:** This is for styling the main text of the post or tweet itself. You can change the font, color, and size of the post's content.
+* **Action:** This allows you to customize the action icons at the bottom of each post, such as the "Reply," "Retweet," and "Like" buttons.
+* **Item Box:** This controls the container for each post. You can use it to add a background color, border, or shadow to each "card" in your feed.
 
-- Here, by going to the **Header** option, you will get the Name, Description, Location, Follow Button, etc.
+## Styling Your Reviews ([Google](../social-reviews/google-configuration), [WooCommerce](../social-reviews/woocommerce-reviews), etc.)
 
-- WP Social Ninja has unlimited color options in the palette, and you can pick any color according to your desire. You can also change the typography by clicking on this option.
+Customizing your review templates helps you create a polished, on-brand display that builds trust with your audience.
 
-![Style the Feed Template with a complete editor settings panel](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/image.png)
+When editing a review template, go to the **Style** tab to access all the available customization options. Each section gives you full control over how your review cards look and feel.
 
-_Styling the Feed Template_
+![Styling options for a business review template](/guide/public/images/customization-design/style/style-review-template.webp)
 
-- Like, Header, you can also change the Name, Meta, Content, and Action as per your requirements.
+Here’s what you can customize:
 
-## Reviews
+* **Star Rating:** Adjust the color of the star icons in your main rating header.
+* **Header:** Style the main heading of your reviews block (for example, the “Rating” label or “Based on 3 Reviews” summary).
+* **Reviewer Name:** Change the font, color, and size of the reviewer’s name (e.g., “Kyleigh D.”).
+* **Verified Badge:** Customize the appearance of the “Verified” badge shown on certain reviews.
+* **Author Position:** Style the reviewer’s job title or position, if displayed.
+* **Review Date:** Set the color, font, and size of the date when the review was posted.
+* **Title:** Adjust the styling of the review title (for example, “Great Service!”).
+* **Content:** Style the main body text of the review.
+* **Read More/Less:** Customize the “Read More” or “Read Less” links for longer reviews.
+* **Platform Name:** Control how the platform name (e.g., "[WooCommerce](../social-reviews/woocommerce-reviews)" or "[Google](../social-reviews/google-configuration)") appears on the review card.
+* **Badge:** Adjust the platform’s icon or badge style.
+* **Notification:** Configure styling for notification popups (if used with this template).
+* **Pagination:** Style the “Load More” button for templates that show multiple reviews.
+* **Review Box:** Customize the container for each review including background color, border, shadow, and padding. This helps you create a clean and consistent look, just like the sample shown above.
 
-Let's now take a look at how this article can help you quickly style your review template.
+## Responsive Styling
 
-- As you know, besides the General Option, the **Style ( Pro )** feature is available. When you click the **Enable Style** button, a drop-down menu will appear.
+Want to make sure your feeds look perfect on any device? You can! WP Social Ninja lets you adjust your styling for different screen sizes. At the top of the styling panel, you will see device icons:
 
-- Many style options are available in this section, including **Header, Reviewer Name, Review Date, Title, Content, Read More/Less, Platform Name, Badge, Notification, Pagination**, and **ReviewBox**.
-
-![Enable website styling feature for social reviews](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-4-1.png)
-
-_Enabling Style Feature_
-
-- The Reviewer Name, Review Date, Content, Read More / less &amp; Review Box's color and typography have all been changed in this scenario. WP Social Ninja has many options for enhancing your templates to be more appealing and relevant to your website.
-
-![Styling the Review Template](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/WP-Social-Ninja-Edit-Review-Template-7-1.png)
-
-_Styling the Review Template_
-
-## Responsive Device Breakpoints
-
-Every customer wants their website to be compatible across all platforms, whether the user is using a desktop, tablet, mobile device, or wide-screen screen.
-
-WP Social Ninja has upgraded the website styling functionality and adapted the layout to the environment in which it is viewed.
-
-- The responsive device option is now available here, instructing the browser on how to change the page to the width of each device.
-
-- Desktop, Tablet, and Mobile views are available here.
-
-- Simply click on the Device icon, and each of the devices will allow you to adjust your template style.
-
-![Website styling desktop view](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/website-styling-desktop-view.png)
-
-_Desktop View_
-
-![Website styling tablet View](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/website-styling-tablet-view.png)
-
-_Tablet View_
-
-![Mobile View](/guide/public/images/customization-design/website-styling-for-feeds-and-reviews/mobile-view.png)
-
-_Mobile View_
-
-- Don’t forget to click on the **Save Templates** button when you are done styling.
+* **Desktop:** How your feed looks on large screens.
+* **Tablet:** How your feed looks on tablets.
+* **Mobile:** How your feed looks on mobile phones.
 
 ::: tip
 Responsive Device options are also available for the **Review Template**.
 :::
+
+![Responsive device icons for Desktop, Tablet, and Mobile](/guide/public/images/customization-design/style/responsive-styling-3.webp)
+
+Simply click an icon (like **Tablet**), and any style changes you make (like a smaller font size or a different layout) will only apply to that view. This gives you complete control over the responsive design.
+
+When you're finished styling, don't forget to click the **Save Templates** button to make your changes live!
+

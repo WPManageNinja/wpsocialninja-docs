@@ -11,7 +11,7 @@ This process is very simple and uses the recommended "OAuth" method, which means
 
 > **Use Case:** This is the first and most important step for displaying your Facebook Reviews. Once you connect your page, you can create a beautiful Business Reviews template to show off your 5-star ratings, helping to convince new customers that your business is trusted and legitimate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/88yM4eACxLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/88yM4eACxLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to Connect Your Facebook Page
 

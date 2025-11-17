@@ -19,7 +19,7 @@ The plugin includes several native widgets:
 ### Before You Begin
 
   * Make sure you have the **Elementor** plugin installed and activated.
-  * You must have already created and saved a [template](../customization-design/all-templates) inside the **WP Social Ninja** dashboard (for example, an [Instagram feed template](../social-feeds/instagram-configuration)). This process only loads existing templates.
+  * You must have already created and saved a [template](../getting-started/templates-overview) inside the **WP Social Ninja** dashboard (for example, an [Instagram feed template](../social-feeds/instagram-configuration)). This process only loads existing templates.
 
 ## Add Your Template in Elementor
 

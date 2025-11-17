@@ -13,29 +13,23 @@ Displaying reviews from Fluent Forms is a premium feature and requires **WP Soci
 
 :::
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u8hd6Wkui4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/u8hd6Wkui4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Integration with Fluent Forms_
 
-Let’s check how **WP Social Ninja** will uplift your business by collecting Fluent Forms Reviews on your website.
+This guide will walk you through the entire setup, from connecting the module to displaying your new reviews.
 
-## Enable Fluent Forms Integration
+## Step 1: Enable the WP Social Ninja Module
 
 First, you need to enable the integration from the Fluent Forms dashboard.
 
-- First, go to **Integrations** from the **Fluent Forms Navbar**.
-
-- Search for **WP Social Ninja** through the search bar or scroll down to find the **WP Social Ninja** module from the list.
-
-- Toggle the switch to **Enable** the module.
+From your WordPress dashboard, go to **Fluent Forms → Integrations**. Search for **WP Social Ninja** in the list, or scroll down to find it and click the **toggle to enable** the module.
 
 This action connects Fluent Forms with WP Social Ninja, allowing them to share data.
 
-![enable wp social ninja 1](/guide/public/images/social-reviews/fluent-forms-review/enable-WP-Social-Ninja-1-scaled.webp)
+![enable wp social ninja 1](/guide/public/images/social-reviews/fluent-forms-review/enable-wp-social-ninja-module.webp)
 
-_Enable WP Social Ninja_
 
-### Configure the WP Social Ninja Feed in Your Form
+### Step 2: Create Your Review Form in Fluent Forms
 
 Next, you need to configure the specific form you want to use for collecting reviews. Go to your Fluent Forms dashboard. You can either **Add a New Form** or edit an existing one.
 
@@ -45,23 +39,19 @@ Ensure your form includes the necessary input fields, such as **Name**, **Email 
 
 :::
 
-![fluentforms input field](/guide/public/images/social-reviews/fluent-forms-review/FluentForms-Input-field-scaled.webp)
+![fluentforms input field](/guide/public/images/social-reviews/fluent-forms-review/create-forms-2.webp)
 
-_Created a Form_
+### Step 3: Configure the WP Social Ninja Integration Feed
 
-Once your form is ready, go to the **Settings & Integrations** section, navigate to the **Configuration Integrations** tab. Click the **Add New Integration** button, and select the **WPSocial Ninja Integration** feed from the dropdown list.
+After you select the WP Social Ninja integration, a configuration panel will appear. You must tell this specific form to send its data to WP Social Ninja.
 
-![configure integration 03](/guide/public/images/social-reviews/fluent-forms-review/Configure-Integration-03-scaled.webp)
+Inside your form editor, go to the **Settings & Integrations** tab. Select **Configure Integration** from the left-hand menu. Click the "**Add New Integration**" button and select "**WPSocial Ninja Integration**" from the dropdown list.
 
-_Add New Integration_
+![configure integration 03](/guide/public/images/social-reviews/fluent-forms-review/add-new-integration-3.webp)
 
-### Add New WP Social Ninja Integration Feed
+## Step 4: Map Your Form Fields
 
-After you select the WP Social Ninja integration, a configuration panel will appear.
-
-In this step, you must **map** your form's input fields to the corresponding fields that WP Social Ninja uses to display reviews. This tells the plugin which form entry corresponds to the reviewer's name, rating, comment, and so on.
-
-Here is a breakdown of the fields you need to configure:
+A new configuration panel will appear. This is the most important step. You must "map" your form fields to tell WP Social Ninja which field is which.
 
 - **Name:** Provide a name for this specific integration feed. This is for your internal reference, for example, "Customer Review Form Feed."
 
@@ -87,52 +77,42 @@ Here is a breakdown of the fields you need to configure:
 
 After you have mapped all the necessary fields, click the **Save Feed** button to finalize the integration setup.
 
-![Add new WP social ninja integration feed](/guide/public/images/social-reviews/fluent-forms-review/add-new-wp-social-ninja-integration-feed.webp)
-
-_Integration Feed_
+![Add new WP social ninja integration feed](/guide/public/images/social-reviews/fluent-forms-review/Add-New-WP-Social-Ninja-Integration-Feed-Fluent-Forms-4.webp)
 
 The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon.
 
-![edit or delete wp social feed 05](/guide/public/images/social-reviews/fluent-forms-review/Edit-or-delete-WP-Social-Feed-05-scaled.webp)
+![edit or delete wp social feed 05](/guide/public/images/social-reviews/fluent-forms-review/edit-or-delete-5.webp)
 
 After that, click the **Save Form** button. Then you can **copy** the Form's **shortcode** and paste it into any **page/post**.
 
 ![review form 06](/guide/public/images/social-reviews/fluent-forms-review/Review-Form-06.webp)
 
-### Create a Fluent Forms Review Template
+### Step 5: Create a Fluent Forms Review Template
 
-After setting up your form, create a template in WP Social Ninja to display the submitted reviews. Go to your **WP Social Ninja** dashboard and click on **All Templates**. Click the **Add New Template** button and choose **Add Review Template**.
+After setting up your form, create a template in WP Social Ninja to display the submitted reviews. Go to your **WP Social Ninja** dashboard. Click **Templates → Add New Template** and choose **Add Review Template**.
 
-![Add Review Template](/guide/public/images/social-reviews/fluent-forms-review/add-review-template-07-scaled.webp)
+![Add Review Template](/guide/public/images/social-reviews/fluent-forms-review/add-review-template-6.webp)
 
-_Add Review Template_
-
-In the template editor, click on the **Source** configuration tab. Click the **Add the Platform** button and select **Fluent Forms** from the list of review platforms. Click the **Save Template** button.
+In the template editor, go to **General → Platforms**. Select **Fluent Forms** from the list of **platforms**. Style your template (layout, colors, etc.) and click the **Save** button.
 
 Now, any reviews submitted through your configured form will automatically be fetched and displayed using this template.
 
-![Select Fluent Forms Template](/guide/public/images/social-reviews/fluent-forms-review/select-fluent-form-template-08-scaled.webp)
+![Select Fluent Forms Template](/guide/public/images/social-reviews/fluent-forms-review/select-fluent-forms-7.webp)
 
-_Select Fluent Forms Template_
+## Step 6: Display Your Form and Reviews
+
+You now have two pieces to place on your site:
+ * **The Form:** **Copy** the shortcode for your **Fluent Form** and paste it onto a page (e.g., a "Write a Review" page).
+ * **The Reviews:** **Copy** the shortcode for your new **WP Social Ninja Template** and paste it onto a page where you want to display the collected reviews (e.g., your "Testimonials" page).
+
 
 ### Manually Approve Reviews (Optional)
 
-If you prefer to approve each review submitted through Fluent Forms, navigate to the **Settings** section of **WP Social Ninja**, choose **Review Platforms** from the left menu, and select **Fluent Form Settings**.
+By default, reviews might appear instantly. If you want to approve each review before it goes live:
 
-Enable **Review/Testimonial must be manually approved**, and then by clicking the **Save Settings** button.
+ * Go to **WP Social Ninja → Settings → Reviews Platform → Fluent Form Settings**. 
+ * **Enable the Review/Testimonial** must be manually approved option. After that, click the  **Save Settings** button.
 
-![fluent form settings 09](/guide/public/images/social-reviews/fluent-forms-review/Fluent-Form-Settings-09-scaled.webp)
+![fluent form settings 09](/guide/public/images/social-reviews/fluent-forms-review/fluent-forms-settings-8.webp)
 
-_Fluent Forms Settings_
-
-After enabling this, all new submissions from Fluent Forms will appear in the **Reviews** tab. From there, you can individually **Approve** or **Disapprove** each review before it goes live.
-
-![approve review ](/guide/public/images/social-reviews/fluent-forms-review/approve-review-10-scaled.webp)
-
-From here, you can **Approve** or **Unapprove** the specific reviews. Let's **Approve** the five-star reviews and **Disapprove** the rest. Now let's have a look at how it looks on the frontend.
-
-![Frontend Review](/guide/public/images/social-reviews/fluent-forms-review/frontend-review.png)
-
-_Frontend Review_
-
-As you can see, you've successfully controlled the reviews from your dashboard. Also, check out - **[How to add Custom Reviews](./add-custom-reviews)**
+Now, all new submissions will go to the **Reviews** tab in WP Social Ninja, where you can manually approve or disapprove them before they appear on your site. You can check out the - **[How to add Custom Reviews](../custom-source/manually-add-or-import-custom-reviews)** documentation.

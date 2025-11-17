@@ -30,3 +30,41 @@
   height: auto;
 }
 
+/* Hero title "WP Social Ninja" color on homepage */
+.VPHomeHero .name,
+.VPHomeHero .name .clip,
+.VPHomeHero h1.name,
+.VPHomeHero .name span,
+.home .VPHomeHero .name,
+.home .VPHomeHero h1.name {
+  color: #D15BCA !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-fill-color: #D15BCA !important;
+}
+
+/* Get Started button color */
+.VPHomeHero .actions .VPButton.brand,
+.VPHomeHero .actions .VPButton,
+.VPHomeHero .VPButton.brand,
+.home .VPHomeHero .actions .VPButton {
+  background-color: #783FFF !important;
+  border-color: #783FFF !important;
+}
+
+.VPHomeHero .actions .VPButton.brand:hover,
+.VPHomeHero .actions .VPButton:hover,
+.VPHomeHero .VPButton.brand:hover,
+.home .VPHomeHero .actions .VPButton:hover {
+  background-color: #6B36E6 !important;
+  border-color: #6B36E6 !important;
+}
+
+/* Hide "WP Social Ninja" text span in navbar */
+.VPNavBarTitle span[data-v-bf706f89],
+.VPNavBarTitle .title span {
+  display: none !important;
+}
+
+

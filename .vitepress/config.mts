@@ -7,16 +7,26 @@ export default defineConfig({
   base: '/',
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'alternate icon', href: '/favicon.svg' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.svg' }]
   ],
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: {
+      light: '/logo.svg',
+      dark: '/logo-dark.png'
+    },
     outline: [2,3],
     
     nav: [
+<<<<<<< HEAD
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/guide/' },
+=======
+      { text: 'Website', link: 'https://wpsocialninja.com' },
+      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
+>>>>>>> docteam
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
     ],
 
@@ -120,6 +130,10 @@ export default defineConfig({
                               {
                                     "text": "Reauthorize App",
                                     "link": "/guide/social-feeds/reauthorize-instagram-facebook"
+                              },
+                              {
+                                    "text": "Facebook Feed Settings",
+                                    "link": "/guide/social-feeds/facebook-feed-settings"
                               }
                         ]
                   },
@@ -160,8 +174,8 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/instagram-email-report"
                               },
                               {
-                                    "text": "Image Optimization",
-                                    "link": "/guide/social-feeds/instagram-optimize-images"
+                                    "text": "Instagram Feed Settings",
+                                    "link": "/guide/social-feeds/instagram-feed-settings"
                               }
                         ]
                   },
@@ -178,8 +192,12 @@ export default defineConfig({
                                     "link": "/guide/social-feeds/twitter-feed-template-styling-connection"
                               },
                               {
-                                    "text": "Settings",
-                                    "link": "/guide/social-feeds/twitter-settings"
+                                    "text": "Template Settings",
+                                    "link": "/guide/social-feeds/twitter-template-settings"
+                              },
+                              {
+                                    "text": "Feed Settings",
+                                    "link": "/guide/social-feeds/twitter-feed-settings"
                               }
                         ]
                   },
@@ -310,16 +328,8 @@ export default defineConfig({
                                     "link": "/guide/social-reviews/create-template"
                               },
                               {
-                                    "text": "Template Layouts",
-                                    "link": "/guide/social-reviews/template-layouts"
-                              },
-                              {
-                                    "text": "Layout Settings",
-                                    "link": "/guide/social-reviews/layout-settings"
-                              },
-                              {
-                                    "text": "Custom Reviews",
-                                    "link": "/guide/social-reviews/add-custom-reviews"
+                                    "text": "Template Styling & Connection",
+                                    "link": "/guide/social-reviews/template-style-connection"
                               }
                         ]
                   },
@@ -388,6 +398,10 @@ export default defineConfig({
             "collapsed": true,
             "items": [
                   {
+                        "text": "Integrations Overview",
+                        "link": "/guide/integrations/integrations-overview"
+                  },
+                  {
                         "text": "Elementor Page Builder",
                         "link": "/guide/integrations/elementor-integration"
                   },
@@ -420,16 +434,30 @@ export default defineConfig({
             ]
       },
       {
+            "text": "🎨 Custom Sources",
+            "collapsed": true,
+            "items": [
+                  {
+                        "text": "Custom Sources Overview",
+                        "link": "/guide/custom-source/custom-source-overview"
+                  },
+                  {
+                        "text": "Manually Add or Import Custom Reviews",
+                        "link": "/guide/custom-source/manually-add-or-import-custom-reviews"
+                  },
+                  {
+                        "text": "How to Collect Reviews with a Fluent Forms Custom Source",
+                        "link": "/guide/custom-source/fluent-forms-custom-source"
+                  }
+            ]
+      },
+      {
             "text": "🎨 Customization & Design",
             "collapsed": true,
             "items": [
                   {
                         "text": "Website Styling",
                         "link": "/guide/customization-design/website-styling-for-feeds-and-reviews"
-                  },
-                  {
-                        "text": "Template Management",
-                        "link": "/guide/customization-design/all-templates"
                   }
             ]
       },
@@ -495,8 +523,20 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2025 WP Social Ninja'
+    }
+  },
+
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 1000,
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'vendor': ['vitepress']
+          }
+        }
+      }
     }
   }
 })

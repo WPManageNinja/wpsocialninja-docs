@@ -9,9 +9,7 @@ Show your Instagram Business Account feeds on your website with WP Social Ninja.
 
 In this guide, we'll walk you through the steps to connect both your Instagram Business Basic and Advanced accounts with WP Social Ninja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROe5n-dK8-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_WP Social Ninja: Instagram feed_
+<iframe width="700" height="400" src="https://www.youtube.com/embed/ROe5n-dK8-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Instagram Configuration**
 
@@ -104,7 +102,7 @@ If you have successfully connected your Instagram Business Account (especially u
 
 To fix this, please remove the old app and then re-integrate WP Social Ninja by following these steps:
 
-- Go to your Facebook**[Business Integrations](https://www.facebook.com/settings?tab=business_tools)** settings.
+- Go to your Facebook [Business Integrations](https://www.facebook.com/settings?tab=business_tools) settings.
 
 - Find and **Remove** the old "WP Social Ninja" app.
 

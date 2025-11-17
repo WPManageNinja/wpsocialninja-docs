@@ -10,6 +10,9 @@ With Custom Sources, you can:
  * Collect new reviews by connecting a Fluent Form.
  * Brand your source with a custom logo and name (e.g., "Website Testimonials") to represent your own company or an external source.
 
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/K94shMHULe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## How to Get Started
 
 To begin, navigate to your WordPress dashboard and go to **WP Social Ninja → Custom Sources**.

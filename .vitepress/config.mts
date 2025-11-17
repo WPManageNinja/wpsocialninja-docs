@@ -321,10 +321,6 @@ export default defineConfig({
                               {
                                     "text": "Template Styling & Connection",
                                     "link": "/guide/social-reviews/template-style-connection"
-                              },
-                              {
-                                    "text": "Custom Reviews",
-                                    "link": "/guide/social-reviews/add-custom-reviews"
                               }
                         ]
                   },

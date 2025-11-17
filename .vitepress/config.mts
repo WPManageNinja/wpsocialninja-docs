@@ -13,7 +13,10 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: {
+      light: '/logo.svg',
+      dark: '/logo-dark.png'
+    },
     outline: [2,3],
     
     nav: [
@@ -389,6 +392,10 @@ export default defineConfig({
             "text": "🔌 Integrations",
             "collapsed": true,
             "items": [
+                  {
+                        "text": "Integrations Overview",
+                        "link": "/guide/integrations/integrations-overview"
+                  },
                   {
                         "text": "Elementor Page Builder",
                         "link": "/guide/integrations/elementor-integration"

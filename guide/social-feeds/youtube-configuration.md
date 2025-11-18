@@ -9,8 +9,6 @@ The YouTube Feed feature in WP Social Ninja allows you to easily connect your Yo
 
 In this guide, you’ll learn how to configure the YouTube platform and connect your channel using either of two methods: the **API Key (recommended for stability)** or **OAuth 2.0 (Connect via Google)**. Follow the steps below to complete the setup and start displaying your YouTube content on your site.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/l3zkXJuemak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Configure the YouTube Platform
 
 To get started, you’ll first need to configure the YouTube platform.
@@ -74,8 +72,6 @@ You will get a successful message like the screenshot below:
 ![YouTube connection success message](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/youtube-successful.webp)
 
 ## Method 2: OAuth 2.0 (Connect Via Google)
-
-<iframe width="700" height="400" src="https://www.youtube.com/embed/WeYsuWrTnKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a fast method that uses a temporary access code.
 

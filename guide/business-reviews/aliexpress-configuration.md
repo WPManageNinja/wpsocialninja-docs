@@ -17,8 +17,6 @@ Connecting an AliExpress product is a very simple and direct processe. You do no
 >
 > This instantly adds massive social proof and trust, which can directly increase your sales and conversions.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/uWeALyqO42I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## How to Connect an AliExpress Product
 
 Follow these simple steps to get your product connected in less than a minute.

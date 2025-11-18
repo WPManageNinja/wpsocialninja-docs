@@ -7,8 +7,6 @@ description: ""
 
 This is your creative control center, where you can design a beautiful and functional feed that perfectly matches your website.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/R1Rlr2MheKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 When you first open the editor, you'll see three main tabs at the top of the settings panel on the right:
 
 * **General (This Guide):** This is the most important tab. It controls *what* content is shown (your tweets, your profile info, filters) and *how* the feed functions (the layout, buttons, and links).

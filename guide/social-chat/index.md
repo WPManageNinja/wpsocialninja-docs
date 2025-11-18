@@ -9,8 +9,6 @@ The **Social Chat** feature in **WP Social Ninja** allows you to add a live chat
 
 Instead of a single "live chat" system, you can connect multiple social channels into one powerful, all-in-one chat button.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/COwi_p09HTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Key Features Overview
 
 **Connect 15+ Chat Channels:** You can add many popular messaging apps to your widget, including:
@@ -30,7 +28,6 @@ Instead of a single "live chat" system, you can connect multiple social channels
  * Write custom welcome and greeting messages.
  * Choose which pages the widget appears on.
 
- <iframe width="700" height="400" src="https://www.youtube.com/embed/C63r6mvs9OA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How it Works
 

@@ -13,9 +13,6 @@ Displaying reviews from Fluent Forms is a premium feature and requires **WP Soci
 
 :::
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/u8hd6Wkui4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 This guide will walk you through the entire setup, from connecting the module to displaying your new reviews.
 
 ## Step 1: Enable the WP Social Ninja Module

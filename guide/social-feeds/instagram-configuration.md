@@ -9,8 +9,6 @@ Show your Instagram Business Account feeds on your website with WP Social Ninja.
 
 In this guide, we'll walk you through the steps to connect both your Instagram Business Basic and Advanced accounts with WP Social Ninja.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/ROe5n-dK8-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## **Instagram Configuration**
 
 From your WordPress dashboard, navigate to **WP Social Ninja** and click on [Platforms](../getting-started/all-platforms-of-wp-social-ninja) in the navbar. Here, you'll find **Instagram** click on the **Settings** icon to access the configuration settings.

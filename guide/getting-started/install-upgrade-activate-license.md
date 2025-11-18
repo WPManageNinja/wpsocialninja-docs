@@ -7,8 +7,6 @@ description: ""
 
 This guide will show you how to install the WP Social Ninja plugin on your WordPress website. It covers installing the free version, uploading the Pro version, and activating your license key to unlock all premium features and receive updates.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/5gx14_umTZ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Requirements
 
 Before you begin, please ensure your WordPress environment meets the following minimum requirements:

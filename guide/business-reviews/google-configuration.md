@@ -11,15 +11,13 @@ Do you wish to display all your scattered reviews in one place on your website? 
 
 To add Google Reviews to your site, you need to connect with the Google server to collect the reviews from their server; and WP Social Ninja has made it easy for you.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/T7x2oc63Tzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Google reviews
 
 We have created the simplest way to get the reviews just with a few clicks.
 
 In order to obtain Google Reviews successfully, select **Google** from All Platforms.
 
-![Social Reviews | Google](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
+![Business Reviews | Google](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
 
 Now, let’s see how you can add reviews to your website. Firstly, you need to obtain **Google Access Code**.
 

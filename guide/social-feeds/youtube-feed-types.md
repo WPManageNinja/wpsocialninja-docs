@@ -8,8 +8,6 @@ description: ""
 When you create a YouTube feed template, the most important setting is the **Feed Type**. This option controls what kind of content your feed will display.
 After you select YouTube as your platform in the template editor, you will see a Feed Type dropdown. 
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/t50xmvjjVSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## **Feed Type**
 
 Currently, we have five Feed Types; **Channel**, **Playlist**, **Search**, **Specific Videos**, and **Live Streams**. You can select any Feed Type; for example, if you select **Channel**, then you need a **Channel ID** to fetch the YouTube Channel Feed on your website. Similarly, if you pick **Playlist,** then you need a **Playlist ID**.

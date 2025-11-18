@@ -18,7 +18,7 @@ Before you begin, ensure you have already connected your business [platforms](..
   - From your WordPress dashboard, go to **WPSocialNinja** > **Settings**.
   - Click on the **Get Reviews via QR Code** submenu item. This will take you to the QR code dashboard.
 
-![get reviews via qr code 1](/guide/public/images/social-reviews/generate-qr-code-for-reviews/qr-code-review-1.webp)
+![get reviews via qr code 1](/guide/public/images/business-reviews/generate-qr-code-for-reviews/qr-code-review-1.webp)
 
 #### Create a New QR Code
 
@@ -27,14 +27,14 @@ Before you begin, ensure you have already connected your business [platforms](..
   - Under **Business URL**, select the specific platform URL you want the QR code to link to.
   - Click the **Generate** button.
 
-![get reviews via qr code 2](/guide/public/images/social-reviews/generate-qr-code-for-reviews/qr-code-review-2.webp)
+![get reviews via qr code 2](/guide/public/images/business-reviews/generate-qr-code-for-reviews/qr-code-review-2.webp)
 
 #### Download Your QR Code
 
   - After generation, the QR code will be displayed.
   - Click the **PNG** or **SVG** button to download the QR code image file to your computer.
 
-![get reviews via qr code 3](/guide/public/images/social-reviews/generate-qr-code-for-reviews/qr-code-review-3.webp)
+![get reviews via qr code 3](/guide/public/images/business-reviews/generate-qr-code-for-reviews/qr-code-review-3.webp)
 
 #### Manage Your QR Codes
 
@@ -43,7 +43,7 @@ Before you begin, ensure you have already connected your business [platforms](..
     - Click the **pencil icon** to edit the code's details.
     - Click the **delete icon** to permanently remove the code.
 
-![get reviews via qr code 4](/guide/public/images/social-reviews/generate-qr-code-for-reviews/qr-code-review-4.webp)
+![get reviews via qr code 4](/guide/public/images/business-reviews/generate-qr-code-for-reviews/qr-code-review-4.webp)
 
 #### Using Your QR Code
 

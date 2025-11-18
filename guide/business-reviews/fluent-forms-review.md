@@ -26,7 +26,7 @@ From your WordPress dashboard, go to **Fluent Forms → Integrations**. Search f
 
 This action connects Fluent Forms with WP Social Ninja, allowing them to share data.
 
-![enable wp social ninja 1](/guide/public/images/social-reviews/fluent-forms-review/enable-wp-social-ninja-module.webp)
+![enable wp social ninja 1](/guide/public/images/business-reviews/fluent-forms-review/enable-wp-social-ninja-module.webp)
 
 
 ### Step 2: Create Your Review Form in Fluent Forms
@@ -39,7 +39,7 @@ Ensure your form includes the necessary input fields, such as **Name**, **Email 
 
 :::
 
-![fluentforms input field](/guide/public/images/social-reviews/fluent-forms-review/create-forms-2.webp)
+![fluentforms input field](/guide/public/images/business-reviews/fluent-forms-review/create-forms-2.webp)
 
 ### Step 3: Configure the WP Social Ninja Integration Feed
 
@@ -47,7 +47,7 @@ After you select the WP Social Ninja integration, a configuration panel will app
 
 Inside your form editor, go to the **Settings & Integrations** tab. Select **Configure Integration** from the left-hand menu. Click the "**Add New Integration**" button and select "**WPSocial Ninja Integration**" from the dropdown list.
 
-![configure integration 03](/guide/public/images/social-reviews/fluent-forms-review/add-new-integration-3.webp)
+![configure integration 03](/guide/public/images/business-reviews/fluent-forms-review/add-new-integration-3.webp)
 
 ## Step 4: Map Your Form Fields
 
@@ -77,27 +77,27 @@ A new configuration panel will appear. This is the most important step. You must
 
 After you have mapped all the necessary fields, click the **Save Feed** button to finalize the integration setup.
 
-![Add new WP social ninja integration feed](/guide/public/images/social-reviews/fluent-forms-review/Add-New-WP-Social-Ninja-Integration-Feed-Fluent-Forms-4.webp)
+![Add new WP social ninja integration feed](/guide/public/images/business-reviews/fluent-forms-review/Add-New-WP-Social-Ninja-Integration-Feed-Fluent-Forms-4.webp)
 
 The form has been integrated successfully. You can modify or remove the feed by selecting the **Settings** or **Delete** icon.
 
-![edit or delete wp social feed 05](/guide/public/images/social-reviews/fluent-forms-review/edit-or-delete-5.webp)
+![edit or delete wp social feed 05](/guide/public/images/business-reviews/fluent-forms-review/edit-or-delete-5.webp)
 
 After that, click the **Save Form** button. Then you can **copy** the Form's **shortcode** and paste it into any **page/post**.
 
-![review form 06](/guide/public/images/social-reviews/fluent-forms-review/Review-Form-06.webp)
+![review form 06](/guide/public/images/business-reviews/fluent-forms-review/Review-Form-06.webp)
 
 ### Step 5: Create a Fluent Forms Review Template
 
 After setting up your form, create a template in WP Social Ninja to display the submitted reviews. Go to your **WP Social Ninja** dashboard. Click **Templates → Add New Template** and choose **Add Review Template**.
 
-![Add Review Template](/guide/public/images/social-reviews/fluent-forms-review/add-review-template-6.webp)
+![Add Review Template](/guide/public/images/business-reviews/fluent-forms-review/add-review-template-6.webp)
 
 In the template editor, go to **General → Platforms**. Select **Fluent Forms** from the list of **platforms**. Style your template (layout, colors, etc.) and click the **Save** button.
 
 Now, any reviews submitted through your configured form will automatically be fetched and displayed using this template.
 
-![Select Fluent Forms Template](/guide/public/images/social-reviews/fluent-forms-review/select-fluent-forms-7.webp)
+![Select Fluent Forms Template](/guide/public/images/business-reviews/fluent-forms-review/select-fluent-forms-7.webp)
 
 ## Step 6: Display Your Form and Reviews
 
@@ -113,6 +113,6 @@ By default, reviews might appear instantly. If you want to approve each review b
  * Go to **WP Social Ninja → Settings → Reviews Platform → Fluent Form Settings**. 
  * **Enable the Review/Testimonial** must be manually approved option. After that, click the  **Save Settings** button.
 
-![fluent form settings 09](/guide/public/images/social-reviews/fluent-forms-review/fluent-forms-settings-8.webp)
+![fluent form settings 09](/guide/public/images/business-reviews/fluent-forms-review/fluent-forms-settings-8.webp)
 
 Now, all new submissions will go to the **Reviews** tab in WP Social Ninja, where you can manually approve or disapprove them before they appear on your site. You can check out the - **[How to add Custom Reviews](../custom-source/manually-add-or-import-custom-reviews)** documentation.

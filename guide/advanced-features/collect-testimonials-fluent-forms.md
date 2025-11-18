@@ -93,4 +93,4 @@ After clicking on the **Add Testimonial Template**, let’s look at how it looks
 
 Collecting Testimonials in Fluent Forms is as simple as a slice of pie!
 
-You can also check out - **[How to Add Fluent Forms Reviews with WP Social Ninja](../social-reviews/fluent-forms-review)** here.
+You can also check out - **[How to Add Fluent Forms Reviews with WP Social Ninja](../business-reviews/fluent-forms-review)** here.

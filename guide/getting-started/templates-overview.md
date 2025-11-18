@@ -4,7 +4,7 @@ The **Templates** section is where you create and manage all the designs for you
 
 As shown in the image, this page is organized into tabs for each feature:
 * **[Social Feeds](../social-feeds/)**
-* **[Business Reviews](../social-reviews/)**
+* **[Business Reviews](../business-reviews/)**
 * **[Chat Widgets](../social-chat/)**
 * **[Notification Popup](../advanced-features/notification-popup)**
 * **[Testimonials](../advanced-features/add-testimonials)**

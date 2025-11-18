@@ -18,11 +18,11 @@ First, let's start inside your WordPress dashboard to see what you need.
 1.  From your WordPress dashboard, navigate to **WP Social Ninja** in the left-hand menu, and then click on [Platforms](../getting-started/all-platforms-of-wp-social-ninja).
 2.  On the "Platforms" page, find the **Yelp** row in the Business Review section then click the **Settings icon** button with it.
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-1.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-1.webp)
 
 A pop-up window will appear with fields labeled **API Key** & **Place ID**. This is the things you need to get from Yelp.
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-2.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-2.webp)
 
 ## Part 2: Yelp API Key
 
@@ -57,7 +57,7 @@ These limits are controlled by Yelp, not WP Social Ninja. [Check Yelp Plan and P
 
 :::
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-3.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-3.webp)
 
 ## Part 3: Get Your Place ID (Add Your Business)
 
@@ -77,7 +77,7 @@ Your Place ID is simply the unique part of your business's URL on Yelp.com.
 
 Carefully copy this Place ID.
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-4.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-4.webp)
 
 ## Part 4: Connect Your Yelp Account 
 
@@ -90,13 +90,13 @@ Now for the final, easy step.
 3.  Then Paste your **Place ID** (e.g., `bocconcino-san-francisco`) into the field.
 4.  Now click on the **Save** button.
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-5.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-5.webp)
 
 Your business is now fully connected and will begin to sync reviews.
 
 The **Yelp** row will now show a green "Connected" status.
 
-![Yelp Configuration for Review](/guide/public/images/social-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-6.webp)
+![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-6.webp)
 
 ## Next Steps
 

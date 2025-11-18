@@ -92,6 +92,6 @@ Go to **WP Social Ninja → Templates** and create a new **Review Template** (or
 Now, you can customize the design under the **Style** tab to match your website’s look. Click **Save Template** when you're done.
 
 > [!NOTE]
-> If you want to learn more about the template styling, then see the full detailed [documentation](/guide/social-reviews/template-style-connection).
+> If you want to learn more about the template styling, then see the full detailed [documentation](/guide/business-reviews/template-style-connection).
 
 Your template will generate a shortcode. Simply copy and paste it into any page, post, or widget area to display your custom reviews beautifully on your website!

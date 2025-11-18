@@ -7,7 +7,7 @@ description: ""
 
 The Testimonials feature is a powerful tool that allows you to manually add, manage, and display your best customer reviews.
 
-Unlike the [social reviews](../social-reviews/) (like [Google](../social-reviews/google-configuration) or [Facebook](../social-reviews/facebook-configuration)) that are fetched automatically, the Testimonials feature is for all the other positive feedback you've collected. This is perfect for reviews you receive via email, private messages, or contact forms.
+Unlike the [social reviews](../business-reviews/) (like [Google](../business-reviews/google-configuration) or [Facebook](../business-reviews/facebook-configuration)) that are fetched automatically, the Testimonials feature is for all the other positive feedback you've collected. This is perfect for reviews you receive via email, private messages, or contact forms.
 
 This guide will walk you through the entire process, from adding your first testimonial to designing a beautiful template to display it.
 

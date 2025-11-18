@@ -25,13 +25,13 @@ First, go to your WordPress dashboard. In the left-hand menu, click on **WP Soci
 
 On the "Platforms" page, find the **Facebook** row. On the right side, click the **Settings icon** button.
 
-![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-1.webp)
+![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-1.webp)
 
 A pop-up window will appear asking you to "Select Credential Type." You have two choices **OAuth 2.0** and **Manually Connect a Page**. In this guide we will show you the OAuth 2.0 connection process. To manually connect your Facebook Page follow this [documentation](./facebook-reviews-access-token).
 
 For the easiest and fastest setup, select the first option: **OAuth 2.0 (Recommended)**.
 
-![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-2.webp)
+![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-2.webp)
 
 ### Step 3: Authorize Your Facebook Account
 
@@ -40,7 +40,7 @@ After you select the recommended method, a new Facebook pop-up window will open.
 * If you are not already logged in, Facebook will ask you to log in.
 * Next, it will ask you to grant permission for "WP Social Ninja" to access your information. Click the **"Continue as..."** button to proceed. This is a standard and safe process.
 
-![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-3.webp)
+![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-3.webp)
 
 ### Step 4: Select Your Facebook Page(s)
 
@@ -51,7 +51,7 @@ After you grant permission, you will be brought back to a WP Social Ninja pop-up
 * Click the checkbox next to each Page you want to connect.
 * Once you have selected your Page(s), click the blue **Connect Pages** button.
 
-![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-4.webp)
+![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-4.webp)
 
 ### Step 5: You're Connected!
 
@@ -59,7 +59,7 @@ The pop-up will close, and you will be returned to the main **Platforms** page.
 
 You will now see that the **Facebook** row has a green "Connected" status and lists the Page(s) you just added.
 
-![Facebook Page Review](/guide/public/images/social-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-5.webp)
+![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-5.webp)
 
 ### Next Steps
 

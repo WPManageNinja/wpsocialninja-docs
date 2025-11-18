@@ -24,7 +24,7 @@ features:
   - icon: ⭐
     title: Social Reviews
     details: Showcase reviews from Google, Facebook, Yelp, Trustpilot, and 10+ platforms
-    link: /guide/social-reviews/
+    link: /guide/business-reviews/
     linkText: "Setup Reviews"
   - icon: 💬
     title: Social Chat

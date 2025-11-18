@@ -9,7 +9,7 @@ Your business receives valuable **Business Reviews** on multiple social networki
 
 **WP Social Ninja** will let you add different Reviews on your site in just a few clicks. For instance, Social Platforms like Google My Business and Facebook. WP Social Ninja will help you to add all those sites with zero hassle.
 
-![social review platform](/guide/public/images/social-reviews/social-media-reviews-wp-social-ninja/business-reviews-1.webp)
+![social review platform](/guide/public/images/business-reviews/social-media-reviews-wp-social-ninja/business-reviews-1.webp)
 
 
 Our Plugin has the power to engage with your customers by gathering reviews and recommendations in your business like never before.

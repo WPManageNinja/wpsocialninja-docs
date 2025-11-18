@@ -25,8 +25,8 @@ This feature allows you to show your live social media posts directly on your we
 
 This feature allows you to automatically pull reviews from over platforms and display them on your site.
 
- * **Fetch from Multiple Platforms:** Connect [Google Business Profile](../social-reviews/google-configuration), [Facebook](../social-reviews/facebook-configuration), [Yelp](../social-reviews/yelp-configuration), [Airbnb](../social-reviews/airbnb-configuration), [WooCommerce](../social-reviews/woocommerce-reviews), [Trustpilot](../social-reviews/trustpilot-configuration), [Booking.com](../social-reviews/booking-com-configuration), [AliExpress](../social-reviews/aliexpress-configuration), [Tripadvisor](../social-reviews/tripadvisor-configuration), and [Fluent Forms](../social-reviews/fluent-forms-review).
- * **Display Beautifully:** Choose from different [Templates](../social-reviews/create-template) (like Grid, Slider, or Masonry) to control the layout and match your website's design.
+ * **Fetch from Multiple Platforms:** Connect [Google Business Profile](../business-reviews/google-configuration), [Facebook](../business-reviews/facebook-configuration), [Yelp](../business-reviews/yelp-configuration), [Airbnb](../business-reviews/airbnb-configuration), [WooCommerce](../business-reviews/woocommerce-reviews), [Trustpilot](../business-reviews/trustpilot-configuration), [Booking.com](../business-reviews/booking-com-configuration), [AliExpress](../business-reviews/aliexpress-configuration), [Tripadvisor](../business-reviews/tripadvisor-configuration), and [Fluent Forms](../business-reviews/fluent-forms-review).
+ * **Display Beautifully:** Choose from different [Templates](../business-reviews/create-template) (like Grid, Slider, or Masonry) to control the layout and match your website's design.
  * **Manage Your Reviews:** You have full control. You can filter reviews by rating, choose to include or exclude specific reviews, and manually approve submissions. You can also add your own [Custom Reviews](../custom-source/manually-add-or-import-custom-reviews) or [testimonials](../advanced-features/add-testimonials).
 
 ### 3. Integrate Social Chat
@@ -42,12 +42,12 @@ WP Social Ninja also includes powerful marketing and SEO tools.
 
  * **Notification Popups:** Use this feature to display your best reviews in a small, eye-catching [pop-up](../advanced-features/notification-popup) as visitors browse your site.
  * **Shoppable Feeds:** Turn your [Instagram feed](../social-feeds/instagram-shoppable-feed) into a sales tool. This allows you to link your Instagram posts directly to your product pages or any custom URL.
- * **Improve SEO (Schema Support):** The plugin has built-in [Schema Snippet](../social-reviews/configure-schema) support. This adds special code that helps Google understand your review data and display your star ratings in search results.
- * **Generate QR Codes:** Create simple [QR codes](../social-reviews/generate-qr-code-for-reviews) that link directly to your review platforms (like Google or Yelp). This makes it easy for your customers to leave you new reviews.
+ * **Improve SEO (Schema Support):** The plugin has built-in [Schema Snippet](../business-reviews/configure-schema) support. This adds special code that helps Google understand your review data and display your star ratings in search results.
+ * **Generate QR Codes:** Create simple [QR codes](../business-reviews/generate-qr-code-for-reviews) that link directly to your review platforms (like Google or Yelp). This makes it easy for your customers to leave you new reviews.
 
 ![WP Social Ninja Platforms](/guide/public/images/getting-started/getting-started-with-wp-social-ninja/WP-Social-Ninja-Platforms.webp)
 
 ## Getting Started
 
-If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../social-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../getting-started/templates-overview) to customize the appearance and engage with your visitors.
+If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../business-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../getting-started/templates-overview) to customize the appearance and engage with your visitors.
 

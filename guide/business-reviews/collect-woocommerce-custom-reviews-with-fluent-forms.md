@@ -42,19 +42,19 @@ First, you need a form where users can submit their reviews. For this, go to **F
 
 After that, **Save** the form and **Copy** the **Form Shortcode ID** — you’ll need it later to connect with WP Social Ninja.
 
-![Create a Review Form ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/review-form.webp)
+![Create a Review Form ](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/review-form.webp)
 
 ## **Step 2: Connect Fluent Forms with WP Social Ninja**
 
 Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates. Then, go to **Fluent Forms → Forms → Settings & Integrations**.Now, click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
 
-![Connect Fluent Forms with WP Social Ninja ](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/connect-form-with-wpsocial-ninja.webp)
+![Connect Fluent Forms with WP Social Ninja ](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/connect-form-with-wpsocial-ninja.webp)
 
 While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
 
 For a complete guide on Fluent Forms integration with WP Social Ninja, see this [documentation](./fluent-forms-review).
 
-![update wp social ninja integration feed fluent forms](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/add-new-integration-feed.webp)
+![update wp social ninja integration feed fluent forms](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/add-new-integration-feed.webp)
 
 ## **Step 3: Create a Review Template in WP Social Ninja**
 
@@ -78,7 +78,7 @@ At this point, your **Write a Review** button is ready. When users click it, you
 
 Read the [documentation](./template-style-connection) to understand fully how [review templates](./create-template) work.
 
-![edit review template](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/fluent-forms-review.webp)
+![edit review template](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/fluent-forms-review.webp)
 
 ## **Step 4: Apply Your Setup**
 
@@ -117,7 +117,7 @@ Now, on that product page, the review section will display your Fluent Form inst
 
 Check out the [documentation](./woocommerce-reviews) for a full guide on integrating WooCommerce with Fluent Forms.
 
-![edit product woocommerce](/guide/public/images/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-product-woocommerce.webp)
+![edit product woocommerce](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-product-woocommerce.webp)
 
 ### **Collect Custom Reviews with Fluent Forms (Pro Only)**
 

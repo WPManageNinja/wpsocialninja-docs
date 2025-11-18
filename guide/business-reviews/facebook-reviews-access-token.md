@@ -23,11 +23,11 @@ First, go to your WordPress dashboard. In the left-hand menu, click on **WP Soci
 
 On the "Platforms" page, find the **Facebook** row and click the **Connect** button.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-1.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-1.webp)
 
 A pop-up window will appear asking you to "Select Credential Type." The first option is the default login. For this method, select the second option: **Manually Connect a Page**.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-2.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-2.webp)
 
 ### Step 3: Find the Required Fields
 
@@ -45,12 +45,12 @@ On this page, find the **Facebook Reviews** section.
 
 1.  On the Token Generator page, click the blue **Continue with Facebook** button.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-3.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-3.webp)
 
 2.  A secure Facebook pop-up window will open. Log in to your Facebook account (the one that manages your Business Page).
 3.  Follow the prompts. Facebook will ask you to "Continue as..." and then to select which of your pages you want to grant access to. Make sure you select the correct page.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-4.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-4.webp)
 
 ### Step 6: Copy Your Page ID and Access Token
 
@@ -58,7 +58,7 @@ After you grant permission, the generator page will refresh and display your uni
 
 Click the **Copy** button for each of these keys.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-5.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-5.webp)
 
 ### Step L: Connect Your Page
 
@@ -68,7 +68,7 @@ Now, go back to your WordPress dashboard (where you still have the pop-up from S
 2.  Paste the **Access Token** you just copied into the "Access Token" field.
 3.  Click the **Save** button.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-6.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-6.webp)
 
 ### Step 8: You're Connected!
 
@@ -76,7 +76,7 @@ The pop-up will close, and you will be returned to the main **Platforms** page.
 
 You will now see that the **Facebook** row has a green "Connected" status and lists the Page you just added manually.
 
-![Facebook reviews manual process](/guide/public/images/social-reviews/facebook-reviews-access-token/fb-business-review-manual-7.webp)
+![Facebook reviews manual process](/guide/public/images/business-reviews/facebook-reviews-access-token/fb-business-review-manual-7.webp)
 
 ## Next Steps
 

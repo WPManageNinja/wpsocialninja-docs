@@ -63,14 +63,14 @@ You will need to find and copy three pieces of information from this file:
   - Scroll down until you find the **x-airbnb-api-key**.
   - Copy the long string of characters next to it. This is your API Key.
 
-![airbnb api 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/reviewsquery-1.webp)
+![airbnb api 1](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/reviewsquery-1.webp)
 
 - **The Secret Key:**
   - Now, click on the **Payload** tab (it might also be called "Request").
   - Navigate through extensions → persistedQuery.
   - You will see a **sha256Hash**. Copy the long string of characters next to it. This is your Secret Key.
 
-![airbnb api 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/reviewsquery-2.webp)
+![airbnb api 2](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/reviewsquery-2.webp)
 
 ### Find the Keys for a Room's Business Info (Required)
 
@@ -94,7 +94,7 @@ You will need to find and copy three pieces of information from this file:
 
 </li>
 
-![api 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/sections-1.webp)
+![api 1](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/sections-1.webp)
 
 - **The Secret Key:**
 
@@ -106,7 +106,7 @@ You will need to find and copy three pieces of information from this file:
 
 </li>
 
-![api 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/sections-2.webp)
+![api 2](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/sections-2.webp)
 
 ### **Step 2: Add the Keys to Your WordPress Site**
 
@@ -171,19 +171,19 @@ To add **Airbnb Reviews** on your site, it is obvious that you need somehow to c
 
 To add Airbnb Reviews to your site, first, click on Airbnb.
 
-![airbnb platform 1](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-1.webp)
+![airbnb platform 1](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-1.webp)
 
 Now paste your room, experience or business URL here.
 
-![airbnb platform 2](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-2.webp)
+![airbnb platform 2](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-2.webp)
 
 You can find the URL in the address bar of your Airbnb room, experience, or business page, just like in the screenshot below.
 
-![airbnb platform 3](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/room-url.webp)
+![airbnb platform 3](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/room-url.webp)
 
 Paste the URL into the field and hit **Save**. Once connected, you’ll see your Airbnb account linked with Social Ninja. Next, click **Create a Template** to start displaying your Airbnb reviews.
 
-![airbnb platform 4](/guide/public/images/social-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-3.webp)
+![airbnb platform 4](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/airbnb-config-3.webp)
 
 Your template is now ready! From here, you can customize it the way you like. For more details, check out this [documentation](./template-style-connection) on template customization.
 

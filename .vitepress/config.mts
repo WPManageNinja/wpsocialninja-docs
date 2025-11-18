@@ -252,7 +252,7 @@ export default defineConfig({
             "items": [
                   {
                         "text": "Overview",
-                        "link": "/guide/social-reviews/"
+                        "link": "/guide/business-reviews/"
                   },
                   {
                         "text": "🌍 Review Platforms",
@@ -260,39 +260,39 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Google Reviews",
-                                    "link": "/guide/social-reviews/google-configuration"
+                                    "link": "/guide/business-reviews/google-configuration"
                               },
                               {
                                     "text": "Facebook Reviews",
-                                    "link": "/guide/social-reviews/facebook-configuration"
+                                    "link": "/guide/business-reviews/facebook-configuration"
                               },
                               {
                                     "text": "Facebook Access Token",
-                                    "link": "/guide/social-reviews/facebook-reviews-access-token"
+                                    "link": "/guide/business-reviews/facebook-reviews-access-token"
                               },
                               {
                                     "text": "Yelp Reviews",
-                                    "link": "/guide/social-reviews/yelp-configuration"
+                                    "link": "/guide/business-reviews/yelp-configuration"
                               },
                               {
                                     "text": "Trustpilot Reviews",
-                                    "link": "/guide/social-reviews/trustpilot-configuration"
+                                    "link": "/guide/business-reviews/trustpilot-configuration"
                               },
                               {
                                     "text": "Airbnb Reviews",
-                                    "link": "/guide/social-reviews/airbnb-configuration"
+                                    "link": "/guide/business-reviews/airbnb-configuration"
                               },
                               {
                                     "text": "Booking.com Reviews",
-                                    "link": "/guide/social-reviews/booking-com-configuration"
+                                    "link": "/guide/business-reviews/booking-com-configuration"
                               },
                               {
                                     "text": "TripAdvisor Reviews",
-                                    "link": "/guide/social-reviews/tripadvisor-configuration"
+                                    "link": "/guide/business-reviews/tripadvisor-configuration"
                               },
                               {
                                     "text": "AliExpress Reviews",
-                                    "link": "/guide/social-reviews/aliexpress-configuration"
+                                    "link": "/guide/business-reviews/aliexpress-configuration"
                               }
                         ]
                   },
@@ -302,15 +302,15 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "WooCommerce Reviews",
-                                    "link": "/guide/social-reviews/woocommerce-reviews"
+                                    "link": "/guide/business-reviews/woocommerce-reviews"
                               },
                               {
                                     "text": "Custom WooCommerce with Fluent Forms",
-                                    "link": "/guide/social-reviews/collect-woocommerce-custom-reviews-with-fluent-forms"
+                                    "link": "/guide/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms"
                               },
                               {
                                     "text": "Fluent Forms Integration",
-                                    "link": "/guide/social-reviews/fluent-forms-review"
+                                    "link": "/guide/business-reviews/fluent-forms-review"
                               }
                         ]
                   },
@@ -320,11 +320,11 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Create Templates",
-                                    "link": "/guide/social-reviews/create-template"
+                                    "link": "/guide/business-reviews/create-template"
                               },
                               {
                                     "text": "Template Styling & Connection",
-                                    "link": "/guide/social-reviews/template-style-connection"
+                                    "link": "/guide/business-reviews/template-style-connection"
                               }
                         ]
                   },
@@ -334,11 +334,11 @@ export default defineConfig({
                         "items": [
                               {
                                     "text": "Schema Configuration",
-                                    "link": "/guide/social-reviews/configure-schema"
+                                    "link": "/guide/business-reviews/configure-schema"
                               },
                               {
                                     "text": "QR Code Generation",
-                                    "link": "/guide/social-reviews/generate-qr-code-for-reviews"
+                                    "link": "/guide/business-reviews/generate-qr-code-for-reviews"
                               }
                         ]
                   }

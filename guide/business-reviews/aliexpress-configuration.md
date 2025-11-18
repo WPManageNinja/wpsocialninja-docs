@@ -33,7 +33,7 @@ On the main menu on the left-hand side, find the **WP Social Ninja**. Click on i
 
 Find the **AliExpress** row. On the right side of that row, click the **Settings icon** button.
 
-![AliExpress Review](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-1.webp)
+![AliExpress Review](/guide/public/images/business-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-1.webp)
 
 ### Step 3: Find the "Product URL" Field
 
@@ -41,7 +41,7 @@ A pop-up window will appear on your screen with the title "Connect Your AliExpre
 
 Inside this pop-up, you will see fields labeled **Add you Product ID here** and **Add your Product Name here**. This is the spot where you will paste the link to your AliExpress product.
 
-![AliExpress Review](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-2.webp)
+![AliExpress Review](/guide/public/images/business-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-2.webp)
 
 ### Step 4: Find and Copy Your AliExpress Product URL
 
@@ -54,7 +54,7 @@ This is the only piece of information you need to find, and it's very easy.
 5.  And **Copy the Product Name**.
 6.  The URL should look something like this: `https://www.aliexpress.com/item/1234567890.html`
 
-![AliExpress Review](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-3.webp)
+![AliExpress Review](/guide/public/images/business-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-3.webp)
 
 ### Step 5: Connect Your Product in WP Social Ninja
 
@@ -64,7 +64,7 @@ Now, go back to your WordPress dashboard browser tab (where the pop-up is still 
 2.  Paste the **full URL** you just copied from AliExpress into the “Product ID” field.
 3.  Click the **Save** button.
 
-![AliExpress Review](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-4.webp)
+![AliExpress Review](/guide/public/images/business-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-4.webp)
 
 ### Step 6: You're Connected!
 
@@ -72,7 +72,7 @@ The pop-up window will close, and the page will refresh.
 
 You will be returned to the main **Platforms** page. You will now see that the **AliExpress** row has a green "Connected" status and lists the product you just added. This confirms that WP Social Ninja can now communicate with that product page to fetch its reviews.
 
-![AliExpress Review](/guide/public/images/social-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-5.webp)
+![AliExpress Review](/guide/public/images/business-reviews/aliexpress-configuration-social-reviews-wp-social-ninja/aliexpress-review-5.webp)
 
 ## Next Steps
 

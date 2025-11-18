@@ -29,7 +29,7 @@ In the main menu on the left-hand side, find the **WP Social Ninja** icon. Click
 
 Find the **Trustpilot** row, and click the **Settings icon** button on the right side.
 
-![Trustpilot Review](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-1.webp)
+![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-1.webp)
 
 ### Step 3: Find the "Business Domain" Field
 
@@ -37,7 +37,7 @@ A pop-up window will appear titled "Trustpilot Configuration."
 
 You will see it has a single empty text box labeled **Enter your business URL to get your reviews**. This is the only piece of information we need to find!
 
-![Trustpilot Review](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-2.webp)
+![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-2.webp)
 
 Keep this pop-up window open in your browser tab. We are now going to find your Business Domain.
 
@@ -56,7 +56,7 @@ This is the most important step, but don't worry, it's very easy.
 
 Carefully Copy the URL.
 
-![Trustpilot Review](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-3.webp)
+![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-3.webp)
 
 ### Step 5: Connect Your Business in WP Social Ninja
 
@@ -66,13 +66,13 @@ Now, go back to your WordPress dashboard browser tab (where the pop-up is still 
 2.  Paste the domain you just copied (e.g., `https://www.trustpilot.com/review/davidsw.com`).
 3.  Click the **Save** button.
 
-![Trustpilot Review](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-4.webp)
+![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-4.webp)
 
 ### Step 6: You're Connected!
 
 You will now see that the **Trustpilot** row has a green "Connected" status and lists your business domain. This confirms that WP Social Ninja is successfully connected to your Trustpilot page and is ready to start syncing your reviews.
 
-![Trustpilot Review](/guide/public/images/social-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-5.webp)
+![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-5.webp)
 
 ## Next Steps
 

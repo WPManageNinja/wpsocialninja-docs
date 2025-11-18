@@ -21,7 +21,7 @@ From your WordPress dashboard, navigate to **WP Social Ninja → Notification Po
 
 The **General** tab is where you select which reviews to display and set the **basic style**.
 
- **Select Platforms:** First, you need to select your source. Click on the **Platforms** section and check the box for where you want to pull reviews from, like [Testimonial](../advanced-features/add-testimonials), [Fluent Forms](../social-reviews/fluent-forms-review), [Google My Business](../social-reviews/google-configuration), [Booking.com](../social-reviews/booking-com-configuration), **Amazon**, [Tripadvisor](../social-reviews/tripadvisor-configuration), or [WooCommerce](../social-reviews/woocommerce-reviews) etc.
+ **Select Platforms:** First, you need to select your source. Click on the **Platforms** section and check the box for where you want to pull reviews from, like [Testimonial](../advanced-features/add-testimonials), [Fluent Forms](../business-reviews/fluent-forms-review), [Google My Business](../business-reviews/google-configuration), [Booking.com](../business-reviews/booking-com-configuration), **Amazon**, [Tripadvisor](../business-reviews/tripadvisor-configuration), or [WooCommerce](../business-reviews/woocommerce-reviews) etc.
 
  ![Select the Platforms](/guide/public/images/advanced-features/notification-popup/select-platforms-2.webp)
 

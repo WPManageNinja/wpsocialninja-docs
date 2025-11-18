@@ -19,11 +19,11 @@ We have created the simplest way to get the reviews just with a few clicks.
 
 In order to obtain Google Reviews successfully, select **Google** from All Platforms.
 
-![Social Reviews | Google](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
+![Social Reviews | Google](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
 
 Now, let’s see how you can add reviews to your website. Firstly, you need to obtain **Google Access Code**.
 
-![Google Configuration](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-2.webp)
+![Google Configuration](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-2.webp)
 
 ### Google Configuration
 
@@ -33,20 +33,20 @@ Click on the **Sign In And Get Google Access Code** to get the Access Code. Clic
 
 Continue with your business account. Choose your e-mail account to continue with WP Social Ninja.
 
-![Choose an account](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-3.webp)
+![Choose an account](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-3.webp)
 
 #### Step 2
 
 Click on the **Continue** to grant access permission.
 
-![Allow to Continue](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-4.webp)
+![Allow to Continue](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-4.webp)
 
 
 #### Step 3
 
 Now copy the Access Code from here.
 
-![Copy Access Code](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-5.webp)
+![Copy Access Code](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-5.webp)
 
 
 
@@ -54,7 +54,7 @@ Now copy the Access Code from here.
 
 Then paste the copied **Access Code** into the Google Configuration page to Configure Google Business Profile. Click on the **Verify Code** button to get the Google Reviews.
 
-![Verify Code ](/guide/public/images/social-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-6.webp)
+![Verify Code ](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-6.webp)
 
 ### **Step 5**
 

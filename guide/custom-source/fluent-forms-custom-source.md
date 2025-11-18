@@ -86,7 +86,7 @@ As visitors submit their reviews through your form, they will appear in this das
 
 #### Get Reviews via QR Code
 
-This button generates a QR code that you can share. When scanned, it will take users directly to the page containing your review form, making it easy to collect feedback. To know more about QR codes, read [this documentation](/guide/social-reviews/generate-qr-code-for-reviews).
+This button generates a QR code that you can share. When scanned, it will take users directly to the page containing your review form, making it easy to collect feedback. To know more about QR codes, read [this documentation](/guide/business-reviews/generate-qr-code-for-reviews).
 
 #### Brand Your Source
 
@@ -104,6 +104,6 @@ Go to **WP Social Ninja → Templates** and create a new **Review Template** (or
 Now, you can customize the design under the **Style** tab to match your website’s look. Click **Save Template** when you're done.
 
 > [!NOTE]
-> If you want to learn more about the template styling, then see the [documentation](/guide/social-reviews/template-style-connection).
+> If you want to learn more about the template styling, then see the [documentation](/guide/business-reviews/template-style-connection).
 
 Your template will generate a shortcode. Simply copy and paste it into any page, post, or widget area to display your new, form-collected reviews beautifully on your website!

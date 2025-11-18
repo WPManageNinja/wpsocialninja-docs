@@ -19,7 +19,7 @@ First, let's create the template itself.
 4.  Give your template a name you'll remember (e.g., "Main Website Reviews" or "5-Star Homepage Slider").
 5.  Click **Create Template**.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-1.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-1.webp)
 
 You will now be taken to the main **Template Editor**. This is where you will set up every detail of your new review feed. The editor is organized into two main tabs: **General** and **Style**.
 
@@ -39,7 +39,7 @@ This is the most important step. It controls which reviews you want to display i
 
 > **Use Case:** This is what makes WP Social Ninja so powerful. You can check the box for **Google**, **Facebook**, and **Yelp** all at the same time to create a single, unified feed of all your best reviews from every platform.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-2.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-2.webp)
 
 ### 2. Template
 
@@ -53,7 +53,7 @@ This section controls the visual structure and arrangement of your reviews.
 * **Select a Template:** These are pre-designed visual "skins" for your feed (e.g., Vega, Spica, Sirius). Each one changes the styling of the review boxes, fonts, and layout.
 * **Number of Columns:** This is a crucial responsive setting. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-3.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-3.webp)
 
 ### 3. Filters
 
@@ -72,7 +72,7 @@ Filters are how you refine your feed to only show the specific reviews you want.
 * **Filter by Business/Product:** (For WooCommerce/Custom Reviews) This lets you show reviews associated with only one specific product.
 * **Filter by Category:** (For WooCommerce/Custom Reviews) This lets you show reviews only from a specific product category (e.g., "Shoes").
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-4.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-4.webp)
 
 ### 4. Settings (Content Display)
 
@@ -95,7 +95,7 @@ This section controls which pieces of information you want to display inside eac
 * **Enable External Links:** A toggle to allow any links in the review text to be clickable.
 * **Equal Height:** This toggle is essential for the **Grid** layout. When toggled **on**, all review boxes are forced to the same height (based on the tallest one), creating a perfect, uniform grid. You should turn this **Off** if you are using the **Masonry** layout.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-5.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-5.webp)
 
 ### 5. Header
 
@@ -118,7 +118,7 @@ This section controls the large box that appears at the top of your entire feed,
     * **Custom URL:** The most common option. You can paste a link directly to your Google, Facebook, or Yelp review page, making it easy for customers.
 * **Open in new window:** (Recommended) Check this to open the review link in a new browser tab.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-6.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-6.webp)
 
 ### 6. Pagination
 
@@ -132,7 +132,7 @@ This controls what happens when a visitor gets to the bottom of the initial set 
 
 > **Example:** You might set your feed to show 10 reviews at first, and then set 5 "Reviews Per Page." When a user clicks "Load More," 5 new reviews will appear (for a total of 15).
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-7.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-7.webp)
 
 ### 7. AI Summarizer
 
@@ -145,7 +145,7 @@ This is a powerful "New" feature that uses AI to analyze your reviews and provid
 * **Display AI Summary Icon:** A toggle to show or hide a small AI icon.
 * **Regenerate AI Summary:** This is a key button. If you don't like the summary the AI generated, or if you have a lot of new reviews, you can click this to force the AI to write a new one.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-8.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-8.webp)
 
 ### 8. Schema Snippet
 
@@ -164,7 +164,7 @@ This is a crucial and highly technical feature for SEO (Search Engine Optimizati
 * **Include Business Address:** A toggle to include your physical address in the schema.
 * **Fallback Average Rating / Fallback Total Rating:** These are backup values. If for some reason your reviews can't be loaded, the schema will use these "fallback" numbers to ensure the code is still valid.
 
-![Create Review Template](/guide/public/images/social-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-9.webp)
+![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-9.webp)
 
 ## Part 3: Next Steps
 

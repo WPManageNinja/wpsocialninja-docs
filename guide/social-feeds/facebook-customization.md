@@ -4,7 +4,7 @@ description: ""
 ---
 # Facebook Feed Template: General Settings
 
-Once you have created a new [template](../social-reviews/create-template) for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
+Once you have created a new [template](../business-reviews/create-template) for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
 
 The editor is organized into two main tabs:
 

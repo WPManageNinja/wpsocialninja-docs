@@ -25,7 +25,7 @@ This category includes all platforms for displaying live posts, photos, and vide
 ### Social Reviews
 
 This category is for fetching and displaying customer reviews from various business and e-commerce platforms.
-> Examples: [Google Business Profile](../social-reviews/google-configuration), [Yelp](../social-reviews/yelp-configuration), [Facebook Reviews](../social-reviews/facebook-configuration), [Airbnb](../social-reviews/airbnb-configuration), **Amazon**, [WooCommerce](../social-reviews/woocommerce-reviews), [Trustpilot](../social-reviews/trustpilot-configuration), [Booking.com](../social-reviews/booking-com-configuration), and more.
+> Examples: [Google Business Profile](../business-reviews/google-configuration), [Yelp](../business-reviews/yelp-configuration), [Facebook Reviews](../business-reviews/facebook-configuration), [Airbnb](../business-reviews/airbnb-configuration), **Amazon**, [WooCommerce](../business-reviews/woocommerce-reviews), [Trustpilot](../business-reviews/trustpilot-configuration), [Booking.com](../business-reviews/booking-com-configuration), and more.
 
 ### Social Chat
 

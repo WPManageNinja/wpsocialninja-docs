@@ -26,7 +26,7 @@ When you are styling a social feed, the **Style (Pro)** tab organizes the settin
 * **Action:** This allows you to customize the action icons at the bottom of each post, such as the "Reply," "Retweet," and "Like" buttons.
 * **Item Box:** This controls the container for each post. You can use it to add a background color, border, or shadow to each "card" in your feed.
 
-## Styling Your Reviews ([Google](../social-reviews/google-configuration), [WooCommerce](../social-reviews/woocommerce-reviews), etc.)
+## Styling Your Reviews ([Google](../business-reviews/google-configuration), [WooCommerce](../business-reviews/woocommerce-reviews), etc.)
 
 Customizing your review templates helps you create a polished, on-brand display that builds trust with your audience.
 
@@ -45,7 +45,7 @@ Here’s what you can customize:
 * **Title:** Adjust the styling of the review title (for example, “Great Service!”).
 * **Content:** Style the main body text of the review.
 * **Read More/Less:** Customize the “Read More” or “Read Less” links for longer reviews.
-* **Platform Name:** Control how the platform name (e.g., "[WooCommerce](../social-reviews/woocommerce-reviews)" or "[Google](../social-reviews/google-configuration)") appears on the review card.
+* **Platform Name:** Control how the platform name (e.g., "[WooCommerce](../business-reviews/woocommerce-reviews)" or "[Google](../business-reviews/google-configuration)") appears on the review card.
 * **Badge:** Adjust the platform’s icon or badge style.
 * **Notification:** Configure styling for notification popups (if used with this template).
 * **Pagination:** Style the “Load More” button for templates that show multiple reviews.

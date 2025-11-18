@@ -9,7 +9,7 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 
 **API Key:** A code from a platform (like YouTube or Yelp) that you must add to WP Social Ninja. It gives the plugin permission to access and display data.
 
-**Auto Syncing:** A feature that automatically checks for and downloads new social reviews or feed posts. You can set this to run at specific intervals (e.g., every 6 hours, daily).
+**Auto Syncing:** A feature that automatically checks for and downloads new business reviews or feed posts. You can set this to run at specific intervals (e.g., every 6 hours, daily).
 
 ## B
 
@@ -72,7 +72,7 @@ This guide defines common terms used in the WP Social Ninja documentation to hel
 
 ## N
 
-**Notification Popup:** A Pro feature that displays individual social reviews (like a recent 5-star Google review) in a small popup box. This appears to visitors as they browse your site.
+**Notification Popup:** A Pro feature that displays individual business reviews (like a recent 5-star Google review) in a small popup box. This appears to visitors as they browse your site.
 
 ## O
 

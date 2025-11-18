@@ -247,7 +247,7 @@ export default defineConfig({
             ]
       },
       {
-            "text": "⭐ Social Reviews",
+            "text": "⭐ Business Reviews",
             "collapsed": true,
             "items": [
                   {

@@ -5,7 +5,7 @@ description: ""
 
 # Introduction to WP Social Ninja
 
-WP Social Ninja is a WordPress plugin that connects your social media activity to your website. It automatically fetches and displays your social reviews, social media posts (feeds), and social chat widgets on your site.
+WP Social Ninja is a WordPress plugin that connects your social media activity to your website. It automatically fetches and displays your business reviews, social media posts (feeds), and social chat widgets on your site.
 
 Use this plugin to build social proof by showing customer reviews, keep your site content fresh with live social feeds, and make it easy for visitors to contact you with chat.
 
@@ -21,7 +21,7 @@ This feature allows you to show your live social media posts directly on your we
  * **Customize Your Feeds:** Select different Layout Types (like Timeline, Grid, Masonry, or Carousel). You can choose the number of posts to show and filter content by hashtags, keywords, or post types.
  * **Make Feeds Interactive:** Add features like pop-up viewers for images and videos, a **Load More** button to show older posts, and **Follow** buttons to grow your audience.
 
- ### 2. Showcase Social Reviews
+ ### 2. Showcase Business Reviews
 
 This feature allows you to automatically pull reviews from over platforms and display them on your site.
 
@@ -49,5 +49,5 @@ WP Social Ninja also includes powerful marketing and SEO tools.
 
 ## Getting Started
 
-If you are new to WP Social Ninja, we recommend starting with the [Social Reviews](../business-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../getting-started/templates-overview) to customize the appearance and engage with your visitors.
+If you are new to WP Social Ninja, we recommend starting with the [Business Reviews](../business-reviews/) or [Social Feeds](../social-feeds/) guides to learn how to connect your first platform. From there, you can explore [Social Chat](../social-chat/) and [Template Settings](../getting-started/templates-overview) to customize the appearance and engage with your visitors.
 

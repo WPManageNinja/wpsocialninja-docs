@@ -10,7 +10,7 @@ Want to embed your WP Social Ninja templates using **Oxygen Page Builder**? WP S
 With these widgets, you can easily display your pre-designed reviews, social feeds, or chat widgets directly inside your Oxygen-built pages, no coding needed.
 
 The plugin includes several native widgets:
- * **Social Reviews**
+ * **Business Reviews**
  * **Social Ninja YouTube**
  * **Social Ninja Instagram**
  * **Social Ninja Twitter**

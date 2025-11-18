@@ -5,7 +5,7 @@ description: ""
 
 # How to Add Fluent Forms Reviews with WP Social Ninja
 
-You can collect and display reviews directly from your website visitors using Fluent Forms. By integrating Fluent Forms with WP Social Ninja, you can automatically fetch form submissions and showcase them as [social reviews](./).
+You can collect and display reviews directly from your website visitors using Fluent Forms. By integrating Fluent Forms with WP Social Ninja, you can automatically fetch form submissions and showcase them as [Business reviews](./).
 
 ::: tip
 

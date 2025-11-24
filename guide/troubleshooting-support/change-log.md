@@ -7,6 +7,79 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
+
+
+## WP Social Ninja v4.0.0
+*Released on November 21, 2025*
+
+::: code-group
+
+```md [✨ Newly Added]
+• Added smooth onboarding to simplify first-time setup
+• Introduced Custom Sources to add and display reviews from any platform (Pro)
+• Added Import & Export feature for Custom Sources (Pro)
+• Added Screen Options to easily hide or show platforms
+• Added Bulk Actions for templates, reviews, chat widgets, and notifications
+• Introduced Dark Mode for the plugin dashboard
+```
+
+```md [🔧 Improvements]
+• Revamped UI and improved UX for modern and streamlined experience
+• Improved overall performance
+• Rebuilt WP Social Ninja Admin area using Vue 3 and Element Plus
+```
+
+```md [🔒 Security]
+• Security: Enhance HTML sanitization for user-generated content
+• Security: Covered Plugin Check (PCP) Requirements for better security compliance
+```
+
+```md [🐛 Bug fixes]
+• Fixed Uncaught Error: Call to a member function get_ID() on null in actions.php when the woocommerce_comments called. (Pro)
+• Fixed facebook event feed order issue (Pro)
+```
+
+:::
+
+---
+
+## WP Social Ninja v3.20.3
+*Released on November 17, 2025*
+
+::: code-group
+
+```md [🔧 Improvements]
+• Improved sanitization and escaping for imported reviews and feed content
+```
+
+:::
+
+---
+
+## WP Social Ninja v3.20.2
+*Released on November 10, 2025*
+
+::: code-group
+
+```md [🔧 Improvements]
+• Improved Judge.me review import process and fixed review display issues inside the product reviews tab (Pro)
+• Displayed place id for Airbnb business names to help distinguish between businesses with the same name (Pro)
+• Displayed Airbnb business place id in the business selection dropdown to avoid confusion when multiple businesses share the same name (Pro)
+• Added missing translator strings and translator comments
+```
+
+```md [🔒 Security]
+• Added additional permission checks for REST API requests to improve overall data handling security
+```
+
+```md [🐛 Bug fixes]
+• Fixed compatibility issue with the Facebook Event API (Pro)
+```
+
+:::
+
+---
+
 ## WP Social Ninja v3.20.1
 *Released on September 25, 2025*
 

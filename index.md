@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "WP Social Ninja"
   text: "Documentation"
-  tagline: Complete guide for the ultimate WordPress social media integration plugin
+  tagline: Complete guide for social feeds, business reviews, chat widgets, and more.
   actions:
     - theme: brand
       text: Get Started

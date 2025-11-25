@@ -67,6 +67,113 @@
   display: none !important;
 }
 
+/* Hero section with video layout - modify default hero to include video */
+.VPHomeHero {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  flex-wrap: wrap;
+}
+
+.VPHomeHero > *:not(.hero-video-wrapper) {
+  flex: 1;
+  min-width: 0;
+}
+
+.VPHomeHero .hero-video-wrapper {
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.VPHomeHero .hero-video-wrapper iframe {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  width: 560px;
+  height: 320px;
+}
+
+/* Responsive design for hero section */
+@media (max-width: 960px) {
+  .VPHomeHero {
+    flex-direction: column;
+    text-align: center !important;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .VPHomeHero > *:not(.hero-video-wrapper) {
+    width: 100%;
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .VPHomeHero .name,
+  .VPHomeHero .name .clip,
+  .VPHomeHero h1.name,
+  .VPHomeHero .name span {
+    text-align: center !important;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .VPHomeHero .text {
+    text-align: center !important;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .VPHomeHero .tagline {
+    text-align: center !important;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .VPHomeHero .actions {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .VPHomeHero .actions .action {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .VPHomeHero .actions .VPButton {
+    margin: 0 auto;
+  }
+  
+  .VPHomeHero .hero-video-wrapper {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .VPHomeHero .hero-video-wrapper iframe {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    aspect-ratio: 560 / 320;
+    margin: 0 auto;
+  }
+}
+
 
 
 

@@ -23,7 +23,7 @@ features:
     linkText: "Setup Feeds"
   - icon: ⭐
     title: Business Reviews
-    details: Showcase reviews from Google, Facebook, Yelp, Trustpilot, and 10+ platforms
+    details: Showcase reviews from Google, Facebook, Yelp, Trustpilot, and 6+ platforms
     link: /guide/business-reviews/
     linkText: "Setup Reviews"
   - icon: 💬

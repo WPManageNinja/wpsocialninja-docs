@@ -7,7 +7,27 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
+## WP Social Ninja v4.0.1
+*Released on December 02, 2025*
 
+::: code-group
+
+```md [🔧 Improvements]
+• Added loader animation when switching layouts inside the Template Editor panel
+```
+
+```md [🐛 Bug fixes]
+• Fixed: HTML tags incorrectly printed in review content
+• Fixed: Unpublished reviews were being displayed on the frontend
+• Fixed: Reviewer name mapping issue in Fluent Forms integration (Pro)
+• Fixed: Duplicate reviews appearing from Booking.com sources (Pro)
+• Fixed: Custom image upload conflict caused by certain plugins (Pro)
+• Fixed: Incorrect pro feature toggle behavior inside feed and review editors
+```
+
+:::
+
+---
 
 ## WP Social Ninja v4.0.0
 *Released on November 21, 2025*

@@ -80,25 +80,11 @@ You will need to find and copy three pieces of information from this file:
 
 - Click on the StaysPdpSections file name to open its details.
 
-**Copy the Required Keys**
-
-You will need to find and copy three pieces of information from this file:
-
-- **The API Key:**
-
-<li>In the details panel, click on the Headers tab.
-
-- Scroll down until you find the x-airbnb-api-key.
-
-- Copy the long string of characters next to it. This is your API Key.
-
-</li>
-
 ![api 1](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/sections-1.webp)
 
 - **The Secret Key:**
 
-<li>Now, click on the **Payload** tab (it might also be called "Request").
+<li>Now, click on the Payload tab (it might also be called "Request").
 
 - Navigate through extensions → persistedQuery.
 

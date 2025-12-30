@@ -7,6 +7,19 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
+## WP Social Ninja v4.0.2
+*Released on December 02, 2025*
+
+::: code-group
+
+```md [🔒 Security]
+• Enhanced sanitization and permission validation for REST API requests
+```
+
+:::
+
+---
+
 ## WP Social Ninja v4.0.1
 *Released on December 02, 2025*
 

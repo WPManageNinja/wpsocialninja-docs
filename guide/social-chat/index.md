@@ -1,6 +1,6 @@
 ---
-title: "Social"
-description: ""
+title: "Social Chat Overview"
+description: "Add a live chat widget to your WordPress site with WP Social Ninja. Connect 15+ channels like WhatsApp, Messenger, and Telegram to engage with visitors instantly."
 ---
 
 # Social Chat Overview

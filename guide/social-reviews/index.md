@@ -1,6 +1,6 @@
 ---
 title: "Business Reviews"
-description: ""
+description: "Display and manage business reviews from Google, Facebook, Yelp, and more on your WordPress site easily with WP Social Ninja to boost customer engagement."
 ---
 
 # Business Reviews

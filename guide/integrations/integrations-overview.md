@@ -1,3 +1,8 @@
+---
+title: "Integrations Overview"
+description: "Explore how WP Social Ninja integrates with popular page builders like Elementor and Beaver Builder, plus AI tools like OpenAI for automated review summaries."
+---
+
 # Integrations Overview
 
 This guide provides a quick overview of how WP Social Ninja integrates with other popular WordPress plugins and tools to give you maximum flexibility.

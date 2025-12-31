@@ -1,5 +1,6 @@
 ---
-description: ""
+title: "Social Feeds"
+description: "Display live social feeds from Instagram, Facebook, TikTok, YouTube, and X (Twitter) on your WordPress site effortlessly with WP Social Ninja."
 ---
 
 # Social Feeds

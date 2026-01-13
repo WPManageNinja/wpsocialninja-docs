@@ -518,7 +518,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: 'Copyright © 2025 WP Social Ninja'
+      copyright: 'Copyright © 2026 WP Social Ninja'
     }
   },
 

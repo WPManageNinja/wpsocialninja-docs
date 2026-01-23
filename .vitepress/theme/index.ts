@@ -1,10 +1,15 @@
-// .vitepress/theme/index.ts
+
 import DefaultTheme from 'vitepress/theme'
-import Layout from './components/Layout.vue'
+import Feedback from './components/Feedback.vue' // Import the file for feedback widget
+import Layout from './layout-1.vue' // Import new layout file
 import './custom.css'
 
-export default {
-  ...DefaultTheme,
-  Layout
-}
 
+
+export default {
+  extends: DefaultTheme,
+  Layout,
+  enhanceApp({ app }) {
+    app.component('Feedback', Feedback)
+  }
+} 

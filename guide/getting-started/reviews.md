@@ -4,6 +4,8 @@ The **Reviews** section is your central hub for managing all your business revie
 
 Here, you can see, filter, and organize all your reviews. You can also hide reviews or add your own **Custom Reviews**. Later, you can show these reviews on your site using a **Business Reviews Template**.
 
+To access this dashboard, navigate to **WP Social Ninja → Reviews** from your WordPress sidebar.
+
 ## Filtering and Sorting Reviews
 
 At the top of the page, you will find several dropdown menus to help you organize and find specific reviews:

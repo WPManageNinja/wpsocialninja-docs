@@ -255,6 +255,10 @@ export default defineConfig({
                         "link": "/guide/social-reviews/"
                   },
                   {
+                        "text": "Global Review Settings",
+                        "link": "/guide/social-reviews/global-review-settings"
+                  },
+                  {
                         "text": "🌍 Review Platforms",
                         "collapsed": true,
                         "items": [

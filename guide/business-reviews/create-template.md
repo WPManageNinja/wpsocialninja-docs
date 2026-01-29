@@ -1,6 +1,6 @@
 ---
 title: "Create A Template"
-description: ""
+description: "Learn how to create and customize review templates in WP Social Ninja, including platform selection, layout options, filters, content display settings, headers, pagination, AI summarizer, and schema snippets for SEO."
 ---
 
 # Creating a Review Template
@@ -147,22 +147,38 @@ This is a powerful "New" feature that uses AI to analyze your reviews and provid
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-8.webp)
 
-### 8. Schema Snippet
+### 8. Schema.org Markup
 
 This is a crucial and highly technical feature for SEO (Search Engine Optimization).
 
 * **What it does:** When enabled, this adds special, invisible code (called JSON-LD schema) to your page. This code helps Google understand that you have reviews on your page.
 * **Why it's important:** This is the feature that helps you get gold review stars (rich snippets) to appear next to your website in Google search results, which can dramatically increase your click-through rate.
-* **Enable Schema:** The main On/Off toggle. You should almost always keep this **On**.
+
+#### Configuration Options
+
+* **Enable Schema.org Markup:** The main On/Off toggle. You should almost always keep this **On**.
 
 > **Note:** You may test if your schema snippet is valid or not by using Google's **Rich Results Test** tool.
 
-* **Business Logo:** Upload your official business logo.
-* **Business Name:** Enter your official business name.
+* **Schema Type:** Select the classification that best describes your content.
+   * **Aggregate Rating:** Use this for general business ratings (e.g., LocalBusiness, Restaurant).
+   * **Product with Reviews:** Select this to add detailed product information alongside individual reviews for richer search results.
+
+* **Business Logo:** Provide your official **Business Name**, **Business Phone Number**, and upload a **Business Logo**. These details ensure search engines associate the reviews with the correct entity.
+* **Business Name:** Choose the most accurate category from the dropdown menu to help search engines categorize your business correctly.
 * **Business Type:** This is very important. Select the type that best fits your business from the list (e.g., "LocalBusiness," "Restaurant," "Product").
 * **Business Phone Number:** Add your main business phone number.
-* **Include Business Address:** A toggle to include your physical address in the schema.
-* **Fallback Average Rating / Fallback Total Rating:** These are backup values. If for some reason your reviews can't be loaded, the schema will use these "fallback" numbers to ensure the code is still valid.
+* **Business Description:** (Available for "Product with Reviews") Enter a concise summary of the product or service being reviewed.
+* **Include Business Address:** A toggle to include your physical location data in the structured code.
+
+#### Moderation and Fallbacks
+
+ * **Fallback Average Rating:** Enter a backup rating (e.g., 4.5) to be used if the system cannot dynamically fetch your live rating.
+ * **Fallback Total Rating:** Set a default number of reviews to ensure the schema remains valid even if live data is temporarily unavailable.
+ * **Number of Reviews to Include:** (Available for "Product with Reviews") Define exactly how many individual reviews should be included in the structured data.
+
+>[!Tip]
+>You can verify that your configuration is working correctly by using [Google's Rich Results Test](/https://search.google.com/test/rich-results) tool. Simply paste your page URL to see if your review stars are ready for search results.
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-9.webp)
 

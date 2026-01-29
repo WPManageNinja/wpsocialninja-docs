@@ -31,6 +31,9 @@ Control how and when new reviews go live on your website with the **Review Publi
 
 - **Auto Publish with Filters**: This advanced mode allows you to set specific Conditional Publishing Rules to automate your moderation process.
 
+>[!Note]
+>The Auto Publish with Filters feature is available in the Pro version.
+
 ### Conditional Publishing Rules
 
 When using the filtered publishing mode, you can define the following criteria:

@@ -1,6 +1,13 @@
+---
+title: "Templates Overview"
+description: "Learn how to create, manage, and display templates for social feeds, business reviews, chat widgets, and notifications in WP Social Ninja using the template editor and shortcodes."
+---
+
 # Templates Overview
 
 The **Templates** section is where you create and manage all the designs for your feeds, reviews, and widgets. After you connect an account in the [Platforms](./all-platforms-of-wp-social-ninja) section, you can build the template that will display your content here.
+
+To access this page, navigate to **WP Social Ninja → Templates** from your WordPress dashboard.
 
 As shown in the image, this page is organized into tabs for each feature:
 * **[Social Feeds](../social-feeds/)**
@@ -11,9 +18,10 @@ As shown in the image, this page is organized into tabs for each feature:
 
 ## Create a New Template
 
-To create a new template, click the **Add New Template** button. This will open the full template editor, where you can customize all the settings.
+To start a new design, click the "**+ Create Template**" button in the top-right corner. This will open the advanced template editor, where you can select your platform, choose a layout, and customize every visual detail to match your brand.
 
-You can also click the **Quick Builder** button to open a simple 3-step wizard for creating a feed or review template.
+[!Tip] 
+>If you want a faster setup, you can also use the **[Quick Builder](/https://docs.wpsocialninja.com/guide/getting-started/onboarding-setup-wizard.html#quick-builder)** feature to open a simple 3-step wizard that helps you create a professional-looking template in seconds.
 
 
 ![The main Templates overview screen in WP Social Ninja](/guide/public/images/getting-started/templates-overview/template.webp)
@@ -28,10 +36,19 @@ You can then paste this [shortcode](../integrations/shortcode-usage) into any Wo
 
 ## How to Manage Existing Templates
 
-In the **Actions** column, you have three options for managing each template:
+Each template in your list has a **three-dot (⋮)** menu on the far right that provides several management tools:
 
- * **Edit (Pencil Icon):** Click this to open the template editor and change the design, layout, or filters.
- * **Duplicate (Copy Icon):** This creates an exact copy of your template. This is useful if you want to make small changes without affecting your original template.
- * **Delete (Trash Icon):** This will permanently delete the template.
+ * **Edit:** Open the full template editor to update your layout, change filters, or modify styling.
+ * **Duplicate:** Create an identical copy of a template. This is perfect for testing new design ideas without changing your original setup.
+ * **Clear Cache:** This new feature immediately flushes the stored data for that specific template. Use this if your feed or reviews are not updating as expected to force the plugin to fetch fresh content.
+ * **Delete:** Permanently remove the template from your website.
+
+### Finding and Filtering Templates
+
+If you have many templates, you can use the organization tools at the top of the list:
+
+ * **Platform Filter:** Use the All Platforms dropdown to view only templates from a specific source, such as Instagram, Facebook, or YouTube.
+ * **Search Bar:** Quickly find a template by typing its name in the search box.
+ * **Bulk Actions:** Select multiple templates using the checkboxes on the left and use the Bulk Action menu to delete them all at once.
 
 ![Copying a shortcode from the Templates list](/guide/public/images/getting-started/templates-overview/manage-existing-template.webp)

@@ -1,7 +1,8 @@
 ---
 title: "Facebook Feed Settings"
-description: ""
+description: "Learn how to customize Facebook feed templates in WP Social Ninja, including source selection, layout options, filters, date ranges, content display settings, headers, buttons, and pagination."
 ---
+
 # Facebook Feed Template: General Settings
 
 Once you have created a new [template](../business-reviews/create-template) for your Facebook feed, you will land in the main **Template Editor**. This is the control center where you can customize every part of your feed's content and appearance.
@@ -55,6 +56,10 @@ This section controls the visual structure and arrangement of your posts.
 * **Template:** These are pre-designed visual "skins" for your feed. Each template (like Template 1, and Template 2.) changes the styling of the post boxes, fonts, and layout.
 * **Number of Columns:** This is a crucial responsive setting. You can set the number of columns to show on **Desktop**, **Tablet**, and **Mobile** devices.
 * **Columns Gap:** This controls the amount of "gutter" or empty space (in pixels) between each post in your feed. Increase this for a more spaced-out, airy look, or decrease it to make the posts tighter.
+
+#### Sorting and Order
+
+Use the Order dropdown to control how your posts are displayed. Along with standard options like **Newest**, **Oldest**, and **Random**. You can also choose **Facebook Event Default** to prioritize posts using Facebook’s native event-ordering logic.
 
 ![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-3.webp)
 

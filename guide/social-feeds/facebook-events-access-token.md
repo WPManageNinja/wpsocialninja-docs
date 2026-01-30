@@ -114,4 +114,8 @@ Next, click on the **Add New Template** button to set up and customize the templ
 
 ![fb event app 14](/guide/public/images/social-feeds/facebook-events-access-token/WPSN-18.webp)
 
+:::info
+Events created by a co-host of the Facebook Page will not appear in your feed. Facebook's API does not share data for events where the connected Page is only a co-host. To ensure an event shows up on your website, it must be created directly by the main Facebook Page itself.
+:::
+
 This is how you can display your Facebook Page Events on your site. If you have any further questions or need assistance with this configuration, please don’t hesitate to contact [us](https://wpmanageninja.com/support-tickets).

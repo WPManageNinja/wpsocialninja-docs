@@ -178,7 +178,7 @@ This is a crucial and highly technical feature for SEO (Search Engine Optimizati
  * **Number of Reviews to Include:** (Available for "Product with Reviews") Define exactly how many individual reviews should be included in the structured data.
 
 >[!Tip]
->You can verify that your configuration is working correctly by using [Google's Rich Results Test](/https://search.google.com/test/rich-results) tool. Simply paste your page URL to see if your review stars are ready for search results.
+>You can verify that your configuration is working correctly by using [Google's Rich Results Test](https://search.google.com/test/rich-results) tool. Simply paste your page URL to see if your review stars are ready for search results.
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-9.webp)
 

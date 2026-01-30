@@ -62,7 +62,7 @@ Click the **three-dot (⋮)** menu on the far right of any review to access spec
  * **Delete:** Remove the individual review permanently.
 
 >[!Note]
->Your moderation workflow is heavily influenced by your Global Review Settings. If you have enabled "Require Approval" or set "[Conditional Publishing Rules](/guide/social-reviews/global-review-settings)," new reviews will automatically land in the Pending or Spam tabs based on your criteria.
+>Your moderation workflow is heavily influenced by your Global Review Settings. If you have enabled "Require Approval" or set "[Conditional Publishing Rules](/guide/business-reviews/global-review-settings.md)," new reviews will automatically land in the Pending or Spam tabs based on your criteria.
 
 ![Individual Reviews](/guide/public/images/getting-started/reviews/individualy-review-action-2.webp)
 

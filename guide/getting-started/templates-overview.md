@@ -21,7 +21,7 @@ As shown in the image, this page is organized into tabs for each feature:
 To start a new design, click the "**+ Create Template**" button in the top-right corner. This will open the advanced template editor, where you can select your platform, choose a layout, and customize every visual detail to match your brand.
 
 [!Tip] 
->If you want a faster setup, you can also use the **[Quick Builder](/https://docs.wpsocialninja.com/guide/getting-started/onboarding-setup-wizard.html#quick-builder)** feature to open a simple 3-step wizard that helps you create a professional-looking template in seconds.
+>If you want a faster setup, you can also use the **[Quick Builder](/guide/getting-started/onboarding-setup-wizard.md)** feature to open a simple 3-step wizard that helps you create a professional-looking template in seconds.
 
 
 ![The main Templates overview screen in WP Social Ninja](/guide/public/images/getting-started/templates-overview/template.webp)

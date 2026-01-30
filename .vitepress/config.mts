@@ -256,7 +256,7 @@ export default defineConfig({
                   },
                   {
                         "text": "Global Review Settings",
-                        "link": "/guide/social-reviews/global-review-settings"
+                        "link": "/guide/business-reviews/global-review-settings"
                   },
                   {
                         "text": "🌍 Review Platforms",

@@ -7,6 +7,45 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
+
+## WP Social Ninja v4.1.0
+*Released on January 29, 2026*
+
+::: code-group
+
+```md [✨ Newly Added]
+• Review Status Controls: Introduced Publish, Unpublish, and Spam states for better review management
+• Advanced Review Moderation: Manual approval with intelligent auto-publishing rules based on rating, content length, and keywords
+• Spam Management for Reviews: Mark and unmark reviews as spam, including bulk actions
+• Advanced Style Options for Review & Feed Templates: Box shadow, border radius, hover effects, padding, and spacing controls (Pro)
+• Device-Based Responsive Control for “Load More” behavior
+• Advanced Product Review Schema with optimized structured data for improved SEO
+• Clear Cache by Individual Feed Template for better control
+• Facebook Event Sorting Options to display events in preferred order (Pro)
+```
+
+```md [🔧 Improvements]
+• Optimized SQL queries for review counts, rating breakdowns, and business information
+• Preserved manual review approval status during sync to prevent re-approving disabled reviews
+• Improved WooCommerce template handling and business information processing (Pro)
+• Improved Airbnb business information handling via the GraphQL API (Pro)
+• Improved Facebook event feed handling and account filtering logic (Pro)
+• Filtered out Instagram trial reels from account feeds
+```
+
+```md [🐛 Bug fixes]
+• Fixed an issue where WooCommerce product reviews were incorrectly inserted into non-review comments and processed as reviews (Pro)
+• Fixed an issue where WP Social Ninja custom cron events could be automatically removed on certain server environments
+• Resolved a masonry layout rendering issue (Pro)
+• Fixed review count update issues when enabling or disabling reviews
+• Fixed incorrect post ID usage in asset loading logic for WooCommerce products
+• Fixed Chat Widget Viber configuration issue (Pro)
+• Fixed time picker and date range type design issue
+• Fixed review show/hide functionality based on keyword filtering (Pro)
+```
+:::
+
+
 ## WP Social Ninja v4.0.2
 *Released on December 02, 2025*
 

@@ -445,7 +445,7 @@ export default defineConfig({
                         "link": "/guide/custom-source/manually-add-or-import-custom-reviews"
                   },
                   {
-                        "text": "Export Your Old Custom Reviews to the New Custom Sources",
+                        "text": "Export Your Old Custom Reviews",
                         "link": "/guide/custom-source/export-your-old-custom-reviews"
                   },
                   {

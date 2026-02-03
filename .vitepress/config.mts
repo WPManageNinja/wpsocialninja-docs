@@ -446,7 +446,7 @@ export default defineConfig({
                   },
                   {
                         "text": "Export Your Old Custom Reviews to the New Custom Sources",
-                        "link": "/guide/custom-source/export-your-old-custom-reviews-to-the-new-custom-sources"
+                        "link": "/guide/custom-source/export-your-old-custom-reviews"
                   },
                   {
                         "text": "How to Collect Reviews with a Fluent Forms Custom Source",

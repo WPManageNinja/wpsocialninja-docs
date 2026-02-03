@@ -1,4 +1,4 @@
-# How to Export Your Old Custom Reviews to the New Custom Sources
+# Export Your Old Custom Reviews to the New Custom Sources
 
 WP Social Ninja is introducing a new and better way to manage Custom Sources. If you already have reviews created using the old Custom Reviews system, we recommend moving them to a new Custom Source. This will make your reviews easier to manage and keep them compatible with future updates.
 

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "WP Social Ninja"
+  name: "WP Social Ninja "
   text: "Documentation"
   tagline: Complete guide for social feeds, business reviews, chat widgets, and more.
   actions:

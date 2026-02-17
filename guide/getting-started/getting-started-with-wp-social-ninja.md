@@ -1,6 +1,6 @@
 ---
 title: "WP Social Ninja Introduction"
-description: ""
+description: "Introduction to WP Social Ninja. Learn how to display social feeds, business reviews, and chat widgets on your WordPress site."
 ---
 
 # Introduction to WP Social Ninja

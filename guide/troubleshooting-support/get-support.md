@@ -1,3 +1,8 @@
+---
+title: How to Get Support
+description: "Get help with WP Social Ninja. Contact the WPManageNinja support team, submit a ticket, and get quick assistance for your plugin issues."
+---
+
 # How to Get Support
 
 If you've reviewed the **Docs** guides and are still encountering a problem with WP Social Ninja, our dedicated support team is here to help.

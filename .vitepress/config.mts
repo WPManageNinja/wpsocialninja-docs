@@ -12,6 +12,21 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', href: '/favicon.svg' }]
   ],
 
+  markdown: {
+    config: (md) => {
+      const defaultRender = md.renderer.rules?.link_open ?? ((tokens, idx, options, env, self) =>
+        self.renderToken(tokens, idx, options))
+      md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+        const token = tokens[idx]
+        if (token.attrIndex('target') < 0) {
+          token.attrSet('target', '_blank')
+          token.attrSet('rel', 'noopener noreferrer')
+        }
+        return defaultRender(tokens, idx, options, env, self)
+      }
+    }
+  },
+
   themeConfig: {
     logo: {
       light: '/logo.svg',
@@ -20,9 +35,9 @@ export default defineConfig({
     outline: [2,3],
     
     nav: [
-      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
-      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
-      { text: 'Website', link: 'https://wpsocialninja.com' },
+      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja', target: '_blank', rel: 'noopener noreferrer' },
+      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log', target: '_blank', rel: 'noopener noreferrer' },
+      { text: 'Website', link: 'https://wpsocialninja.com', target: '_blank', rel: 'noopener noreferrer' },
     ],
 
     sidebar: [

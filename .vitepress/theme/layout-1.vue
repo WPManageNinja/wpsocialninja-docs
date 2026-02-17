@@ -7,7 +7,7 @@
   const { Layout } = DefaultTheme
 
   function setLinksNewTab() {
-    const selector = '.vp-doc a[href], .VPSidebar a[href], aside a[href]'
+    const selector = '.vp-doc a[href]'
     document.querySelectorAll(selector).forEach((el) => {
       const href = el.getAttribute('href')
       if (href && !el.hasAttribute('target')) {

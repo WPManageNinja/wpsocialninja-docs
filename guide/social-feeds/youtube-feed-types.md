@@ -36,16 +36,19 @@ After copying the channel handle, go to your **YouTube Template Source** options
 ### Channel ID
 
 To find a Channel ID:
+
  * **URL:** https://www.youtube.com/channel/UCibcXdeKy8e04hYWf0Gz7ow
  * **Copy and paste:** UCibcXdeKy8e04hYWf0Gz7ow
 
-Go to any YouTube channel page. Look at the **URL** in your browser. The **ID** is the long string of letters and numbers after youtube.com/channel/. Example: https://www.youtube.com/channel/UCiyeXfnGx9e06hXWf0Hz7ow.
+Go to any YouTube channel page. Look at the **URL** in your browser. The **ID** is the long string of letters and numbers after youtube.com/channel/. 
+
+Example: https://www.youtube.com/channel/UCiyeXfnGx9e06hXWf0Hz7ow.
 **Copy** this ID.
 
 ![Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/channel-id.webp)
 
 Now, **paste** it to insert the **Channel URL** and click on the Fetch Videos to fetch the Channel Videos. Then, click the **Save** button.
-Note that you are to select the URL after the channel, and the ID will look like “UCiyeXfnGx9e06hXWf0Hz7ow”.
+Note that you are to select the URL after the channel, and the ID will look like “**UCiyeXfnGx9e06hXWf0Hz7ow”**.
 
 ![Youtube Channel ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/paste-channel-id.webp)
 
@@ -119,19 +122,19 @@ This feed type lets you hand-pick one or more specific videos to display.
 
 #### How to Find a Video ID
 
-Now it’s time to select the **Feed Type: Specific Videos**. Similar to Search Feed, once you select the **Specific Videos,** the** Video ID** menu will appear.
+Now it’s time to select the **Feed Type: Specific Videos**. Similar to Search Feed, once you select the **Specific Videos,** the **Video ID** menu will appear.
 
 In this field, you can select a particular video to fetch on your YouTube feed. To obtain a **Video ID,** go to **YouTube** and select the **Video**.
 
-However, you can also add multiple videos to your Feed. To do that, add more videos after a comma on the **Video ID** section. For example, ** nn0q2FOPfUA, rE8j6zFjKac&amp;t=156s.**
+However, you can also add multiple videos to your Feed. To do that, add more videos after a comma on the **Video ID** section. For example, **nn0q2FOPfUA, rE8j6zFjKac&amp;t=156s.**
 
 For demonstration purposes, we will go with a single **Video ID**.
 
 ![Obtain Video ID](/guide/public/images/social-feeds/youtube-feed-type-social-feeds/obtain-video-id.webp)
 
-From the **Video URL,** copy the selected **URL** and paste it to insert it on the** video ID**. After you have pasted the Video ID, click on the** Fetch Videos** to display the videos on the YouTube Feed.
+From the **Video URL,** copy the selected **URL** and paste it to insert it on the **video ID**. After you have pasted the Video ID, click on the **Fetch Videos** to display the videos on the YouTube Feed.
 
-Keep in mind, only select the ID after the** v= ** and the Video ID looks like “** nn0q2FOPfUA**”. Click to the **Save** button.
+Keep in mind, only select the ID after the **v=** and the Video ID looks like “**nn0q2FOPfUA**”. Click to the **Save** button.
 
 > [!NOTE]
 > To add multiple videos, paste in multiple Video IDs separated by a comma (e.g., nn0q2FOPfUA,rE8j6zFjKac).

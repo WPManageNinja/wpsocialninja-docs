@@ -75,7 +75,7 @@ Your Place ID is simply the unique part of your business's URL on Yelp.com.
 > **Example URL:** `https://www.yelp.com/biz/bocconcino-san-francisco`
 > **Your Place ID:** `bocconcino-san-francisco`
 
-Carefully copy this Place ID.
+Carefully copy this **Place ID**.
 
 ![Yelp Configuration for Review](/guide/public/images/business-reviews/yelp-configuration-social-reviews-wp-social-ninja/yelp-business-review-4.webp)
 

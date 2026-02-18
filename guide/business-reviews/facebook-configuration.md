@@ -25,7 +25,7 @@ On the "Platforms" page, find the **Facebook** row. On the right side, click the
 
 ![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-1.webp)
 
-A pop-up window will appear asking you to "Select Credential Type." You have two choices **OAuth 2.0** and **Manually Connect a Page**. In this guide we will show you the OAuth 2.0 connection process. To manually connect your Facebook Page follow this [documentation](./facebook-reviews-access-token).
+A pop-up window will appear asking you to "Select Credential Type." You have two choices **OAuth 2.0** and **Manually Connect a Page**. In this guide we will show you the OAuth 2.0 connection process. To manually connect your Facebook Page follow this [Documentation](./facebook-reviews-access-token).
 
 For the easiest and fastest setup, select the first option: **OAuth 2.0 (Recommended)**.
 

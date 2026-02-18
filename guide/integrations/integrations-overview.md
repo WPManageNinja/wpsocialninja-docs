@@ -15,16 +15,16 @@ Beyond connecting your social platforms, our integrations are designed to help y
 
 We provide dedicated widgets for the most popular WordPress page builders. This allows you to easily drag-and-drop your WP Social Ninja templates directly onto your pages.
 
-* [Elementor](/guide/integrations/elementor-integration.md)
-* [Oxygen](/guide/integrations/oxygen-integration.md)
-* [Beaver](/guide/integrations/beaver-page-builder.md)
-* [Shortcode Usage](/guide/integrations/shortcode-usage.md)
+* [Elementor](/guide/integrations/elementor-integration)
+* [Oxygen](/guide/integrations/oxygen-integration)
+* [Beaver](/guide/integrations/beaver-page-builder)
+* [Shortcode Usage](/guide/integrations/shortcode-usage)
 
 ### 2. AI Integration
 
 This powerful feature enhances your Business Reviews. By connecting to AI platforms, WP Social Ninja can automatically read your customer reviews and generate a helpful summary.
 
-* [OpenAI Integration](/guide/ai-integration/openai-integration-for-review.md)
-* [OpenRouter Integration](/guide/ai-integration/openrouter-integration-for-review.md)
+* [OpenAI Integration](/guide/ai-integration/openai-integration-for-review)
+* [OpenRouter Integration](/guide/ai-integration/openrouter-integration-for-review)
 
 This allows you to display a quick "At a Glance" summary (e.g., "Customers praise the fast shipping and excellent service") at the top of your review feed.

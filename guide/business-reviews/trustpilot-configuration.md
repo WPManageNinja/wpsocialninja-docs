@@ -54,7 +54,7 @@ This is the most important step, but don't worry, it's very easy.
 > `https://www.trustpilot.com/review/davidsw.com`
 > 
 
-Carefully Copy the URL.
+Carefully **Copy** the URL.
 
 ![Trustpilot Review](/guide/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-3.webp)
 

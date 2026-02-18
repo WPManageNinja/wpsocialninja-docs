@@ -35,9 +35,9 @@ export default defineConfig({
     outline: [2,3],
     
     nav: [
-      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja', target: '_blank', rel: 'noopener noreferrer' },
-      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log', target: '_blank', rel: 'noopener noreferrer' },
-      { text: 'Website', link: 'https://wpsocialninja.com', target: '_blank', rel: 'noopener noreferrer' },
+      { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
+      { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
+      { text: 'Website', link: 'https://wpsocialninja.com' },
     ],
 
     sidebar: [

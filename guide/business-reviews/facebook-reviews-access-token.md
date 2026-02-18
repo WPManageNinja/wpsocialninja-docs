@@ -37,7 +37,7 @@ Your goal is to find these two pieces of information. Keep this browser tab open
 
 ### Step 4: Go to the Access Token Generator
 
-To get these two keys, you will use our free and secure tool. In a new browser tab, open the[**WP Social Ninja Access Token Generator**](https://wpsocialninja.com/access-token-generator/?id=facebook-reviews).
+To get these two keys, you will use our free and secure tool. In a new browser tab, open the [**WP Social Ninja Access Token Generator**](https://wpsocialninja.com/access-token-generator/?id=facebook-reviews).
 
 On this page, find the **Facebook Reviews** section.
 

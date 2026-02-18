@@ -46,13 +46,13 @@ After that, **Save** the form and **Copy** the **Form Shortcode ID** — you’l
 
 ## **Step 2: Connect Fluent Forms with WP Social Ninja**
 
-Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates. Then, go to **Fluent Forms → Forms → Settings & Integrations**.Now, click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
+Next, you’ll link Fluent Forms to WP Social Ninja so that submitted reviews can be displayed in templates. Then, go to **Fluent Forms → Forms → Settings & Integrations**. Now, click on **Configure Integration → Add New Integration** and click to **WP Social Ninja Integration**.
 
 ![Connect Fluent Forms with WP Social Ninja ](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/connect-form-with-wpsocial-ninja.webp)
 
 While setting up the integration, you’ll be asked to choose a **Source**. This is important because it tells WP Social Ninja where the reviews belong.
 
-For a complete guide on Fluent Forms integration with WP Social Ninja, see this [documentation](./fluent-forms-review).
+For a complete guide on Fluent Forms integration with WP Social Ninja, see this [Documentation](./fluent-forms-review).
 
 ![update wp social ninja integration feed fluent forms](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/add-new-integration-feed.webp)
 
@@ -115,7 +115,7 @@ To learn more, follow this documentation.
 
 Now, on that product page, the review section will display your Fluent Form instead of the default WooCommerce form.
 
-Check out the [documentation](./woocommerce-reviews) for a full guide on integrating WooCommerce with Fluent Forms.
+Check out the [Documentation](./woocommerce-reviews) for a full guide on integrating WooCommerce with Fluent Forms.
 
 ![edit product woocommerce](/guide/public/images/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms/Edit-product-woocommerce.webp)
 

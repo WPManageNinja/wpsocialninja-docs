@@ -118,22 +118,22 @@ Copy the code block below and paste it into the "Code" area of your new snippet.
 
 ```php
 add_filter('wpsocialreviews/airbnb_api_key', function(){
-    return 'd3......';
+    return 'paste_the_key_here';
 });
 
 // for rooms 
 add_filter('wpsocialreviews/airbnb_rooms_api_secret_key', function(){
-    return 'cc.....';
+    return 'paste_the_key_here';
 });
 
 // for rooms business info 
 add_filter('wpsocialreviews/airbnb_rooms_business_info_api_secret_key', function(){
-    return '9a....';
+    return 'paste_the_key_here';
 }); 
 
 // for experiences or services 
 add_filter('wpsocialreviews/airbnb_experiences_api_secret_key', function(){
-    return 'bc.....';
+    return 'paste_the_key_here';
 });
 ```
 

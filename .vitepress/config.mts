@@ -324,6 +324,10 @@ export default defineConfig({
                                     "link": "/guide/business-reviews/woocommerce-reviews"
                               },
                               {
+                                    "text": "Native Review Forms",
+                                    "link": "/guide/business-reviews/native-review-forms"
+                              },
+                              {
                                     "text": "Custom WooCommerce with Fluent Forms",
                                     "link": "/guide/business-reviews/collect-woocommerce-custom-reviews-with-fluent-forms"
                               },

@@ -19,25 +19,32 @@ If you don't have any sources yet, you'll see a blank page. Click the "**+ Add S
 
 ![Clicking the Add Source button in Custom Sources](/guide/public/images/custom-source/custom-source-overview/add-source.webp)
 
-## The First Big Choice: Custom or Fluent Forms
+## The First Big Choice: Custom or Fluent Forms or Native Forms
 
-When adding a new source, the first important step is selecting the **Source Type**. This determines how your reviews will be collected or added. WP Social Ninja offers two options: **Custom** and **Fluent Forms**, and each serves a different purpose.
+When adding a new source, the first important step is selecting the **Source Type**. This determines how your reviews will be collected or added. WP Social Ninja offers **Custom**, **Native Review Form**, and **Fluent Forms** options, and each serves a different purpose.
 
 ### 1. Custom
 
   * **What it is:** Use this option to display reviews you already have. These might be reviews collected from another platform or gathered manually in the past.
   * **Use this if:** You want to add reviews manually one by one or import them in bulk from a CSV file.
   * **Next Step:** After selecting this option, you’ll see a dashboard where you can click **+ Add Custom Review** to add reviews manually or **Import** to upload a CSV file.
-  * **Read the full guide:** [How to Manually Add or Import Custom Reviews]
+  * **Read the full guide:** [How to Manually Add or Import Custom Reviews](/guide/custom-source/manually-add-or-import-custom-reviews)
 
-### 2. Fluent Forms
+### 2. Native Review Form
+
+  * **What it is:** This is the built-in way to collect new reviews directly on your website without needing any third-party plugins.
+  * **Use this if:** You want a simple, high-performance "Write a Review" form that allows users to submit ratings, text, and photos directly into your system.
+  * **Next Step:** Select your desired Review Form from the dropdown menu to link it to this source.
+  * **Read the full guide:** [How to Collect Feedback with Native Review Forms](/guide/business-reviews/native-review-forms)
+
+### 3. Fluent Forms
 
   * **What it is:** Choose this option to collect *new* reviews directly from visitors on your website.
   * **Use this if:** You want to create a “Write a Review” form using Fluent Forms. Once a visitor submits their review, it will automatically appear in your review source.
   * **Next Step:** After selecting this option, you’ll be taken to a dashboard where you can connect your Fluent Form.
-  * **Read the full guide:** [How to Collect Reviews with a Fluent Forms Custom Source]
+  * **Read the full guide:** [How to Collect Reviews with a Fluent Forms Custom Source](/guide/custom-source/fluent-forms-custom-source)
 
-![Choosing between Custom and Fluent Forms source types](/guide/public/images/custom-source/custom-source-overview/select-the-source.webp)
+![Choosing between Custom, Native Review Form, and Fluent Forms source types](/guide/public/images/custom-source/custom-source-overview/select-the-source.webp)
 
 ## What Happens Next?
 

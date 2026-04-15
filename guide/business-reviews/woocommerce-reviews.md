@@ -77,7 +77,7 @@ These settings on the WooCommerce product page let you control how reviews are d
  * **Hide reviews total?**: Enable this checkbox to hide the total number of reviews from being displayed.
  * **Hide reviews headline?**: Enable this checkbox to hide the "Reviews" heading above the review section.
  * **Template placement**: Select where the review template will appear. The default is typically within the WooCommerce "Reviews" tab.
- * **Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings, use the default WooCommerce form, or use Native Review Form.
+ * **Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings, use the default WooCommerce form, or use [Native Review Form](/guide/business-reviews/native-review-forms).
 
 ![social ninja review settings in woocommerce products](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-5.webp)
 

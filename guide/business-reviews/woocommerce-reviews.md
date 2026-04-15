@@ -73,15 +73,11 @@ To customize your product reviews in WooCommerce, go to the specific product you
 
 These settings on the WooCommerce product page let you control how reviews are displayed for this specific item.
 
-**Select a Template**: Choose a WP Social Ninja [template](./create-template) to control the visual style and layout of the reviews on this product page.
-
-**Hide reviews total?**: Enable this checkbox to hide the total number of reviews from being displayed.
-
-**Hide reviews headline?**: Enable this checkbox to hide the "Reviews" heading above the review section.
-
-**Template placement**: Select where the review template will appear. The default is typically within the WooCommerce "Reviews" tab.
-
-**Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings or use the default WooCommerce form.
+ * **Select a Template**: Choose a WP Social Ninja [template](./create-template) to control the visual style and layout of the reviews on this product page.
+ * **Hide reviews total?**: Enable this checkbox to hide the total number of reviews from being displayed.
+ * **Hide reviews headline?**: Enable this checkbox to hide the "Reviews" heading above the review section.
+ * **Template placement**: Select where the review template will appear. The default is typically within the WooCommerce "Reviews" tab.
+ * **Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings, use the default WooCommerce form, or use Native Review Form.
 
 ![social ninja review settings in woocommerce products](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-5.webp)
 

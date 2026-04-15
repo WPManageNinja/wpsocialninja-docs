@@ -1,9 +1,9 @@
 ---
-title: How to Collect Feedback with Native Review Forms
+title: Collect Feedback with Native Review Forms
 description: "Learn how to create, customize, and display WP Social Ninja Native Review Forms to collect ratings, text, and photos directly on your WordPress site."
 ---
 
-# How to Collect Feedback with Native Review Forms
+# Collect Feedback with Native Review Forms
 
 The **Native Review Form** is a built-in tool that allows you to collect customer reviews directly on your website without needing third-party form plugins. It provides a streamlined way for customers to submit ratings, text, and even photos, which then feed directly into your moderation dashboard.
 

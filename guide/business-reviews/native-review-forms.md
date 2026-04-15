@@ -68,8 +68,8 @@ In the **General Settings** tab, you manage the form's behavior and determine wh
 **Review Target:** This is a crucial setting. It tells WP Social Ninja which category or product these reviews belong to. You can select:
 
  * **Native Form (Generic):** For general site testimonials.
- * **Fluent Cart Product:** To link reviews directly to items in your Fluent Cart store.
- * **WooCommerce Product:** To link reviews to specific WooCommerce products.
+ * **FluentCart Product:** To link reviews directly to items in your [FluentCart](/guide/business-reviews/fluentcart-product-review) store.
+ * **WooCommerce Product:** To link reviews to specific [WooCommerce](/guide/business-reviews/woocommerce-reviews) products.
 
 ![Create a REview Form](/guide/public/images/business-reviews/native-review/general-settings-4.webp)
 

@@ -320,6 +320,10 @@ export default defineConfig({
                         "collapsed": true,
                         "items": [
                               {
+                                    "text": "FluentCart Product Review",
+                                    "link": "/guide/business-reviews/fluentcart-product-review"
+                              },
+                              {
                                     "text": "WooCommerce Reviews",
                                     "link": "/guide/business-reviews/woocommerce-reviews"
                               },

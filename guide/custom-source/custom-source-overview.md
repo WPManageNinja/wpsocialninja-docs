@@ -7,7 +7,7 @@ With Custom Sources, you can:
  * Manually add reviews one by one, including the reviewer's name, photo, and a source URL.
  * Bulk-import hundreds of reviews from a CSV file.
  * Export your custom reviews for backup.
- * Collect new reviews by connecting a Fluent Form.
+ * Collect new reviews with a **Native Review Form** or by connecting a **Fluent Form**.
  * Brand your source with a custom logo and name (e.g., "Website Testimonials") to represent your own company or an external source.
 
 

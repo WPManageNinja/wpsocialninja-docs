@@ -33,36 +33,37 @@ Once you have saved your product selection, click the **Add New Template** butto
 
 ## **Global WooCommerce Review Settings**
 
-These settings allow you to control how reviews are collected and displayed across all your WooCommerce products. They apply to every product by default, but you can override them on individual product pages.
+Manage performance and layout rules across your entire store from **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings**. These apply to all products connected to a WooCommerce Review Template.
 
 ::: tip **Note**: These review settings will only apply to products that are connected with a WooCommerce Review Template in WP Social Ninja. If a product is not included in a template, these settings won’t take effect.
 
 :::
 
-**Auto Syncing**: Enable this to automatically fetch new reviews submitted through WooCommerce. Use the dropdown menu to set how often the plugin should check for new reviews (e.g., every day).
+### Synchronization
 
-**Sync Product Reviews**: This button allows you to manually sync all your WooCommerce product reviews at any time. Clicking it will immediately fetch any new reviews from your products and add them to WP Social Ninja. This is useful if you have just received new reviews and don't want to wait for the next scheduled auto-sync.
+ * **Auto Syncing**: Enable this to automatically fetch new reviews submitted through WooCommerce. Use the dropdown menu to set how often the plugin should check for new reviews (e.g., 1 day).
+ * **Sync Product Reviews**: This button allows you to manually sync all your WooCommerce product reviews at any time. Clicking it will immediately fetch any new reviews from your products and add them to WP Social Ninja. This is useful if you have just received new reviews and don't want to wait for the next scheduled auto-sync.
 
-**Make WP Social Ninja Your Main Review Hub**: When enabled, WP Social Ninja takes control of your review display, replacing the standard WooCommerce review style with your selected WP Social Ninja template.
+### Customize WooCommerce Reviews Layout
 
-**Hide the Review Total**: Enable this option to hide the summary text that shows the total number of reviews (e.g., "Based on 15 Reviews").
+ * **Make WP Social Ninja Your Main Review Hub**: When enabled, WP Social Ninja takes control of your review display, replacing the standard WooCommerce review style with your selected WP Social Ninja template.
+ * **Hide the Review Total**: Enable this option to hide the summary text that shows the total number of reviews (e.g., "Based on 15 Reviews").
+ * **Hide Review Headline**: Enable this to hide the main heading (e.g., "Reviews") from the top of the reviews section on your product pages.
+ * **Display Location**: This dropdown lets you choose where the review template will appear.
+    - **Display Inside Reviews Tab**: Places reviews inside the default WooCommerce "Reviews" tab.
+    - **Display Outside Tabs**: Places reviews outside of the tabbed content area.
+ * **Reviews Form Style**: Select which form visitors will use to submit reviews.
+    - **Inherit from WP Social Ninja**: Uses the custom form you have styled globally.
+    - **Default Woocommerce Form**: Uses the standard, unstyled WooCommerce form.
+ * **Review Template**: Choose the default [review template](./create-template) that will be applied to all WooCommerce products across your site. This serves as the primary template for your entire store.
 
-**Hide ReviewHeadline**: Enable this to hide the main heading (e.g., "Reviews") from the top of the reviews section on your product pages.
+### Interactive Click Behavior & Drawer Styling
 
-**Display Location**: This dropdown lets you choose where the review template will appear.
-
-- **Display Inside Reviews Tab**: Places reviews inside the default WooCommerce "Reviews" tab.
-
-- **Display Outside Tabs**: Places reviews outside of the tabbed content area.
-
-**Reviews FormStyle**: Select which form visitors will use to submit reviews.
-
-- **Inherit from WP Social Ninja**: Uses the custom form you have styled globally.
-
-- **Default Woocommerce Form**: Uses the standard, unstyled WooCommerce form.
-
-**Review Template**: Choose the default [review template](./create-template) that will be applied to all WooCommerce products across your site. This serves as the primary template for your entire store.
-
+ * **Star Rating Click Behavior:** Define what happens when a user clicks the star rating on a single product page:
+   - **Scroll to review widget:** Smoothly scrolls the user down to the reviews section.
+   - **Open review drawer:** Launches an interactive slide-in panel displaying the reviews.
+ * **Drawer Style:** If you use the drawer behavior, select between a **Modern** wide-panel layout or the **Default** slide-in style.
+ 
 After configuring these options, always click the **Save Settings** button to apply your changes.
 
 ![wp social ninja woocommerce settings](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-4.webp)

@@ -502,6 +502,10 @@ export default defineConfig({
                   {
                         "text": "Translation Options",
                         "link": "/guide/management-settings/translation"
+                  },
+                  {
+                        "text": "Configure Cloudflare Turnstile",
+                        "link": "/guide/management-settings/configure-cloudflare-turnstile"
                   }
             ]
       },

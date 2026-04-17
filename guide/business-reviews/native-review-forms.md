@@ -75,12 +75,9 @@ In the **General Settings** tab, you manage the form's behavior and determine wh
 
 ## Step 5: Enable Spam Protection
 
-To keep your reviews clean, use the **Spam Protection** tab.
+To keep your reviews clean, use the **Spam Protection** tab. For stronger protection, select **Turnstile**. You will need to provide your **Site Key** and **Secret Key** from the respective provider. If you want to know more about cloudflare turnstile, read this [Documentation](/guide/management-settings/configure-cloudflare-turnstile)
 
- * **Honeypot:** Enable this invisible security layer to catch simple bots.
- * **CAPTCHA:** For stronger protection, select a CAPTCHA type such as **reCAPTCHA v2**, **reCAPTCHA v3**, or **Turnstile**. You will need to provide your **Site Key** and **Secret Key** from the respective provider. 
-
-![Create a REview Form](/guide/public/images/business-reviews/native-review/spam-protection-5.webp)
+![Create a Review Form](/guide/public/images/business-reviews/native-review/spam-protection-5.webp)
 
 ## Step 6: Display the Form on Your Site
 

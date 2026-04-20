@@ -8,6 +8,37 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.2.0
+*Released on April 17, 2026*
+
+::: code-group
+
+```md [✨ Newly Added]
+• Native review form builder for FluentCart, WooCommerce, and Custom Sources, removing the need for additional plugins for basic review collection (Pro)
+• FluentCart integration to collect and display product reviews with product sync, primary review hub support, and customizable “Write a Review” button via templates (Pro)
+• Replaced default WooCommerce review fields with WP Social Ninja review forms, providing full control over form design and review display (Pro)
+• Custom Source review forms via shortcode for easy embedding anywhere on the site (Pro)
+```
+
+```md [🔧 Improvements]
+• Improved FluentCart review drawer (slide-in) experience (Pro)
+• Flexible rating click actions for WooCommerce (drawer/scroll) (Pro)
+• Show review images toggle in the review template editor settings
+• Enhanced performance with server-side search and async multi-select
+• Optimized database queries and improved security
+```
+
+```md [🐛 Bug fixes]
+• Fixed YouTube channel “No videos found” issue
+• Fixed YouTube header banner display issue
+• Fixed Google Business Profile location name issue
+• Fixed formatting issues in reviews and testimonials
+• Fixed review auto-sync input update issue
+```
+
+:::
+
+
 ## WP Social Ninja v4.1.0
 *Released on January 29, 2026*
 

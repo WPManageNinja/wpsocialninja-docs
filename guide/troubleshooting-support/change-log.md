@@ -8,6 +8,30 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.2.1
+*Released on April 24, 2026*
+
+::: code-group
+
+```md [✨ Newly Added]
+• Added WP Social Ninja WP-CLI commands
+```
+
+```md [🔧 Improvements]
+• Unified Airbnb review ID deduplication
+• Optimized database queries and improved security
+```
+
+```md [🐛 Bug fixes]
+• Fixed custom review images when optimization is enabled
+• Fixed optimized image localization fallback
+• Fixed review keyword filter matching
+• Fixed YouTube GDPR error message shape
+```
+
+:::
+
+
 ## WP Social Ninja v4.2.0
 *Released on April 17, 2026*
 

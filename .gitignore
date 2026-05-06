@@ -3,6 +3,7 @@
 *.pyc
 *.py
 *.txt
+!public/robots.txt
 *.log
 /node_modules
 /.vitepress/dist

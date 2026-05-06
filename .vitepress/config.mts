@@ -5,7 +5,11 @@ export default defineConfig({
   title: "WP Social Ninja",
   description: "Complete documentation for WP Social Ninja - Social Feeds, Reviews & Chat Widget",
   base: '/',
-  
+
+  sitemap: {
+    hostname: 'https://docs.wpsocialninja.com'
+  },
+
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'alternate icon', href: '/favicon.svg' }],

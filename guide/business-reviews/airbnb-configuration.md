@@ -38,6 +38,11 @@ In this step, we will use your browser's developer tools to find the required ke
 
 - **For Experience/Service Reviews**: Search for **ReviewsModalContentQuery**.
 
+>[!Note]
+>To find `ReviewsModalContentQuery`, you must click on the **Show all reviews** button on the Airbnb page; only then will this request appear in the list.
+
+![airbnb review](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/show-all-review.webp)
+
 After typing the correct term, refresh the page and click on the request that appears in the list to open its details.
 
 ::: tip

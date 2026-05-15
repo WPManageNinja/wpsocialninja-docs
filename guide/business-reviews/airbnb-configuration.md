@@ -70,7 +70,7 @@ You will need to find and copy three pieces of information from this file:
 
 ![airbnb api 1](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/reviewsquery-1.webp)
 
-- **The Secret Key:**
+**The Secret Key:**
   - Now, click on the **Payload** tab (it might also be called "Request").
   - Navigate through extensions → persistedQuery.
   - You will see a **sha256Hash**. Copy the long string of characters next to it. This is your Secret Key.
@@ -113,7 +113,7 @@ Go to **FleuntSnippets → Add NewSnippet**.
 
 Copy the code block below and paste it into the "Code" area of your new snippet.
 
-- **Add Your Keys**
+**Add Your Keys**
 
 <li>Replace API Key you copied in Step 1.
 

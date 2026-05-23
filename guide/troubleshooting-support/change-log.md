@@ -8,6 +8,31 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.2.2
+*Released on May 22, 2026*
+
+::: code-group
+
+```md [🔧 Improvements]
+• Improved translation coverage for admin UI strings
+• Improved validation to prevent editing the wrong templates, widgets, or notifications
+```
+
+```md [🔒 Security]
+• Added extra security checks for YouTube video popup and Facebook album requests (Pro)
+```
+
+```md [🐛 Bug fixes]
+• Fixed reviewer avatar and notification popup platform icon images to include explicit dimensions, reducing layout shift on review template pages
+• Fixed “Write a Review” button allowing save with a blank custom URL — the editor now validates and blocks save when the custom URL is empty
+• Fixed “Write a Review” button not rendering on the frontend when a custom URL source was configured (Pro)
+• Fixed FluentCart reviews not showing the Edit action in the admin review list (Pro)
+• Removed incomplete “View Submissions” action from the native review form actions menu (Pro)
+```
+
+:::
+
+
 ## WP Social Ninja v4.2.1
 *Released on April 24, 2026*
 

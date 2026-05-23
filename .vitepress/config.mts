@@ -34,7 +34,8 @@ export default defineConfig({
   themeConfig: {
     logo: {
       light: '/logo.svg',
-      dark: '/logo-dark.png'
+      dark: '/logo-dark.png',
+      alt: 'WP Social Ninja logo with a pink speech bubble and star icon beside the WPSocialNinja wordmark'
     },
     outline: [2,3],
     

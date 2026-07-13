@@ -59,3 +59,18 @@ WP Social Ninja integrates with AI platforms to provide summarized versions of y
 After setting up all the configurations to your preference, click on the **"Save Settings"** button located at the top right corner to apply the changes.
 
 ![AI Review Settings](/guide/public/images/social-reviews/global-review-settings/ai-review-settings-3.webp)
+
+## FluentCRM Review Tagging
+
+If you use FluentCRM, WP Social Ninja can automatically tag a customer's contact the moment their WooCommerce or FluentCart product review is approved. This makes it easy to branch a FluentCRM automation on that tag — for example, sending a thank-you coupon to reviewers or a follow-up reminder to everyone else.
+
+>[!Note]
+>This section only appears when the FluentCRM plugin is installed and active on your site, and it's available on the Pro version of WP Social Ninja.
+
+- **Enable Review Tagging**: Turn this on to have approved reviews automatically tag the matching FluentCRM contact.
+- **Tag Name**: Choose the FluentCRM tag to apply. Reference this exact tag name in your FluentCRM automation's condition to trigger your workflow.
+
+Once you've made your changes, click **Save Settings** to apply them.
+
+![FluentCRM Review Tagging Settings](/guide/public/images/social-reviews/global-review-settings/fluentcrm-review-tagging.webp)
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/social-reviews/global-review-settings/fluentcrm-review-tagging.webp -->

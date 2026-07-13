@@ -27,6 +27,17 @@ Once products are added, you can click **Add New Template** directly from the co
 
 ![Add New Template](/guide/public/images/business-reviews/fluentcart/add-new-template-4.webp)
 
+::: tip Set Up Review Hub in one click (Pro)
+Instead of connecting products and building a template separately, click **Set Up Review Hub** to have WP Social Ninja create a review form, build a display template, and turn on **Main Review Hub** for you automatically.
+:::
+
+![Set Up Review Hub quick setup button](/guide/public/images/business-reviews/fluentcart/fluentcart-quick-setup.webp)
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/business-reviews/fluentcart/fluentcart-quick-setup.webp -->
+
+::: info Overridden in FluentCart notice
+If a connected product also has its own WP Social Ninja integration configured directly from the FluentCart product editor (see [Product-Level Integration Settings](#product-level-integration-settings) below), you'll see an **Overridden in FluentCart** notice next to it in the products list — that product-side integration takes priority. Click **Review** on the notice to open it.
+:::
+
 ## Customizing the FluentCart Reviews Layout
 
 After establishing the connection, you can fine-tune how reviews appear on your storefront to match your site's branding and user experience.

@@ -31,6 +31,22 @@ Once you have saved your product selection, click the **Add New Template** butto
 
 ![select a product](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-3.webp)
 
+::: tip Set Up Review Hub in one click (Pro)
+Instead of connecting products and building a template separately, click **Set Up Review Hub** to have WP Social Ninja create a review form, build a display template, and turn on **Main Review Hub** for you automatically.
+:::
+
+![Set Up Review Hub quick setup button](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-quick-setup.webp)
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-quick-setup.webp -->
+
+Once you have connected products, click **Sync All Reviews** above the products list at any time to manually fetch new reviews for every connected product in one go, instead of syncing them one by one.
+
+![Sync All Reviews button](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-sync-all-reviews.webp)
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-sync-all-reviews.webp -->
+
+::: info Product-Level Override Notice
+If a connected product also has its own template selected directly under **Product Data → WP Social Ninja** on that product's edit page, you'll see a **Has Product-Level Override** notice next to it in the products list. That per-product setting takes priority over your global **Main Review Hub** setting — click **Review** on the notice to open the product and resolve it.
+:::
+
 ## **Global WooCommerce Review Settings**
 
 Manage performance and layout rules across your entire store from **WP Social Ninja → Settings → Reviews Platform → WooCommerce Settings**. These apply to all products connected to a WooCommerce Review Template.

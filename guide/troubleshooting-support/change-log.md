@@ -8,6 +8,46 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.3.0
+*Released on July 13, 2026*
+
+::: code-group
+
+```md [✨ Newly Added]
+• Added WhatsApp Message Context so prefilled WhatsApp messages can automatically include page, WooCommerce, or FluentCart product details (Pro)
+• Added FluentCRM Review Tagging, so approved WooCommerce or FluentCart reviews can automatically tag the customer's FluentCRM contact (Pro)
+• Added one-click Quick Setup for WooCommerce and FluentCart that creates a review form, display template, and turns on Main Review Hub in a single step (Pro)
+• Added a resizable, keyboard-accessible sidebar to the Reviews, Chats, and Feed template editors
+• Added a "Sync All Reviews" button to the WooCommerce connected products list, matching FluentCart's existing bulk sync action
+• Added a product-level override indicator for FluentCart and WooCommerce, flagging when another integration or setting overrides your WP Social Ninja display configuration (Pro)
+```
+
+```md [🔧 Improvements]
+• Added PHP 8.4 compatibility
+• Added scroll-based pagination to the WooCommerce/FluentCart connected-products list so large catalogs load incrementally
+• Improved the FluentCart/WooCommerce "not connected" alert to distinguish between the plugin being inactive and the store having no products yet
+• Improved WooCommerce review sync to report accurate cumulative success/skip totals across multi-batch imports (Pro)
+```
+
+```md [🔒 Security]
+• Added encryption at rest for stored YouTube API keys
+```
+
+```md [🐛 Bug fixes]
+• Fixed the reviews connection modal reopening unexpectedly when switching admin tabs after connecting a platform
+• Fixed relative date-range Facebook feeds (e.g. Event feeds) freezing instead of continuously tracking the current time
+• Fixed future events appearing in "past" date-range Facebook event feeds
+• Fixed the frontend review script failing to load on page builders with late script loading, such as Elementor and Oxygen
+• Fixed the WooCommerce bulk-sync completion message showing the total review count instead of the number of newly imported reviews
+• Fixed YouTube video duration display showing a missing leading zero
+• Fixed connected-product ordering issues in the WooCommerce/FluentCart products list when paginating (Pro)
+• Fixed a fatal error on hosting environments without the mbstring PHP extension enabled
+• Fixed Facebook feed connections potentially failing for accounts that manage a very large number of Pages
+```
+
+:::
+
+
 ## WP Social Ninja v4.2.2
 *Released on May 22, 2026*
 

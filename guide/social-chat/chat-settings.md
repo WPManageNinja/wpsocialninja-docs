@@ -52,6 +52,16 @@ These are the settings for the buttons and text box inside the chat window, whic
 * **Chat Button Text:** Customize the text that appears on the main action button (e.g., "Start Chat with").
 * **Prefilled Message:** Toggle this on to automatically populate the text area with a message, which the user can send immediately or edit.
 * **Prefilled Input Placeholder Text:** Set the placeholder text that appears in the message input field before the user starts typing (e.g., "Type a message...").
+* **WhatsApp Message Context** (Pro): For WhatsApp channels, choose what gets added to the prefilled message automatically:
+    * **None:** No extra context is added.
+    * **Page title and link:** Includes the title and URL of the page the visitor is chatting from.
+    * **WooCommerce product details:** Includes the product's title, price, SKU, stock status, and URL when the visitor is on a WooCommerce product page.
+    * **FluentCart product details:** Includes the same product details when the visitor is on a FluentCart product page.
+    * **Custom format:** Write your own message using placeholders like `{page_title}`, `{page_url}`, `{product_title}`, `{product_price}`, `{product_sku}`, `{product_stock}`, and `{product_url}`.
+
+::: tip
+Selecting **Custom format** reveals a **Custom Format** text area where you can combine placeholders with your own text.
+:::
 
 ![Configuring the Channel Button](/guide/public/images/social-chat/chat-widget-settings/channel-buttons.webp)
 

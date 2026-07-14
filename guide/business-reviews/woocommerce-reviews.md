@@ -7,29 +7,54 @@ description: ""
 
 WP Social Ninja simplifies the process of displaying WooCommerce product reviews on your website. You have to follow some easy steps to do this.
 
-## WooCommerce Reviews Settings
 
-Go to your WP Social Ninja plugins [Platforms](../getting-started/all-platforms-of-wp-social-ninja) section and enable the **WooCommerce** module. Then click on the **Settings** icon in the right corner.
+## Connecting WooCommerce Reviews
 
-![enable woocommerce review 1](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-1.webp)
+Go to your WP Social Ninja plugin's [Platforms](../getting-started/all-platforms-of-wp-social-ninja) section, enable the **WooCommerce** module, and click the **Settings** icon in the right corner.
 
-
-
-After clicking on the settings icon, a pop-up will appear. Now select your **WooCommerce products** from here to show their reviews on your site.
+![Enabling the WooCommerce module and opening its settings](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-1.webp)
 
 ::: info
-Make sure that you have installed the WooCommerce plugin on your site and that you have at least one product with a review.
+Make sure the WooCommerce plugin is installed on your site and that you have at least one product with a review.
 :::
 
-![woocommerce configuration](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-2.webp)
+The **WooCommerce Configuration** pop-up opens. This is your one screen for connecting products and choosing how their reviews are displayed.
 
-Click the **Add More Product** button to include multiple product reviews. From the **Select a product to fetch reviews** dropdown menu, choose the specific product whose reviews you want to display in a template.
+### Connect Your Products
 
-After selecting a product, click the **Save** button to confirm your choice.
+Click the **Add More Product** button and choose the product (or products) whose reviews you want to display. Then click **Save** to confirm your selection.
 
-Once you have saved your product selection, click the **Add New Template** button. This will take you to the [template editor](./create-template), where you can design the layout and style for displaying the fetched reviews on your website.
+> [!TIP]
+> Already have plenty of reviews in WooCommerce? Click **Sync All Reviews** at the top of the pop-up to bulk-import every existing product review at once. When it finishes, the confirmation tells you exactly how many *new* reviews were imported.
 
-![select a product](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-3.webp)
+### Choose How Reviews Are Displayed
+
+Once your products are connected, decide how WP Social Ninja should display their reviews. You have two options.
+
+#### Option A: Quick Setup — One-Click Review Hub (Pro)
+
+Setting up a review hub used to take four separate steps — and it was easy to miss one. Now, a single click does it all.
+
+**Previously**, to make WP Social Ninja your WooCommerce review hub, you had to:
+
+1. Create a review form
+2. Build a display template
+3. Connect the template's **Write a Review** button to that form
+4. Turn on **Main Review Hub**
+
+**Now**, in the **Make WP Social Ninja your WooCommerce review hub** card, just click the **Set Up Review Hub** button. In one click, WP Social Ninja will:
+
+- Create a [Native Review Form](./native-review-forms) automatically
+- Build a matching display [template](./create-template) with the **Write a Review** button already connected to that form
+- Turn on **Make WP Social Ninja Your Main Review Hub**
+
+There's nothing else to configure — your store is ready to collect and display reviews right away.
+
+#### Option B: Start from a Blank Template
+
+Prefer full control over each step? Under **Start from a blank template**, click **Add New Template**. This creates an empty template only, so you'll manually create the review form, connect the **Write a Review** button, and turn on **Main Review Hub** yourself. It takes you to the [template editor](./create-template), where you can design the layout and style for your reviews.
+
+![Selecting a WooCommerce product to fetch reviews for](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-3.webp)
 
 ## **Global WooCommerce Review Settings**
 
@@ -81,6 +106,10 @@ These settings on the WooCommerce product page let you control how reviews are d
  * **Reviews Form**: Choose which review submission form to use. You can select the form from your global WP Social Ninja settings, use the default WooCommerce form, or use [Native Review Form](/guide/business-reviews/native-review-forms).
 
 ![social ninja review settings in woocommerce products](/guide/public/images/business-reviews/woocommerce-reviews-social-reviews-wp-social-ninja/woocommerce-review-5.webp)
+
+::: tip Per-Product Override Indicator (Pro)
+When a product has its **own** template selected here, that choice takes precedence over your global **Main Review Hub** template. To help you spot this, WP Social Ninja shows a **"Has Product-Level Override"** badge next to that product in the connected-products list. The badge includes a direct link to the product's **Product Data → WP Social Ninja** tab, so you can review or resolve the conflicting setting in one click.
+:::
 
 ## Reviews Notification Popup
 

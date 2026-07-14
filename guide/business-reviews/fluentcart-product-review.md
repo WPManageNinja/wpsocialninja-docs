@@ -7,6 +7,19 @@ description: "Connect FluentCart with WP Social Ninja to collect, moderate, and 
 
 WP Social Ninja serves as the primary review hub for FluentCart, providing a seamless way to collect, manage, and display professional product reviews. This integration replaces the standard review system with a feature-rich experience that includes detailed moderation, custom styling, and an interactive review drawer.
 
+## Quick Setup: One-Click Review Hub (Pro)
+
+Setting up FluentCart reviews used to take four separate steps — and it was easy to miss one. Now, a single click does it all.
+
+**Previously**, to make WP Social Ninja your FluentCart review hub, you had to:
+
+1. Create a review form
+2. Build a display template
+3. Connect the template's **Write a Review** button to that form
+4. Turn on **Main Review Hub**
+
+**Now**, the **Set Up Review Hub** button handles every one of those steps for you.
+
 ## Connecting FluentCart to WP Social Ninja
 
 To use WP Social Ninja as the main review source for FluentCart, you first need to connect the two platforms.
@@ -19,13 +32,24 @@ Alternatively, go to **WP Social Ninja → Settings → Reviews Platforms → Fl
 
 ![Configure Connection](/guide/public/images/business-reviews/fluentcart/configure-connection-2.webp)
 
-In the **Fluent Cart Configuration** pop-up, use the search bar to find and select the specific products you want to fetch reviews for. Click **Save** to confirm your selection.
+In the **Fluent Cart Configuration** pop-up, use the search bar to find and select the specific products you want to fetch reviews for, also if you want to connect all of your FluentCart product simply click on the **Connect all Product** here. Click **Save** to confirm your selection.
 
 ![Select Product](/guide/public/images/business-reviews/fluentcart/select-product-3.webp)
 
-Once products are added, you can click **Add New Template** directly from the configuration pop-up to start designing your review layout.
+**Then,** in the **Make WP Social Ninja your FluentCart review hub** card, click the **Set Up Review Hub** button.
 
-![Add New Template](/guide/public/images/business-reviews/fluentcart/add-new-template-4.webp)
+That's it. In one click, WP Social Ninja will:
+
+- Create a [Native Review Form](./native-review-forms) automatically
+- Build a matching display [template](./create-template) with the **Write a Review** button already connected to that form
+- Turn on **Make WP Social Ninja Your Main Review Hub**
+
+There's nothing else to configure — your store is ready to collect and display reviews right away.
+
+> [!NOTE]
+> **Prefer full control?** Choose **Start from a blank template → Add New Template** instead. This creates an empty template only, leaving you to create the review form, connect the **Write a Review** button, and turn on **Main Review Hub** yourself (the manual steps are covered below). Quick Setup is a **Pro** feature.
+
+![The FluentCart Configuration pop-up showing the Set Up Review Hub button](/guide/public/images/business-reviews/fluentcart/fluentcart-quick-setup.webp)
 
 ## Customizing the FluentCart Reviews Layout
 
@@ -69,6 +93,10 @@ Configure the integration by providing a **Title**, selecting your desired WP So
 >When selecting a **Native Template** for your review collection, ensure that the **Review Target** is specifically set to FluentCart. For a deeper understanding of custom source templates, please refer to the detailed [documentation](/guide/custom-source/custom-source-overview). 
 
 ![Create WP Social Ninja Feed](/guide/public/images/business-reviews/fluentcart/create-wpsocialninja-feed-7.webp)
+
+::: tip Per-Product Override Indicator (Pro)
+A product-level integration configured here in FluentCart takes precedence over your global review settings for that product. So you always know when this is happening, WP Social Ninja shows an **override badge** next to that product in the connected-products list, along with a direct link to the product's FluentCart **Integrations** screen — making it easy to review or resolve the conflicting setting.
+:::
 
 ## Managing FluentCart Integrations
 

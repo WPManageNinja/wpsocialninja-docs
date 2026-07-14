@@ -85,6 +85,10 @@ export default defineConfig({
                                     "link": "/guide/getting-started/all-platforms-of-wp-social-ninja"
                               },
                               {
+                                    "text": "Connecting Your Accounts",
+                                    "link": "/guide/getting-started/connecting-your-accounts"
+                              },
+                              {
                                     "text": "Templates Overview",
                                     "link": "/guide/getting-started/templates-overview"
                               },
@@ -455,6 +459,16 @@ export default defineConfig({
                               {
                                     "text": "OpenRouter Integration",
                                     "link": "/guide/ai-integration/openrouter-integration-for-review"
+                              }
+                        ]
+                  },
+                  {
+                        "text": "🔗 CRM Integration",
+                        "collapsed": true,
+                        "items": [
+                              {
+                                    "text": "FluentCRM Review Tagging",
+                                    "link": "/guide/integrations/fluentcrm-review-tagging"
                               }
                         ]
                   }

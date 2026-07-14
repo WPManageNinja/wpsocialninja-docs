@@ -33,7 +33,7 @@ Most platforms connect with a **single click**. Sign in on the platform's screen
 - [YouTube](../social-feeds/youtube-configuration)
 
 > [!TIP]
-> Prefer a more hands-on setup? Several platforms also keep a **manual** connection method for advanced users — a pasted access code or a token: Google Reviews (access code), Instagram (access token), and Facebook (page token). You'll find these documented in each platform's guide.
+> Prefer a more hands-on setup? Some platforms also keep a **manual** connection method for advanced users — a token you generate yourself: Instagram (access token) and Facebook (page token). You'll find these documented in each platform's guide.
 
 ## Staying Connected
 

@@ -1,62 +1,33 @@
 ---
 title: "Google Business Profile Reviews"
-description: ""
+description: "Connect your Google Business Profile to WP Social Ninja in one click and display all your Google Reviews on your WordPress website."
 ---
 
 # Google Business Profile Reviews
 
-Do you wish to display all your scattered reviews in one place on your website? **WP Social Ninja** will exactly do that, all you need is to grab the plugin.
+Do you wish to display all your scattered reviews in one place on your website? **WP Social Ninja** does exactly that — and connecting your Google Business Profile takes just one click.
 
-## Google Business Profile Configuration
+Google Reviews connect through WP Social Ninja's [secure connection bridge](../getting-started/connecting-your-accounts), which keeps your connection reliable and refreshes it in the background. Let's walk through it.
 
-To add Google Reviews to your site, you need to connect with the Google server to collect the reviews from their server; and WP Social Ninja has made it easy for you.
+## Connect Your Google Business Profile
 
-## Google reviews
+**First,** from your WordPress dashboard, go to **WP Social Ninja → Platforms** and select **Google** from the list of platforms.
 
-We have created the simplest way to get the reviews just with a few clicks.
+![Selecting Google from the Platforms list in WP Social Ninja](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
 
-In order to obtain Google Reviews successfully, select **Google** from All Platforms.
+**Then,** in the **Google Business Profile Configuration** pop-up, click the **Sign in And Get Google Access Code** button. As the pop-up says, it only takes one click.
 
-![Business Reviews | Google](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-1.webp)
+![The Google Business Profile Configuration pop-up with the Sign in And Get Google Access Code button](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-connect.webp)
 
-Now, let’s see how you can add reviews to your website. Firstly, you need to obtain **Google Access Code**.
+**Next,** choose the email account associated with your Google Business Profile.
 
-![Google Configuration](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-2.webp)
+![Choosing your Google account](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-3.webp)
 
-### Google Configuration
+**Finally,** click **Continue** to grant permission. WP Social Ninja takes care of the rest and brings you right back, with your Google Business Profile connected — no code to copy or paste.
 
-Click on the **Sign In And Get Google Access Code** to get the Access Code. Clicking this button will open a new window. Here, you must select the Email associated with your Google Business Profile account.
+![Granting permission to WP Social Ninja](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-4.webp)
 
-#### Step 1
+> [!TIP]
+> Manage reviews for more than one location? Click **+ Add Business** to bring in reviews from multiple Business Profiles. And because Google Reviews connect through the secure bridge, WP Social Ninja refreshes the connection automatically in the background — so your reviews keep syncing without you having to reconnect.
 
-Continue with your business account. Choose your e-mail account to continue with WP Social Ninja.
-
-![Choose an account](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-3.webp)
-
-#### Step 2
-
-Click on the **Continue** to grant access permission.
-
-![Allow to Continue](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-4.webp)
-
-
-#### Step 3
-
-Now copy the Access Code from here.
-
-![Copy Access Code](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-5.webp)
-
-
-
-### **Step 4**
-
-Then paste the copied **Access Code** into the Google Configuration page to Configure Google Business Profile. Click on the **Verify Code** button to get the Google Reviews.
-
-![Verify Code ](/guide/public/images/business-reviews/google-configuration-social-reviews-wp-social-ninja/google-business-review-6.webp)
-
-### **Step 5**
-
-You can also click on **Connect New Account** to get your reviews from multiple Business Accounts.
-
-You have successfully managed to get your **Google Business Profile Reviews**. Now click to [Create a Template](./create-template) to display reviews on your website.
-
+You've successfully connected your **Google Business Profile Reviews**! Now head over to [Create a Template](./create-template) to display these reviews on your website.

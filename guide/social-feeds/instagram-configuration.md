@@ -7,7 +7,7 @@ description: ""
 
 Show your Instagram Business Account feeds on your website with WP Social Ninja. Keep your audience engaged and grow your business by showcasing social media updates. Connecting your Instagram Business Account is quick and easy, requiring just a few clicks.
 
-In this guide, we'll walk you through the steps to connect both your Instagram Business Basic and Advanced accounts with WP Social Ninja.
+Instagram connects through WP Social Ninja's [secure connection bridge](../getting-started/connecting-your-accounts), so you can link your account in just a few clicks — no developer app to create. In this guide, we'll walk you through connecting both your Instagram Business Basic and Advanced accounts, plus a manual option for advanced users.
 
 ## **Instagram Configuration**
 
@@ -67,7 +67,9 @@ After that, your Business Advanced Account will be added.
 
 ![configure instagram 6](/guide/public/images/social-feeds/instagram-configuration-social-feeds-wp-social-ninja/instagram-configuration-7.webp)
 
-## **Connect Your Account Manually**
+## Connect Your Account Manually (Advanced)
+
+Prefer to manage your own credentials? You can still connect Instagram with a manually generated access token. Most users won't need this — the one-click **Business Basic** or **Business Advanced** methods above are simpler — but it remains available for advanced setups.
 
 To manually connect your **Business Account**, select the **Account Manually** option from the dropdown menu. You'll then need to enter your **Access Token** and **Instagram User ID**.
 

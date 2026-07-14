@@ -86,6 +86,38 @@ When visitors click the icon, they will be redirected straight to a WhatsApp cha
 
 ![WhatsApp channel successfully added](/guide/public/images/social-chat/social-chat-configuration/whatsapp-message%20preview%2010.webp)
 
+#### Prefilled Message & Context (Pro)
+
+Picture this: a visitor messages you on WhatsApp from a product page, and all you see is a blank chat. You don't know which product they're looking at or what they need. The **Prefilled Message** feature fixes that by automatically starting the conversation with the right context.
+
+In your WhatsApp channel settings, turn on the **Prefilled Message** toggle. This adds a small "type a message" input to the button and lets you choose what context is added automatically.
+
+Next, choose a **Message context** format from the dropdown:
+
+- **None** – A plain message with no extra context.
+- **Page title and link** – Adds the title and URL of the page the visitor is on.
+- **WooCommerce product details** – Adds the current WooCommerce product's details (title, price, SKU, stock, and link).
+- **FluentCart product details** – Adds the current FluentCart product's details.
+
+So a shopper browsing a $49 hoodie opens WhatsApp with a message that already says exactly that — instead of a blank box.
+
+Want to write your own template? Choose the **Custom format** option and build the message yourself using these placeholders:
+
+| Placeholder | What it inserts |
+| --- | --- |
+| `{page_title}` | The current page's title |
+| `{page_url}` | The current page's URL |
+| `{product_title}` | The product name |
+| `{product_price}` | The product price |
+| `{product_sku}` | The product SKU |
+| `{product_stock}` | The product's stock status |
+| `{product_url}` | The product's URL |
+
+You can also customize the **placeholder text** shown inside the message input (for example, "Type a message"). When you're happy with your settings, click **Save**.
+
+> [!NOTE]
+> Prefilled message context is a **Pro** feature — on the free version, the context stays set to **None**. The **WooCommerce** and **FluentCart** product options require the matching plugin to be active. This same feature is also available on the [SMS](#sms-pro-configuration) channel.
+
 ### Telegram Configuration
 
 If you want to communicate through Telegram, you can easily add it to your chat widget.
@@ -196,6 +228,9 @@ In the pop-up, enter the phone number where you want to receive messages, includ
 ![Configuring the SMS (Pro) ](/guide/public/images/social-chat/social-chat-configuration/sms-connection%2033.webp)
 
 Once connected, an SMS icon will appear on your website. When visitors click the icon, it will open their phone's default messaging app, ready to send you a text. You can edit or delete it at any time by clicking the **Edit or Delete** icon.
+
+> [!TIP]
+> Just like WhatsApp, the SMS channel supports the **Prefilled Message & Context** options (Pro), so texts can open pre-filled with the current page or product details. See [Prefilled Message & Context](#prefilled-message-context-pro) above for the full list of formats and placeholders.
 
 ![SMS channel successfully added](/guide/public/images/social-chat/social-chat-configuration/edit-sms%2034.webp)
 

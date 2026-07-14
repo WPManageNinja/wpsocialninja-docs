@@ -1,44 +1,40 @@
 ---
 title: "TikTok Feed Configuration"
-description: ""
+description: "Connect your TikTok account to WP Social Ninja in one click through the secure connection bridge and display your TikTok feed on your WordPress website."
 ---
 
 # TikTok Feed Configuration
 
-To grow your business Social Media Platforms play a vital role. If you wish to connect your **TikTok Feed** to your Business Website then WP Social Ninja allows connecting your **TikTok Feed** to your Website. Follow this guideline to add your TikTok Feed to your website.
+Social media plays a vital role in growing your business, and TikTok is one of the most engaging platforms out there. If you'd like to showcase your **TikTok Feed** on your website, WP Social Ninja makes connecting quick and simple. Follow this guide to add your TikTok Feed to your site.
 
-## Enable TikTok Platform
+TikTok connects through WP Social Ninja's [secure connection bridge](../getting-started/connecting-your-accounts), so there's no access code to copy and paste — just log in, approve, and you're connected.
 
-First, you need to go to the [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the **WP Social Ninja Plugin** dashboard. Then you will see the option to enable the TikTok feed, now connect with your TikTok account to enable the TikTok Feed.
+## Connect Your TikTok Account
+
+**First,** go to **WP Social Ninja → Platforms** from your plugin dashboard, find **TikTok**, and click to connect your TikTok account.
 
 ![Enable TikTok Feed](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-1.webp)
 
-## Get the Access Code from TikTok
+**Then,** in the **TikTok Configuration** pop-up, click the **Continue with TikTok** button. As the pop-up says, you'll be securely redirected to authorize the connection.
 
-A pop-up will come to configure your TikTok account feed. Here you have to give an **Access Code** to configure your **TikTok** feed. Click on the **Continue with TikTok** button.
+![The TikTok Configuration pop-up with the Continue with TikTok button](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-configuration-modal.webp)
 
-![TikTok Configure Access Code](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-2.webp)
-
-You will be redirected to the TikTok account login page, login into your account from here.
+**Next,** you'll be redirected to the TikTok login page. Log in to your account.
 
 ![TikTok Login](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-3.webp)
 
-Then you will be asked to access permissions for WP Social Ninja app, select the permissions and click on the continue button.
+**Then,** review the requested permissions for the WP Social Ninja app and click **Continue** to approve them.
 
-The next page will give you the **Access Code**, now copy the Access Code and Paste it into your TikTok configuration Access Code field.
+**Finally,** you'll be brought right back to WP Social Ninja with your TikTok account connected. Now add and customize your [template](../getting-started/templates-overview) by clicking the **Add New Template** button.
 
-![Access Code TikTok ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-4.webp)
+![TikTok Connected Account](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-6.webp)
 
-Your TikTok account is now connected. 
+## TikTok Feed Error
 
-Now add and customize your [template](../getting-started/templates-overview) as you want by simply clicking on the **Add New Template** button.
+TikTok's data privacy rules require your feed source to stay connected. If a TikTok Feed source is not reconnected within **7 days**, you'll receive a **TikTok Feed Error Notification**, and all TikTok Feed data for that connected account will be automatically deleted from your website.
 
-![TikTok Connected Account ](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-feed-connect-6.webp)
-
-## TikTok Feed Error 
-
-If the TikTok Feed source is not reconnected within 7 days, you'll receive a **TikTok Feed Error Notification**, and all TikTok Feed data for your connected account will be automatically deleted from your website due to TikTok's data privacy rules. To avoid automatic data deletion, make sure to reconnect your account within the 7-day period.
+The good news: because TikTok now connects through the secure bridge, WP Social Ninja refreshes your connection automatically in the background, which greatly reduces the chance of hitting this limit. If you ever do see the error, simply reconnect your account to restore your feed.
 
 ![Tiktok Feed Error](/guide/public/images/social-feeds/tiktok-feed-configuration/WP-Social-Ninja-Platforms-3-scaled.webp)
 
-If you have any further queries about TikTok configuration then contact us to know about all your queries.
+If you have any further questions about TikTok configuration, feel free to [contact us](https://wpmanageninja.com/support-tickets) — we're happy to help.

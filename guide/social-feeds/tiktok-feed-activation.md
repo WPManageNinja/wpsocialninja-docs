@@ -17,8 +17,8 @@ If your site doesn’t contain the **Custom Feed for TikTok** Plugin then here a
 
 ![Custom Feed for TikTok](/guide/public/images/social-feeds/tiktok-feed-activation/active-tiktok-2.webp)
 
-After installing the **Custom Feed for Tiktok** plugin, your TikTok platform in WP Social Ninja will be enabled. Now you will get another notification Pop-up for connecting your TikTok account.
+After installing the **Custom Feed for Tiktok** plugin, your TikTok platform in WP Social Ninja will be enabled. Now you will get another pop-up for connecting your TikTok account — just click **Continue with TikTok** to authorize the connection.
 
-![TikTok Configuration](/guide/public/images/social-feeds/tiktok-feed-activation/active-tiktok-3.webp)
+![The TikTok Configuration pop-up with the Continue with TikTok button](/guide/public/images/social-feeds/tiktok-feed-configuration/tiktok-configuration-modal.webp)
 
 That's it! Your TikTok Platform is activated now just configure the TikTok platform and you're ready to set the template for your TikTok Feed.

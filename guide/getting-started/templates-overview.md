@@ -26,6 +26,13 @@ To start a new design, click the "**+ Create Template**" button in the top-right
 
 ![The main Templates overview screen in WP Social Ninja](/guide/public/images/getting-started/templates-overview/template.webp)
 
+### Resizing the Editor Sidebar
+
+Inside the template editor, all your settings live in a sidebar next to the live preview. To give yourself the perfect amount of working space, that sidebar is now **resizable and collapsible** across the Reviews, Chats, and Feed editors:
+
+- **Drag to resize:** Grab the drag handle on the edge of the sidebar and drag it wider or narrower. It's fully keyboard-accessible too — focus the handle and use the **arrow keys** to adjust in small steps, or **Home** and **End** to jump to the minimum or maximum width.
+- **Collapse to focus:** Click the collapse toggle to hide the sidebar entirely and preview your design in full width, then bring it back whenever you need it.
+
 ## How to Display Your Templates (Using Shortcodes)
 
 Once you save a template, it appears in the list on this page.

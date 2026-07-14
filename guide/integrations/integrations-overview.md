@@ -28,3 +28,9 @@ This powerful feature enhances your Business Reviews. By connecting to AI platfo
 * [OpenRouter Integration](/guide/ai-integration/openrouter-integration-for-review)
 
 This allows you to display a quick "At a Glance" summary (e.g., "Customers praise the fast shipping and excellent service") at the top of your review feed.
+
+### 3. CRM Integration
+
+Connect your reviews to your marketing with FluentCRM. When a WooCommerce or FluentCart product review is approved, WP Social Ninja can automatically tag the reviewer's contact, so you can trigger review-based follow-up automations.
+
+* [FluentCRM Review Tagging](/guide/integrations/fluentcrm-review-tagging)

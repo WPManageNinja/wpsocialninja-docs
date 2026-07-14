@@ -7,7 +7,7 @@ description: ""
 
 This guide will show you how to easily connect your Facebook Page to WP Social Ninja's **Business Reviews** feature. Once connected, you can pull in all your customer reviews to display on your website, building trust and social proof.
 
-This process is very simple and uses the recommended "OAuth" method, which means you just need to log in to your Facebook account and give permission. There are no complicated developer keys needed.
+This process is very simple and uses the recommended "OAuth" method through WP Social Ninja's [secure connection bridge](../getting-started/connecting-your-accounts) — you just log in to your Facebook account and give permission. There are no complicated developer keys or apps to create.
 
 > **Use Case:** This is the first and most important step for displaying your Facebook Reviews. Once you connect your page, you can create a beautiful Business Reviews template to show off your 5-star ratings, helping to convince new customers that your business is trusted and legitimate.
 
@@ -36,7 +36,7 @@ For the easiest and fastest setup, select the first option: **OAuth 2.0 (Recomme
 After you select the recommended method, a new Facebook pop-up window will open. This is a secure window directly from Facebook.
 
 * If you are not already logged in, Facebook will ask you to log in.
-* Next, it will ask you to grant permission for "WP Social Ninja" to access your information. Click the **"Continue as..."** button to proceed. This is a standard and safe process.
+* Next, it will ask you to grant permission for "WP Social Ninja" to access your information. Click the **"Continue with..."** button to proceed. This is a standard and safe process.
 
 ![Facebook Page Review](/guide/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-3.webp)
 

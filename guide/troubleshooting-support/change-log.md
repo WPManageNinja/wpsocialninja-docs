@@ -9,7 +9,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 
 ## WP Social Ninja v4.3.0
-*Released on July 13, 2026*
+*Released on July 20, 2026*
 
 ::: code-group
 
@@ -24,13 +24,14 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 • Block API v3 support for the Social Ninja block, enabling the Gutenberg iframe editor
 • Per-product override indicator for FluentCart and WooCommerce products, with a direct link to resolve conflicts (Pro)
 • PHP 8.4 compatibility
+• Generic affiliate-link filter for partner attribution on Pro upgrade links
 ```
 
 ```md [🔧 Improvements]
 • Optimized WooCommerce and FluentCart connected-product loading for large catalogs (Pro)
 • WooCommerce review sync now reports accurate cumulative totals across multi-batch imports (Pro)
 • Clearer FluentCart/WooCommerce "not connected" alert — distinguishes an inactive plugin from a store with no products
-• Updated the core WPFluent framework and added a hard limit to Facebook Graph pagination requests
+• Updated the core WPFluent framework to v2.12.3 and added a hard limit to Facebook Graph pagination requests
 ```
 
 ```md [🔒 Security]

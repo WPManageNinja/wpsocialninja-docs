@@ -46,14 +46,46 @@ This is the first message a visitor sees inside the chat window.
 
 ## Channel Buttons
 
-These are the settings for the buttons and text box inside the chat window, which users click to start talking to you.
+The **Channel Buttons** section allows you to customize the call-to-action options and prefilled message settings for your chat widget.
 
-* **Display Chat Icon:** Toggle this on or off to show or hide the small icon located next to the "Chat Button Text."
-* **Chat Button Text:** Customize the text that appears on the main action button (e.g., "Start Chat with").
-* **Prefilled Message:** Toggle this on to automatically populate the text area with a message, which the user can send immediately or edit.
-* **Prefilled Input Placeholder Text:** Set the placeholder text that appears in the message input field before the user starts typing (e.g., "Type a message...").
+ * **Display Chat Icon:** A main toggle switch to turn the display of the channel chat icon on or off.
+ * **Chat Button Text:** Enter call-to-action text that appears alongside your channel button (e.g., "Start Chat with:").
 
 ![Configuring the Channel Button](/guide/public/images/social-chat/chat-widget-settings/channel-buttons.webp)
+
+### Prefilled Message
+
+When a visitor initiates a conversation from a specific page or product listing, enabling the **Prefilled Message** feature automatically attaches context to the chat so your team gets all the details right away.
+
+* **Prefilled Message Toggle:** Switch this feature **ON** or **OFF** to control whether contextual information is prepopulated into the chat box.
+* **Prefilled Input Placeholder Text:** Customize the placeholder text shown inside the input box before a user sends a message (e.g., "Type a message").
+* **WhatsApp Message Context:** Choose a preset context template from the dropdown menu:
+     
+     * **None:** Disables automated context.
+     * **Page title and link:** Attaches the current page's title and URL.
+     * **WooCommerce product details:** Automatically pulls and inserts details from the active WooCommerce product page.
+     * **FluentCart product details:** Automatically pulls and inserts details from the active FluentCart product page.
+     * **Custom format:** Enables a custom text template using dynamic placeholders.
+
+### Using Custom Format
+
+When **Custom format** is selected, a **Custom Format** input field appears. You can build your own personalized message template using any of the following supported placeholders:
+
+ * `{page_title}` — Inserts the title of the current page.
+
+ * `{page_url}` — Inserts the direct URL of the current page.
+
+ * `{product_title}` — Inserts the product name.
+
+ * `{product_price}` — Inserts the product price.
+
+ * `{product_sku}` — Inserts the product SKU.
+
+ * `{product_stock}` — Inserts the current product stock status.
+
+ * `{product_url}` — Inserts the direct product URL.
+
+![Configuring the Channel Button](/guide/public/images/social-chat/chat-widget-settings/channel-buttons-1.webp)
 
 ## Chat Bubble Button
 

@@ -36,6 +36,11 @@ In the **Fluent Cart Configuration** pop-up, use the search bar to find and sele
 
 ![Select Product](/guide/public/images/business-reviews/fluentcart/select-product-3.webp)
 
+Once connected, your products appear under **Your Connected FluentCart Products**, each with its own refresh icon so you can re-sync that product's reviews at any time. Click **Add More Product** whenever you want to connect additional products to WP Social Ninja.
+
+> [!TIP]
+> If a product already has its own WP Social Ninja integration set up directly in FluentCart, you'll see an **Overridden In FluentCart** badge with a **Review** link next to it in this list — see [Per-Product Override Indicator](#product-level-integration-settings) below for what that means.
+
 **Then,** in the **Make WP Social Ninja your FluentCart review hub** card, click the **Set Up Review Hub** button.
 
 That's it. In one click, WP Social Ninja will:
@@ -49,7 +54,7 @@ There's nothing else to configure — your store is ready to collect and display
 > [!NOTE]
 > **Prefer full control?** Choose **Start from a blank template → Add New Template** instead. This creates an empty template only, leaving you to create the review form, connect the **Write a Review** button, and turn on **Main Review Hub** yourself (the manual steps are covered below). Quick Setup is a **Pro** feature.
 
-![The FluentCart Configuration pop-up showing the Set Up Review Hub button](/guide/public/images/business-reviews/fluentcart/fluentcart-quick-setup.webp)
+![The FluentCart Configuration pop-up showing the connected products list with an override badge, and the Set Up Review Hub button](/guide/public/images/business-reviews/fluentcart/fluentcart-quick-setup.webp)
 
 ## Customizing the FluentCart Reviews Layout
 

@@ -57,7 +57,7 @@ The **Channel Buttons** section allows you to customize the call-to-action optio
 
 When a visitor initiates a conversation from a specific page or product listing, enabling the **Prefilled Message** feature automatically attaches context to the chat so your team gets all the details right away.
 
-* **Prefilled Message Toggle:** Switch this feature **ON** or **OFF** to control whether contextual information is prepopulated into the chat box.
+* **Prefilled Message Toggle:** Switch this feature **ON** or **OFF** to control whether contextual information is automatically added to the chat.
 * **Prefilled Input Placeholder Text:** Customize the placeholder text shown inside the input box before a user sends a message (e.g., "Type a message").
 * **WhatsApp Message Context:** Choose a preset context template from the dropdown menu:
      

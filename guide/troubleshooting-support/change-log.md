@@ -8,6 +8,29 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.3.1
+*Released on July 21, 2026*
+
+::: code-group
+
+```md [🔧 Improvements]
+• Improved OAuth connect button labels and auth bridge redirect messaging for clearer platform connection steps
+```
+
+```md [🔒 Security]
+• Ongoing security audits and hardening
+• Template and chat widget settings saving now validates the target post, so settings can no longer be written to arbitrary post IDs
+```
+
+```md [🐛 Bug fixes]
+• Fixed Airbnb business URL validation and Airbnb reviews showing a generic location label instead of the actual listing title
+• Fixed a PHP notice when a feed header renders before its image decoration data is available
+• Fixed the "preserve plugin data" setting being ignored on uninstall, so plugin data is now kept when the option is enabled
+```
+
+:::
+
+
 ## WP Social Ninja v4.3.0
 *Released on July 20, 2026*
 

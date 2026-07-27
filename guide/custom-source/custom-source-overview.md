@@ -10,6 +10,7 @@ With Custom Sources, you can:
  * Collect new reviews with a **Native Review Form** or by connecting a **Fluent Form**.
  * Brand your source with a custom logo and name (e.g., "Website Testimonials") to represent your own company or an external source.
 
+<iframe src="https://www.youtube.com/embed/6EN3lRf3r14" title="How to Collect Reviews from Custom Sources in WordPress" allowfullscreen></iframe>
 
 ## How to Get Started
 

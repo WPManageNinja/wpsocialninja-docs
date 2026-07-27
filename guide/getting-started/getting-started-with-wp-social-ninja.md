@@ -9,6 +9,8 @@ WP Social Ninja is a WordPress plugin that connects your social media activity t
 
 Use this plugin to build social proof by showing customer reviews, keep your site content fresh with live social feeds, and make it easy for visitors to contact you with chat.
 
+<iframe src="https://www.youtube.com/embed/da87i4ZR6OU" title="Meet All-New WP Social Ninja" allowfullscreen></iframe>
+
 ## What You Can Do with WP Social Ninja
 
 This guide will show you how to use all the features. Here are the top things WP Social Ninja can do for you:

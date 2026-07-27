@@ -7,6 +7,8 @@ description: ""
 
 To activate the TikTok field you need to install and activate **Custom Feed for TikTok** WordPress Plugin. You will get this Plugin in the WordPress plugin inventory. Also, you can easily install and activate this from the WP Social Ninja. Let's show you the process of how you can enable the TikTok feed.
 
+<iframe src="https://www.youtube.com/embed/D_Q1X_lGa5g" title="How To Embed TikTok Feed On Your WordPress Site FOR FREE" allowfullscreen></iframe>
+
 ## Installing Custom Feed for TikTok Plugin
 
 Go to the **Platforms** from the WP Social Ninja and here you will find the TikTok. Click on the Setting icon button of the TikTok Feeds.

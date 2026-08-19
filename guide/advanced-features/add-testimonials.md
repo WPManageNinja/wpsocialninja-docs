@@ -11,6 +11,10 @@ Unlike the [Business reviews](../business-reviews/) (like [Google](../business-r
 
 This guide will walk you through the entire process, from adding your first testimonial to designing a beautiful template to display it.
 
+::: tip Collect testimonials automatically
+You do not have to type every testimonial in by hand. A [native review form](/guide/business-reviews/native-review-forms) can be set to collect testimonials directly from your customers, including their job title, company and company logo.
+:::
+
 ## Part 1: How to Add a New Testimonial
 
 Before you can create a template, you need to add some testimonials to the plugin.
@@ -40,10 +44,34 @@ Here is a breakdown of each field:
 * **Rating:** Click the stars to set a rating from 1 to 5. This is crucial for filtering your templates later.
 * **Testimonial Title:** Add a short, powerful "headline" for the review (e.g., "The Best Plugin I've Ever Used!").
 * **Testimonial Text:** This is the most important part. Paste the full text of the review here.
+* **Video:** Add a video testimonial — see [Adding a Video Testimonial](#adding-a-video-testimonial) below.
+* **Video Thumbnail:** The image shown before an uploaded video plays.
 * **Date:** Select the date you received the testimonial.
-* **Category:** This is a very useful organizing tool. You can create categories (like "Service Reviews," "Product Feedback," etc.) to group your testimonials. This allows you to create templates that only show testimonials from a specific category.
+* **Category:** This is a very useful organizing tool. You can create categories (like "Service Reviews," "Product Feedback," etc.) to group your testimonials. This allows you to create templates that only show testimonials from a specific category. See [Organize Reviews with Categories](/guide/business-reviews/organize-reviews-with-categories) for bulk tagging.
 
 ![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-2.webp)
+
+### Adding a Video Testimonial
+
+A written testimonial is good social proof. A customer saying the same thing on camera is better, and you can attach a video to any testimonial.
+
+In the **Video** field you can either:
+
+- **Paste a link** to a YouTube or Vimeo video, or a direct link to a video file.
+- **Upload a video** from your WordPress media library using the **Upload** button.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-fields.webp
+     then delete these comment markers to publish the image.
+![The Video and Video Thumbnail fields in the testimonial editor](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-fields.webp)
+-->
+
+**About the Video Thumbnail.** If you uploaded a video file, also set a **Video Thumbnail** — this is the image visitors see before they press play. Without one, an uploaded video appears as a black box on your page.
+
+You will only see the Video Thumbnail field when it is needed. YouTube and Vimeo links already carry their own thumbnail, so the field is hidden for those.
+
+::: tip
+Paste the full address including `https://`. A link without it is rejected when you save.
+:::
 
 ### Step 4: Save and Manage Your Testimonials
 
@@ -107,9 +135,32 @@ This section controls which pieces of information you want to display on each te
 * **Content Type:** Choose to show the **Full Content** or a short **Excerpt**.
 * **Trim Excerpt Words:** If you chose "Excerpt," set the maximum number of words (e.g., 25) to show. This is key for creating a clean, uniform look.
 * **Enable External Links:** A toggle to make any links in the text clickable.
+* **Display Video:** Show or hide video testimonials in this template. This is **on** by default. A testimonial without a video is unaffected either way.
 * **Equal Height:** Essential for the **Grid** layout. Turn this **On** to force all boxes to the same height. Turn it **Off** for the **Masonry** layout.
 
 ![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-template-6.webp)
+
+#### Choosing How Videos Play
+
+By default, WP Social Ninja uses the most sensible player for each video: an uploaded file plays in your visitor's browser player, and a YouTube or Vimeo link plays in that provider's embedded player.
+
+If you also use **Fluent Player**, two extra options appear:
+
+* **Play with Fluent Player:** Turn this on to play your testimonial videos in Fluent Player instead of the default player.
+* **Player Design:** Pick one of your existing Fluent Player videos, and these testimonials reuse its design and its layers — such as a call to action or an email capture form.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-frontend.webp
+     then delete these comment markers to publish the image.
+![Video testimonials playing on the front end](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-frontend.webp)
+-->
+
+::: info
+The template editor preview never shows Fluent Player. Check the real page on your site to see the finished result.
+:::
+
+::: warning
+If you have turned on GDPR mode, YouTube and Vimeo videos are not embedded, since that setting exists to keep third-party embeds off your pages. Videos you uploaded yourself still play normally, because your own site serves them.
+:::
 
 ### 4. Pagination
 

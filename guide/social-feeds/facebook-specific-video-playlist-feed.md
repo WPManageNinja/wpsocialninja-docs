@@ -35,4 +35,14 @@ Now, click the **Fetch Feeds** button, and your Playlist will be loaded into the
 
 You’ll also find additional settings and styling options to customize your Specific Video Playlist template. Once you're done, click the **Save Template** button to save your changes.
 
+## Videos That Can't Be Played on Your Site
+
+Facebook does not allow every video to be embedded on another website. Reels, videos with certain privacy or rights settings, and some live recordings are marked as non-embeddable.
+
+When WP Social Ninja meets one of these, it shows the video's thumbnail with a **View on Facebook** link instead of an empty player. Visitors can still get to the video in one click, and your feed does not show a broken box.
+
+::: tip
+You can change the wording of that link under **Settings → Translation**, if "View on Facebook" doesn't suit your site's tone.
+:::
+
 If you have any further questions or need assistance, please don’t hesitate to contact [us](https://wpmanageninja.com/support-tickets/).

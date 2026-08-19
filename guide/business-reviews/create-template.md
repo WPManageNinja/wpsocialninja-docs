@@ -71,6 +71,7 @@ Filters are how you refine your feed to only show the specific reviews you want.
     > **Use Case:** You could use "Show" to create a feed that only mentions "customer service." Or, you could use "Hide" to filter out any reviews that mention a "bug" or "shipping problem."
 * **Filter by Business/Product:** (For WooCommerce/Custom Reviews) This lets you show reviews associated with only one specific product.
 * **Filter by Category:** (For WooCommerce/Custom Reviews) This lets you show reviews only from a specific product category (e.g., "Shoes").
+* **Let Visitors Search, Sort & Filter:** *(Pro)* Adds a search box and sort and rating dropdowns above your feed, so visitors can narrow it down themselves. See [Let Visitors Search, Sort & Filter Reviews](/guide/business-reviews/visitor-search-sort-filter).
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-4.webp)
 
@@ -93,7 +94,20 @@ This section controls which pieces of information you want to display inside eac
     * **Excerpt:** Lets you show a short "snippet" of the text.
 * **Trim Excerpt Words:** This setting only appears if you select "Excerpt." It lets you set the exact number of words (e.g., 25) to show before the text is cut off. This is the key to creating a clean, uniform look for your grid or slider.
 * **Enable External Links:** A toggle to allow any links in the review text to be clickable.
+* **Show Review Images:** A toggle to show or hide photos that reviewers attached to their reviews.
 * **Equal Height:** This toggle is essential for the **Grid** layout. When toggled **on**, all review boxes are forced to the same height (based on the tallest one), creating a perfect, uniform grid. You should turn this **Off** if you are using the **Masonry** layout.
+
+::: info Why you might not see "Show Review Images"
+This toggle only appears when your template includes a platform that can actually collect photos with a review:
+
+- [Native review forms](/guide/business-reviews/native-review-forms)
+- [WooCommerce](/guide/business-reviews/woocommerce-reviews)
+- [FluentCart](/guide/business-reviews/fluentcart-product-review)
+- [Fluent Forms](/guide/business-reviews/fluent-forms-review)
+- [Testimonials](/guide/advanced-features/add-testimonials)
+
+Google, Facebook, Yelp, Airbnb, Trustpilot, Tripadvisor, Booking.com, AliExpress, Amazon and manually added custom reviews don't come with reviewer photos, so on a template built only from those the toggle is hidden rather than shown as a switch that would do nothing.
+:::
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-5.webp)
 

@@ -46,10 +46,39 @@ This section controls the visual structure and arrangement of your videos.
     * **Grid:** This creates a clean, organized, multi-column grid. All video thumbnails are forced to be the same height, which creates a very neat and symmetrical look.
     * **Carousel:** This displays your videos in a horizontal slider. Visitors can click or swipe through your posts. This is perfect for saving space on a homepage.
     * **Masonry:** This is a "Pinterest-style" multi-column grid. Videos will have different heights (especially if you show the text caption), and the plugin will intelligently fit them together like bricks in a wall.
-* **Template:** These are pre-designed visual "skins" for your feed. Each template changes the styling of the video boxes, fonts, and layout. Click through them to see which one best matches your brand.
+* **Template:** These are pre-designed visual "skins" for your feed:
+    * **Classic Tile:** Clean video thumbnails in even tiles.
+    * **Caption Card:** *(Pro)* Each video sits in a card with its caption printed below the thumbnail.
+    * **Overlay Card:** *(Pro)* The caption and view counts appear over the thumbnail when a visitor hovers or tabs onto it, keeping the grid purely visual until then.
+    * **Spotlight Hero:** *(Pro)* Features your most recent video in a large hero tile with the rest arranged around it. Good for drawing attention to new content.
+
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
     * *Example: You might choose 4 columns for Desktop, 2 for Tablet, and 1 for Mobile. This ensures your feed is always easy to see and interact with, no matter the screen size.*
 * **Columns Gap:** This controls the amount of empty space (in pixels) between each video in your feed. Increase this number to give your videos more "breathing room," or set it to `0` to have them all touch.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/template-picker.webp
+     then delete these comment markers to publish the image.
+![Choosing a TikTok feed template](/guide/public/images/social-feeds/tiktok-feed-template/template-picker.webp)
+-->
+
+#### What the Pro Layouts Look Like
+
+**Overlay Card** keeps the grid purely visual, bringing the caption and view counts over the thumbnail only on hover.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/overlay-card.webp
+     Capture a live TikTok feed on the Overlay Card template with the cursor resting on one tile, so the caption overlay is visible.
+     Then delete these comment markers to publish the image.
+![A TikTok feed using the Overlay Card template](/guide/public/images/social-feeds/tiktok-feed-template/overlay-card.webp)
+-->
+
+**Spotlight Hero** gives your newest video a large hero tile with the rest of the feed arranged around it.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/spotlight-hero.webp
+     Capture the Spotlight Hero template showing the oversized lead tile alongside the smaller surrounding tiles.
+     Then delete these comment markers to publish the image.
+![A TikTok feed using the Spotlight Hero template](/guide/public/images/social-feeds/tiktok-feed-template/spotlight-hero.webp)
+-->
+
 
 ![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-3.webp)
 
@@ -64,9 +93,13 @@ Filters are how you refine your feed to exclude content you don't want or only s
     * **Most Viewed:** Shows most viewed video.
     * **Most Likes:** Shows most liked video.
     * **Random:** Shuffles the videos in a new order every time the page loads.
-* **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** videos with those words, or **hide** videos with those words.
+* **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** videos with those words, or **hide** videos with those words. The filter searches each video's caption as well as its title.
     * *Example: If you want to hide all videos that mention a certain competitor, you could add their name to the "Hide" box.*
 * **Hide Specific Feeds:** This allows you to manually hide one or more specific videos. To get a video's ID, open that video on TikTok, and copy the long string of numbers in the URL.
+
+::: warning
+TikTok only shares the first **150 characters** of a video caption. A word or hashtag that appears later in a long caption is not visible to the filter, so it will not match.
+:::
 
 ![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-4.webp)
 
@@ -104,6 +137,9 @@ This section lets you show or hide the social proof associated with each individ
 This section controls the large banner at the top of your entire feed, which displays your main TikTok profile information.
 
 * **Display Header:** This is the master On/Off switch for the entire header section. Turn it off if you just want to show the videos.
+* **Header Layout:** Choose how much profile information the header shows.
+    * **Classic:** The full profile block — photo, name, description, website link and all your counters.
+    * **Minimal:** A compact single row with just your profile photo and account name. You can also style a border around the profile photo in this layout.
 * **Account to Display:** If your feed is showing videos from multiple accounts, this lets you choose which one account's info to show in the header.
 * **Display Toggles (On/Off Switches):** These let you build a "mini-profile" on your website.
     * **Display Profile Photo** (Your main profile picture)
@@ -113,6 +149,12 @@ This section controls the large banner at the top of your entire feed, which dis
     * **Display Followers Count** (How many followers you have)
     * **Display Following Count** (How many people you are following)
     * **Display Likes Count:** This is a key TikTok metric. It shows the TOTAL number of likes your entire profile has ever received.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/minimal-header.webp
+     Capture a TikTok feed with Header Layout set to Minimal, showing the compact profile-photo-and-name row and the profile photo border styling.
+     Then delete these comment markers to publish the image.
+![A TikTok feed using the Minimal header layout](/guide/public/images/social-feeds/tiktok-feed-template/minimal-header.webp)
+-->
 
 ![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-6.webp)
 

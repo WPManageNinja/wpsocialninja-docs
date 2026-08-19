@@ -46,10 +46,47 @@ This section controls the visual structure and arrangement of your posts.
     * **Grid:** This creates a clean, organized, multi-column grid (like the standard Instagram profile). All post boxes are forced to be the same height, which creates a very neat and symmetrical look.
     * **Carousel:** This displays your posts in a horizontal slider. Visitors can click or swipe through your posts one by one. This is perfect for saving space on a homepage.
     * **Masonry:** This is a "Pinterest-style" multi-column grid. Posts will have different heights based on their content (e.g., if you show the text caption). This creates a modern, stylish look that fits posts together like bricks.
-* **Template:** These are pre-designed visual "skins" for your feed. Each template changes the styling of the post boxes, fonts, and layout. Try clicking through them to see which one you like best!
+    * **Highlights:** A compact row of circular thumbnails, styled after Instagram's own story highlights. Good for a slim strip of recent posts near the top of a page.
+* **Template:** These are pre-designed visual "skins" for your feed. Each one changes the styling of the post boxes, fonts, and layout:
+    * **Classic Grid:** Clean image tiles, closest to how your profile looks on Instagram.
+    * **Caption Card:** Each post sits in a card with its caption printed underneath the image.
+    * **Overlay Card:** *(Pro)* The caption and engagement counts appear over the image when a visitor hovers or tabs onto it, so the grid stays purely visual until they interact.
+    * **Pin Card:** *(Pro)* A Pinterest-style card treatment that works especially well with the Masonry layout.
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
     * *Example: You might choose 4 columns for Desktop, 3 for Tablet, and 2 for Mobile. This ensures your feed always looks great and is easy to read.*
 * **Columns Gap:** This controls the amount of empty space (in pixels) between each post. Increase this number to give your posts more "breathing room," or set it to `0` to have them all touch.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/template-picker.webp
+     then delete these comment markers to publish the image.
+![Choosing an Instagram feed template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/template-picker.webp)
+-->
+
+#### What the Pro Layouts Look Like
+
+**Overlay Card** keeps the grid purely visual, bringing the caption and engagement counts over the image only when a visitor hovers.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/overlay-card.webp
+     Capture a live Instagram feed on the Overlay Card template with the cursor resting on one tile, so the caption overlay is visible.
+     Then delete these comment markers to publish the image.
+![An Instagram feed using the Overlay Card template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/overlay-card.webp)
+-->
+
+**Pin Card** gives each post a card with its caption below, sized to its content — pair it with the Masonry layout.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pin-card.webp
+     Capture the Pin Card template on a Masonry layout, so the varying card heights are visible.
+     Then delete these comment markers to publish the image.
+![An Instagram feed using the Pin Card template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pin-card.webp)
+-->
+
+**Highlights** renders a slim row of circular thumbnails instead of a grid.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/highlights-layout.webp
+     Capture a feed with Layout Type set to Highlights, showing the row of circular thumbnails.
+     Then delete these comment markers to publish the image.
+![An Instagram feed using the Highlights layout](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/highlights-layout.webp)
+-->
+
 
 ![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-2.webp)
 
@@ -107,6 +144,9 @@ The Shoppable Feed section turns your Instagram feed into a powerful e-commerce 
 This section controls the large banner at the top of your entire feed, which displays your main Instagram profile information.
 
 * **Display Header:** This is the master on/off switch for the entire header section. Toggle it off if you just want to show the posts and nothing else.
+* **Header Layout:** Choose how much profile information the header shows.
+    * **Classic:** The full profile block — photo, username, bio, and your post and follower counts.
+    * **Minimal:** A compact single row with just your profile photo and username. Useful in a sidebar or anywhere a full profile block would take up too much room.
 * **Account to Display:** If your feed is showing posts from multiple accounts, this lets you choose which one account's info to show in the header.
 * **Display Toggles:** These let you show or hide the different parts of your profile. This is great for creating a "mini-profile" on your website.
     * **Display Profile Photo:** Display your profile photo in the feed
@@ -117,6 +157,12 @@ This section controls the large banner at the top of your entire feed, which dis
     * **Display Followers Count** (How many followers you have)
 * **Custom Profile Photo:** Upload a custom image to use as your profile photo in the feed header.
 * **Custom Bio Text:** Write custom text to use as your bio in the feed header.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/minimal-header.webp
+     Capture an Instagram feed with Header Layout set to Minimal, so the compact profile-photo-and-username row is visible above the posts.
+     Then delete these comment markers to publish the image.
+![An Instagram feed using the Minimal header layout](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/minimal-header.webp)
+-->
 
 ![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-6.webp)
 

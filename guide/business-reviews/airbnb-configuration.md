@@ -89,21 +89,21 @@ Unlike the Reviews keys above, for Business Info you don't need to open the requ
 
 - Refresh your Airbnb listing page. You should see a request named **StaysPdpSections** appear in the network requests list.
 
-::: warning NEEDS SCREENSHOT
-- **What to capture:** The Network tab with `StaysPdpSections` typed in the **Filter** box and the matching request visible in the list below it.
-- **Where from:** Browser DevTools → **Network** tab, on an Airbnb room listing page, right after filtering and reloading.
-- **Suggested filename:** `business-info-request-list.webp`
-:::
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/business-info-request-list.webp
+     Capture: the Network tab with `StaysPdpSections` typed in the Filter box and the matching request
+     visible in the list below it, on an Airbnb room listing page right after filtering and reloading.
+![Filtering for the StaysPdpSections request in the Network tab](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/business-info-request-list.webp)
+-->
 
 - **Right-click** on the **StaysPdpSections** request in the list (no need to open it).
 
 - From the context menu, hover over **Copy**, then click **Copy URL**.
 
-::: warning NEEDS SCREENSHOT
-- **What to capture:** The right-click context menu open on the `StaysPdpSections` request row, with **Copy → Copy URL** visible/highlighted.
-- **Where from:** Same Network tab — right-click directly on the `StaysPdpSections` row itself (not inside its details panel).
-- **Suggested filename:** `business-info-copy-url.webp`
-:::
+<!-- TODO: Capture screenshot for this step and save at /guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/business-info-copy-url.webp
+     Capture: the right-click context menu open on the `StaysPdpSections` request row, with
+     Copy → Copy URL highlighted. Right-click the row itself, not inside its details panel.
+![Copying the StaysPdpSections request URL](/guide/public/images/business-reviews/airbnb-configuration-social-reviews-wp-social-ninja/business-info-copy-url.webp)
+-->
 
 That copied URL is your Business Info payload — you'll paste the whole thing in Step 2.
 

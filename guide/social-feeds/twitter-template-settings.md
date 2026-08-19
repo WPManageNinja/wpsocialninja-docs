@@ -51,7 +51,7 @@ This section controls the visual structure and arrangement of your tweets.
     * **Grid:** This creates a clean, organized, multi-column grid. All tweet boxes are forced to be the same height, which creates a very neat and symmetrical look.
     * **Carousel:** This displays your tweets in a horizontal slider. Visitors can click or swipe through your posts. This is perfect for saving space.
     * **Masonry:** This is a "Pinterest-style" multi-column grid. Tweets will have different heights (based on their text length and images), and the plugin will intelligently fit them together like bricks in a wall.
-* **Template:** These are pre-designed visual "skins" for your feed. Each template (like Polaris, Deneb, etc.) changes the styling of the tweet boxes, fonts, and layout. Click through them to see which one best matches your brand.
+* **Template:** The visual "skin" for your feed. X (Twitter) feeds use the **Classic Tweet** template, which styles each post to look close to a tweet as it appears on X.
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
 * **Columns Gap:** This controls the amount of empty space (in pixels) between each tweet in your feed.
 

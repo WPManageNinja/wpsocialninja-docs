@@ -47,11 +47,43 @@ This section controls the foundational layout and visual structure of your YouTu
 
     * **Grid:** A clean, multi-column grid where all video boxes are the same height.
     * **Carousel:** A horizontal slider.
-* **Template:** These are pre-designed visual "skins" (e.g., Vega, Sirius, Polaris, Rigel).
+* **Template:** These are pre-designed visual "skins" for your feed:
+    * **Video Grid:** Clean thumbnail tiles with the video title underneath.
+    * **Hover Overlay:** *(Pro)* The title and video details appear over the thumbnail when a visitor hovers or tabs onto it.
+    * **List View:** *(Pro)* A single-column list with each thumbnail beside its title and description. Good for a page where visitors are choosing what to watch.
+    * **Text-Top Card:** *(Pro)* Puts the video title above the thumbnail rather than below it.
+    * **Player & Playlist:** *(Pro)* A large player with a scrollable playlist of your other videos beside it, so visitors can watch without leaving the page.
 * **Number of Columns:** Set the number of columns for Desktop, Tablet, and Mobile.
 * **Columns Gap:** This controls the space (in pixels) between each video.
 
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/template-picker.webp
+     then delete these comment markers to publish the image.
+![Choosing a YouTube feed template](/guide/public/images/social-feeds/youtube-feed-template/template-picker.webp)
+-->
+
+::: info
+**Player & Playlist** builds its own layout, so the Number of Columns and column gap settings do not apply when you choose it.
+:::
+
 ![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/template.webp)
+
+#### What the Pro Layouts Look Like
+
+**Text-Top Card** places each video's title above its thumbnail instead of below.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/text-top-card.webp
+     Capture a live YouTube feed on the Text-Top Card template, showing titles sitting above the thumbnails.
+     Then delete these comment markers to publish the image.
+![A YouTube feed using the Text-Top Card template](/guide/public/images/social-feeds/youtube-feed-template/text-top-card.webp)
+-->
+
+**Player & Playlist** pairs one large player with a scrollable list of your other videos, so visitors watch without leaving your page.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/player-playlist.webp
+     Capture the Player & Playlist template with the main player on the left and the scrollable playlist beside it.
+     Then delete these comment markers to publish the image.
+![A YouTube feed using the Player & Playlist template](/guide/public/images/social-feeds/youtube-feed-template/player-playlist.webp)
+-->
 
 #### Carousel Settings
 
@@ -122,6 +154,9 @@ This section controls how individual video posts appear in your YouTube feed. It
 This section controls the main banner area that appears at the top of your entire YouTube feed. It allows you to customize how the channel header looks and what information is displayed.
 
 * **Show Header:** This is the main toggle that enables or disables the entire header section. Turn it off to hide the banner, logo, and all channel info.
+* **Header Layout:** Choose how much channel information the header shows.
+    * **Classic:** The full header — banner image, logo, channel name, description and all your counters.
+    * **Minimal:** A compact single row with just your channel logo and name, for when a full banner would dominate the page.
 * **Display Banner:** Toggles the large channel banner image at the top of the header. You can also upload a custom banner image if desired.
 * **Display Logo:** Enables or disables the channel’s profile image (logo) within the header section.
 * **Display Name:** Shows or hides the YouTube channel’s name under the logo.
@@ -131,6 +166,12 @@ This section controls the main banner area that appears at the top of your entir
 * **Display Description:** Enables the short description or channel bio text (if available).
 * **Display Subscribe Button:** Shows or hides a “Subscribe” button within the header, allowing users to subscribe directly from the feed.
 * **Upload Custom Banner:** Allows you to manually upload your own banner image to replace the default YouTube channel banner.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/minimal-header.webp
+     Capture a YouTube feed with Header Layout set to Minimal, so the compact logo-and-channel-name row is visible above the videos.
+     Then delete these comment markers to publish the image.
+![A YouTube feed using the Minimal header layout](/guide/public/images/social-feeds/youtube-feed-template/minimal-header.webp)
+-->
 
 ![Header settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/header.webp)
 

@@ -1,6 +1,6 @@
 ---
 title: "Create A Template"
-description: "Learn how to create and customize review templates in WP Social Ninja, including platform selection, layout options, filters, content display settings, headers, pagination, AI summarizer, and schema snippets for SEO."
+description: "Learn how to create and customize review templates in WP Social Ninja, including platform selection, layout options, the visitor search/sort/filter toolbar, filters, content display settings, headers, pagination, AI summarizer, and schema snippets for SEO."
 ---
 
 # Creating a Review Template
@@ -55,7 +55,35 @@ This section controls the visual structure and arrangement of your reviews.
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-3.webp)
 
-### 3. Filters
+### 3. Visitor Toolbar: Let Visitors Search, Sort & Filter (Pro)
+
+The Visitor Toolbar is a **Pro** feature that adds an interactive navigation bar above your review feed, allowing visitors to search, sort, and filter feedback on their own. This setting is disabled by default, ensuring your existing templates remain unchanged until you turn it on.
+
+#### Toolbar Features
+
+When enabled, a toolbar appears above your reviews containing three tools:
+
+ * **Live Search Box:** Allows visitors to type keywords (such as specific products, staff names, or experience details) to narrow down the displayed reviews dynamically.
+ * **Sort Dropdown:** Lets users re-order reviews (e.g., "Newest first") instantly without requiring a page reload.
+ * **Star Rating Filter:** Enables users to filter feedback by specific star counts using the "All ratings" dropdown. Selecting a rating displays only exact matches (e.g., selecting 4 stars shows 4-star reviews only, rather than "4 stars and above").
+
+#### Compatibility and Limitations
+
+* **Supported Layouts:** The toolbar displays seamlessly across **Grid**, **Masonry**, **Slider**, and **Testimonial** card layouts. For **Badge** and **Notification** layouts, it appears only when the Display Mode is set to **Popup**.
+
+* **Unsupported Configurations:** The toolbar is automatically hidden in the following scenarios:
+
+    * **Booking.com Feeds:** The 1–10 numerical rating scale used by Booking.com is incompatible with the standard 1–5 star rating filter.
+    * **AI Summary Feeds:** Summarized review layouts do not support individual search or sorting options.
+    * **Hidden Content:** If review text, review titles, and reviewer names are all turned off in your template display settings, the search box hides automatically since there is no searchable content.
+
+
+
+![Visitor Toolbar](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/visitor-toolbar-3.webp)
+
+
+
+### 4. Filters
 
 Filters are how you refine your feed to only show the specific reviews you want.
 
@@ -70,11 +98,11 @@ Filters are how you refine your feed to only show the specific reviews you want.
 * **Show/Hide reviews containing these words:** These are moderation tools.
     > **Use Case:** You could use "Show" to create a feed that only mentions "customer service." Or, you could use "Hide" to filter out any reviews that mention a "bug" or "shipping problem."
 * **Filter by Business/Product:** (For WooCommerce/Custom Reviews) This lets you show reviews associated with only one specific product.
-* **Filter by Category:** (For WooCommerce/Custom Reviews) This lets you show reviews only from a specific product category (e.g., "Shoes").
+* **Filter by Category:** Show reviews from only the [review categories](../getting-started/reviews) you choose. Categories are a reusable taxonomy you can apply to any review, regardless of platform — not just WooCommerce or Custom Reviews.
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-4.webp)
 
-### 4. Settings (Content Display)
+### 5. Settings (Content Display)
 
 This section controls which pieces of information you want to display inside each individual review card.
 
@@ -97,7 +125,7 @@ This section controls which pieces of information you want to display inside eac
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-5.webp)
 
-### 5. Header
+### 6. Header
 
 This section controls the large box that appears at the top of your entire feed, summarizing your reviews.
 
@@ -120,7 +148,7 @@ This section controls the large box that appears at the top of your entire feed,
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-6.webp)
 
-### 6. Pagination
+### 7. Pagination
 
 This controls what happens when a visitor gets to the bottom of the initial set of reviews.
 
@@ -134,7 +162,7 @@ This controls what happens when a visitor gets to the bottom of the initial set 
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-7.webp)
 
-### 7. AI Summarizer
+### 8. AI Summarizer
 
 This is a powerful "New" feature that uses AI to analyze your reviews and provide a summary for your visitors.
 
@@ -147,7 +175,7 @@ This is a powerful "New" feature that uses AI to analyze your reviews and provid
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-8.webp)
 
-### 8. Schema.org Markup
+### 9. Schema.org Markup
 
 This is a crucial and highly technical feature for SEO (Search Engine Optimization).
 

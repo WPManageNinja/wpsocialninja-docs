@@ -30,6 +30,15 @@
   height: auto;
 }
 
+/* Make video embeds responsive and match the sizing of page screenshots */
+.vp-doc iframe {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: none;
+}
+
 /* Hero title "WP Social Ninja" color on homepage */
 .VPHomeHero .name,
 .VPHomeHero .name .clip,

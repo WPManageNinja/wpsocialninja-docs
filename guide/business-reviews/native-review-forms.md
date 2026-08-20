@@ -40,6 +40,15 @@ The **Form Fields** tab is where you determine what information you want to coll
 * **Upload Photos:** Enable this toggle to allow customers to upload images along with their reviews, providing valuable visual social proof.
 * **Privacy Policy Agreement:** You can add required checkboxes for **Privacy Policy** (with a custom URL) and a **Permission** statement to ensure you have the right to display the review publicly.
 
+**Testimonial fields.** Four more fields become available when your form's target is set to **Testimonial** (see [Step 4](#step-4-configure-general-settings-targets)):
+
+* **Your Position:** The submitter's job title, e.g. "Marketing Manager".
+* **Company:** The name of their company.
+* **Company Website:** A link to their company's website.
+* **Company Logo:** A single image upload for their company logo, up to 2 MB.
+
+These are hidden on forms with any other target, since they only make sense on a testimonial.
+
 ### Field Controls
 
 For each field, you can:
@@ -65,13 +74,34 @@ In the **General Settings** tab, you manage the form's behavior and determine wh
  * **Require Login:** Toggle this on if you only want registered site users to leave reviews.
  * **One Per Email:** Enable this to prevent multiple submissions from the same email address.
 
-**Review Target:** This is a crucial setting. It tells WP Social Ninja which category or product these reviews belong to. You can select:
+**Review Target:** This is a crucial setting. It tells WP Social Ninja where the submitted reviews should go. You can select:
 
- * **Native Form (Generic):** For general site testimonials.
+ * **Native Form (Generic):** For general site reviews.
+ * **Testimonial:** Collect testimonials from your customers. Submissions appear under **All Testimonials** instead of your reviews list, and the form gains the author position, company, website and logo fields described above.
  * **FluentCart Product:** To link reviews directly to items in your [FluentCart](/guide/business-reviews/fluentcart-product-review) store.
  * **WooCommerce Product:** To link reviews to specific [WooCommerce](/guide/business-reviews/woocommerce-reviews) products.
 
 ![Create a REview Form](/guide/public/images/business-reviews/native-review/general-settings-4.webp)
+
+### Collecting Testimonials with a Form
+
+Choosing **Testimonial** as your target turns the form into a testimonial collector, which saves you copying feedback in by hand.
+
+1. Set the **Review Target** to **Testimonial**.
+2. Go back to the **Form Fields** tab, where the four author fields are now listed.
+3. Enable the ones you want to ask for, and adjust their labels to suit your audience.
+4. Save the form and place it on your site as usual.
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/business-reviews/native-review/testimonial-target.webp
+     then delete these comment markers to publish the image.
+![Setting a review form's target to Testimonial](/guide/public/images/business-reviews/native-review/testimonial-target.webp)
+-->
+
+Everything submitted through this form now appears under **WP Social Ninja → All Testimonials**, ready to display with a [testimonial template](/guide/advanced-features/add-testimonials).
+
+::: warning
+Changing the target on an existing form only affects future submissions. Reviews the form has already collected stay where they were originally saved.
+:::
 
 ## Step 5: Enable Spam Protection
 

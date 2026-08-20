@@ -49,7 +49,9 @@ Make your selections and click the **Continue** button.
 This step is for choosing the visual style of your feed or reviews. You have two settings to configure:
 
 * **Layout Type:** This is the structure (e.g., Grid, Slider, Carousel, or Masonry).
-* **Template:** This is the design skin (e.g., Vega, Sirius, or Polaris).
+* **Template:** This is the design skin. Review templates carry names like Vega, Sirius and Polaris, while feed templates are named after the layout they draw — **Classic Grid**, **Caption Card**, **Overlay Card**, and so on.
+
+Every template available for your chosen platform is listed here, so you can pick your final design in the wizard rather than switching it later in the editor.
 
 ![Choosing a layout and template in the onboarding wizard](/guide/public/images/getting-started/onboarding-setup-wizard/choose-a-template.webp)
 

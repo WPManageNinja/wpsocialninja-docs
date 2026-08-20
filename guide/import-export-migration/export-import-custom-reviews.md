@@ -47,3 +47,42 @@ For your convenience, a demo CSV file is provided, showing the format of the CSV
 
 ![wpsocialninja export import 2](/guide/public/images/import-export-migration/how-to-export-import-custom-reviews/export-import-2.webp)
 
+## Categories in Your CSV
+
+Reviews and testimonials carry their categories in the `category` column, so your organizing work is kept when you move content between sites.
+
+Because a review can belong to several categories, list them in that single cell separated by a **vertical bar**:
+
+```
+Home|About
+```
+
+Any category in your file that doesn't exist yet is created for you during the import, so you don't need to set them up beforehand.
+
+::: tip
+This makes export → edit in a spreadsheet → import the quickest way to organize a large batch of reviews at once. See [Organize Reviews with Categories](/guide/business-reviews/organize-reviews-with-categories) for the full picture.
+:::
+
+## Testimonial Videos in Your CSV
+
+If your testimonials have videos, two more columns carry them:
+
+* `video_url` — a link to the video. This can be a YouTube or Vimeo link, or a direct link to a video file.
+* `video_poster` — the thumbnail image shown before an uploaded video plays.
+
+Both must be **full web addresses starting with `http://` or `https://`**. A bare domain like `example.com/video.mp4`, or a path like `/uploads/video.mp4`, cannot be used and will be skipped.
+
+```
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```
+
+Leave `video_poster` empty for YouTube and Vimeo links — those already carry their own thumbnail.
+
+::: info
+If any video cells in your file could not be used, the import tells you afterwards how many were skipped in each column. That way you know whether it was your video links or your thumbnails that need fixing, rather than discovering it later on the page.
+:::
+
+::: tip
+Download the sample CSV from the **Import** screen. It includes every column with an example value, which is the easiest way to get your spreadsheet's headings right.
+:::
+

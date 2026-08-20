@@ -41,6 +41,7 @@ export default defineConfig({
     
     nav: [
       { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
+      { text: 'Dev Docs', link: 'https://developers.wpsocialninja.com' },
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
       { text: 'Website', link: 'https://wpsocialninja.com' },
     ],
@@ -361,6 +362,10 @@ export default defineConfig({
                               {
                                     "text": "Template Styling & Connection",
                                     "link": "/guide/business-reviews/template-style-connection"
+                              },
+                              {
+                                    "text": "Visitor Search, Sort & Filter",
+                                    "link": "/guide/business-reviews/visitor-search-sort-filter"
                               }
                         ]
                   },
@@ -368,6 +373,10 @@ export default defineConfig({
                         "text": "🔧 Advanced Features",
                         "collapsed": true,
                         "items": [
+                              {
+                                    "text": "Organize Reviews with Categories",
+                                    "link": "/guide/business-reviews/organize-reviews-with-categories"
+                              },
                               {
                                     "text": "Schema Configuration",
                                     "link": "/guide/business-reviews/configure-schema"

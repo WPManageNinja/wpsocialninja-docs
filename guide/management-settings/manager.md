@@ -49,6 +49,44 @@ You can choose any combination. For example, you can give a user permission to "
 
 ![Managers Settings](/guide/public/images/management-settings/manager-wp-social-ninja/managers-2.webp)
 
+#### What Each Permission Grants
+
+* **Full Access:** Everything below. Use sparingly.
+* **Manage Platforms:** Connect, disconnect and sync your social and review accounts.
+* **Manage Reviews:** View, edit, approve and delete reviews.
+* **Manage Testimonials:** View, edit and delete testimonials.
+* **Manage Templates:** Create and edit feed and review templates.
+* **Manage Notification Popup:** Create and edit notification popups.
+* **Manage Chat Widgets:** Create and edit social chat widgets.
+* **Manage QR Codes:** Create QR codes and open the QR code section of Advanced Settings.
+* **Manage Feeds Platforms Settings:** Change the global settings for your social feeds.
+* **Manage Reviews Platforms Settings:** Change the global settings for your review platforms.
+* **Manage Shoppable Settings:** Change your shoppable feed settings.
+* **Manage Translation Settings:** Edit the plugin's front-end wording.
+* **Manage License Settings:** View and change your licence key.
+* **Manage Advanced Settings:** Change advanced options, including the option to delete all plugin data.
+
+::: info Each permission opens only its own screen
+Permissions are scoped to the screen they name. Someone with **Manage Translation Settings** can open the Translation screen and nothing else — not your licence key, not Advanced Settings, and not another platform's settings.
+
+The Settings sidebar reflects this too: a manager only sees the tabs their permissions actually open, so there are no dead links to screens they cannot use.
+:::
+
+<!-- TODO: Capture this screenshot and save it at /guide/public/images/management-settings/manager-wp-social-ninja/settings-tabs-scoped.webp
+     Log in as a manager holding only one or two permissions and capture the Settings sidebar, showing that only
+     the permitted tabs are listed. Best captured side by side with an administrator's full sidebar.
+     Then delete these comment markers to publish the image.
+![A manager's Settings sidebar showing only their permitted tabs](/guide/public/images/management-settings/manager-wp-social-ninja/settings-tabs-scoped.webp)
+-->
+
+::: warning
+**Manage Advanced Settings** includes the option that deletes all plugin data. Grant it only to people you would trust with that.
+:::
+
+::: tip
+Reviews and testimonials are separate permissions. If someone needs to work with both — or to rename and delete the [categories](/guide/business-reviews/organize-reviews-with-categories) that both screens share — grant them both.
+:::
+
 ### Step 5: Confirm and Add the Manager
 
 After you have selected the permissions, click the **Confirm** button.

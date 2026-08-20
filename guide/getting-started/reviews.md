@@ -1,6 +1,6 @@
 ---
 title: "Reviews"
-description: "Learn how to manage, filter, and organize all your business reviews from Google, Yelp, Facebook, and other platforms in one central dashboard with WP Social Ninja."
+description: "Learn how to manage, filter, organize, and categorize all your business reviews from Google, Yelp, Facebook, and other platforms in one central dashboard with WP Social Ninja."
 ---
 
 # Reviews
@@ -37,11 +37,39 @@ Instead of managing reviews one by one, you can use **Bulk Actions** to save tim
  * **Mark as Spam:** Move unwanted reviews to the **Spam** folder. This is useful for cleaning up your list without permanently deleting entries.
  * **Not Spam:** If a review was accidentally flagged, use this to move it back to your main list.
  * **Duplicate:** Create copies of selected reviews (primarily used for Custom reviews).
+ * **Assign Category / Remove Category:** Apply or remove a review category across every selected review in one action.
  * **Delete:** Permanently remove the selected reviews from your database.
 
 Click **Apply** after selecting your desired action to execute the changes.
 
 ![The main Reviews dashboard in WP Social Ninja](/guide/public/images/getting-started/reviews/all-reviews-1.webp)
+
+## Organizing Reviews with Categories
+
+Once your review list grows, finding a specific set of reviews gets harder. **Review Categories** give you a reusable label you can apply to any review, from any connected platform, so you can group your reviews the way you actually think about your business — by product line, by service, by location, or by campaign.
+
+### Managing Your Categories
+
+Click the **Manage Categories** button located above your review list to launch the category management panel. From this modal, you can perform the following actions:
+
+ * **Create New Categories:** Type in a custom name to add a new category label.
+ * **Rename Categories:** Edit existing category names to keep your organization up to date.
+ * **Delete Categories:** Remove categories you no longer require. Deleting a category removes the tag from all assigned reviews without deleting the reviews themselves.
+
+Each category displays an active review count directly within the list, giving you immediate visibility into which areas have strong social proof and which need more feedback.
+
+> [!NOTE]
+> The **Manage Categories** button is visible only to users with appropriate permission levels. If the button is missing, contact your site administrator to adjust your account permissions.
+
+![Manage Category](/guide/public/images/getting-started/reviews/manage-categories-2.webp)
+
+### Assigning Categories to Reviews
+
+Select one or more reviews and use **Assign Category** / **Remove Category** from the **Bulk Actions** dropdown to tag or untag them.
+
+Once your reviews are categorized, use **Filter by Category** in your [review template](../business-reviews/create-template#4-filters) settings to display only the reviews from a specific category.
+
+![Assign Category](/guide/public/images/getting-started/reviews/assign-category-3.webp)
 
 ## Managing Individual Reviews
 

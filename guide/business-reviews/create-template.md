@@ -98,7 +98,7 @@ Filters are how you refine your feed to only show the specific reviews you want.
 * **Show/Hide reviews containing these words:** These are moderation tools.
     > **Use Case:** You could use "Show" to create a feed that only mentions "customer service." Or, you could use "Hide" to filter out any reviews that mention a "bug" or "shipping problem."
 * **Filter by Business/Product:** (For WooCommerce/Custom Reviews) This lets you show reviews associated with only one specific product.
-* **Filter by Category:** Show reviews from only the [review categories](../getting-started/reviews) you choose. Categories are a reusable taxonomy you can apply to any review, regardless of platform — not just WooCommerce or Custom Reviews.
+* **Filter by Category:** Show reviews from only the [review categories](../getting-started/reviews#organizing-reviews-with-categories) you choose. Categories are a reusable taxonomy you can apply to any review, regardless of platform — not just WooCommerce or Custom Reviews.
 
 ![Create Review Template](/guide/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-4.webp)
 

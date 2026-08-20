@@ -11,9 +11,9 @@ Unlike the [Business reviews](../business-reviews/) (like [Google](../business-r
 
 This guide will walk you through the entire process, from adding your first testimonial to designing a beautiful template to display it.
 
-::: tip Collect testimonials automatically
-You do not have to type every testimonial in by hand. A [native review form](/guide/business-reviews/native-review-forms) can be set to collect testimonials directly from your customers, including their job title, company and company logo.
-:::
+> [!Note]
+> You do not have to type every testimonial in by hand. A [native review form](/guide/business-reviews/native-review-forms) can be set to collect testimonials directly from your customers, including their job title, company and company logo.
+
 
 ## Part 1: How to Add a New Testimonial
 
@@ -49,7 +49,6 @@ Here is a breakdown of each field:
 * **Date:** Select the date you received the testimonial.
 * **Category:** This is a very useful organizing tool. You can create categories (like "Service Reviews," "Product Feedback," etc.) to group your testimonials. This allows you to create templates that only show testimonials from a specific category. See [Organize Reviews with Categories](/guide/business-reviews/organize-reviews-with-categories) for bulk tagging.
 
-![Testimonials](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-2.webp)
 
 ### Adding a Video Testimonial
 
@@ -58,26 +57,26 @@ A written testimonial is good social proof. A customer saying the same thing on 
 In the **Video** field you can either:
 
 - **Paste a link** to a YouTube or Vimeo video, or a direct link to a video file.
-- **Upload a video** from your WordPress media library using the **Upload** button.
-
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-fields.webp
-     then delete these comment markers to publish the image.
-![The Video and Video Thumbnail fields in the testimonial editor](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-fields.webp)
--->
+- **Upload a video** from your WordPress media library using the **Upload** button. It accepts **MP4**, **WebM**, or **MOV** files.
 
 **About the Video Thumbnail.** If you uploaded a video file, also set a **Video Thumbnail** — this is the image visitors see before they press play. Without one, an uploaded video appears as a black box on your page.
 
 You will only see the Video Thumbnail field when it is needed. YouTube and Vimeo links already carry their own thumbnail, so the field is hidden for those.
 
-::: tip
-Paste the full address including `https://`. A link without it is rejected when you save.
-:::
+> [!Note]
+> Paste the full address including `https://`. A link without it is rejected when you save.
+
+![The Video field in the Add Testimonial](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/testimonials-2.webp)
 
 ### Step 4: Save and Manage Your Testimonials
 
 Click the **Save Testimonial** button. Your testimonial is now saved!
 
 You will be returned to the "All Testimonials" dashboard, where you will see your new entry in a list. From here, you can click the **Edit** or **Delete** buttons to manage your testimonials at any time.
+
+
+![Edit or Delete](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-testimonial-4.webp)
+
 
 ## Part 2: Customizing Your Testimonial Template (General Settings)
 

@@ -88,14 +88,15 @@ In the **General Settings** tab, you manage the form's behavior and determine wh
 Choosing **Testimonial** as your target turns the form into a testimonial collector, which saves you copying feedback in by hand.
 
 1. Set the **Review Target** to **Testimonial**.
-2. Go back to the **Form Fields** tab, where the four author fields are now listed.
-3. Enable the ones you want to ask for, and adjust their labels to suit your audience.
-4. Save the form and place it on your site as usual.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/business-reviews/native-review/testimonial-target.webp
-     then delete these comment markers to publish the image.
-![Setting a review form's target to Testimonial](/guide/public/images/business-reviews/native-review/testimonial-target.webp)
--->
+![Create a Review Form](/guide/public/images/business-reviews/native-review/review-testimonial-5.webp)
+
+
+2. Go back to the **Form Fields** tab, where the four author fields are now listed.
+3. **Enable** the ones you want to ask for, and adjust their labels to suit your audience.
+4. **Save** the form and place it on your site as usual.
+
+![Create a Review Form](/guide/public/images/business-reviews/native-review/form-field-6.webp)
 
 Everything submitted through this form now appears under **WP Social Ninja → All Testimonials**, ready to display with a [testimonial template](/guide/advanced-features/add-testimonials).
 

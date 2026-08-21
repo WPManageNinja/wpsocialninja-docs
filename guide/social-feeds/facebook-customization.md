@@ -62,34 +62,24 @@ This section controls the visual structure and arrangement of your posts.
 * **Number of Columns:** This is a crucial responsive setting. You can set the number of columns to show on **Desktop**, **Tablet**, and **Mobile** devices.
 * **Columns Gap:** This controls the amount of "gutter" or empty space (in pixels) between each post in your feed. Increase this for a more spaced-out, airy look, or decrease it to make the posts tighter.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/template-picker.webp
-     then delete these comment markers to publish the image.
-![Choosing a Facebook feed template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/template-picker.webp)
--->
+![The Template section's Select a Template picker showing Classic Post, Media First, Profile Card, and Overlay Card](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-3.webp)
+
 
 #### What the Pro Layouts Look Like
 
-**Profile Card** puts a summary of your Page — profile picture, name and statistics — in a card above the posts.
+**Profile Card** puts a summary of your Page profile picture, name and statistics in a card above the posts.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/profile-card.webp
-     Capture a live Facebook feed using the Profile Card template, with the summary card visible above the posts.
-     Then delete these comment markers to publish the image.
-![A Facebook feed using the Profile Card template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/profile-card.webp)
--->
+![The Profile Card template on the frontend, with a page summary card above the regular post cards](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/profile-card-4.webp)
 
 **Overlay Card** arranges your media into a mosaic of tiles of varying sizes, and reveals each post's text over the tile on hover.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/overlay-card-mosaic.webp
-     Capture the Overlay Card mosaic with the cursor resting on one tile, so the post text overlay is visible.
-     Then delete these comment markers to publish the image.
-![A Facebook feed using the Overlay Card mosaic template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/overlay-card-mosaic.webp)
--->
+![The Overlay Card template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/overlay-card-5.webp)
+
 
 #### Sorting and Order
 
 Use the Order dropdown to control how your posts are displayed. Along with standard options like **Newest**, **Oldest**, and **Random**. You can also choose **Facebook Event Default** to prioritize posts using Facebook’s native event-ordering logic.
 
-![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-3.webp)
 
 ### 3. Filters
 
@@ -166,24 +156,20 @@ This section controls the content and links inside each individual post card.
 This section controls the large banner at the top of your entire feed, which displays your main Page information.
 
 * **Display Header:** This is the master on/off switch for the entire header section. Toggle it off if you want a bare feed with no title.
+* **Account to Display:** If your feed is set up to show posts from multiple Pages at once, this setting lets you choose which one Page's info (cover photo, name, etc.) to show in the header.
 * **Header Layout:** Choose how much of your Page information the header shows.
     * **Classic:** The full banner — cover photo, profile picture, page name, description and follower count.
     * **Minimal:** A compact single row with just your profile photo and page name. Good when the feed sits inside a sidebar or a narrow column, or when a large banner would compete with the rest of your page.
-* **Account to Display:** If your feed is set up to show posts from multiple Pages at once, this setting lets you choose which one Page's info (cover photo, name, etc.) to show in the header.
 * **Display Toggles:** These let you show or hide the different parts of the header:
     * Display Cover Photo (Your Page's large banner image)
     * Display Profile Photo (Your Page's square logo/picture)
     * Display Page Name
     * Display Description (Your Page's "About" info)
     * Display Likes Counter (The total number of likes your Page has)
+    * Display Followers Counter (The total number of followers your Page has)
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/minimal-header.webp
-     Capture a Facebook feed with Header Layout set to Minimal, so the compact profile-photo-and-name row is visible above the posts.
-     Then delete these comment markers to publish the image.
-![A Facebook feed using the Minimal header layout](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/minimal-header.webp)
--->
 
-![Facebook Feed Template](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/fb-template-general-6.webp)
+![The Header section expanded, with Display Header, Account to Display, Header Layout, and the display toggles including Display Followers Counter](/guide/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/display-header-6.webp)
 
 ### 6. Like Button
 

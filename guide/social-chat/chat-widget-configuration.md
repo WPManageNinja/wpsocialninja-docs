@@ -9,7 +9,7 @@ Have you ever wanted to add Messenger, WhatsApp, or any other social chat platfo
 
 This powerful feature allows you to integrate **popular chat platforms** like Messenger, WhatsApp, Telegram, Instagram, Twitter, Slack, and many more. The setup is secure, privacy-friendly, and designed to keep your communication seamless.
 
-The video below walks through the same setup flow using Viber as the example channel — the steps are identical for every other channel covered on this page.
+The video below shows the setup process using Viber as an example. The same steps apply to all other channels covered in this guide.
 
 <iframe src="https://www.youtube.com/embed/4x0D-YqfY0c" title="How to Add Viber Chat Widget to WordPress in 5 Minutes" allowfullscreen></iframe>
 

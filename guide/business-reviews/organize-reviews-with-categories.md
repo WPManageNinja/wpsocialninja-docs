@@ -33,7 +33,7 @@ Your categories then appear as small tags in the **Categories** column of the re
 
 ![Category tags in the reviews table](/guide/public/images/business-reviews/organize-reviews/preview-3.webp)
 
-## Tag Many Reviews at Once
+## Bulk Tagging & Category Management
 
 If you're organizing an existing collection of reviews, tagging them one at a time is slow. Use the bulk action instead.
 
@@ -87,15 +87,17 @@ You can read more about building templates in [Create Templates](./create-templa
 
 ## Categories in CSV Files
 
-Categories travel with your reviews when you [export and import](../import-export-migration/export-import-custom-reviews) them, which is the fastest way to organize a large collection — export your reviews, fill in the categories in a spreadsheet, and import the file back.
+Categories travel directly with your reviews when you [export and import](../import-export-migration/export-import-custom-reviews) them, making spreadsheets the fastest way to organize massive collections.
 
-Your CSV has a `category` column. Because a review can hold several categories, list them in that one cell separated by a **vertical bar**:
+ * **Formatting Multiple Categories:** Your CSV features a dedicated category column. To assign several categories to one review, list them in that single cell separated by a **vertical bar**.
 
-```
-Home|About
-```
+ ```
+ Home|About
+ ```
 
-A review with a single category just needs the one name, with no bar. Any category in your file that doesn't exist yet is created for you during the import, so you don't have to set them up first. You can download a sample CSV from the **Import** screen to see the format.
+ * **Single Categories:** A review with only one category just needs the name with no bar.
+
+ * **Auto-Creation:** Any category listed in your file that doesn't exist on your site yet is automatically created for you during the **import**.
 
 > [!Note]
 > Use the vertical bar `|` rather than a comma. A comma would be read as part of the category name, so `Home, About` would create one category actually called "Home, About".

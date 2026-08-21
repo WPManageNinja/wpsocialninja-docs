@@ -40,14 +40,19 @@ The **Form Fields** tab is where you determine what information you want to coll
 * **Upload Photos:** Enable this toggle to allow customers to upload images along with their reviews, providing valuable visual social proof.
 * **Privacy Policy Agreement:** You can add required checkboxes for **Privacy Policy** (with a custom URL) and a **Permission** statement to ensure you have the right to display the review publicly.
 
-**Testimonial fields.** Four more fields become available when your form's target is set to **Testimonial** (see [Step 4](#step-4-configure-general-settings-targets)):
+#### Testimonial fields
+
+Four more fields become available when your form's target is set to **Testimonial**. (see [Step 4](#step-4-configure-general-settings-targets)):
 
 * **Your Position:** The submitter's job title, e.g. "Marketing Manager".
 * **Company:** The name of their company.
 * **Company Website:** A link to their company's website.
 * **Company Logo:** A single image upload for their company logo, up to 2 MB.
 
-These are hidden on forms with any other target, since they only make sense on a testimonial.
+
+> [!Note]
+> These are hidden on forms with any other target, since they only make sense on a testimonial.
+
 
 ### Field Controls
 

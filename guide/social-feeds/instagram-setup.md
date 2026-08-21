@@ -36,7 +36,7 @@ This is the most important step. The Accounts settings tell WP Social Ninja from
 * **Select Account(s):** If you've connected more than one Instagram account to WP Social Ninja, this dropdown is where you'll pick the one you want to use for this template.
 * **Fetch Feeds:** This is a refresh button. If you've just made a new post on Instagram and want to see it in the preview right away, click this button to force the plugin to check for new content.
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-1.webp)
+![The Accounts section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/accounts-1.webp)
 
 ### 2. Layout
 
@@ -54,41 +54,33 @@ This section controls the visual structure and arrangement of your posts.
     * **Pin Card:** *(Pro)* A Pinterest-style card treatment that works especially well with the Masonry layout.
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
     * *Example: You might choose 4 columns for Desktop, 3 for Tablet, and 2 for Mobile. This ensures your feed always looks great and is easy to read.*
-* **Columns Gap:** This controls the amount of empty space (in pixels) between each post. Increase this number to give your posts more "breathing room," or set it to `0` to have them all touch.
+* **Columns Gap:** Pick how much space appears between each post from the dropdown, or leave it at **Default**.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/template-picker.webp
-     then delete these comment markers to publish the image.
-![Choosing an Instagram feed template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/template-picker.webp)
--->
+Only three template skins show at first (with a **See All** link for the rest); expand it to see all four, including **Pin Card**.
+
+![Layout types and template skins in the Layout section](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/layout-2.webp)
 
 #### What the Pro Layouts Look Like
 
-**Overlay Card** keeps the grid purely visual, bringing the caption and engagement counts over the image only when a visitor hovers.
+* **Overlay Card:** The **Overlay Card** layout keeps the focus on your images by displaying posts in a clean visual grid. The caption and engagement information remain hidden until a visitor hovers over an image. When the visitor moves the cursor over a post, the additional information appears as an overlay.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/overlay-card.webp
-     Capture a live Instagram feed on the Overlay Card template with the cursor resting on one tile, so the caption overlay is visible.
-     Then delete these comment markers to publish the image.
-![An Instagram feed using the Overlay Card template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/overlay-card.webp)
--->
+This layout is a good choice when you want your feed to look simple and image focused.
 
-**Pin Card** gives each post a card with its caption below, sized to its content — pair it with the Masonry layout.
+![Overlay Card template selected](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/overlay-card-3.webp)
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pin-card.webp
-     Capture the Pin Card template on a Masonry layout, so the varying card heights are visible.
-     Then delete these comment markers to publish the image.
-![An Instagram feed using the Pin Card template](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pin-card.webp)
--->
+* **Pin Card:** The **Pin Card** layout displays each social media post inside an individual card. The image appears at the top, while the post caption is shown below it. The card automatically adjusts its height based on the amount of content in the caption.
 
-**Highlights** renders a slim row of circular thumbnails instead of a grid.
+This layout works especially well with the Masonry layout, where cards can have different heights while maintaining an organized appearance.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/highlights-layout.webp
-     Capture a feed with Layout Type set to Highlights, showing the row of circular thumbnails.
-     Then delete these comment markers to publish the image.
-![An Instagram feed using the Highlights layout](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/highlights-layout.webp)
--->
+![Pin Card template selected](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pin-card-4.webp)
 
+* **Highlights:** The **Highlights** layout displays your social media posts as a horizontal row of circular thumbnails instead of the standard grid. This layout is useful when you want to show multiple posts in a compact space without taking up much room on the page.
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-2.webp)
+> [!NOTE]
+> The **Highlights** layout does not appear correctly in the editor preview. The preview will continue to show the regular grid layout. After saving your template, open the page on your website to see the actual circular thumbnail layout.
+
+![Highlights layout selected, editor preview unchanged](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/highlights-5.webp)
+
 
 ### 3. Filters
 
@@ -103,7 +95,7 @@ Filters are how you refine your feed to exclude content you don't want or only s
     * *Example (Hide): You run a lot of giveaways. You could enter `#giveaway, #contest, #ad` into the "Hide" field to automatically hide all those posts from your website feed.*
 * **Hide Specific Feeds:** This allows you to manually hide one or more specific posts by pasting in their unique Post ID (a long string of numbers you can get from the post's URL).
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-3.webp)
+![The Filters section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/filters-6.webp)
 
 ### 4. Post
 
@@ -119,7 +111,7 @@ This section controls the content and links inside each individual post card.
 * **Display Likes Count:** This is an On/Off toggle to show or hide the total number of "likes" for each post.
 * **Display Comments Count:** This is an On/Off toggle to show or hide the total number of comments for each post.
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-4.webp)
+![The Post section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/post-7.webp)
 
 ### 5. Shoppable Feed Settings
 
@@ -137,20 +129,20 @@ The Shoppable Feed section turns your Instagram feed into a powerful e-commerce 
     * Once you set this up, the "Include Shoppable by Hashtags" toggle will use these rules to automatically create your links.
 * **Display Shoppable Icon:** This is a simple visual toggle. When turned **On**, a small "shopping bag" icon will appear over any post in your feed that has a shoppable link attached to it.
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-5.webp)
+![The Shoppable Feed section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/shoppable-8.webp)
 
 ### 6. Header
 
 This section controls the large banner at the top of your entire feed, which displays your main Instagram profile information.
 
 * **Display Header:** This is the master on/off switch for the entire header section. Toggle it off if you just want to show the posts and nothing else.
-* **Header Layout:** Choose how much profile information the header shows.
-    * **Classic:** The full profile block — photo, username, bio, and your post and follower counts.
-    * **Minimal:** A compact single row with just your profile photo and username. Useful in a sidebar or anywhere a full profile block would take up too much room.
 * **Account to Display:** If your feed is showing posts from multiple accounts, this lets you choose which one account's info to show in the header.
+* **Header Layout:** Choose how much profile information the header shows.
+    * **Classic:** The full profile block: photo, username, bio, and your post and follower counts.
+    * **Minimal:** A compact single row with just your profile photo and username. Useful in a sidebar or anywhere a full profile block would take up too much room.
 * **Display Toggles:** These let you show or hide the different parts of your profile. This is great for creating a "mini-profile" on your website.
     * **Display Profile Photo:** Display your profile photo in the feed
-    * **Display User Name** (Your @username)
+    * **Display Username** (Your @username)
     * **Display Full Name:** Show your full name in the field
     * **Display Bio Text** (Your Instagram profile biography)
     * **Display Posts Count** (Total posts you've made)
@@ -158,13 +150,8 @@ This section controls the large banner at the top of your entire feed, which dis
 * **Custom Profile Photo:** Upload a custom image to use as your profile photo in the feed header.
 * **Custom Bio Text:** Write custom text to use as your bio in the feed header.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/minimal-header.webp
-     Capture an Instagram feed with Header Layout set to Minimal, so the compact profile-photo-and-username row is visible above the posts.
-     Then delete these comment markers to publish the image.
-![An Instagram feed using the Minimal header layout](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/minimal-header.webp)
--->
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-6.webp)
+![The Header section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/header-9.webp)
 
 ### 7. Follow Button
 
@@ -174,7 +161,7 @@ This adds a "Follow" call-to-action button to your feed, helping you get more In
 * **Follow Button Position:** You can place the button in the **Header** (at the top of the feed) or the **Footer** (at the bottom, after all the posts).
 * **Button Text:** You can customize the text on the button. For example, instead of "Follow," you could change it to "Follow Us on Instagram."
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-7.webp)
+![The Follow Button section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/follow-button-10.webp)
 
 ### 8. Pagination
 
@@ -192,10 +179,6 @@ Pagination controls what happens when a visitor gets to the bottom of the initia
     * They click "Load More."
 
 
-![Instagram Feed Template Settings](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/instagram-template-8.webp)
+![The Pagination section of the Instagram template editor](/guide/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/pagination-11.webp)
 
-## Next Steps
 
-Now that you have configured all the General settings for what your feed shows, your next step is to make it beautiful!
-
-Click on the **Style** tab to customize all the colors, fonts, and borders.

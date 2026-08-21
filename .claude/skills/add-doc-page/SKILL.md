@@ -38,10 +38,11 @@ Rules:
 - Match the surrounding pages' beginner-friendly, second-person tone.
 - Internal links: relative, no `.md` — e.g. `[Google reviews](../business-reviews/google-configuration)`. Section overviews: `/guide/<section>/`.
 - Callouts: `> [!NOTE]` or `::: tip … :::`.
+- Do not use hyphens, em dashes, or similar dash characters between sentences. Use proper punctuation (periods, commas, colons) instead.
 
 ## Step 2 — Add screenshots
 
-Store images in `guide/public/images/<section>/<page-slug>/` and reference them by **absolute path** starting `/guide/public/images/…` (the `guide/public` folder is copied verbatim into the build). Prefer `.webp`. Always include real alt text.
+Store images in `guide/public/images/<section>/<page-slug>/` and reference them by **absolute path** starting `/guide/public/images/…` (the `guide/public` folder is copied verbatim into the build). Prefer `.webp`. Always include real alt text. Keep image file names short and descriptive (e.g. `save-template.webp`, not `screenshot-of-the-save-template-button-final-v2.webp`).
 
 ## Step 3 — Register it in the sidebar (REQUIRED)
 

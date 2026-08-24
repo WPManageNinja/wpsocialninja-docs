@@ -56,31 +56,17 @@ This section controls the visual structure and arrangement of your videos.
     * *Example: You might choose 4 columns for Desktop, 2 for Tablet, and 1 for Mobile. This ensures your feed is always easy to see and interact with, no matter the screen size.*
 * **Columns Gap:** This controls the amount of empty space (in pixels) between each video in your feed. Increase this number to give your videos more "breathing room," or set it to `0` to have them all touch.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/template-picker.webp
-     then delete these comment markers to publish the image.
-![Choosing a TikTok feed template](/guide/public/images/social-feeds/tiktok-feed-template/template-picker.webp)
--->
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-3.webp)
 
 #### What the Pro Layouts Look Like
 
-**Overlay Card** keeps the grid purely visual, bringing the caption and view counts over the thumbnail only on hover.
+**Overlay Card**: Keeps your grid clean and visual. The text and view count only appear when a visitor hovers their mouse over the video.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/overlay-card.webp
-     Capture a live TikTok feed on the Overlay Card template with the cursor resting on one tile, so the caption overlay is visible.
-     Then delete these comment markers to publish the image.
-![A TikTok feed using the Overlay Card template](/guide/public/images/social-feeds/tiktok-feed-template/overlay-card.webp)
--->
+![Template Template overlaycard](/guide/public/images/social-feeds/tiktok-feed-template/overlaycard-template-3.webp)
 
-**Spotlight Hero** gives your newest video a large hero tile with the rest of the feed arranged around it.
+**Spotlight Hero**: Makes your newest video much larger to grab attention, with the rest of your videos arranged neatly around it.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/spotlight-hero.webp
-     Capture the Spotlight Hero template showing the oversized lead tile alongside the smaller surrounding tiles.
-     Then delete these comment markers to publish the image.
-![A TikTok feed using the Spotlight Hero template](/guide/public/images/social-feeds/tiktok-feed-template/spotlight-hero.webp)
--->
-
-
-![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-3.webp)
+![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/spotlight-hero-template-3.webp)
 
 ### 3. Filters
 
@@ -150,11 +136,6 @@ This section controls the large banner at the top of your entire feed, which dis
     * **Display Following Count** (How many people you are following)
     * **Display Likes Count:** This is a key TikTok metric. It shows the TOTAL number of likes your entire profile has ever received.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/tiktok-feed-template/minimal-header.webp
-     Capture a TikTok feed with Header Layout set to Minimal, showing the compact profile-photo-and-name row and the profile photo border styling.
-     Then delete these comment markers to publish the image.
-![A TikTok feed using the Minimal header layout](/guide/public/images/social-feeds/tiktok-feed-template/minimal-header.webp)
--->
 
 ![Template Template](/guide/public/images/social-feeds/tiktok-feed-template/tiktok-template-6.webp)
 

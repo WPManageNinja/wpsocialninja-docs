@@ -35,9 +35,9 @@ This section is the most important setting in your template. It controls what co
     * **Example (Handle):** `https://www.youtube.com/@yourchannel`
     * **Example (ID):** `https://www.youtube.com/channel/UC...`
     * **Example (Username):** `https://www.youtube.com/user/yourname`
-* **Total Feed:** Set the maximum number of videos to fetch from YouTube. The maximum is 200. (Note: This is different from the number of videos shown on first load, which is controlled by Pagination).
+* **Total Feed:** Set the maximum number of videos to fetch from YouTube. The maximum is 200. (Note: This is different from the number of videos shown on first load, which is controlled by the **Number of Videos to Display** setting in the Filters section).
 
-![Source settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/source.webp)
+![Source settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/source-2.webp)
 
 ### 2. Template
 
@@ -54,42 +54,29 @@ This section controls the foundational layout and visual structure of your YouTu
     * **Text-Top Card:** *(Pro)* Puts the video title above the thumbnail rather than below it.
     * **Player & Playlist:** *(Pro)* A large player with a scrollable playlist of your other videos beside it, so visitors can watch without leaving the page.
 * **Number of Columns:** Set the number of columns for Desktop, Tablet, and Mobile.
-* **Columns Gap:** This controls the space (in pixels) between each video.
-
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/template-picker.webp
-     then delete these comment markers to publish the image.
-![Choosing a YouTube feed template](/guide/public/images/social-feeds/youtube-feed-template/template-picker.webp)
--->
+* **Columns Gap:** Choose a preset spacing amount from the dropdown to control the space between each video.
 
 ::: info
 **Player & Playlist** builds its own layout, so the Number of Columns and column gap settings do not apply when you choose it.
 :::
 
-![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/template.webp)
+![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/template-3.webp)
 
-#### What the Pro Layouts Look Like
+#### Pro Layouts 
 
-**Text-Top Card** places each video's title above its thumbnail instead of below.
+**Text-Top Card:** Puts the video title above the image instead of underneath it.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/text-top-card.webp
-     Capture a live YouTube feed on the Text-Top Card template, showing titles sitting above the thumbnails.
-     Then delete these comment markers to publish the image.
-![A YouTube feed using the Text-Top Card template](/guide/public/images/social-feeds/youtube-feed-template/text-top-card.webp)
--->
+![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/text-top-card-4.webp)
 
-**Player & Playlist** pairs one large player with a scrollable list of your other videos, so visitors watch without leaving your page.
+**Player & Playlist:** Shows one big video player alongside a scrolling list of your other videos, letting visitors watch everything right on your website.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/player-playlist.webp
-     Capture the Player & Playlist template with the main player on the left and the scrollable playlist beside it.
-     Then delete these comment markers to publish the image.
-![A YouTube feed using the Player & Playlist template](/guide/public/images/social-feeds/youtube-feed-template/player-playlist.webp)
--->
+![Template layout settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/playe-and-playlist-5.webp)
 
 #### Carousel Settings
 
 When you set your Layout Type to **Carousel** in the **Template** section, this new panel appears. It allows you to customize the behavior and controls of the carousel slider.
 
-![carousel Template](/guide/public/images/social-feeds/youtube-feed-template/select-carousel.webp)
+![carousel Template](/guide/public/images/social-feeds/youtube-feed-template/select-carousel-6.webp)
 
 * **Autoplay:** This toggle enables or disables the automatic sliding of the carousel. Turn it **ON** if you want the carousel to slide automatically.
 * **Autoplay Speed:** This field sets the time (in milliseconds) between each automatic slide. For example, 3000 equals 3 seconds.
@@ -102,7 +89,7 @@ When you set your Layout Type to **Carousel** in the **Template** section, this 
 
 * **Space Between:** This slider controls the amount of empty space (in px) between each video slide in the carousel.
 
-![carousel Template Settings](/guide/public/images/social-feeds/youtube-feed-template/carousel-settings.webp)
+![carousel Template Settings](/guide/public/images/social-feeds/youtube-feed-template/carousel-settings-7.webp)
 
 ### 3. Filters
 
@@ -120,7 +107,7 @@ The Filters section helps you control which videos appear in your YouTube feed a
 * **Hide Specific Videos:** Enter the YouTube video IDs of any videos you don’t want displayed in your feed. This gives you precise control over what appears publicly.
 * **Cache Settings (Optional):** Set how often the plugin refreshes data from YouTube. You can choose time intervals like 6 hours, 12 hours, or 1 day to balance performance and freshness.
 
-![Filter settings](/guide/public/images/social-feeds/youtube-feed-template/filter.webp)
+![Filter settings](/guide/public/images/social-feeds/youtube-feed-template/filter-8.webp)
 
 ### 4. Video
 
@@ -146,7 +133,7 @@ This section controls how individual video posts appear in your YouTube feed. It
 * **Display Channel Name:** Toggles the visibility of the YouTube channel name under each video.
 * **Display Call To Action Button:** Adds a “Watch Now” button below the video, encouraging viewers to engage.
 
-![Video content display settings](/guide/public/images/social-feeds/youtube-feed-template/video.webp)
+![Video content display settings](/guide/public/images/social-feeds/youtube-feed-template/video-9.webp)
 
 
 ### 5. Header
@@ -167,41 +154,19 @@ This section controls the main banner area that appears at the top of your entir
 * **Display Subscribe Button:** Shows or hides a “Subscribe” button within the header, allowing users to subscribe directly from the feed.
 * **Upload Custom Banner:** Allows you to manually upload your own banner image to replace the default YouTube channel banner.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/social-feeds/youtube-feed-template/minimal-header.webp
-     Capture a YouTube feed with Header Layout set to Minimal, so the compact logo-and-channel-name row is visible above the videos.
-     Then delete these comment markers to publish the image.
-![A YouTube feed using the Minimal header layout](/guide/public/images/social-feeds/youtube-feed-template/minimal-header.webp)
--->
 
-![Header settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/header.webp)
+![Header settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/header-10.webp)
 
 ### 6. Subscribe Button
 
 This adds a "Follow" button at the top or bottom of your feed.
 
 * **Display Subscribe button:** click to the toogle button to show the subscribe button.
-* **Subscribe Button Position:** Choose where the button appears from the dropdown options: **Header** **Footer** or **Both**.
+* **Subscribe Button Position:** Choose where the button appears from the dropdown options: **Header** **Footer** or **Both**.  
 * **Button Text:** Customize the text on the button (e.g., "Follow Us on YouTube").
 
 ![Subscribe Button settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/subscribe-button.webp)
 
-### 7. Pagination
-
-Pagination controls what happens when a visitor reaches the end of the first set of videos.
-
-* **Pagination Type:**
-    * **None:** The feed will only show the "Number of Feeds to Display." No more videos can be loaded.
-    * **Load More:** This adds a button at the bottom of your feed.
-    * **Prev Next:** This button allows the user to move forward or backward to the immediately following page in the sequence. 
-
-
-> **Example:**
-> * You set **Number of Feeds to Display** (in Filters) to **8**.
-> * You set **Videos Per Page** (in Pagination) to **4**.
-> * When your page loads, visitors will see 8 videos.
-> * When they click "Load More," 4 new videos will appear (for a total of 12).
-
-![Pagination settings for the YouTube feed](/guide/public/images/social-feeds/youtube-feed-template/pagination.webp)
 
 ## Next Steps
 

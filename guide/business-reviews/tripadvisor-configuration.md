@@ -10,9 +10,11 @@ WP Social Ninja integrates with Tripadvisor so you can collect reviews from your
 Tripadvisor connections use an **API key** together with your listing's **Place ID**. Both come from Tripadvisor, and this guide walks you through getting each one and saving them in WP Social Ninja.
 
 ::: warning Tripadvisor is retiring its old developer platform
-Tripadvisor is switching off its old Content API on **31 August 2026**. If you connected Tripadvisor before this, your existing key keeps working right up until that date — nothing breaks today and you are not forced to reconnect.
+Tripadvisor is switching off its old Content API on **31 August 2026**. If you connected Tripadvisor before this, your existing key keeps working right up until that date nothing breaks today and you are not forced to reconnect.
 
-To stay connected after that date, create a new key on the current Tripadvisor developer platform and save it over the old one. WP Social Ninja detects which platform your key belongs to automatically, so there is no setting to change and no need to remove and re-add your business. See [Moving an Older Connection](#moving-an-older-connection) below.
+To stay connected after that date, create a new key on the current Tripadvisor developer platform and save it over the old one. 
+
+WP Social Ninja detects which platform your key belongs to automatically, so there is no setting to change and no need to remove and re-add your business. See [Moving an Older Connection](#moving-an-older-connection) below.
 :::
 
 ## Get Your Tripadvisor API Key
@@ -33,7 +35,7 @@ In the API Key restriction section, enter your domain name and click **Save**.
 
 Once the form is complete your API key is generated, along with the domain you registered for it. Click **Copy to Clipboard** to copy the key.
 
-![Copying the generated Tripadvisor API key](/guide/public/images/business-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/image.png)
+![Copying the generated Tripadvisor API key](/guide/public/images/business-reviews/tripadvisor-configuration-social-reviews-wp-social-ninja/myapikey-4.webp)
 
 ::: tip
 Tripadvisor's free plan requires billing details before it will issue a key. Check their current pricing page for what the free allowance covers, since Tripadvisor changes these limits from time to time.

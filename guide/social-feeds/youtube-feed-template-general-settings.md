@@ -120,6 +120,12 @@ This section controls how individual video posts appear in your YouTube feed. It
     * **In-line:** Plays the video directly inside the feed layout.
     * **YouTube Player:** Redirects the visitor to watch the video on YouTube.
     * *(Gallery mode available in Pro version)*
+* **Play with Fluent Player:** *(Appears if you also use Fluent Player)* Turn this on to play your feed's videos in Fluent Player instead of the default YouTube player.
+* **Player Design:** *(Appears if Play with Fluent Player is enabled)* Pick one of your existing Fluent Player designs, and your feed's videos reuse its design and its layers, such as a [call to action](https://docs.fluentplayer.com/cta-and-action-bar) or an [email capture](https://docs.fluentplayer.com/email-capture) form. Defaults to **Default player design**.
+* **Show Layers at Video End:** *(Appears if Play with Fluent Player is enabled)* Turn this on to display your chosen Player Design's layers once a video finishes playing.
+
+![Video content display settings with Play with Fluent Player enabled](/guide/public/images/social-feeds/youtube-feed-template/play-with-fluentplayer-9.webp)
+
 * **Display Title:** Toggles the visibility of each video’s title.
 * **Trim Title Words:** Allows you to limit how many words appear in the video title (helpful for keeping your layout neat).
 * **Display Play Icon:** Enables or disables the play button overlay on the video thumbnail.
@@ -132,6 +138,10 @@ This section controls how individual video posts appear in your YouTube feed. It
 * **Display Description:** Shows a short text description for each video, if available.
 * **Display Channel Name:** Toggles the visibility of the YouTube channel name under each video.
 * **Display Call To Action Button:** Adds a “Watch Now” button below the video, encouraging viewers to engage.
+
+::: info
+The template editor preview never shows Fluent Player. Check the real page on your site to see the finished result.
+:::
 
 ![Video content display settings](/guide/public/images/social-feeds/youtube-feed-template/video-9.webp)
 

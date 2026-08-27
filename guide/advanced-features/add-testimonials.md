@@ -146,12 +146,9 @@ By default, WP Social Ninja uses the most sensible player for each video: an upl
 If you also use **Fluent Player**, two extra options appear:
 
 * **Play with Fluent Player:** Turn this on to play your testimonial videos in Fluent Player instead of the default player.
-* **Player Design:** Pick one of your existing Fluent Player videos, and these testimonials reuse its design and its layers — such as a call to action or an email capture form.
+* **Player Design:** Pick one of your existing Fluent Player videos, and these testimonials reuse its design and its layers — such as a title banner, a call to action, or an email capture form.
 
-<!-- TODO: Capture this screenshot and save it at /guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-frontend.webp
-     then delete these comment markers to publish the image.
-![Video testimonials playing on the front end](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-frontend.webp)
--->
+![Video testimonials playing on the front end with a Fluent Player design applied](/guide/public/images/advanced-features/how-to-add-testimonials-with-wp-social-ninja/video-testimonial-2.webp)
 
 ::: info
 The template editor preview never shows Fluent Player. Check the real page on your site to see the finished result.

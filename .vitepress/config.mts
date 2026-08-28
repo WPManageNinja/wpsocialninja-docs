@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { zoomablePlugin } from './theme/markdown-plugin-zoomable'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -18,6 +19,9 @@ export default defineConfig({
 
   markdown: {
     config: (md) => {
+      // Click-to-zoom for every markdown image
+      md.use(zoomablePlugin)
+
       const defaultRender = md.renderer.rules?.link_open ?? ((tokens, idx, options, env, self) =>
         self.renderToken(tokens, idx, options))
       md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
@@ -582,6 +586,26 @@ export default defineConfig({
 
     footer: {
       copyright: 'Copyright © 2026 WP Social Ninja'
+    }
+  },
+
+  // Images in this repo live under `guide/public/` which is NOT a Vite publicDir —
+  // every markdown `<img src>` is put through Vite's asset pipeline and emitted to
+  // /assets/<name>.<hash>.webp. Moving the src onto <ZoomableImage src="..."> would
+  // take it out of that pipeline, so the files would never be emitted and every image
+  // would 404 in the production build. Teaching the transform about the component's
+  // `src` prop keeps the images going through the exact same pipeline as before.
+  // NOTE: supplying a tag map REPLACES the defaults, so they are repeated here.
+  vue: {
+    template: {
+      transformAssetUrls: {
+        video: ['src', 'poster'],
+        source: ['src'],
+        img: ['src'],
+        image: ['xlink:href', 'href'],
+        use: ['xlink:href', 'href'],
+        ZoomableImage: ['src']
+      }
     }
   },
 

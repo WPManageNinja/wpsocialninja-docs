@@ -7,6 +7,11 @@ export default defineConfig({
   description: "Complete documentation for WP Social Ninja - Social Feeds, Reviews & Chat Widget",
   base: '/',
 
+  // Repo-internal docs live at the project root, so VitePress would otherwise
+  // build them as public pages (/CLAUDE.html, /README.html) and list them in
+  // sitemap.xml. They are not user documentation -- keep them out of the site.
+  srcExclude: ['CLAUDE.md', 'README.md'],
+
   sitemap: {
     hostname: 'https://docs.wpsocialninja.com'
   },
@@ -45,7 +50,6 @@ export default defineConfig({
     
     nav: [
       { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
-      { text: 'Dev Docs', link: 'https://developers.wpsocialninja.com' },
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
       { text: 'Website', link: 'https://wpsocialninja.com' },
     ],

@@ -31,7 +31,6 @@ Tripadvisor's free tier is called **Discover**, and it is enough to run a full r
 | --- | --- |
 | **Reviews delivered per sync** | The **3 most recent** |
 | **Reviews you can display on your site** | **No limit** — they build up with every sync |
-| **Photos delivered per sync** | The **5 most recent** |
 | Star rating and ranking | Included |
 | Cost | Free — 1,000 syncs per month included |
 

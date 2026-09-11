@@ -95,3 +95,17 @@ Nest it inside the correct section/sub-section object. Section index pages use a
 - After non-trivial content changes, run `npm run docs:build` to catch broken syntax, and/or `npm run docs:dev` to eyeball rendering.
 - When a task spans many pages (audits, bulk edits, "which pages mention X"), prefer the context-mode tools (`ctx_batch_execute`, `ctx_execute`) over dumping large greps into context.
 - Reusable procedures for this repo are captured as skills in `.claude/skills/` — check there first (e.g. adding a page, previewing the site).
+
+## Featured (social-share) images
+
+Every page has its own link-preview card — the image Slack, X, LinkedIn and Facebook show when a docs URL is shared. Cards are **generated, not designed by hand**: `scripts/generate-featured-images.mjs` renders a branded 1200×630 PNG carrying the page's title and section into `public/images/featured/`, and the VitePress config (`featuredImageFor()`) points each page's `og:image` / `twitter:image` at it. A page with no card falls back to `default.png`.
+
+```bash
+npm run featured:generate     # render cards for pages that don't have one yet (idempotent)
+npm run featured:regenerate   # re-render every card (after changing the generator's design)
+```
+
+- Run `npm run featured:generate` after adding a page and commit the PNG alongside it.
+- If you rename or retitle a page, delete its old card first and run the generator again — it skips existing files and only *reports* orphans, it never deletes them.
+- Card naming rule: the page's served path (after `rewrites`) minus `.md`, with `/` replaced by `--`, plus `.png`. It lives in both the script (`cardNameFor()`) and the config (`featuredImageFor()`) — change one, change the other.
+- These PNGs are the deliberate exception to any "images must be `.webp`" rule in this repo: social scrapers expect PNG/JPEG.

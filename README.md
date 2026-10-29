@@ -57,7 +57,7 @@ Then open the URL printed in the terminal (default **http://localhost:5173**).
 ```
 .
 ├── index.md                     # Homepage (VitePress "home" layout)
-├── guide/                       # All documentation pages, grouped by section
+├── docs/                        # All documentation pages (served at /guide/... via `rewrites`)
 │   ├── getting-started/
 │   ├── social-feeds/
 │   ├── business-reviews/
@@ -83,7 +83,7 @@ Contributions to improve the docs are welcome!
 
 ### Editing an existing page
 
-1. Find the page under `guide/<section>/`.
+1. Find the page under `docs/<section>/`.
 2. Edit the Markdown and preview with `npm run docs:dev`.
 3. Open a pull request.
 
@@ -91,7 +91,7 @@ Contributions to improve the docs are welcome!
 
 Adding a page takes **three** steps — the last one is easy to forget:
 
-1. **Create** `guide/<section>/<file-slug>.md` with frontmatter and a single `# H1`:
+1. **Create** `docs/<section>/<file-slug>.md` with frontmatter and a single `# H1`:
    ```markdown
    ---
    title: "Your Page Title"
@@ -104,9 +104,9 @@ Adding a page takes **three** steps — the last one is easy to forget:
 
    ## First Step
 
-   ![Descriptive alt text](/guide/public/images/<section>/<page-slug>/screenshot.webp)
+   ![Descriptive alt text](/docs/public/images/<section>/<page-slug>/screenshot.webp)
    ```
-2. **Add screenshots** under `guide/public/images/<section>/<page-slug>/` and reference them with absolute paths starting `/guide/public/images/…`. `.webp` is preferred.
+2. **Add screenshots** under `docs/public/images/<section>/<page-slug>/` and reference them with absolute paths starting `/docs/public/images/…`. `.webp` is preferred.
 3. **Register it in the sidebar** — add an entry in `.vitepress/config.mts` (the sidebar is defined inline). Without this, the page won't appear in the navigation:
    ```js
    { "text": "Your Page Title", "link": "/guide/<section>/<file-slug>" }

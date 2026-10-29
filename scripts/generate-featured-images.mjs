@@ -48,11 +48,11 @@ const SRC_DIR_REL = ''
 const PUBLIC_DIR_REL = 'public'
 const HOME_REL = 'index.md'
 // Folders under SRC_DIR that hold no pages (mirrors `srcExclude` / stray asset folders).
-const EXCLUDE_DIRS_REL = ["guide/public"]
+const EXCLUDE_DIRS_REL = ["docs/public"]
 
 // Eyebrow label = first folder of the page path, after skipping these wrapper folders,
 // title-cased — with SECTION_LABELS pinning the ones that title-case badly (acronyms etc.).
-const SECTION_PREFIXES = ["guide"]
+const SECTION_PREFIXES = ["docs", "guide"]
 const SECTION_LABELS = {
   'ai-integration': 'AI Integration',
   'customization-design': 'Customization & Design',
@@ -91,9 +91,10 @@ const PALETTE = {
   ]
 }
 
-// No `rewrites` in this repo: pages are served at their source path.
+// Mirrors the config `rewrites`: source `docs/...` is served at `guide/...`, so card
+// names stay `guide--<section>--<slug>.png`. Everything else is served at its source path.
 function servedPath(rel) {
-  return rel
+  return rel.replace(/^docs\//, 'guide/')
 }
 
 // =========================================================================

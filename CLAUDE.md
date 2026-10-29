@@ -2,6 +2,8 @@
 
 Guidance for working in this repository.
 
+> Source folder is `docs/`. It is served at `/guide/...` through `rewrites` in `.vitepress/config.mts`. Page/nav/sidebar links stay `/guide/<section>/<slug>`. Image paths in markdown use `/docs/public/images/...`.
+
 ## What this is
 
 This is the **WP Social Ninja documentation site** — a [VitePress](https://vitepress.dev) static site that documents the WP Social Ninja WordPress plugin (social feeds, business reviews, chat widgets). It is deployed at **https://docs.wpsocialninja.com**.
@@ -20,8 +22,8 @@ There is **no application code here** — the deliverable is Markdown content pl
 
 ```
 index.md                       # Homepage — VitePress "home" layout (hero + feature grid)
-guide/<section>/*.md           # ~94 documentation pages, grouped into 12 sections
-guide/public/images/<section>/<page-slug>/*.webp   # Screenshots for the pages
+docs/<section>/*.md            # ~94 documentation pages, grouped into 12 sections
+docs/public/images/<section>/<page-slug>/*.webp   # Screenshots for the pages
 .vitepress/config.mts          # Site config: title, nav, and the ENTIRE sidebar (inline, ~577 lines)
 .vitepress/theme/
   index.ts                     # Theme entry: registers <Feedback> globally, imports custom.css, uses layout-1.vue
@@ -32,7 +34,7 @@ guide/public/images/<section>/<page-slug>/*.webp   # Screenshots for the pages
 public/  &  .vitepress/public/ # Static assets: favicon.svg, logo.svg, logo-dark.png, robots.txt
 ```
 
-The `guide/` sections: `getting-started`, `social-feeds`, `business-reviews`, `custom-source`, `advanced-features`, `ai-integration`, `social-chat`, `integrations`, `management-settings`, `customization-design`, `import-export-migration`, `troubleshooting-support`.
+The `docs/` sections: `getting-started`, `social-feeds`, `business-reviews`, `custom-source`, `advanced-features`, `ai-integration`, `social-chat`, `integrations`, `management-settings`, `customization-design`, `import-export-migration`, `troubleshooting-support`.
 
 ## Content conventions (match these when authoring)
 
@@ -49,9 +51,9 @@ description: ""
 
 **Voice** — friendly, second-person, step-by-step ("First, go to…", "Let's walk through…"). Bold UI labels: **Settings**, **Save**, **WP Social Ninja → Platforms**. Keep it beginner-friendly.
 
-**Images** — screenshots live under `guide/public/images/<section>/<page-slug>/` and are referenced by **absolute path** (the whole `guide/public` folder is copied verbatim into the build, which is why absolute paths work):
+**Images** — screenshots live under `docs/public/images/<section>/<page-slug>/` and are referenced by **absolute path** (Vite resolves `/docs/public/...` from the project root and emits each image to `/assets/` — note the source folder is `docs/` even though pages are served at `/guide/...`):
 ```markdown
-![Descriptive alt text of the screenshot](/guide/public/images/social-feeds/youtube-configuration-youtube-feeds/access-youtube-feed.webp)
+![Descriptive alt text of the screenshot](/docs/public/images/social-feeds/youtube-configuration-youtube-feeds/access-youtube-feed.webp)
 ```
 Prefer `.webp`. Always write meaningful alt text.
 
@@ -80,9 +82,9 @@ Nest it inside the correct section/sub-section object. Section index pages use a
 ## Gotchas
 
 - **Never edit** `.vitepress/dist/` (build output, gitignored) or `node_modules/`. Edit source `.md` and theme files only.
-- **Two `public` dirs**: root `public/` and `.vitepress/public/` hold site chrome (logo, favicon, robots.txt). Page screenshots go in `guide/public/images/…`, not these.
+- **Two `public` dirs**: root `public/` and `.vitepress/public/` hold site chrome (logo, favicon, robots.txt). Page screenshots go in `docs/public/images/…`, not these.
 - `.gitignore` excludes `*.txt` (except `public/robots.txt`), `*.py`, `*.pyc`, `*.log`, and `Archive.zip` — don't rely on committing those file types.
-- Adding a page = **new `.md`** + **screenshots under `guide/public/images/…`** + **sidebar entry in `config.mts`**. Missing the sidebar entry is the most common mistake.
+- Adding a page = **new `.md`** + **screenshots under `docs/public/images/…`** + **sidebar entry in `config.mts`**. Missing the sidebar entry is the most common mistake.
 - Migrating content from BetterDocs XML exports? A dedicated `migrator-expert` agent exists for that conversion.
 
 ## Git

@@ -1,6 +1,6 @@
 ---
 name: preview-docs
-description: Run and verify this VitePress documentation site locally — start the dev server to eyeball rendered pages, or run a production build to confirm content changes don't break the site. Use after editing guide/** Markdown, the theme, or .vitepress/config.mts, or whenever asked to preview/run/build the docs.
+description: Run and verify this VitePress documentation site locally — start the dev server to eyeball rendered pages, or run a production build to confirm content changes don't break the site. Use after editing docs/** Markdown, the theme, or .vitepress/config.mts, or whenever asked to preview/run/build the docs.
 ---
 
 # Preview & verify the docs
@@ -30,7 +30,7 @@ to serve the built output.
 
 ## What to check when verifying
 - **New/renamed page:** appears in the sidebar (entry added in `.vitepress/config.mts`), renders, images load, internal links resolve.
-- **Images:** referenced by absolute path `/guide/public/images/<section>/<page-slug>/<file>.webp` and actually present on disk.
+- **Images:** referenced by absolute path `/docs/public/images/<section>/<page-slug>/<file>.webp` and actually present on disk.
 - **Video/raw HTML:** `<iframe>` embeds render responsively (handled by `.vp-doc iframe` rules in `.vitepress/theme/custom.css`).
 - **Build health:** `docs:build` completes without errors or dead-link warnings.
 

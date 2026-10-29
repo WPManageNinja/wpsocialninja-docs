@@ -1,6 +1,6 @@
 ---
 name: add-doc-page
-description: Create a new WP Social Ninja documentation page in this VitePress site the correct way — scaffold the Markdown with proper frontmatter and structure, place screenshots under the right image folder, and (critically) register the page in the sidebar in .vitepress/config.mts so it actually shows up. Use whenever adding, moving, or renaming a guide page under guide/**.
+description: Create a new WP Social Ninja documentation page in this VitePress site the correct way — scaffold the Markdown with proper frontmatter and structure, place screenshots under the right image folder, and (critically) register the page in the sidebar in .vitepress/config.mts so it actually shows up. Use whenever adding, moving, or renaming a guide page under docs/**.
 ---
 
 # Add a documentation page
@@ -9,7 +9,7 @@ Adding a page to this VitePress docs site takes **three** coordinated changes. S
 
 ## Step 1 — Create the Markdown file
 
-Put it under the correct section: `guide/<section>/<file-slug>.md` (kebab-case slug). Sections: `getting-started`, `social-feeds`, `business-reviews`, `custom-source`, `advanced-features`, `ai-integration`, `social-chat`, `integrations`, `management-settings`, `customization-design`, `import-export-migration`, `troubleshooting-support`.
+Put it under the correct section: `docs/<section>/<file-slug>.md` (kebab-case slug). Sections: `getting-started`, `social-feeds`, `business-reviews`, `custom-source`, `advanced-features`, `ai-integration`, `social-chat`, `integrations`, `management-settings`, `customization-design`, `import-export-migration`, `troubleshooting-support`.
 
 Start from this template:
 ```markdown
@@ -26,7 +26,7 @@ Short intro paragraph: what this feature does and what the reader will accomplis
 
 Step-by-step instructions. Bold UI labels like **WP Social Ninja → Platforms** and the **Save** button.
 
-![Descriptive alt text](/guide/public/images/<section>/<page-slug>/screenshot-1.webp)
+![Descriptive alt text](/docs/public/images/<section>/<page-slug>/screenshot-1.webp)
 
 ## Next Step
 
@@ -42,7 +42,7 @@ Rules:
 
 ## Step 2 — Add screenshots
 
-Store images in `guide/public/images/<section>/<page-slug>/` and reference them by **absolute path** starting `/guide/public/images/…` (the `guide/public` folder is copied verbatim into the build). Prefer `.webp`. Always include real alt text. Keep image file names short and descriptive (e.g. `save-template.webp`, not `screenshot-of-the-save-template-button-final-v2.webp`).
+Store images in `docs/public/images/<section>/<page-slug>/` and reference them by **absolute path** starting `/docs/public/images/…` (the source folder is `docs/` even though pages are served at `/guide/...`; Vite resolves the path from the project root). Prefer `.webp`. Always include real alt text. Keep image file names short and descriptive (e.g. `save-template.webp`, not `screenshot-of-the-save-template-button-final-v2.webp`).
 
 ## Step 3 — Register it in the sidebar (REQUIRED)
 
@@ -57,7 +57,7 @@ Place it in a sensible order within its group. If you created a whole new sectio
 Run `npm run docs:dev` and confirm: the page renders, appears in the sidebar under the right section, images load, and links work. Then `npm run docs:build` to ensure the build passes. (See the `preview-docs` skill.)
 
 ## Checklist
-- [ ] `guide/<section>/<slug>.md` created with frontmatter + single H1
-- [ ] Screenshots under `guide/public/images/<section>/<slug>/`, absolute `/guide/public/...` refs, alt text
+- [ ] `docs/<section>/<slug>.md` created with frontmatter + single H1
+- [ ] Screenshots under `docs/public/images/<section>/<slug>/`, absolute `/docs/public/...` refs, alt text
 - [ ] Sidebar entry added in `.vitepress/config.mts` (and nav if relevant)
 - [ ] `docs:dev` looks right; `docs:build` passes

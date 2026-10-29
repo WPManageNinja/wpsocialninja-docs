@@ -42,6 +42,12 @@ export default defineConfig({
   // sitemap.xml. They are not user documentation -- keep them out of the site.
   srcExclude: ['CLAUDE.md', 'README.md'],
 
+  // Source pages live in `docs/` on disk but are served at `/guide/...` -- the URLs
+  // the site has always had. Keep this so no public URL, canonical or card changes.
+  rewrites: {
+    'docs/:rest*': 'guide/:rest*'
+  },
+
   sitemap: {
     hostname: 'https://docs.wpsocialninja.com'
   },
@@ -657,7 +663,7 @@ export default defineConfig({
     }
   },
 
-  // Images in this repo live under `guide/public/` which is NOT a Vite publicDir —
+  // Images in this repo live under `docs/public/` which is NOT a Vite publicDir —
   // every markdown `<img src>` is put through Vite's asset pipeline and emitted to
   // /assets/<name>.<hash>.webp. Moving the src onto <ZoomableImage src="..."> would
   // take it out of that pipeline, so the files would never be emitted and every image

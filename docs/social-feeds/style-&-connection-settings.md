@@ -21,6 +21,8 @@ A new tab will appear, allowing you to easily delete, edit, or add a new templat
 
 The Style tab gives you full control over the visual design of your feed. It is organized into several sections.
 
+To undo your style changes in one step, click **Reset All** **(Pro)** at the top of the **Style** tab. Every style on this template returns to its default, and your live site stays the same until you click **Save**.
+
 ### 1. Header
 
 The Header section allows you to customize the appearance of the YouTube channel header displayed in your social feed. From this panel, you can adjust the typography, spacing, and colors for various elements, including the channel name, statistics, description, and the subscribe button.

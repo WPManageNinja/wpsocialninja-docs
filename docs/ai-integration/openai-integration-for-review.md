@@ -49,23 +49,30 @@ Now that you’ve got your API key, let’s connect it to your WordPress site.
 
 - Navigate to your **WordPress dashboard** → **WP Social Ninja → Settings**.
 
-- Click on the **Advanced Settings** tab.
+- In the left menu, open **Reviews Platforms** and click **Global Reviews Settings**.
 
-- Scroll down to find the **AI Review Summarizer Credentials** section.
+- Scroll down to find the **AI Review Summarizer API settings** section.
 
 Now configure the settings:
 
+- **Enable AI Review Summarizer:** Turn this on.
+
 - **AI Platform:** Select **OpenAI** from the dropdown menu.
 
-- **Model:** Choose your preferred OpenAI model (e.g., gpt-3.5-turbo, gpt-4) based on your usage and plan.
+- **Model:** Keep the **Default** option, or choose another OpenAI model based on your usage and plan.
 
 - **API Key:** Paste the API key you copied from your OpenAI account.
 
 Click **Save Settings** to apply your changes.
 
-![openai 4](/docs/public/images/advanced-features/openai-integration-for-review/OpenAI-4-scaled.webp)
+> [!NOTE]
+> Models that OpenAI no longer supports aren't offered in the **Model** list. If your saved model is retired, it stays in the list marked as unavailable, and summaries use the **Default** model until you pick another one.
 
-## **Enable AI-Generated Summary in Your Review Template**
+If you'd rather not manage an API key, see [WordPress AI](./wordpress-ai-integration-for-review), which is available on WordPress 7.0 or later.
+
+![AI Review Summarizer API settings with OpenAI](/docs/public/images/advanced-features/openai-integration-for-review/OpenAI-4-scaled.webp)
+
+## Enable AI-Generated Summary in Your Review Template
 
 With the setup complete, you can now choose where to display the AI summary.
 
@@ -85,6 +92,6 @@ Once enabled, you’ll unlock a few customization options to make your summary s
 
 - **Regenerate AI Summary:** Refresh the summary based on newly collected reviews.
 
-![preview 4](/docs/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)
+![Review template editor showing an AI-Generated Summary card](/docs/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)
 
-If you have any further questions about this guideline or need assistance setting things up, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help.
+

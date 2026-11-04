@@ -16,25 +16,25 @@ In this guide, you'll learn how to:
 - Choose **WordPress AI** in WP Social Ninja
 - Show the AI summary in a review template
 
-## What This Integration Does
+## How WordPress AI Summaries Work
 
-WP Social Ninja reads the reviews from your connected platforms and writes one short summary of them. Your visitors can then see what customers are saying at a glance.
+WP Social Ninja scans the reviews from your connected platforms and writes a single, concise summary. This allows your website visitors to see exactly what customers are saying at a glance.
 
-With **WordPress AI**, the request goes through the AI service set up in WordPress. WordPress holds the credentials, so you don't enter an API key in WP Social Ninja.
+By selecting the WordPress AI integration, the generation request goes directly through the AI service you set up in WordPress. Because WordPress safely holds your credentials, the API key field in WP Social Ninja simply disappears, you don't need to configure it twice.
 
-## What You Need First
+## Requirement
 
-Before you start, make sure you have:
+Before setting up your summaries, ensure your website meets the following requirements:
 
-- **WordPress 7.0 or later**
-- **WP Social Ninja Pro**
-- **An AI service connected to WordPress**, either through an AI provider plugin or through your hosting
+- **WordPress 7.0** or later is installed.
+- **WP Social Ninja Pro** is installed and activated.
+- **An active AI service** is connected to WordPress (configured either through an AI provider plugin or your web hosting).
 
 To check your AI service, go to **Settings → Connectors** in your WordPress dashboard. A connector is the link between WordPress and an AI service. This page lists services such as **Anthropic**, **Google**, and **OpenAI**, each with an **Install** button.
 
-## Choose WordPress AI in WP Social Ninja
+## Enabling WordPress AI in Global Settings
 
-Once your site is ready, let's connect it to WP Social Ninja:
+Once your site is ready, you need to tell WP Social Ninja to use your core WordPress AI connection.
 
 1. Go to **WP Social Ninja → Settings**.
 2. In the left menu, open **Reviews Platforms** and click **Global Reviews Settings**.
@@ -43,15 +43,14 @@ Once your site is ready, let's connect it to WP Social Ninja:
 5. Under **AI Platform**, select **WordPress AI (Recommended)**.
 6. Click **Save Settings** at the top of the page.
 
-The **Model** field locks to **WordPress Default Model**, so there is nothing to choose. The **API key** field also disappears, because WordPress already holds the credentials.
-
-If you still need to connect an AI service, click **Configure WordPress AI Connectors** in this section. It takes you to the **Connectors** page.
+> [!Note]
+> The Model field will automatically lock to "**WordPress Default Model**," and the **API** key field will vanish. If you still need to connect an AI service to your site, click the Configure WordPress AI Connectors link in this section to jump directly to your WordPress Connectors page.
 
 ![AI Review Summarizer API settings with WordPress AI selected as the AI Platform](/docs/public/images/ai-integration/wordpress-ai-integration-for-review/wordpress-ai-1.webp)
 
-## Show the AI Summary in a Review Template
+## Displaying AI Summaries in Your Templates
 
-Next, choose where the summary appears:
+After enabling the feature globally, you can choose exactly which review templates will display the summary box.
 
 1. Open the [review template](../business-reviews/create-template) where you want to show the summary.
 2. On the **General** tab, open the **AI Summarizer** section.
@@ -68,12 +67,17 @@ You can also use these options:
 
 ![AI Summarizer section of a review template with Display AI Summary turned on](/docs/public/images/ai-integration/wordpress-ai-integration-for-review/wordpress-ai-2.webp)
 
+### Example: What Your Visitors See
+
+Here's an example using sample reviews for a demo cafe, with **Summary Style** set to **List**. The **AI-Generated Summary** card sits alongside the reviews, so visitors can read the key points first.
+
+![Review template showing an AI-Generated Summary card with three key points next to customer reviews](/docs/public/images/ai-integration/wordpress-ai-integration-for-review/wordpress-ai-3.webp)
+
 ## Troubleshooting
 
-**WordPress AI isn't in the AI Platform list.** This option only appears when the WordPress AI Client is available on your site. Update to WordPress 7.0 or later, then check the list again.
+- **WordPress AI isn't in the AI Platform list.** This option only appears when the WordPress AI Client is available on your site. Update to WordPress 7.0 or later, then check the list again.
 
-**You see "No WordPress AI connector is configured for text generation."** WordPress has no AI service ready to write text. Go to **Settings → Connectors**, set one up, and try again.
+- **If you see "No WordPress AI connector is configured for text generation."** WordPress has no AI service ready to write text. Go to **Settings → Connectors**, set one up, and try again.
 
-**You see "AI summary cannot be enabled because the model is not selected or the API key is missing."** Your AI settings aren't saved yet. Go back to **Global Reviews Settings**, check that **Enable AI Review Summarizer** is on, and click **Save Settings**. The message mentions an API key, but **WordPress AI** doesn't need one.
+- **If you see "AI summary cannot be enabled because the model is not selected or the API key is missing."** Your AI settings aren't saved yet. Go back to **Global Reviews Settings**, check that **Enable AI Review Summarizer** is on, and click **Save Settings**. The message mentions an API key, but **WordPress AI** doesn't need one.
 
-**You'd rather use your own API key.** You can use [OpenAI](./openai-integration-for-review) or [OpenRouter](./openrouter-integration-for-review) instead.

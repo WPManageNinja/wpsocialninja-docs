@@ -546,6 +546,10 @@ export default defineConfig({
                               {
                                     "text": "OpenRouter Integration",
                                     "link": "/guide/ai-integration/openrouter-integration-for-review"
+                              },
+                              {
+                                    "text": "WordPress AI Integration",
+                                    "link": "/guide/ai-integration/wordpress-ai-integration-for-review"
                               }
                         ]
                   },

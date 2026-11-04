@@ -34,10 +34,12 @@ The **General** tab is where you select which reviews to display and set the **b
 
 This is the most important section for controlling how, where, and when your pop-ups appear. Click on the **Notification** tab to see all the options.
 
-![Custom Notification Title](/docs/public/images/advanced-features/notification-popup/notification-4.webp)
-
 Here’s what each setting does:
 
+ * **Notification Style:** Choose how the pop-up behaves.
+    * **Rotating Card:** Shows your reviews one by one.
+    * **Review Spotlight:** *(Pro)* Shows a review excerpt, with buttons so visitors can move to the next or previous review. Use **Source Display** to choose how the review source appears, such as **Logo only** or **Logo + platform name**.
+    * **Rating Pulse:** *(Pro)* Shows your overall score instead of rotating through reviews. When it combines ratings from several sources, it also shows small platform logos.
  * **Custom Notification Title:** Change the default text. For example, you can write "Just left us a 5-star review!" to add a personal touch.
  * **Notification Position:** Choose which corner of the screen the pop-up will appear in (e.g., "Float Left Bottom" or "Float Right Bottom").
  * **Display Reviews in:** Select what happens when a visitor clicks the pop-up. The **Popup** option will open a larger lightbox showing a feed of all your reviews.
@@ -51,5 +53,12 @@ Here’s what each setting does:
  * **Initial Delay:** This is the time (in milliseconds) to wait before the first pop-up appears after a visitor loads your page. (e.g., 6000ms = 6 seconds).
  * **Delay Between:** This is the time (in milliseconds) to wait between each notification. (e.g., 5000ms = 5 seconds).
 Display For: This sets how long (in milliseconds) a single pop-up will stay on the screen before hiding. (e.g., 6000ms = 6 seconds).
+
+
+::: tip
+Pop-ups also look after your visitors automatically. They pause in hidden browser tabs, remember when a visitor closes them, respect reduced-motion settings, and work fully with the keyboard.
+:::
+
+![Custom Notification Title](/docs/public/images/advanced-features/notification-popup/notification-4.webp)
 
 When you're all done, don't forget to click the **Save** button! You can also use the **Filters, Header, and Style** tabs to refine further which reviews are shown and how they look, just like a standard feed template.

@@ -8,6 +8,8 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into several sections, each controlling a different part of your feed.
 
+To undo your style changes in one step, click **Reset All** *(Pro)* at the top of the **Style** tab. Every style on this template returns to its default, and your live site stays the same until you click **Save**.
+
 ### 1. Heading
 
 This section controls the complete visual design of the **Header** at the top of your feed. The header is the main box that contains your profile information, like your cover photo, bio, and follower count.

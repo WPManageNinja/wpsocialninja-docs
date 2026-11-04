@@ -45,7 +45,7 @@ Setting up a review hub used to take four separate steps — and it was easy to 
 **Now**, in the **Make WP Social Ninja your WooCommerce review hub** card, just click the **Set Up Review Hub** button. In one click, WP Social Ninja will:
 
 - Create a [Native Review Form](./native-review-forms) automatically
-- Build a matching display [template](./create-template) with the **Write a Review** button already connected to that form
+- Build a matching display [template](./create-template) with the **Polaris** skin and the **Write a Review** button already connected to that form
 - Turn on **Make WP Social Ninja Your Main Review Hub**
 
 There's nothing else to configure — your store is ready to collect and display reviews right away.

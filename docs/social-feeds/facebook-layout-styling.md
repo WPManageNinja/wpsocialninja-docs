@@ -9,6 +9,8 @@ This guide will walk you through all the options in the **Style** tab of the Fac
 
 While the [General Settings](./facebook-customization) tab controls *what* content is shown (e.g., your source, filters, and header), the **Style** tab controls the visual design. This is where you can change all the colors, fonts, spacing, and borders to perfectly match your brand and website's look.
 
+Want to start over? *(Pro)* Click **Reset All** at the top of the **Style** tab to return every style on this template to its default. Nothing changes on your site until you click **Save**.
+
 ## 1. Feed Header
 
 This section controls the complete visual design of the **Header** at the top of your feed. The header is the box that contains your main page information, like your cover photo, page name, description, and likes count.

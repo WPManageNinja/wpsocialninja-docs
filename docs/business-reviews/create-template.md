@@ -50,10 +50,41 @@ This section controls the visual structure and arrangement of your reviews.
     * **Slider:** Displays your reviews in a horizontal, swipe-able carousel. This is perfect for saving space on a homepage.
     * **Masonry:** A "Pinterest-style" grid where boxes have different heights based on their review text, fitting together like bricks.
     * **Badge:** A small, compact layout that is often used to show a summary of your rating (e.Example, "4.9 out of 5 stars").
-* **Select a Template:** These are pre-designed visual "skins" for your feed (e.g., Vega, Spica, Sirius). Each one changes the styling of the review boxes, fonts, and layout.
+    * **Feature Grid:** *(Pro)* Shows one large featured review beside smaller review cards.
+    * **Score Slider:** *(Pro)* Puts your overall rating and the **Write a Review** button in a column on the left, with a review slider beside it. Keep the **Header** turned on, because the left column comes from it. This layout isn't available when your template uses testimonials.
+    * **Marquee:** *(Pro)* Scrolls your reviews continuously, with a pause button for visitors. You can adjust the **Scroll Speed** and **Card Width**.
+
+    Click **See All** to see every layout type.
+* **Select a Template:** These are pre-designed visual "skins" for your feed (e.g., Vega, Spica, Sirius). Each one changes the styling of the review boxes, fonts, and layout. When you use the **Badge** layout, these *(Pro)* skins are also available:
+    * **Badge3:** A small card with your score, plus an avatar stack of reviewer photos when your reviews have them.
+    * **Badge4:** A wide score strip with your rating label, stars, and review count.
+    * **Badge5:** A circle sticker with your score in the center.
+    * **Badge6:** A rounded-square sticker with your score in the center.
 * **Number of Columns:** This is a crucial responsive setting. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
 
 ![Create Review Template](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-3.webp)
+
+![Layout Type options in the review template editor, with Score Slider, Marquee, and Feature Grid underlined](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/layout-types.webp)
+
+#### What the New Layouts Look Like
+
+Here's how the *(Pro)* layouts and badges look, using sample reviews for a demo cafe.
+
+* **Feature Grid:** One large review sits beside smaller cards, so a standout review gets the most attention.
+
+![Feature Grid layout with one large review card beside smaller cards](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/feature-grid.webp)
+
+* **Score Slider:** Your rating stays in view on the left while visitors move through your reviews.
+
+![Score Slider layout](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/score-slider.webp)
+
+* **Marquee:** Rows of reviews scroll across the page and fade at the edges.
+
+![Marquee layout](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/marquee.webp)
+
+* **Badges:** Pick the size and shape that suits the space you have. These demo reviews have no reviewer photos, so **Badge3** shows no avatars here.
+
+![Badge3, Badge4, Badge5, and Badge6 by slide](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/badges-3-6.webp)
 
 ### 3. Filters
 
@@ -150,7 +181,7 @@ This controls what happens when a visitor gets to the bottom of the initial set 
 
 ### 7. AI Summarizer
 
-This is a powerful "New" feature that uses AI to analyze your reviews and provide a summary for your visitors.
+This is a powerful "New" feature that uses AI to analyze your reviews and provide a summary for your visitors. You can power it with [WordPress AI](../ai-integration/wordpress-ai-integration-for-review), [OpenAI](../ai-integration/openai-integration-for-review), or [OpenRouter](../ai-integration/openrouter-integration-for-review).
 
 * **Display AI Summary:** The main On/Off toggle for the feature.
 * **Summary Style:** Choose a visual style for the summary box.

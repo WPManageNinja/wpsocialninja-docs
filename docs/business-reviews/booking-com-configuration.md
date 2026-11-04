@@ -15,79 +15,63 @@ You’ll need WP Social Ninja Pro to access and display Booking.com reviews on y
 
 :::
 
-## **Enable Booking.com Platform**
+## Enable Booking.com Platform
 
 Navigate to your **WP Social Ninja** dashboard and select [Platform](../getting-started/all-platforms-of-wp-social-ninja) from the navigation bar. Locate the **Booking Platform** and click on the **Settings** icon to configure it.
 
 ![booking review 1](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-1.webp)
 
-## **Steps to Configure Booking.com Reviews**
+## Find Your Hotel ID
 
-Before fetching reviews from Booking.com using your Business Profile URL, you need to complete three additional steps:
+WP Social Ninja connects to Booking.com with your hotel ID, a number that identifies your property. You no longer need a browser cookie or a code snippet. If you added the old **AWS-WAF-Token** snippet, you can remove it.
 
-- **Copy the Cookie AWS-WAF-Token Cookie Value from the Booking.com Site**
+The **Booking.com Configuration** pop-up lists these same steps under **How to Find Your Hotel ID**:
 
-- **Add the AWS-WAF-Token Cookie Value to a Snippet**
+1. Open your hotel's page on Booking.com in a computer browser.
+2. Open the page source. Press **Ctrl+U** on Windows or **Option+Command+U** on a Mac. In Firefox on a Mac, press **Command+U**. In Safari, first turn on **Settings → Advanced → Show features for web developers**.
+3. Press **Ctrl+F** on Windows or **Command+F** on a Mac, and search for `b_hotel_id`.
+4. You'll see `b_hotel_id` with your hotel's number. The next line, `b_hotel_name`, shows the hotel's name. Check that the name is your hotel.
+5. Copy both lines, or only the number.
 
-Below is a step-by-step guide to complete these settings:
+![Booking.com page source with the b_hotel_id line highlighted and the b_hotel_name line below it](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-7.webp)
 
-## **Copy the Cookie AWS-WAF-Token**
+## Connect Your Hotel
 
-Open **Booking.com** and navigate to the business profile whose reviews you want to display on your website.
+Now go back to the **Booking.com Configuration** pop-up:
 
-Access your browser's **Inspect** mode (usually by right-clicking on the page and selecting "Inspect").
+1. Paste what you copied into **Enter your Booking.com hotel ID**.
+2. Check **Hotel name**. This is the name your widgets show. If you pasted both lines, it should fill in for you. If it stays empty, type the name yourself.
+3. Click **Save**.
 
-In the Inspect mode, go to the **Application** tab and select **Cookies**.
+![Booking.com Configuration pop-up with a hotel ID and hotel name filled in](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-8.webp)
 
-Search for the **AWS-WAF-Token** in the cookies list then copy the value of the AWS-WAF-Token cookie and save it for later use.
+### If You Added Properties With a Link Before
 
-![booking review 4](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-2.webp)
+If your site has Booking.com properties that were added with a link, WP Social Ninja asks **Is this hotel already on your site?**
 
-## **Add the AWS-WAF-Token in a Snippet**
+- **If this hotel is on the list:** Choose it so your templates keep working. Its saved reviews are imported again and the old ones are removed, so no review shows twice.
+- **If it's a different hotel:** Choose **No, this is a new property**. Nothing you already saved is changed.
 
-To use the **AWS-WAF-Token** cookie value you copied earlier, you'll need to add it to your site using a code snippet. This can be done easily with a snippet plugin.
+Then click **Continue**.
 
-::: tip
+![ prompt listing saved properties and the No, this is a new property option](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-9.webp)
 
-We recommend using **[FluentSnippet](https://fluentsnippets.com/)** on your WordPress site for a seamless experience. However, you can use any other snippet plugin of your choice.
-
-:::
-
-Follow these steps to add the code snippet:
-
-- Open **FluentSnippet** and click on the **Create Snippet** button.
-
-```php
-
-add_filter('wpsocialreviews/booking_header_request_cookie_set', function($headers) {
-
-    $headers['cookie'] = 'aws-waf-token=(Cookie value goes here)';    return $headers;
-
-});
-```
-
-- In the code editor field, insert the code above:
-
-- Replace **Cookie value goes here** with the **AWS-WAF-Token** value you copied earlier.
-
-- Save the snippet to apply the changes.
-
-![booking review 5](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-3.webp)
-
-## **Business URL from Booking**
-
-Navigate to your business profile on Booking.com and copy the **Business URL** directly from the address bar of your browser.
-
-![booking review 6](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-4.webp)
-
-Next, return to your **WP Social Ninja Booking Configuration** and paste the **Booking.com Business Profile URL** you copied earlier. Click on the **Save** button, and you’ll see that your business has been successfully added.
-
-![booking review 2](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-5.webp)
+Once saved, you'll see that your business has been successfully added.
 
 If you wish to add another business profile, simply click on the **Add More Business** button and repeat the same steps.
 
-To customize your **Booking.com Reviews Template**, click on the **Create a Template** button and start personalizing your [template](./create-template). Keep in mind, if you don't create a template, your reviews won't be displayed, as the template won't be created automatically.
+To customize your **Booking.com Reviews Template**, click on the **Add New Template** button and start personalizing your [template](./create-template). Keep in mind, if you don't create a template, your reviews won't be displayed, as the template won't be created automatically.
 
 ![booking review 7](/docs/public/images/business-reviews/booking-com-configuration-social-reviews-wp-social-ninja/booking-review-6.webp)
+
+## How Booking.com Syncing Works
+
+WP Social Ninja fetches your Booking.com reviews through its own service, so your WP Social Ninja Pro license needs to be active. Here's what to expect:
+
+- **Up to 20 reviews per sync:** Each sync stores up to 20 reviews.
+- **Every language:** Reviews are imported in all languages.
+- **Weekly at most:** The shortest sync interval is **1 Week**. If you had a shorter interval, it moves to **1 Week** automatically.
+
+You can find the sync setting under **WP Social Ninja → Settings → Reviews Platforms → Booking.com Settings**.
 
 That's how you can easily fetch your **Booking.com** business profile reviews on your site using **WP Social Ninja**. 

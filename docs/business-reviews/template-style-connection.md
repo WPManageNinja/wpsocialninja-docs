@@ -8,6 +8,8 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into several sections, each controlling a different part of your review feed.
 
+Want to start over? *(Pro)* Click **Reset All** at the top of the **Style** tab to return every style on this template to its default. Nothing changes on your site until you click **Save**.
+
 ### 1. Star Rating
 
 This section styles the (★) star ratings that appear on your reviews and in the header.

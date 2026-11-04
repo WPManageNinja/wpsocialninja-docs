@@ -83,13 +83,9 @@ With the setup complete, you can now choose where to display the AI summary.
 Once enabled, you’ll unlock a few customization options to make your summary stand out:
 
 - **Display AI Summary:** Turn the AI-generated summary on or off.
-
 - **Summary Style:** Choose how the summary appears—**Text** or **List** format.
-
 - **Display Read More:** Adds a “Read More” link for longer summaries.
-
 - **Text Typing Animation:** Adds a typing animation effect for dynamic display.
-
 - **Regenerate AI Summary:** Refresh the summary based on newly collected reviews.
 
 ![Review template editor showing an AI-Generated Summary card](/docs/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)

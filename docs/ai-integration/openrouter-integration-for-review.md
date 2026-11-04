@@ -47,38 +47,41 @@ Your API key will now be displayed — go ahead and copy it for later use.
 
 Now that you’ve got your API key, it’s time to connect it to your WordPress site.
 
-- Navigate to **WP Social Ninja → Settings**, then open the **Advanced Settings** tab.
+- Navigate to **WP Social Ninja → Settings**. In the left menu, open **Reviews Platforms** and click **Global Reviews Settings**.
 
-- Scroll down to locate the **AI Review Summarizer Credentials** section.
+- Scroll down to locate the **AI Review Summarizer API settings** section.
 
 Here’s how to configure it:
 
+- **Enable AI Review Summarizer:** Turn this on.
+
 - **AI Platform:** Select **OpenRouter** from the dropdown menu.
 
-- **Model:** Choose your preferred AI model from the list.
+- **Model:** Keep the **Default** option, or choose another AI model from the list.
 
 - **API Key:** Paste the API key you copied from your OpenRouter account.
 
 Finally, click the **Save Settings** button to apply the changes.
 
-![advance settings wpsn 3](/docs/public/images/advanced-features/openrouter-integration-for-review/Advance-Settings-WPSN-3-scaled.webp)
+> [!NOTE]
+> Models that OpenRouter no longer serves aren't offered in the **Model** list. If your saved model is retired, it stays in the list marked as unavailable, and summaries use the **Default** model until you pick another one.
+
+If you'd rather not manage an API key, see [WordPress AI](./wordpress-ai-integration-for-review), which is available on WordPress 7.0 or later.
+
+![AI Review Summarizer API settings with OpenRouter selected as the AI Platform](/docs/public/images/advanced-features/openrouter-integration-for-review/Advance-Settings-WPSN-3-scaled.webp)
 
 ## **Enable AI-Generated Review in Template**
 
-Once the integration is configured, head over to the **Review Template** where you want to display the AI-generated summary. On the right sidebar, you’ll see a toggle labeled **Display AI Summary**—switch it on to enable the feature.
+Once the integration is configured, head over to the **Review Template** where you want to display the AI-generated summary. On the right sidebar, you’ll see a toggle labeled **Display AI Summary**, switch it on to enable the feature.
 
 After enabling, you’ll have several customization options to enhance your review section:
 
 - **Display AI Summary:** Toggle to show or hide the AI-generated summary.
-
 - **Summary Style:** Choose the design style for how the summary is displayed, **Text** or **List**.
-
 - **Display Read More:** Enable a "Read More" link for longer summaries.
-
 - **Text Typing Animation:** Add a typing effect to make the summary more dynamic.
-
 - **Regenerate AI Summary:** Refresh the summary content based on the latest reviews.
 
-![preview 4](/docs/public/images/advanced-features/openrouter-integration-for-review/Preview-4-scaled.webp)
+![Review template editor showing an AI-Generated Summary card, with Display AI Summary turned on in the AI Summarizer section](/docs/public/images/advanced-features/openrouter-integration-for-review/Preview-4-scaled.webp)
 
-If you have any further questions about this guideline, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help!
+

@@ -14,49 +14,39 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 ::: code-group
 
 ```md [🆕 New Features]
-• Added Feature Grid, Score Slider, and Marquee layout styles for reviews templates (Pro)
-• Added Review Spotlight and Rating Pulse notification popup templates (Pro)
+• Added Feature Grid, Score Slider, and Marquee review layouts, plus Review Spotlight and Rating Pulse notification popups (Pro)
 • Added Badges 3 to 6: an avatar stack, a score strip, and circle and rounded-square stickers (Pro)
-• Added List layout, Author Card and Author Bar templates, an Inline header layout, and Color Scheme presets (Light, Dark, Card Shadow, Soft Background, Bordered) for Instagram feeds
-• Added WordPress AI as an option for AI review summaries. Sites on WordPress 7.0 or later can use the AI service already set up in WordPress, with no separate API key (Pro)
-• Added a Reset All option to the Style tab of the Reviews, Facebook, Instagram, TikTok, Twitter, and YouTube editors (Pro)
-• Added Booking.com connection by hotel ID, with steps for finding it, and the option to choose which saved property a hotel replaces. Booking.com now imports reviews in every language (Pro)
-• Added a "Scheduled for" label to upcoming YouTube live streams on the front end (Pro)
+• Added List layout, Author Card and Author Bar templates, an Inline header layout, and Color Scheme presets for Instagram feeds
+• Added WordPress AI (WordPress 7.0+) as an AI review summary provider, and updated the model list with the latest models (Pro)
+• Added Reset All to the Style tab of the Reviews, Facebook, Instagram, TikTok, Twitter, and YouTube editors (Pro)
+• Added Booking.com connection by hotel ID. Booking.com now imports reviews in every language (Pro)
+• Added a "Scheduled for" label to upcoming YouTube live streams (Pro)
 • Enabled the Instagram Follow button, header counts, post date, random post order, and caption trimming for free users
 ```
 
 ```md [🔧 Improvements]
-• Updated the model list in the AI review summary settings with the latest models, and marked the models that providers no longer support (Pro)
-• Improved Instagram connections to renew access tokens automatically before they expire at 60 days
-• Improved Trustpilot and Booking.com syncing to use a minimum interval of 1 week. Existing shorter intervals move to 1 week automatically (Pro)
-• Improved Trustpilot and Booking.com syncing so reviews work again. We now fetch these reviews through our own service, and each sync adds the latest 20 reviews (Pro)
-• Improved Set Up Review Hub for WooCommerce and FluentCart to create its template with the Polaris skin (Pro)
-• Improved the chat widget so its front-end script no longer loads jQuery and starts up about 37% faster
-• Improved notification popups to pause in hidden tabs, remember when a visitor closes them, respect reduced-motion settings, and work fully with the keyboard
-• Improved the reviews editor so switching Layout Type is faster and the preview keeps every setting changed while it loads, including Minimum Rating
-• Improved the feed editors so the mobile Number of Posts follows desktop until you change it
-• Improved review sliders to fade at the edges instead of cutting off card shadows
-• Improved the templates page to show a single Add Template button when only one template type can be created
-• Improved Google and Facebook review syncing to load every page up to the review limit, keep older saved reviews, and give large syncs more time to finish
-• Improved the badge Style tab to show only the controls the chosen badge layout uses, and added Quality Label, More Reviews Count, and Header Band controls (Pro)
+• Improved Instagram connections to renew access tokens automatically before they expire
+• Improved Trustpilot and Booking.com syncing so reviews work again. Each sync adds the latest 20 reviews, with a minimum interval of 1 week (Pro)
+• Improved Google and Facebook syncing to load every page up to the review limit and keep older saved reviews
+• Improved the chat widget to load about 37% faster without jQuery
+• Improved notification popups to pause in hidden tabs, remember dismissals, respect reduced motion, and work with the keyboard
+• Improved the editors: faster Layout Type switching, a preview that keeps every setting, and a mobile Number of Posts that follows desktop
+• Improved the badge Style tab to show only relevant controls, and added Quality Label, More Reviews Count, and Header Band controls (Pro)
+• Improved Set Up Review Hub for WooCommerce and FluentCart to use the Polaris skin (Pro)
 ```
 
 ```md [🐛 Bug fixes]
-• Fixed AI review summaries causing a fatal error when the provider retires the selected model. Summaries now fall back to a default model (Pro)
+• Fixed a fatal error in AI review summaries when a provider retires the selected model (Pro)
 • Fixed issues identified during the internal security audit
 • Fixed review templates slowing down pages with many reviews
-• Fixed custom source names and logos in grid templates and badges, and hid the icon of a custom source that has no logo
-• Fixed Facebook feed grid cards losing rounded corners and shadows when Columns Gap is set to No Gap
-• Fixed Instagram masonry layouts showing every post at the same height
-• Fixed Instagram Classic Grid caption links on the hover overlay and the Caption Card row gap
-• Fixed the Instagram header showing a placeholder avatar for feeds created in onboarding when image optimization is on
+• Fixed custom source names and logos in grid templates and badges
+• Fixed Instagram masonry post heights, Classic Grid caption links, and the placeholder header avatar
+• Fixed Facebook feed grid cards losing rounded corners and shadows with No Gap
+• Fixed badge styles not applying in some cases, and the badge printing its template ID without Pro
 • Fixed duplicated reviews losing their categories
-• Fixed image optimization reading and deleting images from other platforms
-• Fixed the badge printing its template ID when Pro is not active
-• Fixed badge colors and typography from the Style tab not applying when Button Source Type is None, Page, or Custom URL, and the Rating Title style not applying to Badge 2 (Pro)
+• Fixed image optimization affecting images from other platforms
 • Fixed custom styles clashing when several widgets share a page (Pro)
-• Fixed admin screens opening at the previous page's scroll position
-• Fixed admin dark mode colors, missing translations, and a settings page crash
+• Fixed admin dark mode colors, missing translations, scroll position, and a settings page crash
 • Fixed plugin data cleanup failing on uninstall when some tables are missing
 ```
 

@@ -49,9 +49,38 @@ This section controls the visual structure and arrangement of your reviews.
     * **Grid:** Creates a clean, organized, multi-column grid. All review boxes are forced to be the same height, which creates a very neat and symmetrical look.
     * **Slider:** Displays your reviews in a horizontal, swipe-able carousel. This is perfect for saving space on a homepage.
     * **Masonry:** A "Pinterest-style" grid where boxes have different heights based on their review text, fitting together like bricks.
-    * **Badge:** A small, compact layout that is often used to show a summary of your rating (e.Example, "4.9 out of 5 stars").
+    * **Badge:** A small, compact layout that is often used to show a summary of your rating (e.g., "4.9 out of 5 stars").
+    * **Score Slider:** *(Pro)* A slider with your overall rating summary in its own column beside the scrolling reviews. It uses the header for that summary, so keep **Display Header** on in the **Header** section. With the header off, it shows as a regular Slider.
+    * **Marquee:** *(Pro)* Reviews scroll continuously across the page, like a news ticker. With four or more reviews, they're split into two rows that scroll in opposite directions. Visitors can stop and restart the movement with the pause button.
+    * **Feature Grid:** *(Pro)* A grid with a repeating pattern: one tall featured card with a large quote mark, two regular cards, and one wide card. It keeps the pattern going as more reviews load.
 * **Select a Template:** These are pre-designed visual "skins" for your feed (e.g., Vega, Spica, Sirius). Each one changes the styling of the review boxes, fonts, and layout.
 * **Number of Columns:** This is a crucial responsive setting. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
+
+![Layout Type list in the review template editor, showing Score Slider, Marquee and Feature Grid](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/layout-types.webp)
+
+> [!NOTE]
+> Switching **Layout Type** keeps every setting you've changed, including **Minimum Rating**, so you can try different layouts freely before you save.
+
+#### Badge Templates
+
+When the Layout Type is **Badge**, pick one of six badge designs:
+
+* **Badge 1** and **Badge 2:** The classic rating badges.
+* **Badge 3:** *(Pro)* An avatar stack: overlapping reviewer photos next to your rating, with a "+N" count for the rest.
+* **Badge 4:** *(Pro)* A score strip: a one-line bar with a rating label (such as "Excellent"), stars, your rating summary and the platform icon.
+* **Badge 5:** *(Pro)* A circle sticker: a round medallion with the rating label, a large rating, stars, review count and platform logo.
+* **Badge 6:** *(Pro)* A rounded-square sticker with the same details as Badge 5.
+
+![Badge template picker showing Badge 1 to Badge 6, with Badge 6 selected and previewed](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/badge-templates.webp)
+
+#### Marquee Settings
+
+When the Layout Type is **Marquee**, a **Marquee** section appears in the General tab:
+
+* **Scroll Speed:** How fast the reviews move: **Slow**, **Normal** or **Fast**.
+* **Card Width (px):** The width of each review card.
+
+Marquee and Slider layouts show all their reviews at once, so they don't use pagination. Set how many appear with **Number of Reviews** in the **Filters** section.
 
 ![Create Review Template](/docs/public/images/business-reviews/create-a-template-social-reviews-wp-social-ninja/create-review-template-3.webp)
 

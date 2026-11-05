@@ -540,6 +540,10 @@ export default defineConfig({
                         "collapsed": true,
                         "items": [
                               {
+                                    "text": "WordPress AI Integration",
+                                    "link": "/guide/ai-integration/wordpress-ai-integration-for-review"
+                              },
+                              {
                                     "text": "OpenAI Integration",
                                     "link": "/guide/ai-integration/openai-integration-for-review"
                               },

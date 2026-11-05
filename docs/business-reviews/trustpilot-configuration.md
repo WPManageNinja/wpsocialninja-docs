@@ -74,6 +74,13 @@ You will now see that the **Trustpilot** row has a green "Connected" status and 
 
 ![Trustpilot Review](/docs/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-5.webp)
 
+## How Syncing Works
+
+WP Social Ninja fetches Trustpilot reviews through its own review service, so you don't need to set anything else up. Fetching reviews needs WP Social Ninja Pro with an **active license**.
+
+- **The latest 20 reviews per sync.** Each sync adds the 20 most recent reviews. Reviews already saved on your site are kept, so your collection grows over time.
+- **A sync interval of at least 1 Week.** Under **Settings → Reviews Settings**, the shortest option offered for Trustpilot is **1 Week**. If your connection was on a shorter schedule, it moves to 1 week automatically.
+
 ## Next Steps
 
 Congratulations! Your Trustpilot account is fully connected and ready to sync reviews.

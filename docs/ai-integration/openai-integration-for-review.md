@@ -49,15 +49,15 @@ Now that you’ve got your API key, let’s connect it to your WordPress site.
 
 - Navigate to your **WordPress dashboard** → **WP Social Ninja → Settings**.
 
-- Click on the **Advanced Settings** tab.
+- From the left sidebar, click **Reviews Platforms**, then select **Global Review Settings**.
 
-- Scroll down to find the **AI Review Summarizer Credentials** section.
+- Scroll down to the **AI Review Summarizer API settings** section and turn on **Enable AI Review Summarizer**.
 
 Now configure the settings:
 
 - **AI Platform:** Select **OpenAI** from the dropdown menu.
 
-- **Model:** Choose your preferred OpenAI model (e.g., gpt-3.5-turbo, gpt-4) based on your usage and plan.
+- **Model:** Choose your preferred OpenAI model. If you're not sure, keep **Default (currently …)**: it always follows the model we recommend. Models OpenAI has shut down are tagged **Unavailable**. If your saved model is one of them, summaries use the Default model until you pick another.
 
 - **API Key:** Paste the API key you copied from your OpenAI account.
 

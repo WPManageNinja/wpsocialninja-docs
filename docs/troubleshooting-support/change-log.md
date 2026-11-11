@@ -9,7 +9,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 
 ## WP Social Ninja v4.5.0
-*Released on November 05, 2026*
+*Released on November 11, 2026*
 
 ::: code-group
 
@@ -22,6 +22,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 • Added Booking.com connection by hotel ID. Booking.com now imports reviews in every language (Pro)
 • Added a "Scheduled for" label to upcoming YouTube live streams (Pro)
 • Enabled the Instagram Follow button, header counts, post date, random post order, and caption trimming for free users
+• Added right-to-left (RTL) support for Arabic, Hebrew, Persian, and other RTL languages, on the front end and in the admin
 ```
 
 ```md [🔧 Improvements]
@@ -42,6 +43,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 • Fixed custom source names and logos in grid templates and badges
 • Fixed Instagram masonry post heights, Classic Grid caption links, and the placeholder header avatar
 • Fixed Facebook feed grid cards losing rounded corners and shadows with No Gap
+• Fixed uneven photo widths in Facebook posts with two photos
 • Fixed badge styles not applying in some cases, and the badge printing its template ID without Pro
 • Fixed duplicated reviews losing their categories
 • Fixed image optimization affecting images from other platforms

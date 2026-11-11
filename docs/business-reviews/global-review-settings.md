@@ -52,9 +52,11 @@ WP Social Ninja integrates with AI platforms to provide summarized versions of y
 
 - **Enable AI Review Summarizer**: Toggle this option to activate AI-powered review summaries.
 
-- **AI Platform & Model**: Select your preferred AI provider (e.g., OpenAI) and the specific model (e.g., gpt-4o) you wish to use.
+- **AI Platform**: Select your AI provider: **OpenAI**, **OpenRouter**, or **WordPress AI (Recommended)**. WordPress AI appears on sites running WordPress 7.0 or later and uses the AI service already set up in WordPress. See [WordPress AI Integration](../ai-integration/wordpress-ai-integration-for-review).
 
-- **API Key**: Enter the unique API key provided by your selected AI platform to securely connect the service.
+- **Model**: Choose the model used to write your summaries. The first option, **Default (currently …)**, always follows the model we recommend for that provider. Models a provider is phasing out are tagged **Deprecated**, and models it no longer serves are tagged **Unavailable**. If your saved model is retired, a note appears under the field and your summaries use the Default model until you pick another.
+
+- **API Key**: Enter the unique API key provided by your selected AI platform to securely connect the service. If a key is already saved, the field shows it masked. Type a new key to replace it, or clear the field to remove it. WordPress AI doesn't need a key.
 
 After setting up all the configurations to your preference, click on the **"Save Settings"** button located at the top right corner to apply the changes.
 

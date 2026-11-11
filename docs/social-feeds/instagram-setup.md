@@ -44,21 +44,34 @@ This section controls the visual structure and arrangement of your posts.
 
 * **Layout Type:** This is the foundational structure of your feed.
     * **Grid:** This creates a clean, organized, multi-column grid (like the standard Instagram profile). All post boxes are forced to be the same height, which creates a very neat and symmetrical look.
+    * **List:** Shows your posts one under another in a single column, like a timeline. Good for blog sidebars and narrow content areas. The **Number of Columns** setting is hidden for this layout.
     * **Carousel:** This displays your posts in a horizontal slider. Visitors can click or swipe through your posts one by one. This is perfect for saving space on a homepage.
     * **Masonry:** This is a "Pinterest-style" multi-column grid. Posts will have different heights based on their content (e.g., if you show the text caption). This creates a modern, stylish look that fits posts together like bricks.
     * **Highlights:** A compact row of circular thumbnails, styled after Instagram's own story highlights. Good for a slim strip of recent posts near the top of a page.
 * **Template:** These are pre-designed visual "skins" for your feed. Each one changes the styling of the post boxes, fonts, and layout:
     * **Classic Grid:** Clean image tiles, closest to how your profile looks on Instagram.
     * **Caption Card:** Each post sits in a card with its caption printed underneath the image.
+    * **Author Card:** Like Caption Card, with your profile photo and username shown on every post.
+    * **Author Bar:** Like Classic Grid, with a slim bar under each image showing your profile photo and username.
     * **Overlay Card:** *(Pro)* The caption and engagement counts appear over the image when a visitor hovers or tabs onto it, so the grid stays purely visual until they interact.
     * **Pin Card:** *(Pro)* A Pinterest-style card treatment that works especially well with the Masonry layout.
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
     * *Example: You might choose 4 columns for Desktop, 3 for Tablet, and 2 for Mobile. This ensures your feed always looks great and is easy to read.*
 * **Columns Gap:** Pick how much space appears between each post from the dropdown, or leave it at **Default**.
+* **Color Scheme:** A one-click color preset for your feed:
+    * **Light:** The standard light look.
+    * **Dark:** A dark panel with dark cards and light text. Useful on dark websites.
+    * **Card Shadow:** Rounds the corners of each post and the header and adds a soft shadow.
+    * **Soft Background:** Places your feed on a light gray panel.
+    * **Bordered:** Adds thin borders around the header and posts.
 
-Only three template skins show at first (with a **See All** link for the rest); expand it to see all four, including **Pin Card**.
+    Colors you set in the **Style** tab still take priority over the preset.
+
+Only three template skins show at first (with a **See All** link for the rest); expand it to see all six, including **Pin Card**.
 
 ![Layout types and template skins in the Layout section](/docs/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/layout-2.webp)
+
+![Instagram feed in the List layout with the Author Card template, and the Color Scheme setting under Layout Styling](/docs/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/list-author-card.webp)
 
 #### What the Pro Layouts Look Like
 
@@ -90,7 +103,7 @@ Filters are how you refine your feed to exclude content you don't want or only s
 * **Post Order:** This lets you sort your posts. For example:
     * **Newest:** Shows newest posts first (this is the most common setting).
     * **Oldest:** Shows oldest posts first.
-    * **Random:** Shuffles the posts in a new order every time the page loads.
+    * **Random:** Shuffles the posts in a new order every time the page loads. Available in the free version.
 * **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** posts with those words, or **hide** posts with those words.
     * *Example (Hide): You run a lot of giveaways. You could enter `#giveaway, #contest, #ad` into the "Hide" field to automatically hide all those posts from your website feed.*
 * **Hide Specific Feeds:** This allows you to manually hide one or more specific posts by pasting in their unique Post ID (a long string of numbers you can get from the post's URL).
@@ -108,6 +121,7 @@ This section controls the content and links inside each individual post card.
     * **Popup / Lightbox:** The post opens in a pop-up window on your own website, so the visitor never leaves your site.
 * **Display Caption:** This is a simple On/Off toggle. When **On**, it will show the text caption (the description) that you wrote for that post on Instagram. When **Off**, only the image will be shown.
 * **Trim Caption Words:** This feature lets you set a maximum word count for your post captions. If a caption is longer than the number you set (e.g., 30 words), it will be automatically shortened and a "Read More..." link will appear.
+* **Display Date:** Shows when each post was published. On Classic Grid the date appears in the hover overlay; on Caption Card it appears under the image. It's on by default.
 * **Display Likes Count:** This is an On/Off toggle to show or hide the total number of "likes" for each post.
 * **Display Comments Count:** This is an On/Off toggle to show or hide the total number of comments for each post.
 
@@ -140,6 +154,7 @@ This section controls the large banner at the top of your entire feed, which dis
 * **Header Layout:** Choose how much profile information the header shows.
     * **Classic:** The full profile block: photo, username, bio, and your post and follower counts.
     * **Minimal:** A compact single row with just your profile photo and username. Useful in a sidebar or anywhere a full profile block would take up too much room.
+    * **Inline:** A compact single row like Minimal, with your post and follower counts on the same line.
 * **Display Toggles:** These let you show or hide the different parts of your profile. This is great for creating a "mini-profile" on your website.
     * **Display Profile Photo:** Display your profile photo in the feed
     * **Display Username** (Your @username)

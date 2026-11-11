@@ -8,6 +8,9 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into four sections, each controlling a different part of your feed.
 
+> [!TIP]
+> **Start over with Reset All** *(Pro)*: The bar at the top of the Style tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
+
 ### 1. Header
 
 This section controls the complete visual design of the **Header** at the top of your feed. The header is the box that contains your main profile information, like your name, bio, and follower count.

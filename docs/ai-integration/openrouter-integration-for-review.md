@@ -47,15 +47,15 @@ Your API key will now be displayed — go ahead and copy it for later use.
 
 Now that you’ve got your API key, it’s time to connect it to your WordPress site.
 
-- Navigate to **WP Social Ninja → Settings**, then open the **Advanced Settings** tab.
+- Navigate to **WP Social Ninja → Settings**. From the left sidebar, click **Reviews Platforms**, then select **Global Review Settings**.
 
-- Scroll down to locate the **AI Review Summarizer Credentials** section.
+- Scroll down to the **AI Review Summarizer API settings** section and turn on **Enable AI Review Summarizer**.
 
 Here’s how to configure it:
 
 - **AI Platform:** Select **OpenRouter** from the dropdown menu.
 
-- **Model:** Choose your preferred AI model from the list.
+- **Model:** Choose your preferred AI model from the list, which includes current GPT, Claude, Gemini, DeepSeek and Mistral models. If you're not sure, keep **Default (currently …)**: it always follows the model we recommend. Models OpenRouter no longer serves are tagged **Unavailable**. If your saved model is one of them, summaries use the Default model until you pick another.
 
 - **API Key:** Paste the API key you copied from your OpenRouter account.
 

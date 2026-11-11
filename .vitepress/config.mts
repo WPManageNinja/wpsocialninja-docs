@@ -120,6 +120,7 @@ export default defineConfig({
     
     nav: [
       { text: 'User Docs', link: '/guide/getting-started/getting-started-with-wp-social-ninja' },
+      { text: 'Dev Docs', link: 'https://dev.wpsocialninja.com/' },
       { text: 'Changelog', link: '/guide/troubleshooting-support/change-log' },
       { text: 'Website', link: 'https://wpsocialninja.com' },
     ],

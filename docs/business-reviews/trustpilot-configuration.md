@@ -81,6 +81,12 @@ WP Social Ninja fetches Trustpilot reviews through its own review service, so yo
 - **The latest 20 reviews per sync.** Each sync adds the 20 most recent reviews. Reviews already saved on your site are kept, so your collection grows over time.
 - **A sync interval of at least 1 Week.** Under **Settings → Reviews Settings**, the shortest option offered for Trustpilot is **1 Week**. If your connection was on a shorter schedule, it moves to 1 week automatically.
 
+## One Trustpilot Business Per Site
+
+Each website can connect **one** Trustpilot business. Once a business is connected, the Trustpilot screen shows a notice naming it in place of the **Add More Business** button.
+
+To show reviews for a different business, delete the connected business from the Trustpilot screen first, then connect the new one.
+
 ## Next Steps
 
 Congratulations! Your Trustpilot account is fully connected and ready to sync reviews.
@@ -88,4 +94,4 @@ Congratulations! Your Trustpilot account is fully connected and ready to sync re
 Now that your account is connected, you're ready for the fun part:
 
 * Click the **Add New Template** button to go to the [template editor](./create-template) and start designing your **Business Reviews** template for Trustpilot.
-* You can click the **Add More Business** button if you run another company and want to connect its Trustpilot page as well.
+* Want to show a different company's reviews? See [One Trustpilot Business Per Site](#one-trustpilot-business-per-site).

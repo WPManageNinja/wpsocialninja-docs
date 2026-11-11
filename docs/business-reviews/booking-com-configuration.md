@@ -53,9 +53,11 @@ When you save a hotel, WP Social Ninja asks **Is this hotel already on your site
 
 Click **Continue** to finish.
 
-### Add More Properties
+### One Hotel Per Site
 
-To connect another hotel, click the **Add More Business** button and repeat the same steps.
+Each website can connect **one** Booking.com hotel. Once a hotel is connected, the Booking.com screen shows a notice naming it in place of the **Add More Business** button.
+
+To show reviews for a different hotel, delete the connected hotel from the Booking.com screen first, then connect the new one with its hotel ID.
 
 ## **How Syncing Works**
 

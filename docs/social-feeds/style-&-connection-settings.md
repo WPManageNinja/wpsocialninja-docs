@@ -21,33 +21,37 @@ A new tab will appear, allowing you to easily delete, edit, or add a new templat
 
 The Style tab gives you full control over the visual design of your feed. It is organized into several sections.
 
-> [!TIP]
-> **Start over with Reset All** *(Pro)*: The bar at the top of the Style tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
+To undo your style changes in one step, click **Reset All** **(Pro)** at the top of the **Style** tab. Every style on this template returns to its default, and your live site stays the same until you click **Save**.
 
 ### 1. Header
 
 The Header section allows you to customize the appearance of the YouTube channel header displayed in your social feed. From this panel, you can adjust the typography, spacing, and colors for various elements, including the channel name, statistics, description, and the subscribe button.
 
 #### Channel Name
+
 * **Text Color:** Choose a custom color for the channel name text.
 * **Typography:** Customize the font style, size, weight, and line height to match your site’s design.
 
 #### Statistics
+
 * **Text Color:** Set a specific text color for the statistics (e.g., subscribers, videos, views).
 * **Typography:** Adjust the font settings, including typeface, size, and weight.
 * **Spacing Between Items:** Use the slider to control the spacing between individual statistical elements.
 
 #### Description
+
 * **Text Color:** Define a color for the channel description text.
 * **Typography:** Customize the font style and appearance to ensure readability and consistency.
 
 #### Subscribe Button
+
 * **Text Color:** Select a color for the text inside the subscribe button.
 * **Background Color:** Set the background color of the subscribe button for better visibility.
 * **Typography:** Control the font appearance, including weight and size.
 * **Padding:** Adjust the button’s inner spacing (top, right, bottom, and left) to refine its size and positioning.
 
 #### Box
+
 * **Background Color:** Choose the background color for the YouTube header channel box using the color palette as per your preference.
 * **Padding:** Adjust the padding of the header box (top, right, bottom, and left) to control spacing and refine its layout.
 * **Border Type:** Select the desired border style from the dropdown options: Solid, Double, Dashed, Grooved, None, or Dotted.

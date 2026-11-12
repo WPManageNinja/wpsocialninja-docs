@@ -8,7 +8,8 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into several sections, each controlling a different part of your feed.
 
-To undo your style changes in one step, click **Reset All** *(Pro)* at the top of the **Style** tab. Every style on this template returns to its default, and your live site stays the same until you click **Save**.
+> [!TIP]
+> **Start over with Reset All** *(Pro)*: The bar at the top of the Style tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
 
 ### 1. Heading
 

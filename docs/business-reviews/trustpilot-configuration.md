@@ -74,14 +74,18 @@ You will now see that the **Trustpilot** row has a green "Connected" status and 
 
 ![Trustpilot Review](/docs/public/images/business-reviews/trustpilot-configuration-social-reviews-wp-social-ninja/trustpilot-review-5.webp)
 
-## How Trustpilot Syncing Works
+## How Syncing Works
 
-WP Social Ninja fetches your Trustpilot reviews through its own service, so your WP Social Ninja Pro license needs to be active. Here's what to expect:
+WP Social Ninja fetches Trustpilot reviews through its own review service, so you don't need to set anything else up. Fetching reviews needs WP Social Ninja Pro with an **active license**.
 
-* **Up to 20 reviews per sync:** Each sync stores up to 20 reviews.
-* **Weekly at most:** The shortest sync interval is **1 Week**. If you had a shorter interval, it moves to **1 Week** automatically.
+- **The latest 20 reviews per sync.** Each sync adds the 20 most recent reviews. Reviews already saved on your site are kept, so your collection grows over time.
+- **A sync interval of at least 1 Week.** Under **Settings → Reviews Settings**, the shortest option offered for Trustpilot is **1 Week**. If your connection was on a shorter schedule, it moves to 1 week automatically.
 
-You can find the sync setting under **WP Social Ninja → Settings → Reviews Platforms → TrustPilot Settings**.
+## One Trustpilot Business Per Site
+
+Each website can connect **one** Trustpilot business. Once a business is connected, the Trustpilot screen shows a notice naming it in place of the **Add More Business** button.
+
+To show reviews for a different business, delete the connected business from the Trustpilot screen first, then connect the new one.
 
 ## Next Steps
 
@@ -90,4 +94,4 @@ Congratulations! Your Trustpilot account is fully connected and ready to sync re
 Now that your account is connected, you're ready for the fun part:
 
 * Click the **Add New Template** button to go to the [template editor](./create-template) and start designing your **Business Reviews** template for Trustpilot.
-* You can click the **Add More Business** button if you run another company and want to connect its Trustpilot page as well.
+* Want to show a different company's reviews? See [One Trustpilot Business Per Site](#one-trustpilot-business-per-site).

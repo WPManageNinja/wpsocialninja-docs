@@ -8,7 +8,10 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into several sections, each controlling a different part of your review feed.
 
-Want to start over? *(Pro)* Click **Reset All** at the top of the **Style** tab to return every style on this template to its default. Nothing changes on your site until you click **Save**.
+> [!TIP]
+> **Start over with Reset All** *(Pro)*: The bar at the top of the Style tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**, so you can still back out by leaving the editor without saving.
+
+![Reset All button at the top of the review template Style tab](/docs/public/images/business-reviews/template-style-connection/reset-all.webp)
 
 ### 1. Star Rating
 
@@ -137,7 +140,7 @@ This section styles the platform label (e.g., "Google," "Facebook") that can app
 
 ### 11. Badge
 
-This section styles your template only if you selected the "Badge" layout type in the General tab.
+This section styles your template only if you selected the "Badge" layout type in the General tab. It shows only the controls your chosen badge design uses, so some of the groups below appear only for certain badges.
 
 #### Rating Title
 * **Text Color:** Sets the color of the text (e.g., "Rated").
@@ -150,6 +153,20 @@ This section styles your template only if you selected the "Badge" layout type i
 #### Total Reviews
 * **Text Color:** Sets the color of the total reviews text (e.g., "Based on 150 reviews").
 * **Typography:** Opens font controls for this text.
+
+#### Quality Label
+*(Badge 4, 5 and 6)* Styles the rating word, such as "Excellent" or "Great".
+* **Text Color** and **Background Color:** Set the colors of the label.
+* **Typography:** Opens font controls for the label.
+
+#### More Reviews Count
+*(Badge 3)* Styles the "+N" circle at the end of the avatar stack.
+* **Text Color** and **Background Color:** Set the colors of the circle.
+* **Typography:** Opens font controls for the count.
+
+#### Header Band
+*(Badge 6)* Styles the colored band across the top of the rounded-square sticker.
+* **Background Color:** Sets the color of the band.
 
 #### Box
 * **Background Color:** Sets the background color of the entire badge.

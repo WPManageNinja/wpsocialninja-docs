@@ -17,8 +17,8 @@ This guide will walk you through every single setting in the **General** tab in 
 
 **What can you build with these settings?**
 
-* **A "Latest Videos" Slider:** Use the **Carousel** layout and set the **Posts Order** to "Newest" to show your newest videos on your homepage.
-* **A Clean "Portfolio" Gallery:** Use the **Grid** layout and hide the **Description**, **Views**, and **Likes** to create a clean, professional-looking gallery of your work.
+* **A "Latest Videos" Slider:** Use the **Carousel** layout and set the **Post Order** to "Newest" to show your newest videos on your homepage.
+* **A Clean "Portfolio" Gallery:** Use the **Grid** layout, turn on **Equal Height**, and hide the **Description**, **Views**, and **Likes** to create a clean, professional-looking gallery of your work.
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template.webp)
 
@@ -31,9 +31,8 @@ Here is a detailed breakdown of each section within the **General** tab.
 This is the very first and most important step. The Source settings tell WP Social Ninja where to get the TikTok videos from.
 
 * **Feed Type:** This dropdown menu lets you choose the kind of feed you want to create.
-    * **User Account:** This is the most common choice. It will display the most recent videos from your own TikTok profile.
-* **Total Feed:** This sets how many videos the template fetches from your account.
-* **Select Accounts:** If you've connected more than one TikTok account to WP Social Ninja, this list is where you'll pick the ones you want to use for this template.
+    * **User Account Feed:** This is the most common choice. It will display the most recent videos from your own TikTok profile.
+* **Select Account(s):** If you've connected more than one TikTok account to WP Social Ninja, this dropdown is where you'll pick the one you want to use for this template.
 * **Fetch Feeds:** This is your manual "Refresh" button. If you've just posted a new video on TikTok and want to see it in your website preview right now, just click this button. It forces the plugin to check for new content immediately.
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template-2.webp)
@@ -51,11 +50,11 @@ This section controls the visual structure and arrangement of your videos.
     * **Classic Tile:** Clean video thumbnails in even tiles.
     * **Caption Card:** *(Pro)* Each video sits in a card with its caption printed below the thumbnail.
     * **Overlay Card:** *(Pro)* The caption and view counts appear over the thumbnail when a visitor hovers or tabs onto it, keeping the grid purely visual until then.
-    * **Spotlight Hero:** *(Pro)* Features your most recent video in a large hero tile with the rest arranged around it. Good for drawing attention to new content. This skin uses the **Grid** layout. Click **See All** next to **Select a Template** to find it.
+    * **Spotlight Hero:** *(Pro)* Features your most recent video in a large hero tile with the rest arranged around it. Good for drawing attention to new content.
 
 * **Number of Columns:** This is a crucial setting for making your feed look good on all devices. You can set the number of columns you want to show on **Desktops**, **Tablets**, and **Mobile** phones.
     * *Example: You might choose 4 columns for Desktop, 2 for Tablet, and 1 for Mobile. This ensures your feed is always easy to see and interact with, no matter the screen size.*
-* **Columns Gap:** Pick how much space appears between each video from the dropdown, or leave it at **Default**.
+* **Columns Gap:** This controls the amount of empty space (in pixels) between each video in your feed. Increase this number to give your videos more "breathing room," or set it to `0` to have them all touch.
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template-3.webp)
 
@@ -73,16 +72,16 @@ This section controls the visual structure and arrangement of your videos.
 
 Filters are how you refine your feed to exclude content you don't want or only show content you do.
 
-* **Number of Feeds to Display:** This is the number of videos a visitor will see when the page first loads. (More videos can be loaded later using the **Pagination** settings, which we'll cover below). The mobile number follows your desktop number until you change it.
-* **Posts Order:** This lets you sort your videos.
+* **Number of Feeds to Display:** This is the number of videos a visitor will see when the page first loads. (More videos can be loaded later using the **Pagination** settings, which we'll cover below).
+* **Post Order:** This lets you sort your videos.
     * **Newest:** Shows newest videos first (this is the most common setting).
     * **Oldest:** Shows oldest videos first.
     * **Most Viewed:** Shows most viewed video.
-    * **Most Liked:** Shows most liked video.
+    * **Most Likes:** Shows most liked video.
     * **Random:** Shuffles the videos in a new order every time the page loads.
 * **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** videos with those words, or **hide** videos with those words. The filter searches each video's caption as well as its title.
     * *Example: If you want to hide all videos that mention a certain competitor, you could add their name to the "Hide" box.*
-* **Hide Specific Posts:** This allows you to manually hide one or more specific videos. To get a video's ID, open that video on TikTok, and copy the long string of numbers in the URL.
+* **Hide Specific Feeds:** This allows you to manually hide one or more specific videos. To get a video's ID, open that video on TikTok, and copy the long string of numbers in the URL.
 
 ::: warning
 TikTok only shares the first **150 characters** of a video caption. A word or hashtag that appears later in a long caption is not visible to the filter, so it will not match.
@@ -94,10 +93,10 @@ TikTok only shares the first **150 characters** of a video caption. A word or ha
 
 This section controls the content and links inside each individual video card.
 
-* **Open Post In:** This determines what happens when a visitor clicks on a video.
+* **Open Post in:** This determines what happens when a visitor clicks on a video.
     * **None:** The video is not clickable. This is for a "display-only" gallery.
-    * **Open on TikTok:** The visitor will be taken to the original video on TikTok.com in a new browser tab.
-    * **Open in Popup Box:** This is the best user experience. The video will open in a beautiful pop-up box on your own website, where it will play. This keeps visitors on your site longer.
+    * **TikTok:** The visitor will be taken to the original video on TikTok.com in a new browser tab.
+    * **Popup:** This is the best user experience. The video will open in a beautiful pop-up box on your own website, where it will play. This keeps visitors on your site longer.
 * **Display Toggles (On/Off Switches):**
     * **Display Author Photo:** Shows your small, circular profile picture on each video.
     * **Display Author Name:** Shows your TikTok username (e.g., @wpsocialninja) on each video.
@@ -105,6 +104,8 @@ This section controls the content and links inside each individual video card.
     * **Display Platform Icon:** Shows a small TikTok icon on each video.
     * **Display Date:** Show the date with each video.
 * **Trim Description Words:** This sets a maximum word count for your video captions. If a caption is longer than this number, it will be cut off with a "Read More..." link. This is the key to keeping your feed looking clean and uniform.
+* **Equal Height:** This toggle is very important for the **Grid** layout. When toggled **on**, all video boxes are forced to the same height (based on the tallest one), creating a perfect, uniform grid. You should turn this **Off** if you are using the **Masonry** layout.
+* **Display Media:** This is the main switch for showing the actual video thumbnails. You will almost always want to keep this on. If you turn it off, your feed will only show text.
 
 #### Views & Likes
 
@@ -113,7 +114,7 @@ This section lets you show or hide the social proof associated with each individ
 * **Display Views Count:** A simple On/Off toggle to show or hide how many views each video has.
 * **Display Likes Count:** A simple On/Off toggle to show or hide how many likes each video has.
     * *Use Case: For a business, showing high view and like counts is great social proof. For a cleaner, more professional portfolio, you might turn these off.*
-* **Display Comments Count:** A simple On/Off toggle to show the comment count in the template feed.
+* **Display Comment Count:** A simple On/Off toggle to show the comment count in the template feed.
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template-5.webp)
 
@@ -123,16 +124,17 @@ This section controls the large banner at the top of your entire feed, which dis
 
 * **Display Header:** This is the master On/Off switch for the entire header section. Turn it off if you just want to show the videos.
 * **Header Layout:** Choose how much profile information the header shows.
-    * **Classic:** The full profile block, with your photo, name, description, and all your counters.
+    * **Classic:** The full profile block — photo, name, description, website link and all your counters.
     * **Minimal:** A compact single row with just your profile photo and account name. You can also style a border around the profile photo in this layout.
 * **Account to Display:** If your feed is showing videos from multiple accounts, this lets you choose which one account's info to show in the header.
 * **Display Toggles (On/Off Switches):** These let you build a "mini-profile" on your website.
     * **Display Profile Photo** (Your main profile picture)
     * **Display Account Name** (Your @username)
     * **Display Description** (Your TikTok profile description)
-    * **Display Like Counter:** This is a key TikTok metric. It shows the TOTAL number of likes your entire profile has ever received.
-    * **Display Follower Counter** (How many followers you have)
-    * **Display Follow Counter** (How many people you are following)
+    * **Display Website** (The link in your profile)
+    * **Display Followers Count** (How many followers you have)
+    * **Display Following Count** (How many people you are following)
+    * **Display Likes Count:** This is a key TikTok metric. It shows the TOTAL number of likes your entire profile has ever received.
 
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template-6.webp)
@@ -141,15 +143,15 @@ This section controls the large banner at the top of your entire feed, which dis
 
 This adds a "Follow" call-to-action button to your feed, helping you get more TikTok followers directly from your website visitors.
 
-* **Display Follow Button:** Toggles the button on or off.
-* **Share Button Position:** You can place the button in the **Header** (at the top of the feed), the **Footer** (at the bottom, after all the videos), or **Both**.
+* **Display FollowButton:** Toggles the button on or off.
+* **Follow Button Position:** You can place the button in the **Header** (at the top of the feed) or the **Footer** (at the bottom, after all the videos).
 * **Button Text:** You can customize the text on the button (e.g., "Follow Us on TikTok" or "See More on TikTok").
 
 ![Template Template](/docs/public/images/social-feeds/tiktok-feed-template/tiktok-template-7.webp)
 
 ### 7. Pagination
 
-Pagination controls what happens when a visitor gets to the bottom of the initial set of videos.
+This is the new section you asked about. Pagination controls what happens when a visitor gets to the bottom of the initial set of videos.
 
 * **Pagination Type:** This lets you choose how users load more videos.
     * **None:** The feed will only show the "Number of Feeds to Display" (from the **Filters** section) and that's it. There will be no way to load more videos.
@@ -163,8 +165,6 @@ Now that you have configured all the General settings, your next step is to make
 
 Click on the **Style** tab to customize all the colors, fonts, and borders.
 
-To undo your style changes in one step, click **Reset All** *(Pro)* at the top of the **Style** tab. Every style on this template returns to its default, and your live site stays the same until you click **Save**.
-
-When you are finished, click the **Save** button at the top of the editor.
+When you are finished, click the **Save Template** button at the bottom.
 
 

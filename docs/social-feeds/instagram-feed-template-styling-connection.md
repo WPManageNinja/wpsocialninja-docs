@@ -8,7 +8,8 @@ While the **General Settings** tab controls *what* content is shown (e.g., your 
 
 The **Style** tab is organized into four sections, each controlling a different part of your feed.
 
-Want to start over? *(Pro)* Click **Reset All** at the top of the **Style** tab to return every style on this template to its default. Nothing changes on your site until you click **Save**.
+> [!TIP]
+> **Start over with Reset All** *(Pro)*: The bar at the top of the Style tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
 
 ### 1. Header
 

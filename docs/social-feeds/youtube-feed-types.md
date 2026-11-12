@@ -148,7 +148,7 @@ This feed type allows you to display upcoming, live, or completed live streams f
  * **Channel ID:** **Paste** in the Channel ID of the channel (see the "Channel" section above for how to find this).
  * **Event Type:** Choose what you want to show:
    * **Completed:** Show recently finished live streams.
-   * **Upcoming:** Show scheduled live streams. On your website, these streams show a *(Pro)* "Scheduled for" label with the start date and time.
+   * **Upcoming:** Show scheduled live streams. *(Pro)* On your site, each upcoming stream shows a **Scheduled for** label with its start date and time.
    * **Live:** Will only show a video if one is currently live.
    * **None:** Will not filter by event type.
 

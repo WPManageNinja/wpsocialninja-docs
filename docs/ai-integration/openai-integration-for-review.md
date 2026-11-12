@@ -49,30 +49,23 @@ Now that you’ve got your API key, let’s connect it to your WordPress site.
 
 - Navigate to your **WordPress dashboard** → **WP Social Ninja → Settings**.
 
-- In the left menu, open **Reviews Platforms** and click **Global Reviews Settings**.
+- From the left sidebar, click **Reviews Platforms**, then select **Global Review Settings**.
 
-- Scroll down to find the **AI Review Summarizer API settings** section.
+- Scroll down to the **AI Review Summarizer API settings** section and turn on **Enable AI Review Summarizer**.
 
 Now configure the settings:
 
-- **Enable AI Review Summarizer:** Turn this on.
-
 - **AI Platform:** Select **OpenAI** from the dropdown menu.
 
-- **Model:** Keep the **Default** option, or choose another OpenAI model based on your usage and plan.
+- **Model:** Choose your preferred OpenAI model. If you're not sure, keep **Default (currently …)**: it always follows the model we recommend. Models OpenAI has shut down are tagged **Unavailable**. If your saved model is one of them, summaries use the Default model until you pick another.
 
 - **API Key:** Paste the API key you copied from your OpenAI account.
 
 Click **Save Settings** to apply your changes.
 
-> [!NOTE]
-> Models that OpenAI no longer supports aren't offered in the **Model** list. If your saved model is retired, it stays in the list marked as unavailable, and summaries use the **Default** model until you pick another one.
+![openai 4](/docs/public/images/advanced-features/openai-integration-for-review/OpenAI-4-scaled.webp)
 
-If you'd rather not manage an API key, see [WordPress AI](./wordpress-ai-integration-for-review), which is available on WordPress 7.0 or later.
-
-![AI Review Summarizer API settings with OpenAI](/docs/public/images/advanced-features/openai-integration-for-review/OpenAI-4-scaled.webp)
-
-## Enable AI-Generated Summary in Your Review Template
+## **Enable AI-Generated Summary in Your Review Template**
 
 With the setup complete, you can now choose where to display the AI summary.
 
@@ -83,11 +76,15 @@ With the setup complete, you can now choose where to display the AI summary.
 Once enabled, you’ll unlock a few customization options to make your summary stand out:
 
 - **Display AI Summary:** Turn the AI-generated summary on or off.
+
 - **Summary Style:** Choose how the summary appears—**Text** or **List** format.
+
 - **Display Read More:** Adds a “Read More” link for longer summaries.
+
 - **Text Typing Animation:** Adds a typing animation effect for dynamic display.
+
 - **Regenerate AI Summary:** Refresh the summary based on newly collected reviews.
 
-![Review template editor showing an AI-Generated Summary card](/docs/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)
+![preview 4](/docs/public/images/advanced-features/openai-integration-for-review/Preview-4-1-1024x552.webp)
 
-
+If you have any further questions about this guideline or need assistance setting things up, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help.

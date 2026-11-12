@@ -15,6 +15,8 @@ When you first open the editor, you'll see three main tabs at the top of the set
 
 This guide will walk you through every single setting in the **General** tab in a simple, step-by-step way.
 
+> **Start over with Reset All** *(Pro)*: The bar at the top of the **Style** tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
+
 **What can you build with these settings?**
 
 * **A "Latest Videos" Slider:** Use the **Carousel** layout and set the **Post Order** to "Newest" to show your newest videos on your homepage.

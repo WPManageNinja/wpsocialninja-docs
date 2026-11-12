@@ -30,4 +30,8 @@ Google Reviews connect through WP Social Ninja's [secure connection bridge](../g
 > [!TIP]
 > Manage reviews for more than one location? Click **+ Add Business** to bring in reviews from multiple Business Profiles. And because Google Reviews connect through the secure bridge, WP Social Ninja refreshes the connection automatically in the background — so your reviews keep syncing without you having to reconnect.
 
+## How Syncing Works
+
+Each time WP Social Ninja syncs your Google reviews, it loads every page of reviews up to the review limit. Reviews already saved on your site are kept, even if they are older than the ones in the latest sync. Your collection grows over time instead of being replaced.
+
 You've successfully connected your **Google Business Profile Reviews**! Now head over to [Create a Template](./create-template) to display these reviews on your website.

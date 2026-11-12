@@ -59,6 +59,10 @@ You will now see that the **Facebook** row has a green "Connected" status and li
 
 ![Facebook Page Review](/docs/public/images/business-reviews/facebook-configuration-social-reviews-wp-social-ninja/fb-business-review-5.webp)
 
+### How Syncing Works
+
+Each time WP Social Ninja syncs your Facebook reviews, it loads every page of reviews up to the review limit. Reviews already saved on your site are kept, even if they are older than the ones in the latest sync.
+
 ### Next Steps
 
 Congratulations! Your Facebook Page is fully connected and ready to sync reviews.

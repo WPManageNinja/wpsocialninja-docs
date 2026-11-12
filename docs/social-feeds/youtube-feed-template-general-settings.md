@@ -10,6 +10,8 @@ The editor is divided into three tabs:
 
 This guide will walk through every option in the **General** tab. So, let’s get started.
 
+> **Start over with Reset All** *(Pro)*: The bar at the top of the **Style** tab has a **Reset All** button. It returns every style on this template to its default. Nothing changes on your site until you click **Save**.
+
 ![Youtube Template General Settings](/docs/public/images/social-feeds/youtube-feed-template/youtube-template.webp)
 
 > **Use Case:** You can use these settings to create powerful, specific feeds.

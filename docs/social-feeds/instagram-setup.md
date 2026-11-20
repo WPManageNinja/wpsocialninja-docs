@@ -33,8 +33,21 @@ This is the most important step. The Accounts settings tell WP Social Ninja from
 * **Feed Type:** This dropdown menu lets you choose the kind of feed you want to create.
     * **User Account Feed:** This is the most common choice. It will display the photos and videos from your own Instagram profile that you've connected to the plugin.
     * **Hashtag Feed:** This is a powerful feature that lets you display public posts from all over Instagram that use a specific hashtag. For example, you could type in `#MyAwesomeProduct` to show photos from all your customers.
+* **Hashtag Types:** This option appears when you choose **Hashtag Feed**. It decides which of the hashtag's posts Instagram sends.
+    * **Most Popular:** The hashtag's top posts, as Instagram ranks them.
+    * **Most Recent:** Only posts published in the last 24 hours.
+    * Both types show public posts only, never ads, and Instagram lets each account look up at most 30 different hashtags in any 7-day period.
 * **Select Account(s):** If you've connected more than one Instagram account to WP Social Ninja, this dropdown is where you'll pick the one you want to use for this template.
 * **Fetch Feeds:** This is a refresh button. If you've just made a new post on Instagram and want to see it in the preview right away, click this button to force the plugin to check for new content.
+
+> [!NOTE]
+> Instagram is changing **Most Popular** hashtag feeds on **February 16, 2027**. From that date:
+> * A hashtag returns at most **200 posts**.
+> * Instagram uses a new ranking, so the feed may include related posts that don't use your hashtag.
+> * Reels are included.
+> * The list refreshes about once an hour, so a new post can take up to an hour to appear.
+>
+> If you need the newest posts, choose **Most Recent** instead.
 
 ![The Accounts section of the Instagram template editor](/docs/public/images/social-feeds/instagram-set-up-social-feeds-wp-social-ninja/accounts-1.webp)
 

@@ -46,8 +46,8 @@ This section controls the visual structure and arrangement of your videos.
 
 * **Layout Type:** This is the foundational structure of your feed.
     * **Grid:** This creates a clean, organized, multi-column grid. All video thumbnails are forced to be the same height, which creates a very neat and symmetrical look.
-    * **Carousel:** This displays your videos in a horizontal slider. Visitors can click or swipe through your posts. This is perfect for saving space on a homepage.
-    * **Masonry:** This is a "Pinterest-style" multi-column grid. Videos will have different heights (especially if you show the text caption), and the plugin will intelligently fit them together like bricks in a wall.
+    * **Carousel:** This displays your videos in a horizontal slider. Visitors can click or swipe through your posts. Your posts are visible as soon as the page loads, before the carousel starts moving. This is perfect for saving space on a homepage.
+    * **Masonry:** This is a "Pinterest-style" multi-column grid. Videos will have different heights (especially if you show the text caption), and the plugin will intelligently fit them together like bricks in a wall. The template editor's Masonry preview now staggers the tile heights, so you can tell it apart from Grid at a glance.
 * **Template:** These are pre-designed visual "skins" for your feed:
     * **Classic Tile:** Clean video thumbnails in even tiles.
     * **Caption Card:** *(Pro)* Each video sits in a card with its caption printed below the thumbnail.

@@ -5,7 +5,7 @@ description: ""
 
 # Advanced Settings
 
-This guide will walk you through all the options on the **Advanced Settings** page. This is the main control center for your entire WP Social Ninja plugin, allowing you to manage global performance (Image Format), privacy (GDPR), and how your data is stored.
+This guide will walk you through all the options on the **Advanced Settings** page. This is the main control center for your entire WP Social Ninja plugin, allowing you to manage global performance (Image Format), privacy (GDPR), and where to find your data tools.
 
 You can find this page by navigating to:
 
@@ -35,19 +35,8 @@ This section provides a simple but powerful tool to help you comply with the GDP
 * **How it works:** When you turn this toggle **On**, the plugin will change its behavior to better protect your users' privacy. Instead of loading images directly from external platforms (like Facebook, Google, or Instagram), the plugin will first save copies of those images locally to your own website's server.
 * **Why this is important:** This means your visitors' browsers won't have to connect to those external sites just to see an image. This helps you comply with data protection rules by preventing the automatic sharing of a user's data (like their IP address) with those third-party platforms.
 
-### 3. Manage Data
+### 3. Manage Data (Moved)
 
-This section contains a powerful tool for managing your plugin's data.
+The **Delete all Platform Data?** button used to live on this page. As of version 4.5.1 it has moved to **WP Social Ninja → Settings → System Admin Tools → Data Cleanup**. It works exactly the same way, along with a few new health tools. Learn more in the [System Admin Tools guide](./system-admin-tools#data-cleanup).
 
-**Delete all Platform Data? (Button)**
-
-* **What it is:** This is a "Master Reset" button for your entire WP Social Ninja plugin.
-* **Important Warning:** Please be extremely careful with this button. This action is permanent and **cannot be undone**.
-* **What it does:** When you press this button, it will permanently and completely erase all data the plugin has saved from all platforms (Facebook, Instagram, X (Twitter) etc.). This includes:
-    * All of your connected accounts (you will have to reconnect every single platform).
-    * All of your cached feeds (all saved posts, tweets, and videos).
-    * All of your cached reviews.
-    * All optimized images that are stored on your server.
-* **Use Case:** You should only use this button if you are experiencing a major, unfixable problem and have been instructed by support to "start fresh," or if you are permanently uninstalling the plugin and want to make sure all its data is removed from your database.
-
-![Advance Settings in General Settings](/docs/public/images/management-settings/advanced-settings-social-feeds-wp-social-ninja/advance-settings-1.webp)
+![Advanced Settings page with Image Format and GDPR options](/docs/public/images/management-settings/advanced-settings-social-feeds-wp-social-ninja/advance-settings-2.webp)

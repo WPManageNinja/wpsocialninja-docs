@@ -35,6 +35,19 @@ Now, click the **Fetch Feeds** button, and your Playlist will be loaded into the
 
 You’ll also find additional settings and styling options to customize your Specific Video Playlist template. Once you're done, click the **Save Template** button to save your changes.
 
+## When Facebook Won't Share a Playlist
+
+Sometimes the feed shows a message saying Facebook couldn't load the playlist. This happens with playlists created in Facebook's **Professional Dashboard**: they hold Reels, and Facebook doesn't share those playlists with apps like WP Social Ninja, so it isn't something wrong with your connection.
+
+Here's the simple workaround:
+
+1. In the template's **Source** section, set **Feed Type** to **All Videos**.
+2. Open the **Filters** section.
+3. In **Show Only These Posts** *(Pro)*, paste the link of each reel or video from your playlist, separated by commas.
+4. Click **Fetch Feeds**.
+
+Your feed will now show just the videos you listed. Learn more about this filter in the [Facebook customization guide](./facebook-customization).
+
 ## Videos That Can't Be Played on Your Site
 
 Facebook does not allow every video to be embedded on another website. Reels, videos with certain privacy or rights settings, and some live recordings are marked as non-embeddable.

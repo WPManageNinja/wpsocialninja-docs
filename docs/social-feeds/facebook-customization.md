@@ -100,6 +100,13 @@ Filters are how you refine your feed to exclude content you don't want or only s
     * **Albums:** This will only display posts that are photo albums.
 * **Show/Hide Posts with Keywords/Hashtags:** This is a very powerful filter. You can enter a comma-separated list of words or hashtags to either **only show** posts with those words, or **hide** posts with those words.
     > **Example (Hide):** You run many contests. You can enter `#contest, #giveaway, win` to automatically hide all those posts from your website feed, keeping it focused on company news.
+* **Show Only These Posts:** *(Pro)* This is the opposite of hiding. Paste the links (or IDs) of the posts, videos or reels you want, separated by commas, and your feed will show **only** those. You can mix post, video and reel links in the same box.
+    > **Example:** You want a "Featured Videos" section. Copy the link of each video or reel you want to highlight (for example `https://www.facebook.com/reel/907926116533217`), paste them here, and your feed will show just those.
+
+    ![Show Only These Posts field in the Facebook Filters section](/docs/public/images/social-feeds/how-to-customize-facebook-feed-with-wp-social-ninja/show-only-these-posts.webp)
+
+    > [!NOTE]
+    > A post must be within your **Total Feed** count (in the Source section) to appear, so raise that number if a listed post doesn't show up. If none of the entries contains a valid ID, the filter is ignored rather than hiding everything.
 * **Hide Specific Feeds:** This allows you to manually hide one or more specific posts. To get a post's ID, go to the post on Facebook, look at the URL, and copy the long string of numbers. Paste that ID here to hide it.
 
 ##### Date Range

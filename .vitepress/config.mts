@@ -607,6 +607,10 @@ export default defineConfig({
                         "link": "/guide/management-settings/advanced-settings"
                   },
                   {
+                        "text": "System Admin Tools",
+                        "link": "/guide/management-settings/system-admin-tools"
+                  },
+                  {
                         "text": "Manager Dashboard",
                         "link": "/guide/management-settings/manager"
                   },

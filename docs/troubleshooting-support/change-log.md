@@ -8,6 +8,34 @@ description: "Stay updated with the latest improvements, new features, bug fixes
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in WP Social Ninja.
 
 
+## WP Social Ninja v4.5.2
+*Released on November 27, 2026*
+
+::: code-group
+
+```md [🔧 Improvements]
+• Improved Instagram feeds to show posts right away while optimized images are still being saved
+• Improved Instagram feeds to load smaller images for small tiles, so pages load faster
+• Improved new installs to save optimized images as WebP when the server supports it
+• Improved keyboard navigation in feed popups
+• Improved sliders to respect the visitor's "reduce motion" setting
+```
+
+```md [🐛 Bug fixes]
+• Fixed feeds flashing white for a moment when the page loads
+• Fixed optimized images being deleted on the first Advanced Settings save
+• Fixed Instagram author photos not showing until the page was reloaded
+• Fixed Instagram carousel videos in the popup having no play controls
+• Fixed Instagram masonry layouts jumping while images load
+• Fixed feed popups breaking click actions added by other plugins
+• Fixed "Read More" cutting off words in review previews in the editor
+• Fixed QR code downloads not working (Pro)
+• Fixed issues identified during the internal security audit
+```
+
+:::
+
+
 ## WP Social Ninja v4.5.1
 *Released on November 20, 2026*
 
